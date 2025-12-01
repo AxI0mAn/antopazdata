@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Банан",
+            "uk": "Банан",
+            "en": "Banana",
+            "es": "Banana",
+            "pt": "Banana"
+        },
+        "wrong": {
+            "ru": [
+                "Клубника",
+                "Яблоко",
+                "Апельсин"
+            ],
+            "uk": [
+                "Полуниця",
+                "Яблуко",
+                "Апельсин"
+            ],
+            "en": [
+                "Strawberry",
+                "Apple",
+                "Orange"
+            ],
+            "es": [
+                "Fresa",
+                "Manzana",
+                "Naranja"
+            ],
+            "pt": [
+                "Morango",
+                "Maçã",
+                "Laranja"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Жёлтый.",
+                "Гроздь.",
+                "Трава."
+            ],
+            "uk": [
+                "Жовтий.",
+                "Гроно.",
+                "Трава."
+            ],
+            "en": [
+                "Yellow.",
+                "Bunch.",
+                "Herb."
+            ],
+            "es": [
+                "Amarillo.",
+                "Racimo.",
+                "Hierba."
+            ],
+            "pt": [
+                "Amarelo.",
+                "Cacho.",
+                "Erva."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Жёлтый и изогнутый.",
+                "Без косточек и семян."
+            ],
+            "uk": [
+                "Жовтий і вигнутий.",
+                "Без кісточок і насіння."
+            ],
+            "en": [
+                "Yellow and curved.",
+                "Without pits or seeds."
+            ],
+            "es": [
+                "Amarillo y curvo.",
+                "Sin huesos ni semillas."
+            ],
+            "pt": [
+                "Amarelo e curvo.",
+                "Sem caroços ou sementes."
+            ]
+        },
+        "tooltip": {
+            "ru": "Он растёт на огромной траве, а не на дереве.",
+            "uk": "Він росте на величезній траві, а не на дереві.",
+            "en": "It grows on a huge herb, not on a tree.",
+            "es": "Crece en una hierba gigante, no en un árbol.",
+            "pt": "Cresce em uma erva gigante, não em uma árvore."
+        },
+        "qwestion": {
+            "ru": "Какой плод — не фрукт, а ягода?",
+            "uk": "Який плід — не фрукт, а ягода?",
+            "en": "What fruit is not a fruit, but a berry?",
+            "es": "¿Qué fruto no es una fruta, sino una baya?",
+            "pt": "Que fruto não é uma fruta, mas uma baga?"
+        },
+        "definition": {
+            "ru": "Банан — это съедобная ягода, которая растёт на травянистом растении рода Musa. Это один из самых популярных и широко потребляемых фруктов в мире, богатый калием и витаминами.",
+            "uk": "Банан — це їстівна ягода, яка росте на трав'янистій рослині роду Musa. Це один з найпопулярніших і широко споживаних фруктів у світі, багатий на калій і вітаміни.",
+            "en": "A banana is an edible berry that grows on a herbaceous plant of the genus Musa. It is one of the most popular and widely consumed fruits in the world, rich in potassium and vitamins.",
+            "es": "Una banana es una baya comestible que crece en una planta herbácea del género Musa. Es una de las frutas más populares y consumidas en el mundo, rica en potasio y vitaminas.",
+            "pt": "A banana é uma baga comestível que cresce em uma planta herbácea do gênero Musa. É uma das frutas mais populares e amplamente consumidas no mundo, rica em potássio e vitaminas."
+        },
+        "antipod": {
+            "ru": "Ананас",
+            "uk": "Ананас",
+            "en": "Pineapple",
+            "es": "Piña",
+            "pt": "Abacaxi"
+        },
+        "hintFuiz": {
+            "ru": "Что ежегодно во всем мире съедается более 100 миллиардов плодов?",
+            "uk": "Що щорічно у всьому світі з'їдається понад 100 мільярдів плодів?",
+            "en": "What is consumed more than 100 billion fruits worldwide annually?",
+            "es": "¿Qué se consume más de 100 mil millones de frutos en todo el mundo anualmente?",
+            "pt": "O que é consumido mais de 100 bilhões de frutas em todo o mundo anualmente?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Banana"
+    },
+    "imgFlag": "all"
+}

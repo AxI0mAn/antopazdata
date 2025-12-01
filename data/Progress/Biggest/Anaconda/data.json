@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Анаконда",
+            "uk": "Анаконда",
+            "en": "Anaconda",
+            "es": "Anaconda",
+            "pt": "Anaconda"
+        },
+        "wrong": {
+            "ru": [
+                "Королевская кобра",
+                "Тигровый питон",
+                "Сетчатый питон"
+            ],
+            "uk": [
+                "Королівська кобра",
+                "Тигровий пітон",
+                "Сітчастий пітон"
+            ],
+            "en": [
+                "King Cobra",
+                "Tiger python",
+                "Reticulated python"
+            ],
+            "es": [
+                "Cobra real",
+                "Pitón tigre",
+                "Pitón reticulada"
+            ],
+            "pt": [
+                "Naja-real",
+                "Píton-tigre",
+                "Píton-reticulada"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Змея.",
+                "Амазонка.",
+                "Вес."
+            ],
+            "uk": [
+                "Змія.",
+                "Амазонка.",
+                "Вага."
+            ],
+            "en": [
+                "Snake.",
+                "Amazon.",
+                "Weight."
+            ],
+            "es": [
+                "Serpiente.",
+                "Amazonas.",
+                "Peso."
+            ],
+            "pt": [
+                "Cobra.",
+                "Amazônia.",
+                "Peso."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Не ядовитая, но её объятие смертельно.",
+                "Змея длиннее автобуса."
+            ],
+            "uk": [
+                "Не отруйна, але її обійми смертельні.",
+                "Змія довша за автобус."
+            ],
+            "en": [
+                "It's not venomous, but its hug is deadly.",
+                "A snake longer than a bus."
+            ],
+            "es": [
+                "No es venenosa, pero su abrazo es mortal.",
+                "Una serpiente más larga que un autobús."
+            ],
+            "pt": [
+                "Não é venenosa, mas seu abraço é mortal.",
+                "Uma cobra maior que um ônibus."
+            ]
+        },
+        "tooltip": {
+            "ru": "Может весить до 250 кг.",
+            "uk": "Може важити до 250 кг.",
+            "en": "It can weigh up to 250 kg.",
+            "es": "Puede pesar hasta 250 kg.",
+            "pt": "Pode pesar até 250 kg."
+        },
+        "qwestion": {
+            "ru": "Какая самая большая и самая тяжелая змея в мире?",
+            "uk": "Яка найбільша і найважча змія у світі?",
+            "en": "What is the largest and heaviest snake in the world?",
+            "es": "¿Cuál es la serpiente más grande y pesada del mundo?",
+            "pt": "Qual é a maior e mais pesada cobra do mundo?"
+        },
+        "definition": {
+            "ru": "Анаконда — это род неядовитых змей-констрикторов, обитающих в тропической Южной Америке. Хотя сетчатый питон длиннее, анаконда считается самой тяжелой и одной из самых больших змей в мире по массе.",
+            "uk": "Анаконда — це рід неотруйних змій-констрикторів, що мешкають у тропічній Південній Америці. Хоча сітчастий пітон довший, анаконда вважається найважчою і однією з найбільших змій у світі за масою.",
+            "en": "The anaconda is a genus of non-venomous constrictor snakes native to tropical South America. While the reticulated python is longer, the anaconda is considered the heaviest and one of the largest snakes in the world by mass.",
+            "es": "La anaconda es un género de serpientes constrictoras no venenosas nativas de la Sudamérica tropical. Aunque la pitón reticulada es más larga, la anaconda es considerada la serpiente más pesada y una de las más grandes del mundo por masa.",
+            "pt": "A anaconda é um gênero de cobras constritoras não venenosas nativas da América do Sul tropical. Embora a píton-reticulada seja mais longa, a anaconda é considerada a cobra mais pesada e uma das maiores do mundo em massa."
+        },
+        "antipod": {
+            "ru": "Сетчатый питон",
+            "uk": "Сітчастий пітон",
+            "en": "Reticulated python",
+            "es": "Pitón reticulada",
+            "pt": "Píton-reticulada"
+        },
+        "hintFuiz": {
+            "ru": "Это змея самая большая в мире.",
+            "uk": "Це змія, яка є найбільшою у світі.",
+            "en": "This snake is the largest in the world.",
+            "es": "Esta serpiente es la más grande del mundo.",
+            "pt": "Esta cobra é a maior do mundo."
+        },
+        "article": "https://en.wikipedia.org/wiki/Anaconda"
+    },
+    "imgFlag": "all" 
+}

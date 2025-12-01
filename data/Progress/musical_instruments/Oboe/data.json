@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Гобой",
+            "uk": "Гобой",
+            "en": "Oboe",
+            "es": "Oboe",
+            "pt": "Oboé"
+        },
+        "wrong": {
+            "ru": [
+                "Фагот",
+                "Флейта",
+                "Английский рожок"
+            ],
+            "uk": [
+                "Фагот",
+                "Флейта",
+                "Англійський ріжок"
+            ],
+            "en": [
+                "Bassoon",
+                "Flute",
+                "English horn"
+            ],
+            "es": [
+                "Fagot",
+                "Flauta",
+                "Corno inglés"
+            ],
+            "pt": [
+                "Fagote",
+                "Flauta",
+                "Corne inglês"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Трость.",
+                "Настройка.",
+                "Соло."
+            ],
+            "uk": [
+                "Тростина.",
+                "Налаштування.",
+                "Соло."
+            ],
+            "en": [
+                "Reed.",
+                "Tuning.",
+                "Solo."
+            ],
+            "es": [
+                "Caña.",
+                "Afinación.",
+                "Solo."
+            ],
+            "pt": [
+                "Palheta.",
+                "Afinação.",
+                "Solo."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Что используется для настройки оркестра?",
+                "Что прорезает шум оркестра?"
+            ],
+            "uk": [
+                "Що використовується для налаштування оркестру?",
+                "Що прорізає шум оркестру?"
+            ],
+            "en": [
+                "What's used to tune an orchestra?",
+                "What cuts through the noise of an orchestra?"
+            ],
+            "es": [
+                "¿Qué se usa para afinar una orquesta?",
+                "¿Qué atraviesa el ruido de la orquesta?"
+            ],
+            "pt": [
+                "O que é usado para afinar uma orquestra?",
+                "O que se destaca do ruído da orquestra?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Его тонкий, пронзительный звук был разработан для прорезания шума оркестра.",
+            "uk": "Його тонкий, пронизливий звук був розроблений для прорізання шуму оркестру.",
+            "en": "Its thin, penetrating sound was developed to cut through the noise of an orchestra.",
+            "es": "Su sonido penetrante y delgado fue diseñado para destacar por encima del ruido de la orquesta.",
+            "pt": "O seu som fino e penetrante foi desenvolvido para se destacar no ruído da orquestra."
+        },
+        "qwestion": {
+            "ru": "Какой инструмент со стабильным звучанием используется для настройки?",
+            "uk": "Який інструмент зі стабільним звучанням використовується для налаштування?",
+            "en": "Which instrument with a stable sound is used for tuning?",
+            "es": "¿Qué instrumento con un sonido estable se usa para afinar?",
+            "pt": "Qual instrumento com som estável é usado para afinar?"
+        },
+        "definition": {
+            "ru": "Гобой — это деревянный духовой инструмент с двойной тростью. Его узнаваемый, пронзительный тембр делает его популярным для сольных мелодий в оркестровой музыке и часто используется для настройки оркестра.",
+            "uk": "Гобой — це дерев'яний духовий інструмент з подвійною тростиною. Його впізнаваний, пронизливий тембр робить його популярним для сольних мелодій в оркестровій музиці та часто використовується для налаштування оркестру.",
+            "en": "The oboe is a double-reed woodwind instrument. Its distinctive, penetrating timbre makes it popular for solo melodies in orchestral music and it is often used for tuning the orchestra.",
+            "es": "El oboe es un instrumento de viento-madera de doble caña. Su timbre penetrante y distintivo lo hace popular para melodías solistas en música orquestal y a menudo se utiliza para afinar la orquesta.",
+            "pt": "O oboé é um instrumento de sopro de madeira com palheta dupla. Seu timbre penetrante e distinto o torna popular para melodias solo em música orquestral e é frequentemente usado para afinar a orquestra."
+        },
+        "antipod": {
+            "ru": "Кларнет",
+            "uk": "Кларнет",
+            "en": "Clarinet",
+            "es": "Clarinete",
+            "pt": "Clarinete"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих инструментов использует двойную трость для извлечения звука?",
+            "uk": "Який з цих інструментів використовує подвійну тростину для вилучення звуку?",
+            "en": "Which of these instruments uses a double reed to produce sound?",
+            "es": "¿Cuál de estos instrumentos utiliza una caña doble para producir sonido?",
+            "pt": "Qual desses instrumentos usa uma palheta dupla para produzir som?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Oboe"
+    },
+    "imgFlag": "all" 
+}

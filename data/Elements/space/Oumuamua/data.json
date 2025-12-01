@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Оумуамуа",
+            "uk": "Оумуамуа",
+            "en": "Oumuamua",
+            "es": "Oumuamua",
+            "pt": "Oumuamua"
+        },
+        "wrong": {
+            "ru": [
+                "Комета Галлея",
+                "Астероид Икар",
+                "Плутон"
+            ],
+            "uk": [
+                "Комета Галлея",
+                "Астероїд Ікар",
+                "Плутон"
+            ],
+            "en": [
+                "Halley's Comet",
+                "Asteroid Icarus",
+                "Pluto"
+            ],
+            "es": [
+                "Cometa Halley",
+                "Asteroide Ícaro",
+                "Plutón"
+            ],
+            "pt": [
+                "Cometa Halley",
+                "Asteroide Ícaro",
+                "Plutão"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Межзвездный.",
+                "Тайна.",
+                "Сигара."
+            ],
+            "uk": [
+                "Міжзоряний.",
+                "Таємниця.",
+                "Сигара."
+            ],
+            "en": [
+                "Interstellar.",
+                "Mystery.",
+                "Cigar-shaped."
+            ],
+            "es": [
+                "Interestelar.",
+                "Misterio.",
+                "Forma de cigarro."
+            ],
+            "pt": [
+                "Interestelar.",
+                "Mistério.",
+                "Formato de charuto."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Он прилетел из другой галактики.",
+                "Похож на сигару и двигался без кометного хвоста."
+            ],
+            "uk": [
+                "Він прилетів з іншої галактики.",
+                "Схожий на сигару і рухався без кометного хвоста."
+            ],
+            "en": [
+                "It came from another galaxy.",
+                "It looks like a cigar and moved without a cometary tail."
+            ],
+            "es": [
+                "Vino de otra galaxia.",
+                "Se parece a un cigarro y se movía sin una cola de cometa."
+            ],
+            "pt": [
+                "Ele veio de outra galáxia.",
+                "Parece um charuto e se movia sem uma cauda de cometa."
+            ]
+        },
+        "qwestion": {
+            "ru": "Какой межзвездный объект имеет вытянутую, сигарообразную форму?",
+            "uk": "Який міжзоряний об'єкт має витягнуту, сигароподібну форму?",
+            "en": "What interstellar object has an elongated, cigar-like shape?",
+            "es": "¿Qué objeto interestelar tiene una forma alargada, similar a un cigarro?",
+            "pt": "Qual objeto interestelar tem uma forma alongada, semelhante a um charuto?"
+        },
+        "tooltip": {
+            "ru": "Этот объект необычно ускорялся, покидая Солнечную систему, что не могли объяснить ни газ, ни пыль.",
+            "uk": "Цей об'єкт незвично прискорювався, залишаючи Сонячну систему, що не могли пояснити ні газ, ні пил.",
+            "en": "This object accelerated unusually as it left the Solar System, which could not be explained by gas or dust.",
+            "es": "Este objeto se aceleró inusualmente al salir del Sistema Solar, lo que no pudo ser explicado por gas o polvo.",
+            "pt": "Este objeto acelerou de forma incomum ao deixar o Sistema Solar, o que não pôde ser explicado por gás ou poeira."
+        },
+        "definition": {
+            "ru": "Оумуамуа — это первый межзвездный объект, обнаруженный в Солнечной системе. Он был найден в 2017 году и вызвал большой интерес из-за своей необычной формы, движения и отсутствия комы.",
+            "uk": "Оумуамуа — це перший міжзоряний об'єкт, виявлений у Сонячній системі. Його знайшли в 2017 році, і він викликав великий інтерес через свою незвичайну форму, рух і відсутність коми.",
+            "en": "Oumuamua is the first interstellar object discovered passing through our Solar System. Found in 2017, it sparked widespread interest due to its unusual shape, motion, and lack of a cometary tail.",
+            "es": "Oumuamua es el primer objeto interestelar descubierto pasando por nuestro Sistema Solar. Encontrado en 2017, generó gran interés debido a su forma, movimiento y falta de cola de cometa inusuales.",
+            "pt": "Oumuamua é o primeiro objeto interestelar descoberto passando pelo nosso Sistema Solar. Encontrado em 2017, ele despertou grande interesse devido à sua forma, movimento e falta de cauda de cometa incomuns."
+        },
+        "antipod": {
+            "ru": "Комета Борисова",
+            "uk": "Комета Борисова",
+            "en": "Comet Borisov",
+            "es": "Cometa Borisov",
+            "pt": "Cometa Borisov"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих двух объектов был первым обнаруженным межзвездным гостем?",
+            "uk": "Який з цих двох об'єктів був першим виявленим міжзоряним гостем?",
+            "en": "Which of these two objects was the first interstellar visitor discovered?",
+            "es": "¿Cuál de estos dos objetos fue el primer visitante interestelar descubierto?",
+            "pt": "Qual desses dois objetos foi o primeiro visitante interestelar descoberto?"
+        },
+        "article": "https://en.wikipedia.org/wiki/%27Oumuamua"
+    },
+    "imgFlag": "all" 
+}

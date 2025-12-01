@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Глухарь",
+            "uk": "Глухар",
+            "en": "Capercaillie",
+            "es": "Urogallo",
+            "pt": "Tetraz"
+        },
+        "wrong": {
+            "ru": [
+                "Фазан",
+                "Перепел",
+                "Рябчик"
+            ],
+            "uk": [
+                "Фазан",
+                "Перепілка",
+                "Рябчик"
+            ],
+            "en": [
+                "Pheasant",
+                "Quail",
+                "Hazel Grouse"
+            ],
+            "es": [
+                "Faisán",
+                "Codorniz",
+                "Gallina de avellano"
+            ],
+            "pt": [
+                "Faisão",
+                "Codorniz",
+                "Galo-do-bosque"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Токование.",
+                "Лес.",
+                "Глухота."
+            ],
+            "uk": [
+                "Токування.",
+                "Ліс.",
+                "Глухота."
+            ],
+            "en": [
+                "Lekking.",
+                "Forest.",
+                "Deafness."
+            ],
+            "es": [
+                "Lek.",
+                "Bosque.",
+                "Sordera."
+            ],
+            "pt": [
+                "Lek.",
+                "Floresta.",
+                "Surdez."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Оглохнет от своего токования.",
+                "Крупнейший тетерев, который 'поёт' в лесу."
+            ],
+            "uk": [
+                "Оглухне від свого токування.",
+                "Найбільший тетерів, який 'співає' у лісі."
+            ],
+            "en": [
+                "It goes deaf from its own mating call.",
+                "The largest grouse that 'sings' in the forest."
+            ],
+            "es": [
+                "Se queda sordo por su propio canto de cortejo.",
+                "El gallo silvestre más grande que 'canta' en el bosque."
+            ],
+            "pt": [
+                "Ele fica surdo com seu próprio canto de acasalamento.",
+                "O maior membro da família do galo-do-bosque que 'canta' na floresta."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это происходит из-за анатомической особенности: кость в ухе расширяется, блокируя слуховой канал.",
+            "uk": "Це відбувається через анатомічну особливість: кістка у вусі розширюється, блокуючи слуховий канал.",
+            "en": "This happens due to an anatomical feature: a bone in the ear expands, blocking the ear canal.",
+            "es": "Esto ocurre debido a una característica anatómica: un hueso en el oído se expande, bloqueando el canal auditivo.",
+            "pt": "Isso acontece devido a uma característica anatômica: um osso no ouvido se expande, bloqueando o canal auditivo."
+        },
+        "qwestion": {
+            "ru": "Какая птица на некоторое время теряет слух во время своего брачного «токования»?",
+            "uk": "Який птах на деякий час втрачає слух під час свого шлюбного «токування»?",
+            "en": "Which bird temporarily loses its hearing during its mating 'lek'?",
+            "es": "¿Qué ave pierde temporalmente la audición durante su 'lek' de apareamiento?",
+            "pt": "Qual ave perde temporariamente a audição durante seu 'lek' de acasalamento?"
+        },
+        "definition": {
+            "ru": "Глухарь — крупнейший представитель семейства тетеревиных, известный своим брачным ритуалом (токованием). Во время него он так увлеченно издает звуки, что на короткое время становится полностью глухим.",
+            "uk": "Глухар — найбільший представник сімейства тетеревиних, відомий своїм шлюбним ритуалом (токуванням). Під час нього він так захоплено видає звуки, що на короткий час стає повністю глухим.",
+            "en": "The capercaillie is the largest member of the grouse family, known for its mating ritual (lekking). During this ritual, it becomes so engrossed in making sounds that it temporarily becomes completely deaf.",
+            "es": "El urogallo es el miembro más grande de la familia del gallo, conocido por su ritual de apareamiento (lek). Durante este ritual, se concentra tanto en emitir sonidos que se vuelve temporalmente sordo.",
+            "pt": "O tetraz é o maior membro da família das galinhas-do-mato, conhecido por seu ritual de acasalamento (lek). Durante esse ritual, ele fica tão absorto em fazer sons que se torna temporariamente completamente surdo."
+        },
+        "antipod": {
+            "ru": "Тетерев",
+            "uk": "Тетерев",
+            "en": "Black Grouse",
+            "es": "Urogallo lira",
+            "pt": "Tetraz-lírico"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих двух птиц может временно оглухнуть во время брачного танца?",
+            "uk": "Який з цих двох птахів може тимчасово оглухнути під час шлюбного танцю?",
+            "en": "Which of these two birds can temporarily go deaf during its mating dance?",
+            "es": "¿Cuál de estas dos aves puede quedarse temporalmente sorda durante su danza de cortejo?",
+            "pt": "Qual destas duas aves pode ficar temporariamente surda durante sua dança de acasalamento?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Western_capercaillie"
+    },
+    "imgFlag": "all"
+}

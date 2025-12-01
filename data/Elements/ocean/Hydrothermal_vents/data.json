@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Гидротермальные источники",
+            "uk": "Гідротермальні джерела",
+            "en": "Hydrothermal vents",
+            "es": "Fumarolas hidrotermales",
+            "pt": "Fontes hidrotermais"
+        },
+        "wrong": {
+            "ru": [
+                "Подводный вулкан",
+                "Каньон",
+                "Китопад"
+            ],
+            "uk": [
+                "Підводний вулкан",
+                "Каньйон",
+                "Китопад"
+            ],
+            "en": [
+                "Underwater volcano",
+                "Canyon",
+                "Whale fall"
+            ],
+            "es": [
+                "Volcán submarino",
+                "Cañón",
+                "Cadáver de ballena"
+            ],
+            "pt": [
+                "Vulcão submarino",
+                "Cânion",
+                "Queda de baleia"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Глубокое море.",
+                "Жизнь без света.",
+                "Черные курильщики."
+            ],
+            "uk": [
+                "Глибоке море.",
+                "Життя без світла.",
+                "Чорні курці."
+            ],
+            "en": [
+                "Deep sea.",
+                "Life without light.",
+                "Black smokers."
+            ],
+            "es": [
+                "Mar profundo.",
+                "Vida sin luz.",
+                "Fumarolas negras."
+            ],
+            "pt": [
+                "Mar profundo.",
+                "Vida sem luz.",
+                "Chaminés negras."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Где на дне океана бьет горячий гейзер?",
+                "Горячий оазис жизни во тьме глубокого моря."
+            ],
+            "uk": [
+                "Де на дні океану б'є гарячий гейзер?",
+                "Гарячий оазис життя у темряві глибокого моря."
+            ],
+            "en": [
+                "Where on the ocean floor does a hot geyser erupt?",
+                "A hot oasis of life in the darkness of the deep sea."
+            ],
+            "es": [
+                "¿Dónde en el fondo del océano brota un géiser caliente?",
+                "Un oasis de vida caliente en la oscuridad del mar profundo."
+            ],
+            "pt": [
+                "Onde no fundo do oceano jorra um gêiser quente?",
+                "Um oásis de vida quente na escuridão do mar profundo."
+            ]
+        },
+        "tooltip": {
+            "ru": "Выбрасывают горячую воду, богатую минералами, которые питают уникальные экосистемы.",
+            "uk": "Викидають гарячу воду, багату на мінерали, які живлять унікальні екосистеми.",
+            "en": "They release hot water rich in minerals that nourish unique deep-sea ecosystems.",
+            "es": "Liberan agua caliente rica en minerales que nutren ecosistemas únicos de las profundidades marinas.",
+            "pt": "Liberam água quente rica em minerais que nutrem ecossistemas únicos das profundezas do mar."
+        },
+        "qwestion": {
+            "ru": "Какой подводный объект является домом для экзотических существ, существующих без солнечного света?",
+            "uk": "Який підводний об'єкт є домом для екзотичних істот, що існують без сонячного світла?",
+            "en": "What underwater feature is home to exotic creatures that thrive without sunlight?",
+            "es": "¿Qué elemento submarino es el hogar de criaturas exóticas que prosperan sin luz solar?",
+            "pt": "Qual característica subaquática é o lar de criaturas exóticas que prosperam sem a luz solar?"
+        },
+        "definition": {
+            "ru": "Гидротермальные источники — это трещины или отверстия в земной коре, из которых вытекает геотермально нагретая вода. Они создают уникальные экосистемы на дне океана.",
+            "uk": "Гідротермальні джерела — це тріщини або отвори в земній корі, з яких витікає геотермально нагріта вода. Вони створюють унікальні екосистеми на дні океану.",
+            "en": "Hydrothermal vents are fissures or openings in the Earth's crust from which geothermally heated water flows. They create unique ecosystems at the bottom of the ocean.",
+            "es": "Las fumarolas hidrotermales son fisuras en la corteza terrestre por las que fluye agua geotérmicamente calentada. Crean ecosistemas únicos en el fondo del océano.",
+            "pt": "Fontes hidrotermais são fissuras na crosta terrestre de onde flui água aquecida geotermicamente. Elas criam ecossistemas únicos no fundo do oceano."
+        },
+        "antipod": {
+            "ru": "Холодные просачивания",
+            "uk": "Холодні просочування",
+            "en": "Cold seeps",
+            "es": "Filtraciones frías",
+            "pt": "Fontes frias"
+        },
+        "hintFuiz": {
+            "ru": "Какое место на дне океана выделяет горячую воду?",
+            "uk": "Яке місце на дні океану виділяє гарячу воду?",
+            "en": "What place on the ocean floor releases hot water?",
+            "es": "¿Qué lugar en el fondo del océano libera agua caliente?",
+            "pt": "Qual lugar no fundo do oceano libera água quente?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Hydrothermal_vent"
+    },
+    "imgFlag": "all" 
+}

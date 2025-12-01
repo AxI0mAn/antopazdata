@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Гиена",
+            "uk": "Гієна",
+            "en": "Hyena",
+            "es": "Hiena",
+            "pt": "Hiena"
+        },
+        "wrong": {
+            "ru": [
+                "Стервятник",
+                "Крокодил",
+                "Скунс"
+            ],
+            "uk": [
+                "Стерв'ятник",
+                "Крокодил",
+                "Скунс"
+            ],
+            "en": [
+                "Vulture",
+                "Crocodile",
+                "Skunk"
+            ],
+            "es": [
+                "Buitre",
+                "Cocodrilo",
+                "Mofeta"
+            ],
+            "pt": [
+                "Abutre",
+                "Crocodilo",
+                "Gambá"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Смех.",
+                "Стая.",
+                "Африка."
+            ],
+            "uk": [
+                "Сміх.",
+                "Зграя.",
+                "Африка."
+            ],
+            "en": [
+                "Laughter.",
+                "Pack.",
+                "Africa."
+            ],
+            "es": [
+                "Risa.",
+                "Manada.",
+                "África."
+            ],
+            "pt": [
+                "Risada.",
+                "Alcateia.",
+                "África."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Чей лай похож на смех?",
+                "Челюсти, перекусывающие кости!"
+            ],
+            "uk": [
+                "Чий гавкіт схожий на сміх?",
+                "Щелепи, що перекушують кістки!"
+            ],
+            "en": [
+                "Whose bark sounds like laughter?",
+                "Jaws that can crush bones!"
+            ],
+            "es": [
+                "¿Quién tiene un ladrido que parece una risa?",
+                "¡Mandíbulas que pueden triturar huesos!"
+            ],
+            "pt": [
+                "Qual latido se parece com uma risada?",
+                "Mandíbulas que podem triturar ossos!"
+            ]
+        },
+        "tooltip": {
+            "ru": "У них сложная церемония приветствия, направленная на укрепление связей в клане.",
+            "uk": "У них складна церемонія привітання, спрямована на зміцнення зв'язків у клані.",
+            "en": "They have a complex greeting ceremony aimed at strengthening clan bonds.",
+            "es": "Tienen una compleja ceremonia de saludo destinada a fortalecer los lazos del clan.",
+            "pt": "Eles têm uma complexa cerimônia de saudação destinada a fortalecer os laços do clã."
+        },
+        "qwestion": {
+            "ru": "Какое животное, вопреки распространенному мнению, является успешным охотником, а не только падальщиком?",
+            "uk": "Яка тварина, всупереч поширеній думці, є успішним мисливцем, а не лише падлоїдом?",
+            "en": "What animal, contrary to popular belief, is a successful hunter and not just a scavenger?",
+            "es": "¿Qué animal, a pesar de la creencia popular, es un cazador exitoso y no solo un carroñero?",
+            "pt": "Que animal, contrariando a crença popular, é um caçador de sucesso e não apenas um necrófago?"
+        },
+        "definition": {
+            "ru": "Гиена — это хищное млекопитающее, известное своим характерным 'смехом'. Они являются высокоэффективными хищниками и всеядными падальщиками, живущими в сложных социальных структурах, известных как кланы.",
+            "uk": "Гієна — це хижий ссавець, відомий своїм характерним 'сміхом'. Вони є високоефективними хижаками і всеїдними падлоїдами, що живуть у складних соціальних структурах, відомих як клани.",
+            "en": "The hyena is a carnivorous mammal known for its distinctive 'laugh.' They are highly efficient predators and opportunistic scavengers that live in complex social structures known as clans.",
+            "es": "La hiena es un mamífero carnívoro conocido por su distintiva 'risa'. Son depredadores muy eficientes y carroñeros oportunistas que viven en estructuras sociales complejas conocidas como clanes.",
+            "pt": "A hiena é um mamífero carnívoro conhecido por sua 'risada' característica. Elas são predadoras altamente eficientes e necrófagas oportunistas que vivem em estruturas sociais complexas conhecidas como clãs."
+        },
+        "antipod": {
+            "ru": "Шакал",
+            "uk": "Шакал",
+            "en": "Jackal",
+            "es": "Chacal",
+            "pt": "Chacal"
+        },
+        "hintFuiz": {
+            "ru": "Кто живет в большой стае, а не в одиночку?",
+            "uk": "Хто живе у великій зграї, а не поодинці?",
+            "en": "Which one lives in a large pack, not alone?",
+            "es": "¿Cuál vive en una manada grande, no solo?",
+            "pt": "Qual deles vive em uma grande alcateia, não sozinho?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Hyena"
+    },
+    "imgFlag": "all" 
+}

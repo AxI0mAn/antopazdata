@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Ивана Купала",
+            "uk": "Івана Купала",
+            "en": "Ivan Kupala",
+            "es": "Ivan Kupala",
+            "pt": "Ivan Kupala"
+        },
+        "wrong": {
+            "ru": [
+                "Масленица",
+                "Коляда",
+                "Радогощ"
+            ],
+            "uk": [
+                "Масниця",
+                "Коляда",
+                "Радогощ"
+            ],
+            "en": [
+                "Maslenitsa",
+                "Kolyada",
+                "Radogoshch"
+            ],
+            "es": [
+                "Maslenitsa",
+                "Koliadá",
+                "Radogoshch"
+            ],
+            "pt": [
+                "Maslenitsa",
+                "Koliadá",
+                "Radogoshch"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Славяне",
+                "Огонь",
+                "Вода"
+            ],
+            "uk": [
+                "Слов'яни",
+                "Вогонь",
+                "Вода"
+            ],
+            "en": [
+                "Slavs",
+                "Fire",
+                "Water"
+            ],
+            "es": [
+                "Eslavos",
+                "Fuego",
+                "Agua"
+            ],
+            "pt": [
+                "Eslavos",
+                "Fogo",
+                "Água"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Цветок папоротника.",
+                "Плетение венков."
+            ],
+            "uk": [
+                "Квітка папороті.",
+                "Плетіння вінків."
+            ],
+            "en": [
+                "Fern flower.",
+                "Weaving wreaths."
+            ],
+            "es": [
+                "Flor de helecho.",
+                "Trenzar coronas."
+            ],
+            "pt": [
+                "Flor de samambaia.",
+                "Tecer coroas."
+            ]
+        },
+        "tooltip": {
+            "ru": "Ищут цветок папоротника, который по легенде цветет всего на мгновение в эту ночь.",
+            "uk": "Шукають квітку папороті, яка за легендою цвіте лише на мить у цю ніч.",
+            "en": "They search for the fern flower, which, according to legend, blooms for just a moment on this night.",
+            "es": "Buscan la flor de helecho, que, según la leyenda, florece por un instante en esta noche.",
+            "pt": "Eles procuram a flor da samambaia, que, segundo a lenda, floresce por apenas um momento nesta noite."
+        },
+        "qwestion": {
+            "ru": "В какой славянский праздник люди прыгают через костер и плетут венки из трав и цветов?",
+            "uk": "У яке слов'янське свято люди стрибають через багаття і плетуть вінки з трав і квітів?",
+            "en": "During which Slavic holiday do people jump over a bonfire and weave wreaths from herbs and flowers?",
+            "es": "¿En qué fiesta eslava la gente salta sobre una hoguera y trenza coronas de hierbas y flores?",
+            "pt": "Em qual feriado eslavo as pessoas pulam sobre uma fogueira e tecem coroas de ervas e flores?"
+        },
+        "definition": {
+            "ru": "Ивана Купала — это древний славянский праздник, который отмечается в ночь на летнее солнцестояние. Он символизирует единение человека с природой. Главные традиции включают разжигание костров и прыжки через них, ритуальные купания, плетение венков, которые пускают по воде, и поиск мифического цветка папоротника, приносящего удачу.",
+            "uk": "Івана Купала — це стародавнє слов'янське свято, яке відзначається в ніч на літнє сонцестояння. Воно символізує єднання людини з природою. Головні традиції включають розпалювання багать і стрибки через них, ритуальні купання, плетіння вінків, які пускають по воді, і пошук міфічної квітки папороті, що приносить удачу.",
+            "en": "Ivan Kupala is an ancient Slavic holiday that is celebrated on the night of the summer solstice. It symbolizes the unity of man with nature. The main traditions include lighting bonfires and jumping over them, ritual bathing, weaving wreaths that are set afloat on water, and searching for the mythical fern flower that brings good luck.",
+            "es": "Ivan Kupala es una antigua fiesta eslava que se celebra en la noche del solsticio de verano. Simboliza la unión del hombre con la naturaleza. Las principales tradiciones incluyen encender hogueras y saltar sobre ellas, baños rituales, trenzar coronas que se sueltan en el agua y buscar la mítica flor de helecho que trae buena suerte.",
+            "pt": "Ivan Kupala é um antigo feriado eslavo que é celebrado na noite do solstício de verão. Simboliza a união do homem com a natureza. As principais tradições incluem acender fogueiras e pular sobre elas, banhos rituais, tecer coroas que são soltas na água e procurar a mítica flor da samambaia que traz boa sorte."
+        },
+        "antipod": {
+            "ru": "Масленица",
+            "uk": "Масниця",
+            "en": "Maslenitsa",
+            "es": "Maslenitsa",
+            "pt": "Maslenitsa"
+        },
+        "hintFuiz": {
+            "ru": "В какой праздник ищут цветок папоротника?",
+            "uk": "У яке свято шукають квітку папороті?",
+            "en": "On which holiday do they search for the fern flower?",
+            "es": "¿En qué fiesta se busca la flor de helecho?",
+            "pt": "Em qual feriado eles procuram a flor da samambaia?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Kupala_Night"
+    },
+    "imgFlag": "quizfoto"
+}

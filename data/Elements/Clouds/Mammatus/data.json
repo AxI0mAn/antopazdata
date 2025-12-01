@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Вымеобразные облака",
+            "uk": "Вименеподібні хмари",
+            "en": "Mammatus clouds",
+            "es": "Nubes mammatus",
+            "pt": "Nuvens mammatus"
+        },
+        "wrong": {
+            "ru": [
+                "Перистые облака",
+                "Слоистые облака",
+                "Высоко-кучевые облака"
+            ],
+            "uk": [
+                "Перисті хмари",
+                "Шаруваті хмари",
+                "Високо-купчасті хмари"
+            ],
+            "en": [
+                "Cirrus clouds",
+                "Stratus clouds",
+                "Altocumulus clouds"
+            ],
+            "es": [
+                "Nubes cirro",
+                "Nubes estratos",
+                "Nubes altocúmulos"
+            ],
+            "pt": [
+                "Nuvens cirrus",
+                "Nuvens estratos",
+                "Nuvens altocúmulos"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Мешки.",
+                "Соты.",
+                "После грозы."
+            ],
+            "uk": [
+                "Мішки.",
+                "Стільники.",
+                "Після грози."
+            ],
+            "en": [
+                "Pouches.",
+                "Honeycombs.",
+                "After a storm."
+            ],
+            "es": [
+                "Bolsas.",
+                "Panales.",
+                "Después de la tormenta."
+            ],
+            "pt": [
+                "Bolsas.",
+                "Favo de mel.",
+                "Após a tempestade."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Я появляюсь после урагана, как мешки на небе.",
+                "Я состою из капель, но свисаю вниз."
+            ],
+            "uk": [
+                "Я з'являюся після урагану, як мішки на небі.",
+                "Я складаюся з крапель, але звисаю вниз."
+            ],
+            "en": [
+                "I appear after a storm, like pouches in the sky.",
+                "I am made of droplets, but I hang downwards."
+            ],
+            "es": [
+                "Aparezco después de una tormenta, como bolsas en el cielo.",
+                "Estoy hecho de gotitas, pero cuelgo hacia abajo."
+            ],
+            "pt": [
+                "Eu apareço depois de uma tempestade, como bolsas no céu.",
+                "Sou feito de gotículas, mas penduro para baixo."
+            ]
+        },
+        "tooltip": {
+            "ru": "Они часто появляются после сильной грозы.",
+            "uk": "Вони часто з'являються після сильної грози.",
+            "en": "They often appear after a severe thunderstorm.",
+            "es": "Suelen aparecer después de una tormenta eléctrica severa.",
+            "pt": "Eles geralmente aparecem após uma tempestade severa."
+        },
+        "qwestion": {
+            "ru": "Какие редкие облака выглядят как висящие мешки или соты?",
+            "uk": "Які рідкісні хмари виглядають як висячі мішки або стільники?",
+            "en": "Which rare clouds look like hanging pouches or honeycombs?",
+            "es": "¿Qué nubes raras parecen bolsas colgantes o panales?",
+            "pt": "Que nuvens raras parecem bolsas penduradas ou favos de mel?"
+        },
+        "definition": {
+            "ru": "Вымеобразные облака, или mammatus, — это редкие и впечатляющие облака, которые представляют собой серии округлых выпуклостей, свисающих с нижней стороны основного облака. Они образуются в результате нисходящих потоков воздуха, насыщенного влагой, и чаще всего видны на нижней стороне наковальни кучево-дождевого облака, указывая на сильную нестабильность в атмосфере.",
+            "uk": "Вименеподібні хмари, або mammatus, — це рідкісні та вражаючі хмари, які являють собою серії округлих виступів, що звисають з нижньої сторони основної хмари. Вони утворюються в результаті низхідних потоків повітря, насиченого вологою, і найчастіше видно на нижній стороні ковадла купчасто-дощової хмари, вказуючи на сильну нестабільність в атмосфері.",
+            "en": "Mammatus clouds are rare and impressive clouds that feature a series of rounded pouches hanging from the underside of a parent cloud. They form as a result of sinking pockets of cold, moist air and are most often seen on the underside of a cumulonimbus anvil, indicating strong atmospheric instability.",
+            "es": "Las nubes mammatus son nubes raras e impresionantes que presentan una serie de bolsas redondeadas que cuelgan de la parte inferior de una nube madre. Se forman como resultado de bolsas de aire frío y húmedo que se hunden y se ven con mayor frecuencia en la parte inferior del yunque de una nube cumulonimbus, lo que indica una fuerte inestabilidad atmosférica.",
+            "pt": "As nuvens mammatus são nuvens raras e impressionantes que apresentam uma série de bolsas arredondadas penduradas na parte inferior de uma nuvem-mãe. Elas se formam como resultado de bolsas de ar frio e úmido que afundam e são mais frequentemente vistas na parte inferior da bigorna de uma nuvem cumulonimbus, indicando forte instabilidade atmosférica."
+        },
+        "antipod": {
+            "ru": "Кучевые облака",
+            "uk": "Купчасті хмари",
+            "en": "Cumulus clouds",
+            "es": "Nubes cúmulos",
+            "pt": "Nuvens cúmulos"
+        },
+        "hintFuiz": {
+            "ru": "Какие из этих облаков выглядят как шарики, а не как мешки?",
+            "uk": "Яка з цих хмар виглядає як кульки, а не як мішки?",
+            "en": "Which of these clouds look like puffy balls, not pouches?",
+            "es": "¿Cuál de estas nubes parece bolas esponjosas, no bolsas?",
+            "pt": "Qual dessas nuvens parece bolas fofas, não bolsas?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Mammatus_cloud"
+    },
+    "imgFlag": "all" 
+}

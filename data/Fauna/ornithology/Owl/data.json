@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Сова",
+            "uk": "Сова",
+            "en": "Owl",
+            "es": "Búho",
+            "pt": "Coruja"
+        },
+        "wrong": {
+            "ru": [
+                "Орел",
+                "Сокол",
+                "Ворон"
+            ],
+            "uk": [
+                "Орел",
+                "Сокіл",
+                "Ворон"
+            ],
+            "en": [
+                "Eagle",
+                "Falcon",
+                "Raven"
+            ],
+            "es": [
+                "Águila",
+                "Halcón",
+                "Cuervo"
+            ],
+            "pt": [
+                "Águia",
+                "Falcão",
+                "Corvo"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Ночной.",
+                "Мудрый.",
+                "Бесшумный полёт."
+            ],
+            "uk": [
+                "Нічний.",
+                "Мудрий.",
+                "Безшумний політ."
+            ],
+            "en": [
+                "Nocturnal.",
+                "Wise.",
+                "Silent flight."
+            ],
+            "es": [
+                "Nocturno.",
+                "Sabio.",
+                "Vuelo silencioso."
+            ],
+            "pt": [
+                "Noturno.",
+                "Sábio.",
+                "Voo silencioso."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Абсолютно бесшумный хищник.",
+                "Птица с неподвижными глазами."
+            ],
+            "uk": [
+                "Абсолютно безшумний хижак.",
+                "Птах з нерухомими очима."
+            ],
+            "en": [
+                "An absolutely silent predator.",
+                "A bird with immobile eyes."
+            ],
+            "es": [
+                "Un depredador completamente silencioso.",
+                "Un ave con ojos inmóviles."
+            ],
+            "pt": [
+                "Um predador totalmente silencioso.",
+                "Uma ave com olhos imóveis."
+            ]
+        },
+        "tooltip": {
+            "ru": "Ночной, бесшумный, крылатый хищник.",
+            "uk": "Нічний, безшумний, крилатий хижак.",
+            "en": "Nocturnal, silent, winged predator.",
+            "es": "Depredador nocturno, silencioso y alado.",
+            "pt": "Predador noturno, silencioso e alado."
+        },
+        "qwestion": {
+            "ru": "Какая птица из-за неподвижных глаз поворачивает голову на 270°?",
+            "uk": "Який птах через нерухомі очі повертає голову на 270°?",
+            "en": "Which bird, due to its immobile eyes, can turn its head 270°?",
+            "es": "¿Qué ave, debido a sus ojos inmóviles, puede girar la cabeza 270°?",
+            "pt": "Qual ave, devido aos seus olhos imóveis, pode girar a cabeça 270°?"
+        },
+        "definition": {
+            "ru": "Сова — это хищная птица, ведущая ночной образ жизни. Отличается большими круглыми глазами, бесшумным полетом и способностью поворачивать голову почти на 270 градусов для наблюдения за добычей.",
+            "uk": "Сова — це хижий птах, що веде нічний спосіб життя. Відрізняється великими круглими очима, безшумним польотом та здатністю повертати голову майже на 270 градусів для спостереження за здобиччю.",
+            "en": "The owl is a predatory bird that is nocturnal. It is distinguished by its large, round eyes, silent flight, and the ability to turn its head almost 270 degrees to observe its prey.",
+            "es": "El búho es un ave rapaz nocturna. Se distingue por sus grandes ojos redondos, su vuelo silencioso y su capacidad para girar la cabeza casi 270 grados para observar a su presa.",
+            "pt": "A coruja é uma ave de rapina noturna. Ela se distingue por seus grandes olhos redondos, voo silencioso e a capacidade de girar a cabeça quase 270 graus para observar sua presa."
+        },
+        "antipod": {
+            "ru": "Ястреб",
+            "uk": "Яструб",
+            "en": "Hawk",
+            "es": "Halcón",
+            "pt": "Falcão"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих двух птиц ведёт ночной образ жизни?",
+            "uk": "Який з цих двох птахів веде нічний спосіб життя?",
+            "en": "Which of these two birds is nocturnal?",
+            "es": "¿Cuál de estas dos aves es nocturna?",
+            "pt": "Qual dessas duas aves é noturna?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Owl"
+    },
+    "imgFlag": "all" 
+}

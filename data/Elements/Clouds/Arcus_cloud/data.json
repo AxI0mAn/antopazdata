@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Грозовой воротник",
+            "uk": "Грозовий комір",
+            "en": "Arcus cloud",
+            "es": "Nube arcus",
+            "pt": "Nuvem arcus"
+        },
+        "wrong": {
+            "ru": [
+                "Перистые облака",
+                "Слоистые облака",
+                "Вымеобразные облака"
+            ],
+            "uk": [
+                "Перисті хмари",
+                "Шаруваті хмари",
+                "Вименеподібні хмари"
+            ],
+            "en": [
+                "Cirrus clouds",
+                "Stratus clouds",
+                "Mammatus clouds"
+            ],
+            "es": [
+                "Nubes cirros",
+                "Nubes estratos",
+                "Nubes mammatus"
+            ],
+            "pt": [
+                "Nuvens cirrus",
+                "Nuvens estratos",
+                "Nuvens mammatus"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Гроза.",
+                "Воротник.",
+                "Низко."
+            ],
+            "uk": [
+                "Гроза.",
+                "Комір.",
+                "Низько."
+            ],
+            "en": [
+                "Thunderstorm.",
+                "Collar.",
+                "Low."
+            ],
+            "es": [
+                "Tormenta.",
+                "Collar.",
+                "Baja."
+            ],
+            "pt": [
+                "Tempestade.",
+                "Colarinho.",
+                "Baixa."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Я длинный и низкий, идущий перед грозой.",
+                "Я не часть бури, но предвещаю её приход."
+            ],
+            "uk": [
+                "Я довга і низька, що йде перед грозою.",
+                "Я не частина бурі, але віщує її прихід."
+            ],
+            "en": [
+                "I am long and low, arriving before a storm.",
+                "I am not part of the storm, but I announce its arrival."
+            ],
+            "es": [
+                "Soy largo y bajo, llegando antes de una tormenta.",
+                "No soy parte de la tormenta, pero anuncio su llegada."
+            ],
+            "pt": [
+                "Sou longa e baixa, chegando antes de uma tempestade.",
+                "Não sou parte da tempestade, mas anuncio sua chegada."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это длинное, низкое, клиновидное или рулоноподобное облако.",
+            "uk": "Це довга, низька, клиноподібна або рулоноподібна хмара.",
+            "en": "It is a long, low, wedge-shaped or roll-like cloud.",
+            "es": "Es una nube larga, baja, en forma de cuña o de rodillo.",
+            "pt": "É uma nuvem longa, baixa, em forma de cunha ou de rolo."
+        },
+        "qwestion": {
+            "ru": "Какое облако образуется на переднем крае наступающего грозового фронта?",
+            "uk": "Яка хмара утворюється на передньому краї наступаючого грозового фронту?",
+            "en": "Which cloud forms on the leading edge of an approaching thunderstorm front?",
+            "es": "¿Qué nube se forma en el borde de ataque de un frente de tormenta que se aproxima?",
+            "pt": "Qual nuvem se forma na borda de um fronte de tempestade que se aproxima?"
+        },
+        "definition": {
+            "ru": "Грозовой воротник, или облако Arcus, — это низкое, горизонтальное, клиновидное облако, которое формируется на переднем крае штормового фронта, известного как шкваловая линия. Оно образуется, когда холодный и плотный воздух от грозы опускается, вытесняя тёплый и влажный воздух вверх, что приводит к его конденсации. Грозовые воротники могут иметь вид полосы (Shelf cloud) или вращающегося рулона (Roll cloud) и являются надёжным признаком приближающегося шторма с сильными ветрами.",
+            "uk": "Грозовий комір, або хмара Arcus, — це низька, горизонтальна, клиноподібна хмара, яка формується на передньому краї штормового фронту, відомого як шквалова лінія. Вона утворюється, коли холодне і щільне повітря від грози опускається, витісняючи тепле і вологе повітря вгору, що призводить до його конденсації. Грозові коміри можуть мати вигляд смуги (Shelf cloud) або обертового рулону (Roll cloud) і є надійною ознакою наближення шторму з сильними вітрами.",
+            "en": "An Arcus cloud, or 'thunderstorm collar', is a low, horizontal, wedge-shaped cloud that forms on the leading edge of a thunderstorm's outflow, known as a gust front. It forms as cool, dense air from the storm descends and pushes warm, moist air upward, causing it to condense. Arcus clouds can appear as a shelf-like band (Shelf cloud) or a rolling cylinder (Roll cloud) and are a reliable sign of an approaching storm with strong winds.",
+            "es": "Una nube Arcus, o 'collar de tormenta', es una nube baja, horizontal y en forma de cuña que se forma en el borde de un frente de ráfagas de una tormenta. Se forma a medida que el aire frío y denso de la tormenta desciende y empuja el aire cálido y húmedo hacia arriba, lo que hace que se condense. Las nubes Arcus pueden aparecer como una banda en forma de estante (Shelf cloud) o un cilindro giratorio (Roll cloud) y son una señal confiable de una tormenta que se aproxima con vientos fuertes.",
+            "pt": "Uma nuvem Arcus, ou 'colarinho de tempestade', é uma nuvem baixa, horizontal e em forma de cunha que se forma na borda de uma frente de rajada de uma tempestade. Ela se forma quando o ar frio e denso da tempestade desce e empurra o ar quente e úmido para cima, fazendo-o condensar. As nuvens Arcus podem aparecer como uma faixa em forma de prateleira (Shelf cloud) ou um cilindro em rotação (Roll cloud) e são um sinal confiável de uma tempestade que se aproxima com ventos fortes."
+        },
+        "antipod": {
+            "ru": "Кучевые облака",
+            "uk": "Купчасті хмари",
+            "en": "Cumulus clouds",
+            "es": "Nubes cúmulos",
+            "pt": "Nuvens cúmulos"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих облаков является предвестником сильного ветра и шторма?",
+            "uk": "Яка з цих хмар є провісником сильного вітру та шторму?",
+            "en": "Which of these clouds is a precursor to strong winds and a storm?",
+            "es": "¿Cuál de estas nubes es un precursor de vientos fuertes y una tormenta?",
+            "pt": "Qual dessas nuvens é um precursor de ventos fortes e uma tempestade?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Arcus_cloud"
+    },
+    "imgFlag": "all"
+}

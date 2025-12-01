@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "День мертвых",
+            "uk": "День мертвих",
+            "en": "Day of the Dead",
+            "es": "Día de Muertos",
+            "pt": "Dia dos Mortos"
+        },
+        "wrong": {
+            "ru": [
+                "День труда",
+                "Рождество",
+                "День Трех Королей"
+            ],
+            "uk": [
+                "День праці",
+                "Різдво",
+                "День Трьох Королів"
+            ],
+            "en": [
+                "Labor Day",
+                "Christmas",
+                "Three Kings' Day"
+            ],
+            "es": [
+                "Día del Trabajo",
+                "Navidad",
+                "Día de los Reyes Magos"
+            ],
+            "pt": [
+                "Dia do Trabalho",
+                "Natal",
+                "Dia de Reis"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Мексика",
+                "Черепа",
+                "Радость"
+            ],
+            "uk": [
+                "Мексика",
+                "Черепи",
+                "Радість"
+            ],
+            "en": [
+                "Mexico",
+                "Skulls",
+                "Joy"
+            ],
+            "es": [
+                "México",
+                "Calaveras",
+                "Alegría"
+            ],
+            "pt": [
+                "México",
+                "Crânios",
+                "Alegria"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Цель — доказать, что смерть — это не конец, а лишь часть цикла жизни.",
+                "Его символы — красочные черепа и скелеты."
+            ],
+            "uk": [
+                "Мета — довести, що смерть — це не кінець, а лише частина циклу життя.",
+                "Його символи — барвисті черепи та скелети."
+            ],
+            "en": [
+                "The goal is to prove that death is not the end, but only a part of the life cycle.",
+                "Its symbols are colorful skulls and skeletons."
+            ],
+            "es": [
+                "El objetivo es demostrar que la muerte no es el final, sino solo una parte del ciclo de la vida.",
+                "Sus símbolos son calaveras y esqueletos coloridos."
+            ],
+            "pt": [
+                "O objetivo é provar que a morte não é o fim, mas apenas uma parte do ciclo da vida.",
+                "Seus símbolos são caveiras e esqueletos coloridos."
+            ]
+        },
+        "tooltip": {
+            "ru": "Этот праздник наполнен радостью, музыкой и яркими цветами.",
+            "uk": "Це свято наповнене радістю, музикою та яскравими кольорами.",
+            "en": "This holiday is filled with joy, music, and vibrant colors.",
+            "es": "Esta festividad está llena de alegría, música y colores vivos.",
+            "pt": "Esta festividade é cheia de alegria, música e cores vibrantes."
+        },
+        "qwestion": {
+            "ru": "Какой мексиканский праздник, посвящен памяти умерших?",
+            "uk": "Яке мексиканське свято, присвячене пам'яті померлих?",
+            "en": "What is the Mexican holiday dedicated to the memory of the deceased?",
+            "es": "¿Qué festividad mexicana está dedicada a la memoria de los difuntos?",
+            "pt": "Qual feriado mexicano é dedicado à memória dos falecidos?"
+        },
+        "definition": {
+            "ru": "День мёртвых (Día de los Muertos) — это мексиканский праздник, который отмечается в начале ноября. Это не траурное событие, а радостное торжество, посвящённое памяти умерших. Семьи создают алтари (офренды), украшенные цветами, свечами и сахарными черепами, чтобы приветствовать души своих близких.",
+            "uk": "День мертвих (Día de los Muertos) — це мексиканське свято, яке відзначається на початку листопада. Це не траурна подія, а радісне святкування, присвячене пам'яті померлих. Сім'ї створюють вівтарі (офренди), прикрашені чорнобривцями, свічками та цукровими черепами, щоб привітати душі своїх близьких.",
+            "en": "The Day of the Dead (Día de los Muertos) is a Mexican holiday celebrated in early November. It's not a mournful event but a joyous celebration dedicated to the memory of the deceased. Families create altars (ofrendas) decorated with marigolds, candles, and sugar skulls to welcome the souls of their loved ones.",
+            "es": "El Día de los Muertos es una festividad mexicana que se celebra a principios de noviembre. No es un evento de luto, sino una celebración alegre dedicada a la memoria de los difuntos. Las familias crean altares (ofrendas) decorados con caléndulas, velas y calaveras de azúcar para dar la bienvenida a las almas de sus seres queridos.",
+            "pt": "O Dia dos Mortos (Día de los Muertos) é um feriado mexicano celebrado no início de novembro. Não é um evento de luto, mas uma celebração alegre dedicada à memória dos falecidos. As famílias criam altares (ofrendas) decorados com calêndulas, velas e crânios de açúcar para receber as almas de seus entes queridos."
+        },
+        "antipod": {
+            "ru": "Рождество",
+            "uk": "Різдво",
+            "en": "Christmas",
+            "es": "Navidad",
+            "pt": "Natal"
+        },
+        "hintFuiz": {
+            "ru": "Черепа — атрибут какого праздника?",
+            "uk": "Черепи — атрибут якого свята?",
+            "en": "Skulls are an attribute of which holiday?",
+            "es": "¿Las calaveras son un atributo de qué festividad?",
+            "pt": "Os crânios são um atributo de qual feriado?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+    },
+    "imgFlag": "quizfoto"
+}

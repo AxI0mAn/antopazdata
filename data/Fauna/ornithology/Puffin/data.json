@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Тупик",
+            "uk": "Тупик",
+            "en": "Puffin",
+            "es": "Frailecillo",
+            "pt": "Papagaio-do-mar"
+        },
+        "wrong": {
+            "ru": [
+                "Чайка",
+                "Баклан",
+                "Пеликан"
+            ],
+            "uk": [
+                "Чайка",
+                "Баклан",
+                "Пелікан"
+            ],
+            "en": [
+                "Seagull",
+                "Cormorant",
+                "Pelican"
+            ],
+            "es": [
+                "Gaviota",
+                "Cormorán",
+                "Pelícano"
+            ],
+            "pt": [
+                "Gaivota",
+                "Cormorão",
+                "Pelicano"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Рыба.",
+                "Север.",
+                "Клюв."
+            ],
+            "uk": [
+                "Риба.",
+                "Північ.",
+                "Дзьоб."
+            ],
+            "en": [
+                "Fish.",
+                "North.",
+                "Beak."
+            ],
+            "es": [
+                "Pez.",
+                "Norte.",
+                "Pico."
+            ],
+            "pt": [
+                "Peixe.",
+                "Norte.",
+                "Bico."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Птица - 'Морской попугай'.",
+                "Символ провинции Ньюфаундленд."
+            ],
+            "uk": [
+                "Птах - 'Морський папуга'.",
+                "Символ провінції Ньюфаундленд."
+            ],
+            "en": [
+                "The 'sea parrot' bird.",
+                "Symbol of Newfoundland province."
+            ],
+            "es": [
+                "El ave 'loro de mar'.",
+                "Símbolo de la provincia de Terranova."
+            ],
+            "pt": [
+                "A ave 'papagaio-do-mar'.",
+                "Símbolo da província de Terra Nova."
+            ]
+        },
+        "tooltip": {
+            "ru": "Их клюв меняет цвет в брачный сезон и имеет уникальные пластины для удержания пищи.",
+            "uk": "Їхній дзьоб змінює колір у шлюбний сезон і має унікальні пластини для утримання їжі.",
+            "en": "Its beak changes color in the breeding season and has unique plates to hold food.",
+            "es": "Su pico cambia de color en la temporada de apareamiento y tiene placas únicas para sujetar la comida.",
+            "pt": "Seu bico muda de cor na época de acasalamento e tem placas únicas para segurar o alimento."
+        },
+        "qwestion": {
+            "ru": "Какая птица носит в клюве до 12 рыбок благодаря шипам на нёбе?",
+            "uk": "Який птах носить у дзьобі до 12 рибок завдяки шипам на піднебінні?",
+            "en": "Which bird carries up to 12 fish in its beak thanks to spines on its palate?",
+            "es": "¿Qué ave transporta hasta 12 peces en su pico gracias a unas espinas en su paladar?",
+            "pt": "Que ave transporta até 12 peixes no bico graças a espinhos no palato?"
+        },
+        "definition": {
+            "ru": "Тупик — это морская птица из семейства чистиковых. Известна своим ярким, разноцветным клювом во время брачного сезона, а также способностью нырять на глубину и переносить в клюве множество мелких рыб.",
+            "uk": "Тупик — це морський птах із сімейства чистикових. Відомий своїм яскравим, різнокольоровим дзьобом під час шлюбного сезону, а також здатністю пірнати на глибину і переносити у дзьобі безліч дрібних риб.",
+            "en": "The puffin is a seabird from the auk family. It is known for its bright, multi-colored beak during the breeding season and its ability to dive deep and carry numerous small fish in its beak.",
+            "es": "El frailecillo es un ave marina de la familia de los álcidos. Es conocido por su pico brillante y colorido durante la temporada de cría, y por su capacidad para bucear y transportar muchos peces pequeños en su pico.",
+            "pt": "O papagaio-do-mar é uma ave marinha da família dos alcídeos. É conhecido por seu bico brilhante e colorido durante a época de acasalamento e por sua capacidade de mergulhar fundo e transportar muitos peixes pequenos no bico."
+        },
+        "antipod": {
+            "ru": "Альбатрос",
+            "uk": "Альбатрос",
+            "en": "Albatross",
+            "es": "Albatros",
+            "pt": "Albatroz"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих двух птиц, в основном, ловит мелкую рыбу, ныряя под воду?",
+            "uk": "Який з цих двох птахів, в основному, ловить дрібну рибу, пірнаючи під воду?",
+            "en": "Which of these two birds mainly catches small fish by diving under the water?",
+            "es": "¿Cuál de estas dos aves captura principalmente peces pequeños buceando bajo el agua?",
+            "pt": "Qual dessas duas aves captura principalmente peixes pequenos mergulhando na água?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Puffin"
+    },
+    "imgFlag": "all" 
+}

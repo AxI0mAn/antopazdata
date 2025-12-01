@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Гусеницы-убийцы",
+            "uk": "Гусениці-вбивці",
+            "en": "Killer caterpillars",
+            "es": "Orugas asesinas",
+            "pt": "Lagartas assassinas"
+        },
+        "wrong": {
+            "ru": [
+                "Гусеница капустницы",
+                "Шелкопряд",
+                "Гусеница махаона"
+            ],
+            "uk": [
+                "Гусениця капусниці",
+                "Шовкопряд",
+                "Гусениця махаона"
+            ],
+            "en": [
+                "Cabbage white caterpillar",
+                "Silkworm",
+                "Swallowtail caterpillar"
+            ],
+            "es": [
+                "Oruga de la col",
+                "Gusano de seda",
+                "Oruga de la mariposa cola de golondrina"
+            ],
+            "pt": [
+                "Lagarta da couve",
+                "Bicho-da-seda",
+                "Lagarta de borboleta"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Яд.",
+                "Волоски.",
+                "Опасность."
+            ],
+            "uk": [
+                "Отрута.",
+                "Волоски.",
+                "Небезпека."
+            ],
+            "en": [
+                "Poison.",
+                "Hairs.",
+                "Danger."
+            ],
+            "es": [
+                "Veneno.",
+                "Pelos.",
+                "Peligro."
+            ],
+            "pt": [
+                "Veneno.",
+                "Pelos.",
+                "Perigo."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Их яд скрыт в маленьких щетинках.",
+                "Они выглядят безобидно, но одно прикосновение может убить."
+            ],
+            "uk": [
+                "Їхня отрута прихована в маленьких щетинках.",
+                "Вони виглядають невинно, але один дотик може вбити."
+            ],
+            "en": [
+                "Their venom is hidden in small bristles.",
+                "They look harmless, but a single touch can be deadly."
+            ],
+            "es": [
+                "Su veneno está escondido en pequeñas cerdas.",
+                "Parecen inofensivas, pero un solo toque puede ser mortal."
+            ],
+            "pt": [
+                "O seu veneno está escondido em pequenas cerdas.",
+                "Parecem inofensivas, mas um único toque pode ser fatal."
+            ]
+        },
+        "tooltip": {
+            "ru": "Их токсичные волоски вызывают внутренние кровотечения.",
+            "uk": "Їхні токсичні волоски викликають внутрішні кровотечі.",
+            "en": "Their toxic bristles cause internal bleeding.",
+            "es": "Sus cerdas tóxicas causan hemorragias internas.",
+            "pt": "Suas cerdas tóxicas causam hemorragias internas."
+        },
+        "qwestion": {
+            "ru": "Чьи прикосновения смертельно опасны?",
+            "uk": "Чий дотик смертельно небезпечний?",
+            "en": "Whose touch is mortally dangerous?",
+            "es": "¿De quién es el toque mortalmente peligroso?",
+            "pt": "De quem o toque é mortalmente perigoso?"
+        },
+        "definition": {
+            "ru": "Гусеницы-убийцы, в частности, гусеницы бразильской моли рода Lonomia, известны своим ядом, который содержится в их колючих волосках. При контакте с кожей он вызывает геморрагический синдром, приводящий к внутренним кровотечениям, почечной недостаточности и даже смерти. Они считаются одними из самых ядовитых гусениц в мире.",
+            "uk": "Гусениці-вбивці, зокрема, гусениці бразильської молі роду Lonomia, відомі своєю отрутою, що міститься в їхніх колючих волосках. При контакті зі шкірою вона спричиняє геморагічний синдром, що призводить до внутрішніх кровотеч, ниркової недостатності та навіть смерті. Вони вважаються одними з найотруйніших гусениць у світі.",
+            "en": "Killer caterpillars, specifically the larvae of the Brazilian moth genus Lonomia, are known for their venom, which is contained in their spiky bristles. Upon contact with skin, it causes a hemorrhagic syndrome leading to internal bleeding, kidney failure, and even death. They are considered one of the most venomous caterpillars in the world.",
+            "es": "Las orugas asesinas, específicamente las larvas de la polilla brasileña del género Lonomia, son conocidas por su veneno, que se encuentra en sus cerdas espinosas. Al entrar en contacto con la piel, provoca un síndrome hemorrágico que conduce a hemorragias internas, insuficiencia renal e incluso la muerte. Son consideradas una de las orugas más venenosas del mundo.",
+            "pt": "As lagartas assassinas, especificamente as larvas da mariposa brasileira do gênero Lonomia, são conhecidas por seu veneno, que está contido em suas cerdas espinhosas. Ao entrar em contato com a pele, causa uma síndrome hemorrágica que leva a sangramentos internos, insuficiência renal e até a morte. Elas são consideradas uma das lagartas mais venenosas do mundo."
+        },
+        "antipod": {
+            "ru": "Шелкопряд",
+            "uk": "Шовкопряд",
+            "en": "Silkworm",
+            "es": "Gusano de seda",
+            "pt": "Bicho-da-seda"
+        },
+        "hintFuiz": {
+            "ru": "У какой из этих двух гусениц есть ядовитые волоски?",
+            "uk": "Яка з цих двох гусениць має отруйні волоски?",
+            "en": "Which of these two caterpillars has poisonous hairs?",
+            "es": "¿Cuál de estas dos orugas tiene pelos venenosos?",
+            "pt": "Qual dessas duas lagartas tem pelos venenosos?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Lonomia_obliqua"
+    },
+    "imgFlag": "all" 
+}

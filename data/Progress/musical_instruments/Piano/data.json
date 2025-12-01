@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Фортепиано",
+            "uk": "Фортепіано",
+            "en": "Piano",
+            "es": "Piano",
+            "pt": "Piano"
+        },
+        "wrong": {
+            "ru": [
+                "Скрипка",
+                "Гитара",
+                "Тромбон"
+            ],
+            "uk": [
+                "Скрипка",
+                "Гітара",
+                "Тромбон"
+            ],
+            "en": [
+                "Violin",
+                "Guitar",
+                "Trombone"
+            ],
+            "es": [
+                "Violín",
+                "Guitarra",
+                "Trombón"
+            ],
+            "pt": [
+                "Violino",
+                "Violão",
+                "Trombone"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Клавиши.",
+                "Струны.",
+                "Молоточки."
+            ],
+            "uk": [
+                "Клавіші.",
+                "Струни.",
+                "Молоточки."
+            ],
+            "en": [
+                "Keys.",
+                "Strings.",
+                "Hammers."
+            ],
+            "es": [
+                "Teclas.",
+                "Cuerdas.",
+                "Martillos."
+            ],
+            "pt": [
+                "Teclas.",
+                "Cordas.",
+                "Martelos."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Где звук извлекается ударами молоточков по струнам?",
+                "Кто родственник рояля?"
+            ],
+            "uk": [
+                "Де звук видобувається ударами молоточків по струнах?",
+                "Хто родич рояля?"
+            ],
+            "en": [
+                "Where is sound made by hammers hitting strings?",
+                "What's a relative of the grand piano?"
+            ],
+            "es": [
+                "¿Dónde se produce el sonido al golpear cuerdas con martillos?",
+                "¿Qué es un pariente del piano de cola?"
+            ],
+            "pt": [
+                "Onde o som é produzido por martelos batendo nas cordas?",
+                "O que é um parente do piano de cauda?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Его длина клавиатуры составляет около 123 см.",
+            "uk": "Довжина його клавіатури становить близько 123 см.",
+            "en": "Its keyboard length is approximately 123 cm.",
+            "es": "La longitud de su teclado es de aproximadamente 123 cm.",
+            "pt": "O comprimento do seu teclado é de aproximadamente 123 cm."
+        },
+        "qwestion": {
+            "ru": "Какой музыкальный инструмент имеет 88 клавиш?",
+            "uk": "Який музичний інструмент має 88 клавіш?",
+            "en": "Which musical instrument has 88 keys?",
+            "es": "¿Qué instrumento musical tiene 88 teclas?",
+            "pt": "Qual instrumento musical tem 88 teclas?"
+        },
+        "definition": {
+            "ru": "Фортепиано — это клавишно-струнный музыкальный инструмент, в котором звук извлекается ударами молоточков по струнам. Это один из самых универсальных инструментов.",
+            "uk": "Фортепіано — це клавішно-струнний музичний інструмент, в якому звук видобувається ударами молоточків по струнах. Це один із найуніверсальніших інструментів.",
+            "en": "The piano is a keyboard-string musical instrument in which sound is produced by hammers striking strings. It is one of the most versatile instruments.",
+            "es": "El piano es un instrumento musical de cuerda y teclado en el que el sonido se produce por martillos que golpean las cuerdas. Es uno de los instrumentos más versátiles.",
+            "pt": "O piano é um instrumento musical de cordas e teclas em que o som é produzido por martelos que batem nas cordas. É um dos instrumentos mais versáteis."
+        },
+        "antipod": {
+            "ru": "Арфа",
+            "uk": "Арфа",
+            "en": "Harp",
+            "es": "Arpa",
+            "pt": "Harpa"
+        },
+        "hintFuiz": {
+            "ru": "Что из этого имеет молоточковый механизм для извлечения звука?",
+            "uk": "Що з цього має молоточковий механізм для вилучення звуку?",
+            "en": "Which of these has a hammer mechanism to produce sound?",
+            "es": "¿Cuál de estos tiene un mecanismo de martillo para producir sonido?",
+            "pt": "Qual desses tem um mecanismo de martelo para produzir som?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Piano"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Гора Рорайма",
+            "uk": "Гора Рорайма",
+            "en": "Mount Roraima",
+            "es": "Monte Roraima",
+            "pt": "Monte Roraima"
+        },
+        "wrong": {
+            "ru": [
+                "Гора Фудзи",
+                "Гора Килиманджаро",
+                "Маттерхорн"
+            ],
+            "uk": [
+                "Гора Фудзі",
+                "Гора Кіліманджаро",
+                "Маттерхорн"
+            ],
+            "en": [
+                "Mount Fuji",
+                "Mount Kilimanjaro",
+                "Matterhorn"
+            ],
+            "es": [
+                "Monte Fuji",
+                "Monte Kilimanjaro",
+                "Cervino"
+            ],
+            "pt": [
+                "Monte Fuji",
+                "Monte Kilimanjaro",
+                "Matterhorn"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Стол.",
+                "Южная Америка.",
+                "Эндемики."
+            ],
+            "uk": [
+                "Стіл.",
+                "Південна Америка.",
+                "Ендеміки."
+            ],
+            "en": [
+                "Table.",
+                "South America.",
+                "Endemics."
+            ],
+            "es": [
+                "Mesa.",
+                "América del Sur.",
+                "Endémicos."
+            ],
+            "pt": [
+                "Mesa.",
+                "América do Sul.",
+                "Endêmicos."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Гора, как стол.",
+                "Небесный остров, где царит своя жизнь."
+            ],
+            "uk": [
+                "Гора, як стіл.",
+                "Небесний острів, де панує своє життя."
+            ],
+            "en": [
+                "A mountain like a table.",
+                "A sky island where its own life reigns."
+            ],
+            "es": [
+                "Una montaña como una mesa.",
+                "Una isla del cielo donde su propia vida reina."
+            ],
+            "pt": [
+                "Uma montanha como uma mesa.",
+                "Uma ilha do céu onde a sua própria vida reina."
+            ]
+        },
+        "tooltip": {
+            "ru": "Она имеет уникальную флору и фауну и послужила прототипом в одном из фильмов.",
+            "uk": "Вона має унікальну флору і фауну та послужила прототипом в одному з фільмів.",
+            "en": "It has unique flora and fauna and served as a prototype in a film.",
+            "es": "Tiene una flora y fauna únicas y sirvió como prototipo en una película.",
+            "pt": "Possui flora e fauna únicas e serviu de protótipo em um filme."
+        },
+        "qwestion": {
+            "ru": "Какая гора в Южной Америке, похожа на стол?",
+            "uk": "Яка гора в Південній Америці схожа на стіл?",
+            "en": "What mountain in South America looks like a table?",
+            "es": "¿Qué montaña en América del Sur parece una mesa?",
+            "pt": "Qual montanha na América do Sul se parece com uma mesa?"
+        },
+        "definition": {
+            "ru": "Гора Рорайма — это 'столовая гора' (тепуи), расположенная на границе Венесуэлы, Бразилии и Гайаны. Её плоская вершина окружена отвесными скалами высотой до 400 метров, что делает её практически недоступной. Из-за изоляции на вершине развилась уникальная экосистема с множеством эндемичных видов растений и животных, которые не встречаются больше нигде на планете. Гора Рорайма вдохновила Артура Конана Дойла на написание романа 'Затерянный мир' и послужила прототипом для мультфильма 'Вверх' от Disney/Pixar.",
+            "uk": "Гора Рорайма — це 'столова гора' (тепуї), розташована на кордоні Венесуели, Бразилії та Гаяни. Її плоска вершина оточена прямовисними скелями висотою до 400 метрів, що робить її практично недоступною. Через ізоляцію на вершині розвинулася унікальна екосистема з безліччю ендемічних видів рослин і тварин, які не зустрічаються більше ніде на планеті. Гора Рорайма надихнула Артура Конана Дойла на написання роману 'Загублений світ' і послужила прототипом для мультфільму 'Вперед і вгору' від Disney/Pixar.",
+            "en": "Mount Roraima is a 'table mountain' (tepui) located at the border of Venezuela, Brazil, and Guyana. Its flat top is surrounded by sheer cliffs up to 400 meters high, making it nearly inaccessible. Due to its isolation, a unique ecosystem has evolved on the summit with many endemic species of plants and animals that are found nowhere else on the planet. Mount Roraima inspired Arthur Conan Doyle's novel 'The Lost World' and served as a prototype for the Disney/Pixar film 'Up'.",
+            "es": "El Monte Roraima es una 'montaña mesa' (tepui) ubicada en la frontera de Venezuela, Brasil y Guyana. Su cima plana está rodeada de acantilados de hasta 400 metros de altura, lo que la hace casi inaccesible. Debido a su aislamiento, en la cima ha evolucionado un ecosistema único con muchas especies endémicas de plantas y animales que no se encuentran en ningún otro lugar del planeta. El Monte Roraima inspiró la novela de Arthur Conan Doyle 'El mundo perdido' y sirvió como prototipo para la película de Disney/Pixar 'Up'.",
+            "pt": "O Monte Roraima é uma 'montanha-mesa' (tepui) localizada na fronteira da Venezuela, Brasil e Guiana. Seu topo plano é cercado por falésias de até 400 metros de altura, tornando-o quase inacessível. Devido ao seu isolamento, um ecossistema único evoluiu no cume com muitas espécies endêmicas de plantas e animais que não são encontradas em nenhum outro lugar do planeta. O Monte Roraima inspirou o romance de Arthur Conan Doyle 'O Mundo Perdido' e serviu de protótipo para o filme da Disney/Pixar 'Up'."
+        },
+        "antipod": {
+            "ru": "Гора Эверест",
+            "uk": "Гора Еверест",
+            "en": "Mount Everest",
+            "es": "Monte Everest",
+            "pt": "Monte Everest"
+        },
+        "hintFuiz": {
+            "ru": "У каого из них нет пика?",
+            "uk": "У якої з них немає піку?",
+            "en": "Which one of these has no peak?",
+            "es": "¿Cuál de estos no tiene un pico?",
+            "pt": "Qual desses não tem um pico?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Mount_Roraima"
+    },
+    "imgFlag": "all" 
+}

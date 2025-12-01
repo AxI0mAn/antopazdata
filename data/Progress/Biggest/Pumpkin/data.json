@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Тыква",
+            "uk": "Гарбуз",
+            "en": "Pumpkin",
+            "es": "Calabaza",
+            "pt": "Abóbora"
+        },
+        "wrong": {
+            "ru": [
+                "Помидор",
+                "Банан",
+                "Авокадо"
+            ],
+            "uk": [
+                "Помідор",
+                "Банан",
+                "Авокадо"
+            ],
+            "en": [
+                "Tomato",
+                "Banana",
+                "Avocado"
+            ],
+            "es": [
+                "Tomate",
+                "Plátano",
+                "Aguacate"
+            ],
+            "pt": [
+                "Tomate",
+                "Banana",
+                "Abacate"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Огород.",
+                "Вес.",
+                "Ягода."
+            ],
+            "uk": [
+                "Город.",
+                "Вага.",
+                "Ягода."
+            ],
+            "en": [
+                "Garden.",
+                "Weight.",
+                "Berry."
+            ],
+            "es": [
+                "Jardín.",
+                "Peso.",
+                "Baya."
+            ],
+            "pt": [
+                "Horta.",
+                "Peso.",
+                "Baga."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Ягода весом в тонну.",
+                "Её изучает наука Кукурбитология."
+            ],
+            "uk": [
+                "Ягода вагою в тонну.",
+                "Її вивчає наука Кукурбітологія."
+            ],
+            "en": [
+                "A berry weighing a ton.",
+                "It's studied by the science of Cucurbitology."
+            ],
+            "es": [
+                "Una baya que pesa una tonelada.",
+                "Es estudiada por la ciencia de la Cucurbitología."
+            ],
+            "pt": [
+                "Uma baga que pesa uma tonelada.",
+                "Ela é estudada pela ciência da Cucurbitologia."
+            ]
+        },
+        "tooltip": {
+            "ru": "Она может весить более 1 тонны.",
+            "uk": "Вона може важити більше 1 тонни.",
+            "en": "It can weigh over 1 ton.",
+            "es": "Puede pesar más de 1 tonelada.",
+            "pt": "Pode pesar mais de 1 tonelada."
+        },
+        "qwestion": {
+            "ru": "Какая самая большая ягода на планете?",
+            "uk": "Яка найбільша ягода на планеті?",
+            "en": "What is the largest berry on the planet?",
+            "es": "¿Cuál es la baya más grande del planeta?",
+            "pt": "Qual é a maior baga do planeta?"
+        },
+        "definition": {
+            "ru": "Тыква — это вид овощных культур, который с ботанической точки зрения является ягодой. Благодаря селекции, тыква стала крупнейшей ягодой в мире, и её вес может превышать 1200 кг.",
+            "uk": "Гарбуз — це вид овочевих культур, який з ботанічної точки зору є ягодою. Завдяки селекції, гарбуз став найбільшою ягодою у світі, і його вага може перевищувати 1200 кг.",
+            "en": "A pumpkin is a type of squash that is botanically classified as a berry. Through selective breeding, the pumpkin has become the largest berry in the world, and its weight can exceed 1,200 kg.",
+            "es": "La calabaza es un tipo de calabacín que se clasifica botánicamente como una baya. Mediante la cría selectiva, la calabaza se ha convertido en la baya más grande del mundo, y su peso puede superar los 1.200 kg.",
+            "pt": "A abóbora é um tipo de abobrinha que é botanicamente classificada como uma baga. Através da criação seletiva, a abóbora se tornou a maior baga do mundo, e seu peso pode exceder 1.200 kg."
+        },
+        "antipod": {
+            "ru": "Арбуз",
+            "uk": "Кавун",
+            "en": "Watermelon",
+            "es": "Sandía",
+            "pt": "Melancia"
+        },
+        "hintFuiz": {
+            "ru": "Это овощ, который на самом деле является гигантской ягодой.",
+            "uk": "Це овоч, який насправді є гігантською ягодою.",
+            "en": "It's a vegetable that is actually a giant berry.",
+            "es": "Es un vegetal que en realidad es una baya gigante.",
+            "pt": "É um vegetal que na verdade é uma baga gigante."
+        },
+        "article": "https://en.wikipedia.org/wiki/Pumpkin"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Jingle Bells",
+            "uk": "Jingle Bells",
+            "en": "Jingle Bells",
+            "es": "Jingle Bells",
+            "pt": "Jingle Bells"
+        },
+        "wrong": {
+            "ru": [
+                "White Christmas",
+                "All I Want for Christmas Is You",
+                "Last Christmas"
+            ],
+            "uk": [
+                "White Christmas",
+                "All I Want for Christmas Is You",
+                "Last Christmas"
+            ],
+            "en": [
+                "White Christmas",
+                "All I Want for Christmas Is You",
+                "Last Christmas"
+            ],
+            "es": [
+                "White Christmas",
+                "All I Want for Christmas Is You",
+                "Last Christmas"
+            ],
+            "pt": [
+                "White Christmas",
+                "All I Want for Christmas Is You",
+                "Last Christmas"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Гимн",
+                "Колокольчики",
+                "Сани"
+            ],
+            "uk": [
+                "Гімн",
+                "Дзвіночки",
+                "Сани"
+            ],
+            "en": [
+                "Hymn",
+                "Bells",
+                "Sleigh"
+            ],
+            "es": [
+                "Himno",
+                "Campanas",
+                "Trineo"
+            ],
+            "pt": [
+                "Hino",
+                "Sinos",
+                "Trenó"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Весёлая песня о лошадиных санях.",
+                "Праздничная песня."
+            ],
+            "uk": [
+                "Весела пісня про кінні сани.",
+                "Святкова пісня."
+            ],
+            "en": [
+                "A cheerful song about a horse-drawn sleigh.",
+                "A holiday song."
+            ],
+            "es": [
+                "Una canción alegre sobre un trineo tirado por caballos.",
+                "Una canción festiva."
+            ],
+            "pt": [
+                "Uma canção alegre sobre um trenó puxado por cavalos.",
+                "Uma canção festiva."
+            ]
+        },
+        "tooltip": {
+            "ru": "Она была написана не к Рождеству, а ко Дню благодарения",
+            "uk": "Вона була написана не до Різдва, а до Дня подяки",
+            "en": "It was written not for Christmas, but for Thanksgiving",
+            "es": "Fue escrita no para la Navidad, sino para el Día de Acción de Gracias",
+            "pt": "Foi escrita não para o Natal, mas para o Dia de Ação de Graças"
+        },
+        "qwestion": {
+            "ru": "Какая композиция стала всемирно известным рождественским гимном?",
+            "uk": "Яка композиція стала всесвітньо відомим різдвяним гімном?",
+            "en": "What composition became a globally famous Christmas hymn?",
+            "es": "¿Qué composición se convirtió en un himno navideño mundialmente famoso?",
+            "pt": "Que composição se tornou um hino de Natal mundialmente famoso?"
+        },
+        "definition": {
+            "ru": "Jingle Bells — это одна из самых известных в мире рождественских песен, написанная Джеймсом Лордом Пьерпойнтом в 1857 году. Интересно, что изначально она предназначалась для исполнения на День благодарения и называлась 'One Horse Open Sleigh'.",
+            "uk": "Jingle Bells — це одна з найвідоміших у світі різдвяних пісень, написана Джеймсом Лордом П'єрпойнтом у 1857 році. Цікаво, що спочатку вона призначалася для виконання на День подяки і називалася 'One Horse Open Sleigh'.",
+            "en": "Jingle Bells is one of the most famous Christmas songs in the world, written by James Lord Pierpont in 1857. Interestingly, it was originally intended for a Thanksgiving performance and was called 'One Horse Open Sleigh'.",
+            "es": "Jingle Bells es una de las canciones navideñas más famosas del mundo, escrita por James Lord Pierpont en 1857. Curiosamente, originalmente estaba destinada a ser interpretada en el Día de Acción de Gracias y se llamaba 'One Horse Open Sleigh'.",
+            "pt": "Jingle Bells é uma das canções de Natal mais famosas do mundo, escrita por James Lord Pierpont em 1857. Curiosamente, ela foi originalmente destinada a uma apresentação de Ação de Graças e se chamava 'One Horse Open Sleigh'."
+        },
+        "antipod": {
+            "ru": "Silent Night",
+            "uk": "Тиха ніч",
+            "en": "Silent Night",
+            "es": "Noche de paz",
+            "pt": "Noite Feliz"
+        },
+        "hintFuiz": {
+            "ru": "Эта песня о санях и колокольчиках, изначально написанная для другого праздника.",
+            "uk": "Ця пісня про сани і дзвіночки, спочатку написана для іншого свята.",
+            "en": "This song about a sleigh and bells was originally written for another holiday.",
+            "es": "Esta canción sobre un trineo y campanas fue escrita originalmente para otra festividad.",
+            "pt": "Esta canção sobre um trenó e sinos foi originalmente escrita para outro feriado."
+        },
+        "article": "https://en.wikipedia.org/wiki/Jingle_Bells"
+    },
+    "imgFlag": "quizfoto"
+}

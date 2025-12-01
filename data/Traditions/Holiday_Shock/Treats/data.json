@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Угощения",
+            "uk": "Пригощення",
+            "en": "Treats",
+            "es": "Manjares",
+            "pt": "Guloseimas"
+        },
+        "wrong": {
+            "ru": [
+                "Веник",
+                "Зола",
+                "Курица"
+            ],
+            "uk": [
+                "Віник",
+                "Зола",
+                "Курка"
+            ],
+            "en": [
+                "Broom",
+                "Ash",
+                "Chicken"
+            ],
+            "es": [
+                "Escoba",
+                "Ceniza",
+                "Pollo"
+            ],
+            "pt": [
+                "Vassoura",
+                "Cinza",
+                "Frango"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Мертвые.",
+                "Древность.",
+                "Задобрить."
+            ],
+            "uk": [
+                "Мертві.",
+                "Стародавність.",
+                "Задобрити."
+            ],
+            "en": [
+                "Dead.",
+                "Antiquity.",
+                "Appease."
+            ],
+            "es": [
+                "Muertos.",
+                "Antigüedad.",
+                "Apaciguar."
+            ],
+            "pt": [
+                "Mortos.",
+                "Antiguidade.",
+                "Apaziguar."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это делали, чтобы задобрить мертвых",
+            "uk": "Це робили, щоб задобрити мертвих",
+            "en": "This was done to appease the dead",
+            "es": "Esto se hacía para apaciguar a los muertos",
+            "pt": "Isso era feito para apaziguar os mortos"
+        },
+        "qwestion": {
+            "ru": "Что в Древней Европе, люди оставляли на пороге своего дома в канун Нового года?",
+            "uk": "Що в Стародавній Європі, люди залишали на порозі свого будинку в канун Нового року?",
+            "en": "What did people in Ancient Europe leave on their doorstep on New Year's Eve?",
+            "es": "¿Qué dejaba la gente en la puerta de su casa en la víspera de Año Nuevo en la antigua Europa?",
+            "pt": "O que as pessoas na Europa Antiga deixavam na porta de casa na véspera de Ano Novo?"
+        },
+        "definition": {
+            "ru": "Угощения — это обрядовая еда, которую в древности люди оставляли на пороге или на столе в канун Нового года, чтобы задобрить и почтить души умерших предков, которые, как считалось, приходили в этот день в гости.",
+            "uk": "Пригощення — це обрядова їжа, яку в давнину люди залишали на порозі або на столі напередодні Нового року, щоб задобрити і вшанувати душі померлих предків, які, як вважалося, приходили в цей день у гості.",
+            "en": "Treats are ritualistic food that people in antiquity left on their doorstep or table on New Year's Eve to appease and honor the souls of deceased ancestors, who were believed to visit on this day.",
+            "es": "Los manjares son alimentos rituales que la gente en la antigüedad dejaba en su puerta o mesa en la víspera de Año Nuevo para apaciguar y honrar las almas de los ancestros fallecidos, quienes se creía que venían a visitarlos ese día.",
+            "pt": "As guloseimas são comidas rituais que as pessoas na antiguidade deixavam na porta de casa ou na mesa na véspera de Ano Novo para apaziguar e honrar as almas dos ancestrais falecidos, que, segundo a crença, vinham visitá-los naquele dia."
+        },
+        "antipod": {
+            "ru": "Ключ",
+            "uk": "Ключ",
+            "en": "Key",
+            "es": "Llave",
+            "pt": "Chave"
+        },
+        "hintFuiz": {
+            "ru": "В Древней Европе, оставляли на пороге своего дома в канун Нового года.",
+            "uk": "У Стародавній Європі, залишали на порозі свого будинку напередодні Нового року.",
+            "en": "In Ancient Europe, they left it on their doorstep on New Year's Eve.",
+            "es": "En la antigua Europa, lo dejaban en su puerta en la víspera de Año Nuevo.",
+            "pt": "Na Europa Antiga, eles deixavam na porta de casa na véspera de Ano Novo."
+        },
+        "riddle": {
+            "ru": [
+                "Для тех, кого уже нет с нами.",
+                "Сладости и угощения для духов."
+            ],
+            "uk": [
+                "Для тих, кого вже немає з нами.",
+                "Солодощі та частування для духів."
+            ],
+            "en": [
+                "For those who are no longer with us.",
+                "Sweets and treats for the spirits."
+            ],
+            "es": [
+                "Para aquellos que ya no están con nosotros.",
+                "Dulces y golosinas para los espíritus."
+            ],
+            "pt": [
+                "Para aqueles que já não estão mais conosco.",
+                "Doces e guloseimas para os espíritos."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/New_Year%27s_Day#Traditions_and_customs"
+    },
+    "imgFlag": "quizfoto"
+}

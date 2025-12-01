@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Юпитер",
+            "uk": "Юпітер",
+            "en": "Jupiter",
+            "es": "Júpiter",
+            "pt": "Júpiter"
+        },
+        "wrong": {
+            "ru": [
+                "Марс",
+                "Уран",
+                "Солнце"
+            ],
+            "uk": [
+                "Марс",
+                "Уран",
+                "Сонце"
+            ],
+            "en": [
+                "Mars",
+                "Uranus",
+                "Sun"
+            ],
+            "es": [
+                "Marte",
+                "Urano",
+                "Sol"
+            ],
+            "pt": [
+                "Marte",
+                "Urano",
+                "Sol"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Газовый гигант.",
+                "Большое Красное Пятно.",
+                "Множество спутников."
+            ],
+            "uk": [
+                "Газовий гігант.",
+                "Велика Червона Пляма.",
+                "Багато супутників."
+            ],
+            "en": [
+                "Gas giant.",
+                "Great Red Spot.",
+                "Many moons."
+            ],
+            "es": [
+                "Gigante gaseoso.",
+                "Gran Mancha Roja.",
+                "Muchas lunas."
+            ],
+            "pt": [
+                "Gigante gasoso.",
+                "Grande Mancha Vermelha.",
+                "Muitas luas."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Какая планета самая большая в Солнечной системе?",
+                "На какой планете бушует шторм уже сотни лет?"
+            ],
+            "uk": [
+                "Яка планета найбільша в Сонячній системі?",
+                "На якій планеті вирує шторм уже сотні років?"
+            ],
+            "en": [
+                "What is the largest planet in the Solar System?",
+                "On which planet has a storm been raging for hundreds of years?"
+            ],
+            "es": [
+                "¿Cuál es el planeta más grande del Sistema Solar?",
+                "¿En qué planeta ha estado una tormenta furiosa durante cientos de años?"
+            ],
+            "pt": [
+                "Qual é o maior planeta do Sistema Solar?",
+                "Em qual planeta uma tempestade tem se agitado por centenas de anos?"
+            ]
+        },
+        "tooltip": {
+            "ru": "На её поверхности уже сотни лет бушует шторм. Он виден как огромное красное пятно.",
+            "uk": "На її поверхні вже сотні років вирує шторм. Він видно як величезна червона пляма.",
+            "en": "A storm has been raging on its surface for hundreds of years. It's visible as the Great Red Spot.",
+            "es": "Una tormenta ha estado azotando su superficie durante cientos de años. Es visible como la Gran Mancha Roja.",
+            "pt": "Uma tempestade tem se espalhado em sua superfície por centenas de anos. É visível como a Grande Mancha Vermelha."
+        },
+        "qwestion": {
+            "ru": "Какая планета в Солнечной системе является самой большой и самой массивной?",
+            "uk": "Яка планета в Сонячній системі є найбільшою і наймасивнішою?",
+            "en": "Which planet in the Solar System is the largest and most massive?",
+            "es": "¿Qué planeta en el Sistema Solar es el más grande y masivo?",
+            "pt": "Qual planeta no Sistema Solar é o maior e mais massivo?"
+        },
+        "definition": {
+            "ru": "Юпитер — крупнейшая планета в Солнечной системе, газовый гигант, состоящий в основном из водорода и гелия. Он имеет самое сильное магнитное поле.",
+            "uk": "Юпітер — найбільша планета в Сонячній системі, газовий гігант, що складається переважно з водню і гелію. Він має найсильніше магнітне поле.",
+            "en": "Jupiter is the largest planet in the Solar System, a gas giant composed mainly of hydrogen and helium. It also has the strongest magnetic field.",
+            "es": "Júpiter es el planeta más grande del Sistema Solar, un gigante gaseoso compuesto principalmente de hidrógeno y helio. También tiene el campo magnético más fuerte.",
+            "pt": "Júpiter é o maior planeta do Sistema Solar, um gigante gasoso composto principalmente de hidrogênio e hélio. Ele também tem o campo magnético mais forte."
+        },
+        "antipod": {
+            "ru": "Сатурн",
+            "uk": "Сатурн",
+            "en": "Saturn",
+            "es": "Saturno",
+            "pt": "Saturno"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих двух планет имеет более короткие сутки?",
+            "uk": "Яка з цих двох планет має найкоротшу добу?",
+            "en": "Which of these two planets has a shorter day?",
+            "es": "¿Cuál de estos dos planetas tiene un día más corto?",
+            "pt": "Qual desses dois planetas tem um dia mais curto?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Jupiter"
+    },
+    "imgFlag": "all" 
+}

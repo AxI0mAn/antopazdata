@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Орган",
+            "uk": "Орган",
+            "en": "Pipe organ",
+            "es": "Órgano de tubos",
+            "pt": "Órgão de tubos"
+        },
+        "wrong": {
+            "ru": [
+                "Клавесин",
+                "Синтезатор",
+                "Баян"
+            ],
+            "uk": [
+                "Клавесин",
+                "Синтезатор",
+                "Баян"
+            ],
+            "en": [
+                "Harpsichord",
+                "Synthesizer",
+                "Bayan accordion"
+            ],
+            "es": [
+                "Clavicémbalo",
+                "Sintetizador",
+                "Bayan"
+            ],
+            "pt": [
+                "Cravo",
+                "Sintetizador",
+                "Acordeão bayan"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Церковь.",
+                "Трубы.",
+                "Клавиатура."
+            ],
+            "uk": [
+                "Церква.",
+                "Труби.",
+                "Клавіатура."
+            ],
+            "en": [
+                "Church.",
+                "Pipes.",
+                "Keyboard."
+            ],
+            "es": [
+                "Iglesia.",
+                "Tubos.",
+                "Teclado."
+            ],
+            "pt": [
+                "Igreja.",
+                "Tubos.",
+                "Teclado."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Кого называют «королём инструментов»?",
+                "Какой инструмент состоит из 10 000+ труб?"
+            ],
+            "uk": [
+                "Кого називають «королем інструментів»?",
+                "Який інструмент складається з 10 000+ труб?"
+            ],
+            "en": [
+                "What's known as the 'king of instruments'?",
+                "What instrument is made of 10,000+ pipes?"
+            ],
+            "es": [
+                "¿A qué se le llama el 'rey de los instrumentos'?",
+                "¿Qué instrumento tiene más de 10.000 tubos?"
+            ],
+            "pt": [
+                "O que é chamado de 'rei dos instrumentos'?",
+                "Qual instrumento é feito de mais de 10.000 tubos?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Его часто называют «королём инструментов» из-за его масштаба и силы звучания.",
+            "uk": "Його часто називають «королем інструментів» через його масштаб і силу звучання.",
+            "en": "It is often called the 'king of instruments' because of its scale and powerful sound.",
+            "es": "A menudo se le llama el 'rey de los instrumentos' por su escala y la potencia de su sonido.",
+            "pt": "É frequentemente chamado de 'rei dos instrumentos' devido à sua escala e ao seu som potente."
+        },
+        "qwestion": {
+            "ru": "Какой инструмент с 10 000+ труб занимает целую комнату?",
+            "uk": "Який інструмент з 10 000+ труб займає цілу кімнату?",
+            "en": "Which instrument with 10,000+ pipes takes up an entire room?",
+            "es": "¿Qué instrumento con más de 10.000 tubos ocupa una habitación entera?",
+            "pt": "Qual instrumento com mais de 10.000 tubos ocupa uma sala inteira?"
+        },
+        "definition": {
+            "ru": "Орган — это клавишно-духовой музыкальный инструмент, в котором звук производится сжатым воздухом, поступающим в трубы.",
+            "uk": "Орган — це клавішно-духовий музичний інструмент, у якому звук створюється стисненим повітрям, що надходить у труби.",
+            "en": "The pipe organ is a keyboard wind instrument in which sound is produced by compressed air flowing into pipes.",
+            "es": "El órgano de tubos es un instrumento de viento y teclado en el que el sonido se produce por aire comprimido que fluye hacia los tubos.",
+            "pt": "O órgão de tubos é um instrumento de sopro com teclado, no qual o som é produzido pelo ar comprimido que flui para os tubos."
+        },
+        "antipod": {
+            "ru": "Аккордеон",
+            "uk": "Акордеон",
+            "en": "Accordion",
+            "es": "Acordeón",
+            "pt": "Acordeão"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих инструментов для создания звука использует сжатый воздух?",
+            "uk": "Який з цих інструментів для створення звуку використовує стиснене повітря?",
+            "en": "Which of these instruments uses compressed air to create sound?",
+            "es": "¿Cuál de estos instrumentos usa aire comprimido para crear sonido?",
+            "pt": "Qual desses instrumentos usa ar comprimido para criar som?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Pipe_organ"
+    },
+    "imgFlag": "all" 
+}

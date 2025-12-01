@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Обон",
+            "uk": "Обон",
+            "en": "Obon",
+            "es": "Obon",
+            "pt": "Obon"
+        },
+        "wrong": {
+            "ru": [
+                "Тэндзин",
+                "Канда",
+                "Гион"
+            ],
+            "uk": [
+                "Тендзін",
+                "Канда",
+                "Гіон"
+            ],
+            "en": [
+                "Tenjin",
+                "Kanda",
+                "Gion"
+            ],
+            "es": [
+                "Tenjin",
+                "Kanda",
+                "Gion"
+            ],
+            "pt": [
+                "Tenjin",
+                "Kanda",
+                "Gion"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Танцы",
+                "Фонарики",
+                "Вода"
+            ],
+            "uk": [
+                "Танці",
+                "Ліхтарики",
+                "Вода"
+            ],
+            "en": [
+                "Dances",
+                "Lanterns",
+                "Water"
+            ],
+            "es": [
+                "Bailes",
+                "Faroles",
+                "Agua"
+            ],
+            "pt": [
+                "Danças",
+                "Lanternas",
+                "Água"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Фонарики на воде как дань предкам.",
+                "День поклонения предкам."
+            ],
+            "uk": [
+                "Ліхтарики на воді як данина предкам.",
+                "День поклоніння предкам."
+            ],
+            "en": [
+                "Lanterns on the water as a tribute to ancestors.",
+                "A day of honoring ancestors."
+            ],
+            "es": [
+                "Faroles en el agua como homenaje a los antepasados.",
+                "Un día para honrar a los antepasados."
+            ],
+            "pt": [
+                "Lanternas na água como homenagem aos ancestrais.",
+                "Um dia de adoração aos ancestrais."
+            ]
+        },
+        "tooltip": {
+            "ru": "Традиционный фестиваль с ритуальными танцами и запуском плавучих фонариков в воду.",
+            "uk": "Традиційний фестиваль з ритуальними танцями та запуском плавучих ліхтариків у воду.",
+            "en": "A traditional festival with ritual dances and the launching of floating lanterns into the water.",
+            "es": "Un festival tradicional con bailes rituales y el lanzamiento de faroles flotantes al agua.",
+            "pt": "Um festival tradicional com danças rituais e o lançamento de lanternas flutuantes na água."
+        },
+        "qwestion": {
+            "ru": "Какой фестиваль в Японии, посвящён поклонению предкам?",
+            "uk": "Який фестиваль у Японії, присвячений поклонінню предкам?",
+            "en": "What festival in Japan is dedicated to ancestor worship?",
+            "es": "¿Qué festival en Japón está dedicado a la adoración de los antepasados?",
+            "pt": "Qual festival no Japão é dedicado à adoração dos ancestrais?"
+        },
+        "definition": {
+            "ru": "Обон — это японский буддийский фестиваль в честь усопших предков. В это время люди возвращаются в свои родные города, чтобы посетить могилы, а вечером запускают фонарики по воде, чтобы души предков могли найти путь.",
+            "uk": "Обон — це японський буддійський фестиваль на честь померлих предків. У цей час люди повертаються в рідні міста, щоб відвідати могили, а ввечері запускають ліхтарики по воді, щоб душі предків могли знайти шлях.",
+            "en": "Obon is a Japanese Buddhist festival in honor of deceased ancestors. During this time, people return to their hometowns to visit graves, and in the evening, they float lanterns on the water so the spirits of ancestors can find their way.",
+            "es": "Obon es un festival budista japonés en honor a los ancestros fallecidos. En este momento, las personas regresan a sus ciudades natales para visitar tumbas, y por la noche, lanzan faroles en el agua para que los espíritus de los ancestros puedan encontrar el camino.",
+            "pt": "Obon é um festival budista japonês em homenagem aos ancestrais falecidos. Durante esse período, as pessoas retornam às suas cidades de origem para visitar túmulos, e à noite, lançam lanternas na água para que os espíritos dos ancestrais possam encontrar o caminho."
+        },
+        "antipod": {
+            "ru": "Ханами",
+            "uk": "Ханами",
+            "en": "Hanami",
+            "es": "Hanami",
+            "pt": "Hanami"
+        },
+        "hintFuiz": {
+            "ru": "Это японский буддийский фестиваль в честь усопших предков.",
+            "uk": "Це японський буддійський фестиваль на честь померлих предків.",
+            "en": "A Japanese Buddhist holiday honoring deceased ancestors.",
+            "es": "Esta es una festividad budista japonesa en honor a los antepasados ​​fallecidos.",
+            "pt": "Festival budista japonês em homenagem aos ancestrais falecidos."
+        },
+        "article": "https://en.wikipedia.org/wiki/Bon_Festival"
+    },
+    "imgFlag": "quizfoto"
+}

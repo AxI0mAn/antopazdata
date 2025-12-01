@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Перец Каролина Рипер",
+            "uk": "Перець Кароліна Ріпер",
+            "en": "Carolina Reaper Pepper",
+            "es": "Pimiento Carolina Reaper",
+            "pt": "Pimenta Carolina Reaper"
+        },
+        "wrong": {
+            "ru": [
+                "Хабанеро",
+                "Халапеньо",
+                "Кайенский перец"
+            ],
+            "uk": [
+                "Хабанеро",
+                "Халапеньо",
+                "Каєнський перець"
+            ],
+            "en": [
+                "Habanero",
+                "Jalapeño",
+                "Cayenne pepper"
+            ],
+            "es": [
+                "Habanero",
+                "Jalapeño",
+                "Pimienta de cayena"
+            ],
+            "pt": [
+                "Habanero",
+                "Jalapeño",
+                "Pimenta de Caiena"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Острота.",
+                "Сковилл.",
+                "Рекорд."
+            ],
+            "uk": [
+                "Гострота.",
+                "Сковілл.",
+                "Рекорд."
+            ],
+            "en": [
+                "Heat.",
+                "Scoville.",
+                "Record."
+            ],
+            "es": [
+                "Picor.",
+                "Scoville.",
+                "Récord."
+            ],
+            "pt": [
+                "Ardor.",
+                "Scoville.",
+                "Recorde."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Его красный цвет предвещает адский огонь.",
+                "Его острота может заставить тебя плакать."
+            ],
+            "uk": [
+                "Його червоний колір віщує пекельний вогонь.",
+                "Його гострота може змусити тебе плакати."
+            ],
+            "en": [
+                "Its red color portends hellfire.",
+                "Its spiciness can make you cry."
+            ],
+            "es": [
+                "Su color rojo presagia el fuego del infierno.",
+                "Su picor puede hacerte llorar."
+            ],
+            "pt": [
+                "Sua cor vermelha prenuncia o fogo do inferno.",
+                "Seu sabor picante pode fazer você chorar."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это самый острый перец в мире, его острота достигает 2,2 миллиона единиц Сковилла.",
+            "uk": "Це найгостріший перець у світі, його гострота досягає 2,2 мільйона одиниць Сковілла.",
+            "en": "This is the hottest pepper in the world, with a Scoville rating of up to 2.2 million units.",
+            "es": "Este es el pimiento más picante del mundo, con una calificación Scoville de hasta 2,2 millones de unidades.",
+            "pt": "Esta é a pimenta mais picante do mundo, com uma classificação Scoville de até 2,2 milhões de unidades."
+        },
+        "qwestion": {
+            "ru": "Какой самый острый овощ измеряется миллионами единиц по шкале Сковилла?",
+            "uk": "Який найгостріший овоч вимірюється мільйонами одиниць за шкалою Сковілла?",
+            "en": "What is the hottest vegetable measured in millions of units on the Scoville scale?",
+            "es": "¿Qué vegetal más picante se mide en millones de unidades en la escala Scoville?",
+            "pt": "Qual é o vegetal mais picante medido em milhões de unidades na escala Scoville?"
+        },
+        "definition": {
+            "ru": "Перец Каролина Рипер — это сорт перца чили, который был признан Книгой рекордов Гиннесса самым острым в мире. Его острота достигает более 2 миллионов единиц по шкале Сковилла, что делает его чрезвычайно жгучим.",
+            "uk": "Перець Кароліна Ріпер — це сорт перцю чилі, який був визнаний Книгою рекордів Гіннесса найгострішим у світі. Його гострота досягає понад 2 мільйони одиниць за шкалою Сковілла, що робить його надзвичайно пекучим.",
+            "en": "The Carolina Reaper is a variety of chili pepper recognized by the Guinness World Records as the hottest in the world. Its heat reaches over 2 million units on the Scoville scale, making it extremely pungent.",
+            "es": "El pimiento Carolina Reaper es una variedad de chile reconocida por el Libro Guinness de los Récords como la más picante del mundo. Su picor alcanza más de 2 millones de unidades en la escala Scoville, lo que lo hace extremadamente potente.",
+            "pt": "A pimenta Carolina Reaper é uma variedade de pimenta-malagueta reconhecida pelo Guinness World Records como a mais picante do mundo. Seu ardor atinge mais de 2 milhões de unidades na escala Scoville, tornando-a extremamente pungente."
+        },
+        "antipod": {
+            "ru": "Болгарский перец",
+            "uk": "Болгарський перець",
+            "en": "Bell pepper",
+            "es": "Pimiento morrón",
+            "pt": "Pimentão"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих двух перцев является самым острым?",
+            "uk": "Який з цих двох перців є найгострішим?",
+            "en": "Which of these two peppers is the hottest?",
+            "es": "¿Cuál de estos dos pimientos es el más picante?",
+            "pt": "Qual dessas duas pimentas é a mais picante?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Carolina_Reaper"
+    },
+    "imgFlag": "all"
+}

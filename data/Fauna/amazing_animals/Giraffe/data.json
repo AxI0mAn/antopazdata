@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Жираф",
+            "uk": "Жирафа",
+            "en": "Giraffe",
+            "es": "Jirafa",
+            "pt": "Girafa"
+        },
+        "wrong": {
+            "ru": [
+                "Зебра",
+                "Страус",
+                "Верблюд"
+            ],
+            "uk": [
+                "Зебра",
+                "Страус",
+                "Верблюд"
+            ],
+            "en": [
+                "Zebra",
+                "Ostrich",
+                "Camel"
+            ],
+            "es": [
+                "Cebra",
+                "Avestruz",
+                "Camello"
+            ],
+            "pt": [
+                "Zebra",
+                "Avestruz",
+                "Camelo"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Длинная шея.",
+                "Высокое кровяное давление.",
+                "Африка."
+            ],
+            "uk": [
+                "Довга шия.",
+                "Високий кров'яний тиск.",
+                "Африка."
+            ],
+            "en": [
+                "Long neck.",
+                "High blood pressure.",
+                "Africa."
+            ],
+            "es": [
+                "Cuello largo.",
+                "Presión arterial alta.",
+                "África."
+            ],
+            "pt": [
+                "Pescoço longo.",
+                "Pressão arterial alta.",
+                "África."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Я ем листья с самых высоких деревьев и могу видеть на мили вокруг.",
+                "Мое сердце в два раза больше, чем у человека."
+            ],
+            "uk": [
+                "Я їм листя з найвищих дерев і можу бачити на милі навколо.",
+                "Моє серце вдвічі більше, ніж у людини."
+            ],
+            "en": [
+                "I eat leaves from the highest trees and can see for miles around.",
+                "My heart is twice the size of a human's."
+            ],
+            "es": [
+                "Como hojas de los árboles más altos y puedo ver por millas a la redonda.",
+                "Mi corazón es dos veces más grande que el de un humano."
+            ],
+            "pt": [
+                "Eu como folhas das árvores mais altas e posso ver por quilômetros ao redor.",
+                "Meu coração é duas vezes maior que o de um humano."
+            ]
+        },
+        "tooltip": {
+            "ru": "Его язык настолько длинный, что он может чистить им свои уши!",
+            "uk": "Його язик настільки довгий, що він може чистити ним свої вуха!",
+            "en": "Its tongue is so long that it can clean its own ears with it!",
+            "es": "Su lengua es tan larga que puede usarla para limpiarse las orejas.",
+            "pt": "Sua língua é tão longa que ele pode usá-la para limpar suas próprias orelhas!"
+        },
+        "qwestion": {
+            "ru": "Какое животное имеет самое высокое кровяное давление, чтобы кровь могла достигать мозга?",
+            "uk": "Яка тварина має найвищий кров'яний тиск, щоб кров могла досягати мозку?",
+            "en": "What animal has the highest blood pressure so that blood can reach its brain?",
+            "es": "¿Qué animal tiene la presión arterial más alta para que la sangre pueda llegar a su cerebro?",
+            "pt": "Que animal tem a pressão arterial mais alta para que o sangue possa chegar ao seu cérebro?"
+        },
+        "definition": {
+            "ru": "Жираф — это самое высокое наземное животное, обитающее в Африке. Он известен своей невероятно длинной шеей, уникальным рисунком на шерсти и способностью питаться с высоких деревьев, к которым другие животные не могут дотянуться.",
+            "uk": "Жирафа — це найвища наземна тварина, що мешкає в Африці. Вона відома своєю неймовірно довгою шиєю, унікальним малюнком на шерсті та здатністю харчуватися з високих дерев, до яких інші тварини не можуть дотягнутися.",
+            "en": "The giraffe is the tallest land animal, native to Africa. It is known for its incredibly long neck, unique coat pattern, and its ability to feed from tall trees that other animals cannot reach.",
+            "es": "La jirafa es el animal terrestre más alto, nativo de África. Es conocida por su increíblemente largo cuello, su patrón de pelaje único y su capacidad para alimentarse de árboles altos que otros animales no pueden alcanzar.",
+            "pt": "A girafa é o animal terrestre mais alto, nativo da África. É conhecida por seu pescoço incrivelmente longo, padrão de pelagem único e sua capacidade de se alimentar de árvores altas que outros animais não conseguem alcançar."
+        },
+        "antipod": {
+            "ru": "Окапи",
+            "uk": "Окапі",
+            "en": "Okapi",
+            "es": "Okapi",
+            "pt": "Ocapi"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих животных имеет самую длинную шею?",
+            "uk": "Яка з цих тварин має найдовшу шию?",
+            "en": "Which of these animals has the longest neck?",
+            "es": "¿Cuál de estos animales tiene el cuello más largo?",
+            "pt": "Qual desses animais tem o pescoço mais longo?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Giraffe"
+    },
+    "imgFlag": "all" 
+}

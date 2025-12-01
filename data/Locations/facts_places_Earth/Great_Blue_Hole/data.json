@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Большая голубая дыра",
+            "uk": "Велика блакитна діра",
+            "en": "Great Blue Hole",
+            "es": "Gran Agujero Azul",
+            "pt": "Grande Buraco Azul"
+        },
+        "wrong": {
+            "ru": [
+                "Голубая дыра Дахаба",
+                "Барьерный риф",
+                "Тоннель Ла-Манша"
+            ],
+            "uk": [
+                "Блакитна діра Дахабу",
+                "Бар'єрний риф",
+                "Тунель Ла-Маншу"
+            ],
+            "en": [
+                "Blue Hole of Dahab",
+                "Barrier Reef",
+                "Channel Tunnel"
+            ],
+            "es": [
+                "Agujero Azul de Dahab",
+                "Barrera de coral",
+                "Túnel del Canal"
+            ],
+            "pt": [
+                "Buraco Azul de Dahab",
+                "Barreira de coral",
+                "Túnel do Canal"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Дайвинг.",
+                "Воронка.",
+                "Белиз."
+            ],
+            "uk": [
+                "Дайвінг.",
+                "Вирва.",
+                "Беліз."
+            ],
+            "en": [
+                "Diving.",
+                "Sinkhole.",
+                "Belize."
+            ],
+            "es": [
+                "Buceo.",
+                "Sumidero.",
+                "Belice."
+            ],
+            "pt": [
+                "Mergulho.",
+                "Sumidouro.",
+                "Belize."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Большая голубая дыра.",
+                "Дыра, полная тайны и сталактитов."
+            ],
+            "uk": [
+                "Велика блакитна діра.",
+                "Діра, повна таємниці та сталактитів."
+            ],
+            "en": [
+                "Great Blue Hole.",
+                "A hole full of mystery and stalactites."
+            ],
+            "es": [
+                "Gran Agujero Azul.",
+                "Un agujero lleno de misterio y estalactitas."
+            ],
+            "pt": [
+                "Grande Buraco Azul.",
+                "Um buraco cheio de mistério e estalactites."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это место - рай для дайверов и объект Всемирного наследия ЮНЕСКО.",
+            "uk": "Це місце - рай для дайверів і об'єкт Світової спадщини ЮНЕСКО.",
+            "en": "This place is a diver's paradise and a UNESCO World Heritage Site.",
+            "es": "Este lugar es un paraíso para buceadores y un sitio del Patrimonio Mundial de la UNESCO.",
+            "pt": "Este lugar é um paraíso para mergulhadores e um Patrimônio Mundial da UNESCO."
+        },
+        "qwestion": {
+            "ru": "Какое подводное карстовое образование у берегов Белиза, является гигантской круглой воронкой?",
+            "uk": "Яке підводне карстове утворення біля берегів Белізу є гігантською круглою вирвою?",
+            "en": "What underwater karst formation off the coast of Belize is a giant circular sinkhole?",
+            "es": "¿Qué formación kárstica submarina frente a la costa de Belice es un gigantesco sumidero circular?",
+            "pt": "Qual formação cárstica subaquática na costa de Belize é um gigantesco sumidouro circular?"
+        },
+        "definition": {
+            "ru": "Большая голубая дыра — это гигантская подводная воронка у побережья Белиза, диаметром около 300 метров и глубиной 124 метра. Она образовалась как система известняковых пещер во время ледникового периода, когда уровень моря был значительно ниже. После таяния льдов пещеры были затоплены, и их потолки обвалились. В 1971 году Жак-Ив Кусто исследовал эту дыру, сделав её всемирно известной. Сегодня она является популярным местом для дайвинга и включена в список Всемирного наследия ЮНЕСКО.",
+            "uk": "Велика блакитна діра — це гігантська підводна вирва біля узбережжя Белізу, діаметром близько 300 метрів і глибиною 124 метри. Вона утворилася як система вапнякових печер під час льодовикового періоду, коли рівень моря був значно нижчим. Після танення льодовиків печери були затоплені, і їхні стелі обвалилися. У 1971 році Жак-Ів Кусто досліджував цю діру, зробивши її всесвітньо відомою. Сьогодні вона є популярним місцем для дайвінгу та включена до списку Світової спадщини ЮНЕСКО.",
+            "en": "The Great Blue Hole is a giant underwater sinkhole off the coast of Belize, approximately 300 meters across and 124 meters deep. It was formed as a system of limestone caves during the last glacial period, when sea levels were much lower. As the glaciers melted, the caves were flooded and their roofs collapsed. In 1971, Jacques-Yves Cousteau explored the hole, making it world-famous. Today, it is a popular diving destination and is part of a UNESCO World Heritage Site.",
+            "es": "El Gran Agujero Azul es un gigantesco sumidero submarino frente a la costa de Belice, de aproximadamente 300 metros de ancho y 124 metros de profundidad. Se formó como un sistema de cuevas de piedra caliza durante el último período glacial, cuando el nivel del mar era mucho más bajo. A medida que los glaciares se derritieron, las cuevas se inundaron y sus techos colapsaron. En 1971, Jacques-Yves Cousteau exploró el agujero, haciéndolo mundialmente famoso. Hoy en día, es un popular destino de buceo y forma parte de un sitio del Patrimonio Mundial de la UNESCO.",
+            "pt": "O Grande Buraco Azul é um gigantesco sumidouro subaquático na costa de Belize, com aproximadamente 300 metros de diâmetro e 124 metros de profundidade. Ele se formou como um sistema de cavernas de calcário durante o último período glacial, quando o nível do mar era muito mais baixo. À medida que as geleiras derreteram, as cavernas foram inundadas e seus tetos desabaram. Em 1971, Jacques-Yves Cousteau explorou o buraco, tornando-o mundialmente famoso. Hoje, é um popular destino de mergulho e faz parte de um Patrimônio Mundial da UNESCO."
+        },
+        "antipod": {
+            "ru": "Марианская впадина",
+            "uk": "Маріанська западина",
+            "en": "Mariana Trench",
+            "es": "Fosa de las Marianas",
+            "pt": "Fossa das Marianas"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих мест является круглой воронкой?",
+            "uk": "Яке з цих місць є круглою вирвою?",
+            "en": "Which of these places is a circular sinkhole?",
+            "es": "¿Cuál de estos lugares es un sumidero circular?",
+            "pt": "Qual desses lugares é um sumidouro circular?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Great_Blue_Hole"
+    },
+    "imgFlag": "all" 
+}

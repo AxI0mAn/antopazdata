@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Бразилия",
+            "uk": "Бразилія",
+            "en": "Brazil",
+            "es": "Brasil",
+            "pt": "Brasil"
+        },
+        "wrong": {
+            "ru": [
+                "Аргентина",
+                "Чили",
+                "Венесуэла"
+            ],
+            "uk": [
+                "Аргентина",
+                "Чилі",
+                "Венесуела"
+            ],
+            "en": [
+                "Argentina",
+                "Chile",
+                "Venezuela"
+            ],
+            "es": [
+                "Argentina",
+                "Chile",
+                "Venezuela"
+            ],
+            "pt": [
+                "Argentina",
+                "Chile",
+                "Venezuela"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Футбол.",
+                "Амазонка.",
+                "Племена."
+            ],
+            "uk": [
+                "Футбол.",
+                "Амазонка.",
+                "Племена."
+            ],
+            "en": [
+                "Football.",
+                "Amazon.",
+                "Tribes."
+            ],
+            "es": [
+                "Fútbol.",
+                "Amazonas.",
+                "Tribus."
+            ],
+            "pt": [
+                "Futebol.",
+                "Amazônia.",
+                "Tribos."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "В этой стране находится самый большой тропический лес в мире.",
+                "Здесь проживает самое большое количество неконтактных племен."
+            ],
+            "uk": [
+                "У цій країні знаходиться найбільший тропічний ліс у світі.",
+                "Тут проживає найбільша кількість неконтактних племен."
+            ],
+            "en": [
+                "This country is home to the world's largest rainforest.",
+                "It has the largest number of uncontacted tribes."
+            ],
+            "es": [
+                "Este país alberga la selva tropical más grande del mundo.",
+                "Tiene el mayor número de tribus no contactadas."
+            ],
+            "pt": [
+                "Este país abriga a maior floresta tropical do mundo.",
+                "Ele tem o maior número de tribos isoladas."
+            ]
+        },
+        "tooltip": {
+            "ru": "Эти племена живут в глубине лесов Амазонки.",
+            "uk": "Ці племена живуть у глибині лісів Амазонки.",
+            "en": "These tribes live deep in the Amazon rainforest.",
+            "es": "Estas tribus viven en lo profundo de la selva amazónica.",
+            "pt": "Essas tribos vivem no interior da floresta amazônica."
+        },
+        "qwestion": {
+            "ru": "Какая страна имеет наибольшее количество неконтактных племен?",
+            "uk": "Яка країна має найбільшу кількість неконтактних племен?",
+            "en": "Which country has the largest number of uncontacted tribes?",
+            "es": "¿Qué país tiene el mayor número de tribus no contactadas?",
+            "pt": "Qual país tem o maior número de tribos isoladas?"
+        },
+        "definition": {
+            "ru": "Бразилия — самая большая страна в Южной Америке, известная своим огромным разнообразием и богатой культурой. Она является домом для большей части тропических лесов Амазонки, которые содержат невероятное биоразнообразие и, как считается, самое большое количество неконтактных племен в мире. Бразилия также славится своим страстным отношением к футболу, ежегодным карнавалом и является единственной португалоговорящей страной в Америке. Ее обширная береговая линия, пышные тропические леса и оживленные города делают ее одним из самых разнообразных государств на планете.",
+            "uk": "Бразилія — найбільша країна в Південній Америці, відома своїм величезним різноманіттям і багатою культурою. Вона є домом для більшої частини тропічних лісів Амазонки, які містять неймовірне біорізноманіття і, як вважається, найбільшу кількість неконтактних племен у світі. Бразилія також славиться своїм пристрасним ставленням до футболу, щорічним карнавалом і є єдиною португаломовною країною в Америці. Її розлога берегова лінія, пишні тропічні ліси та жваві міста роблять її однією з найрізноманітніших держав на планеті.",
+            "en": "Brazil is the largest country in South America, known for its vast diversity and rich culture. It is home to the majority of the Amazon rainforest, which contains incredible biodiversity and is believed to have the largest number of uncontacted tribes in the world. Brazil is also famous for its passionate relationship with football, its annual Carnival, and for being the only Portuguese-speaking country in the Americas. Its extensive coastline, lush rainforests, and vibrant cities make it one of the most varied nations on the planet.",
+            "es": "Brasil es el país más grande de América del Sur, conocido por su vasta diversidad y rica cultura. Es el hogar de la mayor parte de la selva amazónica, que contiene una increíble biodiversidad y se cree que tiene el mayor número de tribus no contactadas del mundo. Brasil también es famoso por su apasionada relación con el fútbol, su Carnaval anual y por ser el único país de habla portuguesa en las Américas. Su extensa costa, exuberantes selvas tropicales y ciudades vibrantes lo convierten en una de las naciones más variadas del planeta.",
+            "pt": "O Brasil é o maior país da América do Sul, conhecido por sua vasta diversidade e rica cultura. É o lar da maior parte da floresta amazônica, que contém uma incrível biodiversidade e, acredita-se, o maior número de tribos isoladas do mundo. O Brasil também é famoso por sua paixão pelo futebol, seu Carnaval anual e por ser o único país de língua portuguesa nas Américas. Sua extensa costa, exuberantes florestas tropicais e cidades vibrantes o tornam uma das nações mais variadas do planeta."
+        },
+        "antipod": {
+            "ru": "Украина",
+            "uk": "Україна",
+            "en": "Ukraine",
+            "es": "Ucrania",
+            "pt": "Ucrânia"
+        },
+        "hintFuiz": {
+            "ru": "В какой из этих стран не бывает снежной и морозной зимы?",
+            "uk": "У якій з цих країн не буває сніжної та морозної зими?",
+            "en": "In which of these countries is there no snowy and frosty winter?",
+            "es": "¿En cuál de estos países no hay inviernos con nieve y heladas?",
+            "pt": "Em qual desses países não há inverno com neve e geada?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Brazil"
+    },
+    "imgFlag": "quizfoto" 
+}

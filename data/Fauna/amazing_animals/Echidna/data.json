@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Ехидна",
+            "uk": "Єхидна",
+            "en": "Echidna",
+            "es": "Equidna",
+            "pt": "Equidna"
+        },
+        "wrong": {
+            "ru": [
+                "Вомбат",
+                "Коала",
+                "Динго"
+            ],
+            "uk": [
+                "Вомбат",
+                "Коала",
+                "Дінго"
+            ],
+            "en": [
+                "Wombat",
+                "Koala",
+                "Dingo"
+            ],
+            "es": [
+                "Uómbat",
+                "Koala",
+                "Dingo"
+            ],
+            "pt": [
+                "Vombate",
+                "Coala",
+                "Dingo"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Иглы.",
+                "Яйцекладущий.",
+                "Австралия."
+            ],
+            "uk": [
+                "Голки.",
+                "Яйцекладний.",
+                "Австралія."
+            ],
+            "en": [
+                "Spines.",
+                "Egg-laying.",
+                "Australia."
+            ],
+            "es": [
+                "Espinas.",
+                "Ovíparo.",
+                "Australia."
+            ],
+            "pt": [
+                "Espinhos.",
+                "Ovíparo.",
+                "Austrália."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Кто является млекопитающим, но откладывает яйца?",
+                "Колючий зверь, который сворачивается в клубок."
+            ],
+            "uk": [
+                "Хто є ссавцем, але відкладає яйця?",
+                "Колючий звір, який згортається в клубок."
+            ],
+            "en": [
+                "What mammal lays eggs?",
+                "A spiny creature that rolls into a ball."
+            ],
+            "es": [
+                "¿Qué mamífero pone huevos?",
+                "Una criatura espinosa que se enrolla en una bola."
+            ],
+            "pt": [
+                "Que mamífero põe ovos?",
+                "Uma criatura espinhosa que se enrola em uma bola."
+            ]
+        },
+        "tooltip": {
+            "ru": "Обладает уникальной способностью выживать в пожарах, впадая в оцепенение и понижая температуру тела.",
+            "uk": "Має унікальну здатність виживати в пожежах, впадаючи в заціпеніння та знижуючи температуру тіла.",
+            "en": "Has the unique ability to survive fires by entering a state of torpor and lowering its body temperature.",
+            "es": "Tiene la capacidad única de sobrevivir a los incendios entrando en un estado de letargo y bajando la temperatura de su cuerpo.",
+            "pt": "Tem a capacidade única de sobreviver a incêndios entrando em torpor e baixando a temperatura do corpo."
+        },
+        "qwestion": {
+            "ru": "Какое австралийское животное откладывает яйца и покрыто иглами?",
+            "uk": "Яка австралійська тварина відкладає яйця та вкрита голками?",
+            "en": "What Australian animal lays eggs and is covered in spines?",
+            "es": "¿Qué animal australiano pone huevos y está cubierto de espinas?",
+            "pt": "Que animal australiano põe ovos e é coberto de espinhos?"
+        },
+        "definition": {
+            "ru": "Ехидна — это млекопитающее из семейства однопроходных, эндемик Австралии. Она откладывает яйца и имеет временную кожную складку для вынашивания детеныша. Уникальна тем, что является одним из немногих яйцекладущих млекопитающих.",
+            "uk": "Єхидна — це ссавець із сімейства однопрохідних, ендемік Австралії. Вона відкладає яйця та має тимчасову шкірну складку для виношування дитинчати. Унікальна тим, що є одним з небагатьох яйцекладних ссавців.",
+            "en": "The echidna is a mammal from the monotreme family, endemic to Australia. It lays eggs and has a temporary skin fold to carry its young. It is unique as one of the few egg-laying mammals.",
+            "es": "El equidna es un mamífero de la familia de los monotremas, endémico de Australia. Pone huevos y tiene un pliegue cutáneo temporal para llevar a sus crías. Es único por ser uno de los pocos mamíferos que ponen huevos.",
+            "pt": "A equidna é um mamífero da família dos monotremados, endêmico da Austrália. Põe ovos e tem uma dobra temporária na pele para carregar seus filhotes. É única por ser um dos poucos mamíferos que põem ovos."
+        },
+        "antipod": {
+            "ru": "Дикобраз",
+            "uk": "Дикобраз",
+            "en": "Porcupine",
+            "es": "Puercoespín",
+            "pt": "Porco-espinho"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих животных не имеет зубов?",
+            "uk": "Яка з цих тварин не має зубів?",
+            "en": "Which of these animals does not have teeth?",
+            "es": "¿Cuál de estos animales no tiene dientes?",
+            "pt": "Qual desses animais não tem dentes?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Echidna"
+    },
+    "imgFlag": "all" 
+}

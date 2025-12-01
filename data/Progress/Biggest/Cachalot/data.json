@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Кашалот",
+            "uk": "Кашалот",
+            "en": "Cachalot",
+            "es": "Cachalote",
+            "pt": "Cachalote"
+        },
+        "wrong": {
+            "ru": [
+                "Касатка",
+                "Белуха",
+                "Синий кит"
+            ],
+            "uk": [
+                "Косатка",
+                "Білуха",
+                "Синій кит"
+            ],
+            "en": [
+                "Orca",
+                "Beluga",
+                "Blue whale"
+            ],
+            "es": [
+                "Orca",
+                "Beluga",
+                "Ballena azul"
+            ],
+            "pt": [
+                "Orca",
+                "Baleia-branca",
+                "Baleia-azul"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Мозг.",
+                "Кит.",
+                "Ныряние."
+            ],
+            "uk": [
+                "Мозок.",
+                "Кит.",
+                "Пірнання."
+            ],
+            "en": [
+                "Brain.",
+                "Whale.",
+                "Diving."
+            ],
+            "es": [
+                "Cerebro.",
+                "Ballena.",
+                "Buceo."
+            ],
+            "pt": [
+                "Cérebro.",
+                "Baleia.",
+                "Mergulho."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Кто самый глубокий ныряльщик, но не подводная лодка?",
+                "У кого голова размером с грузовик?"
+            ],
+            "uk": [
+                "Хто найглибший нирець, але не підводний човен?",
+                "У кого голова розміром з вантажівку?"
+            ],
+            "en": [
+                "Who is the deepest diver, but not a submarine?",
+                "Who has a head the size of a truck?"
+            ],
+            "es": [
+                "¿Quién es el buceador más profundo, pero no un submarino?",
+                "¿Quién tiene una cabeza del tamaño de un camión?"
+            ],
+            "pt": [
+                "Quem é o mergulhador mais profundo, mas não um submarino?",
+                "Quem tem uma cabeça do tamanho de um caminhão?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Его мозг весит около 9 кг.",
+            "uk": "Його мозок важить близько 9 кг.",
+            "en": "Its brain weighs about 9 kg.",
+            "es": "Su cerebro pesa alrededor de 9 kg.",
+            "pt": "Seu cérebro pesa cerca de 9 kg."
+        },
+        "qwestion": {
+            "ru": "Какое животное, имеет самый большой мозг в мире?",
+            "uk": "Яка тварина має найбільший мозок у світі?",
+            "en": "What animal has the largest brain in the world?",
+            "es": "¿Qué animal tiene el cerebro más grande del mundo?",
+            "pt": "Qual animal tem o maior cérebro do mundo?"
+        },
+        "definition": {
+            "ru": "Кашалот — самый крупный зубатый кит. Его массивная квадратная голова содержит самый большой мозг среди всех животных. Он также является самым глубоководным ныряльщиком среди млекопитающих, охотясь на кальмаров в полной темноте.",
+            "uk": "Кашалот — найбільший зубатий кит. Його масивна квадратна голова містить найбільший мозок серед усіх тварин. Він також є найглибоководнішим нирцем серед ссавців, полюючи на кальмарів у повній темряві.",
+            "en": "The cachalot is the largest toothed whale. Its massive square head contains the largest brain of any animal. It is also the deepest diver among mammals, hunting for squid in complete darkness.",
+            "es": "El cachalote es la ballena dentada más grande. Su masiva cabeza cuadrada contiene el cerebro más grande de cualquier animal. También es el buceador más profundo entre los mamíferos, cazando calamares en completa oscuridad.",
+            "pt": "O cachalote é a maior baleia dentada. Sua cabeça maciça e quadrada contém o maior cérebro de qualquer animal. Ele também é o mergulhador mais profundo entre os mamíferos, caçando lulas na escuridão total."
+        },
+        "antipod": {
+            "ru": "Синий кит",
+            "uk": "Синій кит",
+            "en": "Blue whale",
+            "es": "Ballena azul",
+            "pt": "Baleia-azul"
+        },
+        "hintFuiz": {
+            "ru": "Это морское животное, обладающее самым большим мозгом в мире.",
+            "uk": "Це морська тварина, що має найбільший мозок у світі.",
+            "en": "This is a marine animal that has the largest brain in the world.",
+            "es": "Este es un animal marino que tiene el cerebro más grande del mundo.",
+            "pt": "Este é um animal marinho que tem o maior cérebro do mundo."
+        },
+        "article": "https://en.wikipedia.org/wiki/Sperm_whale"
+    },
+    "imgFlag": "all" 
+}

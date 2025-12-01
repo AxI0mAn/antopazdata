@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Праздник фонарей",
+            "uk": "Свято ліхтарів",
+            "en": "Lantern Festival",
+            "es": "Festival de los Faroles",
+            "pt": "Festival das Lanternas"
+        },
+        "wrong": {
+            "ru": [
+                "День труда",
+                "Фестиваль лодок-драконов",
+                "Национальный день"
+            ],
+            "uk": [
+                "День праці",
+                "Фестиваль човнів-драконів",
+                "Національний день"
+            ],
+            "en": [
+                "Labor Day",
+                "Dragon Boat Festival",
+                "National Day"
+            ],
+            "es": [
+                "Día del Trabajo",
+                "Festival de los Botes del Dragón",
+                "Día Nacional"
+            ],
+            "pt": [
+                "Dia do Trabalho",
+                "Festival dos Barcos-Dragão",
+                "Dia Nacional"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Китай",
+                "Фонарики",
+                "Свет"
+            ],
+            "uk": [
+                "Китай",
+                "Ліхтарики",
+                "Світло"
+            ],
+            "en": [
+                "China",
+                "Lanterns",
+                "Light"
+            ],
+            "es": [
+                "China",
+                "Faroles",
+                "Luz"
+            ],
+            "pt": [
+                "China",
+                "Lanternas",
+                "Luz"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Тысячи огней поднимаются в небо.",
+                "Зажигают огоньки и отпускают на удачу."
+            ],
+            "uk": [
+                "Тисячі вогнів піднімаються в небо.",
+                "Запалюють вогники і відпускають на удачу."
+            ],
+            "en": [
+                "Thousands of lights rise into the sky.",
+                "They light lanterns and release them for good luck."
+            ],
+            "es": [
+                "Miles de luces se elevan al cielo.",
+                "Encienden linternas y las sueltan para la buena suerte."
+            ],
+            "pt": [
+                "Milhares de luzes sobem ao céu.",
+                "Eles acendem lanternas e as soltam para dar sorte."
+            ]
+        },
+        "tooltip": {
+            "ru": "Запуск фонарей символизирует привлечение удачи, счастья и процветания.",
+            "uk": "Запуск ліхтарів символізує залучення удачі, щастя і процвітання.",
+            "en": "Releasing lanterns symbolizes attracting good luck, happiness, and prosperity.",
+            "es": "Soltar faroles simboliza atraer buena suerte, felicidad y prosperidad.",
+            "pt": "Soltar lanternas simboliza atrair boa sorte, felicidade e prosperidade."
+        },
+        "qwestion": {
+            "ru": "Какой праздник завершает празднование Нового года в Китае?",
+            "uk": "Яке свято завершує святкування Нового року в Китаї?",
+            "en": "Which holiday concludes the New Year celebrations in China?",
+            "es": "¿Qué festividad concluye las celebraciones del Año Nuevo en China?",
+            "pt": "Qual feriado encerra as celebrações de Ano Novo na China?"
+        },
+        "definition": {
+            "ru": "Праздник фонарей — это традиционный китайский праздник, который отмечается в 15-й день первого месяца по лунному календарю. Он знаменует собой окончание празднования Китайского Нового года. Главные традиции: запуск фонарей и поедание шариков таньюань.",
+            "uk": "Свято ліхтарів — це традиційне китайське свято, що відзначається в 15-й день першого місяця за місячним календарем. Воно знаменує закінчення святкування Китайського Нового року. Головні традиції: запуск ліхтарів і поїдання кульок таньюань.",
+            "en": "The Lantern Festival is a traditional Chinese holiday celebrated on the 15th day of the first lunar month. It marks the end of the Chinese New Year celebrations. The main traditions include releasing lanterns and eating tangyuan.",
+            "es": "El Festival de los Faroles es una festividad tradicional china que se celebra el día 15 del primer mes lunar. Marca el final de las celebraciones del Año Nuevo chino. Las principales tradiciones son soltar faroles y comer tangyuan.",
+            "pt": "O Festival das Lanternas é um feriado tradicional chinês celebrado no 15º dia do primeiro mês lunar. Ele marca o fim das celebrações do Ano Novo Chinês. As principais tradições são soltar lanternas e comer tangyuan."
+        },
+        "antipod": {
+            "ru": "Факельное шествие",
+            "uk": "Смолоскипна хода",
+            "en": "Torchlight Procession",
+            "es": "Procesión de antorchas",
+            "pt": "Procissão de tochas"
+        },
+        "hintFuiz": {
+            "ru": "Тут тысячи фонарей поднимаются в небо.",
+            "uk": "Тут тисячі ліхтарів підіймаються в небо.",
+            "en": "Here thousands of lanterns rise into the sky.",
+            "es": "Aquí miles de faroles se elevan al cielo.",
+            "pt": "Aqui milhares de lanternas sobem ao céu."
+        },
+        "article": "https://en.wikipedia.org/wiki/Lantern_Festival"
+    },
+    "imgFlag": "quizfoto"
+}

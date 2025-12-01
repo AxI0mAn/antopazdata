@@ -1,0 +1,119 @@
+{
+    "data": {
+        "name": {
+            "ru": "Застёжка-липучка",
+            "uk": "Застібка-липучка",
+            "en": "Hook-and-loop fastener",
+            "es": "Cierre de velcro",
+            "pt": "Fecho de velcro"
+        },
+        "wrong": {
+            "ru": [
+                "Молния",
+                "Кнопка",
+                "Скрепка"
+            ],
+            "uk": [
+                "Блискавка",
+                "Кнопка",
+                "Скріпка"
+            ],
+            "en": [
+                "Zipper",
+                "Button",
+                "Paperclip"
+            ],
+            "es": [
+                "Cremallera",
+                "Botón",
+                "Clip"
+            ],
+            "pt": [
+                "Zíper",
+                "Botão",
+                "Clipe de papel"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Репейник.",
+                "Швейцария.",
+                "Крючки."
+            ],
+            "uk": [
+                "Реп'ях.",
+                "Швейцарія.",
+                "Гачки."
+            ],
+            "en": [
+                "Burrs.",
+                "Switzerland.",
+                "Hooks."
+            ],
+            "es": [
+                "Cardos.",
+                "Suiza.",
+                "Ganchos."
+            ],
+            "pt": [
+                "Bardana.",
+                "Suíça.",
+                "Ganchos."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Это держит вещи вместе без пуговиц и молний."
+            ],
+            "uk": [
+                "Це тримає речі разом без ґудзиків і блискавок."
+            ],
+            "en": [
+                "It holds things together without buttons or zippers."
+            ],
+            "es": [
+                "Esto mantiene las cosas unidas sin botones ni cremalleras."
+            ],
+            "pt": [
+                "Isso mantém as coisas juntas sem botões ou zíperes."
+            ]
+        },
+        "tooltip": {
+            "ru": "Идея пришла, как он заметил репейник, прилипший к шерсти его собаки.",
+            "uk": "Ідея прийшла, коли він помітив реп'ях, що прилип до шерсті його собаки.",
+            "en": "The idea came to him when he noticed a burr sticking to his dog's fur.",
+            "es": "La idea le vino cuando notó un cardo pegado al pelaje de su perro.",
+            "pt": "A ideia surgiu quando ele notou uma bardana grudada no pelo de seu cachorro."
+        },
+        "qwestion": {
+            "ru": "Какое изобретение, было придумано швейцарским инженером и вдохновлено природой?",
+            "uk": "Який винахід, був придуманий швейцарським інженером і натхненний природою?",
+            "en": "What invention was created by a Swiss engineer and inspired by nature?",
+            "es": "¿Qué invento fue creado por un ingeniero suizo e inspirado por la naturaleza?",
+            "pt": "Qual invenção foi criada por um engenheiro suíço e inspirada pela natureza?"
+        },
+        "definition": {
+            "ru": "Застёжка-липучка, более известная как «липучка» или по торговому названию **Velcro**, была изобретена швейцарским инженером Жоржем де Местралем. Идея пришла к нему после того, как он заметил, как репейник цепляется за одежду и шерсть его собаки во время прогулки. Он изучил структуру репейника под микроскопом и обнаружил, что он состоит из крошечных крючков, которые зацепляются за петли ткани. Это привело к созданию двухкомпонентной системы: одной стороны с крючками и другой — с петлями, которая обеспечивает быстрое и многоразовое соединение. Сегодня это незаменимый элемент в одежде, обуви и многих других товарах.",
+            "uk": "Застібка-липучка, більш відома як «липучка» або за торговою назвою **Velcro**, була винайдена швейцарським інженером Жоржем де Местралем. Ідея прийшла до нього після того, як він помітив, як реп'ях чіпляється за одяг і шерсть його собаки під час прогулянки. Він вивчив структуру реп'яха під мікроскопом і виявив, що він складається з крихітних гачків, які чіпляються за петлі тканини. Це призвело до створення двокомпонентної системи: однієї сторони з гачками та іншої — з петлями, яка забезпечує швидке та багаторазове з'єднання. Сьогодні це незамінний елемент в одязі, взутті та багатьох інших товарах.",
+            "en": "The hook-and-loop fastener, better known as **Velcro**, was invented by Swiss engineer George de Mestral. The idea came to him after he noticed how burrs clung to his clothes and his dog's fur during a walk. He studied the burr's structure under a microscope and found that it was composed of tiny hooks that latched onto the loops of fabric. This led to the creation of a two-part system: one side with hooks and the other with loops, which provides a fast and reusable closure. Today, it is an indispensable element in clothing, shoes, and many other goods.",
+            "es": "El cierre de velcro, más conocido como **velcro**, fue inventado por el ingeniero suizo George de Mestral. La idea le surgió después de notar cómo los cardos se pegaban a su ropa y al pelaje de su perro durante una caminata. Estudió la estructura del cardo bajo un microscopio y descubrió que estaba compuesto por diminutos ganchos que se enganchaban a los lazos de la tela. Esto llevó a la creación de un sistema de dos partes: un lado con ganchos y el otro con lazos, que proporciona un cierre rápido y reutilizable. Hoy en día, es un elemento indispensable en ropa, zapatos y muchos otros artículos.",
+            "pt": "O fecho de velcro, mais conhecido como **Velcro**, foi inventado pelo engenheiro suíço George de Mestral. A ideia surgiu após ele notar como as bardanas grudavam em suas roupas e no pelo de seu cachorro durante uma caminhada. Ele estudou a estrutura da bardana sob um microscópio e descobriu que era composta por pequenos ganchos que se prendiam às alças do tecido. Isso levou à criação de um sistema de duas partes: um lado com ganchos e o outro com alças, que proporciona um fechamento rápido e reutilizável. Hoje, é um elemento indispensável em roupas, sapatos e muitos outros produtos."
+        },
+        "antipod": {
+            "ru": "Спички",
+            "uk": "Сірники",
+            "en": "Matches",
+            "es": "Fósforos",
+            "pt": "Fósforos"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих изобретений было вдохновлено природой, а не химической реакцией?",
+            "uk": "Який із цих винаходів був натхненний природою, а не хімічною реакцією?",
+            "en": "Which of these inventions was inspired by nature, not a chemical reaction?",
+            "es": "¿Cuál de estos inventos fue inspirado por la naturaleza y no por una reacción química?",
+            "pt": "Qual dessas invenções foi inspirada pela natureza e não por uma reação química?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Hook-and-loop_fastener"
+    },
+    "imgFlag": "quiz" 
+}

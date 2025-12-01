@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Колесо",
+            "uk": "Колесо",
+            "en": "The Wheel",
+            "es": "La Rueda",
+            "pt": "A Roda"
+        },
+        "wrong": {
+            "ru": [
+                "Плуг",
+                "Письменность",
+                "Парус"
+            ],
+            "uk": [
+                "Плуг",
+                "Писемність",
+                "Вітрило"
+            ],
+            "en": [
+                "The plow",
+                "Writing",
+                "The sail"
+            ],
+            "es": [
+                "El arado",
+                "La escritura",
+                "La vela"
+            ],
+            "pt": [
+                "O arado",
+                "A escrita",
+                "A vela"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Гончарный круг.",
+                "Древний мир.",
+                "Ось."
+            ],
+            "uk": [
+                "Гончарний круг.",
+                "Стародавній світ.",
+                "Вісь."
+            ],
+            "en": [
+                "Potter's wheel.",
+                "Ancient world.",
+                "Axle."
+            ],
+            "es": [
+                "Torno de alfarero.",
+                "Mundo antiguo.",
+                "Eje."
+            ],
+            "pt": [
+                "Torno de oleiro.",
+                "Mundo antigo.",
+                "Eixo."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Без него не было бы транспорта.",
+                "Изобретение, которое продолжает вращаться по всему миру."
+            ],
+            "uk": [
+                "Без нього не було б транспорту.",
+                "Винахід, який продовжує обертатися по всьому світу."
+            ],
+            "en": [
+                "Without it, there would be no transport.",
+                "An invention that keeps on spinning all over the world."
+            ],
+            "es": [
+                "Sin él, no habría transporte.",
+                "Una invención que sigue girando por todo el mundo."
+            ],
+            "pt": [
+                "Sem ele, não haveria transporte.",
+                "Uma invenção que continua a girar por todo o mundo."
+            ]
+        },
+        "tooltip": {
+            "ru": "Но с появлением оси, стало основой для транспорта.",
+            "uk": "Але з появою осі, стало основою для транспорту.",
+            "en": "But with the addition of an axle, it became the basis for transport.",
+            "es": "Pero con la adición de un eje, se convirtió en la base del transporte.",
+            "pt": "Mas com a adição de um eixo, tornou-se a base para o transporte."
+        },
+        "qwestion": {
+            "ru": "Какое древнее изобретение, изначально использовалось для изготовления керамики?",
+            "uk": "Який стародавній винахід, спочатку використовувався для виготовлення кераміки?",
+            "en": "What ancient invention was originally used for making pottery?",
+            "es": "¿Qué antiguo invento se usó originalmente para hacer cerámica?",
+            "pt": "Qual invenção antiga foi originalmente usada para fazer cerâmica?"
+        },
+        "definition": {
+            "ru": "Колесо — одно из самых древних и важных изобретений в истории человечества, его появление ознаменовало революцию в транспорте и производстве. Изначально колесо использовалось как гончарный круг в Месопотамии, но его истинный потенциал был раскрыт с изобретением оси. Это позволило использовать колесо для телег и повозок, что навсегда изменило торговлю, сельское хозяйство и военное дело. Оно продолжает оставаться фундаментальным элементом в современной инженерии и технике.",
+            "uk": "Колесо — один із найдавніших і найважливіших винаходів в історії людства, його поява ознаменувала революцію в транспорті та виробництві. Спочатку колесо використовувалося як гончарний круг у Месопотамії, але його справжній потенціал був розкритий із винаходом осі. Це дало змогу використовувати колесо для возів і візків, що назавжди змінило торгівлю, сільське господарство та військову справу. Воно продовжує залишатися фундаментальним елементом у сучасній інженерії та техніці.",
+            "en": "The wheel is one of the most ancient and important inventions in human history; its appearance marked a revolution in transport and production. Originally used as a potter's wheel in Mesopotamia, its true potential was unlocked with the invention of the axle. This allowed the wheel to be used for carts and wagons, which forever changed trade, agriculture, and warfare. It continues to be a fundamental element in modern engineering and technology.",
+            "es": "La rueda es uno de los inventos más antiguos e importantes de la historia de la humanidad; su aparición marcó una revolución en el transporte y la producción. Originalmente utilizada como torno de alfarero en Mesopotamia, su verdadero potencial se desbloqueó con la invención del eje. Esto permitió que la rueda se usara para carros y carretas, lo que cambió para siempre el comercio, la agricultura y la guerra. Sigue siendo un elemento fundamental en la ingeniería y la tecnología modernas.",
+            "pt": "A roda é uma das invenções mais antigas e importantes da história da humanidade; seu surgimento marcou uma revolução no transporte e na produção. Originalmente usada como um torno de oleiro na Mesopotâmia, seu verdadeiro potencial foi desbloqueado com a invenção do eixo. Isso permitiu que a roda fosse usada para carroças e vagões, o que mudou para sempre o comércio, a agricultura e a guerra. Continua a ser um elemento fundamental na engenharia e tecnologia modernas."
+        },
+        "antipod": {
+            "ru": "Гусеничный трак",
+            "uk": "Гусеничний трак",
+            "en": "Caterpillar track",
+            "es": "Oruga (mecanismo)",
+            "pt": "Lagarta (mecanismo)"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих изобретений является древним механическим устройством?",
+            "uk": "Який із цих винаходів є стародавнім механічним пристроєм?",
+            "en": "Which of these inventions is an ancient mechanical device?",
+            "es": "¿Cuál de estos inventos es un antiguo dispositivo mecánico?",
+            "pt": "Qual dessas invenções é um antigo dispositivo mecânico?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Wheel"
+    },
+    "imgFlag": "all" 
+}

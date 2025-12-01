@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Фитопланктон",
+            "uk": "Фітопланктон",
+            "en": "Phytoplankton",
+            "es": "Fitoplancton",
+            "pt": "Fitoplâncton"
+        },
+        "wrong": {
+            "ru": [
+                "Коралл",
+                "Медуза",
+                "Криль"
+            ],
+            "uk": [
+                "Корал",
+                "Медуза",
+                "Криль"
+            ],
+            "en": [
+                "Coral",
+                "Jellyfish",
+                "Krill"
+            ],
+            "es": [
+                "Coral",
+                "Medusa",
+                "Krill"
+            ],
+            "pt": [
+                "Coral",
+                "Água-viva",
+                "Krill"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Микроскоп.",
+                "Фотосинтез.",
+                "Океан."
+            ],
+            "uk": [
+                "Мікроскоп.",
+                "Фотосинтез.",
+                "Океан."
+            ],
+            "en": [
+                "Microscope.",
+                "Photosynthesis.",
+                "Ocean."
+            ],
+            "es": [
+                "Microscopio.",
+                "Fotosíntesis.",
+                "Océano."
+            ],
+            "pt": [
+                "Microscópio.",
+                "Fotossíntese.",
+                "Oceano."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Кто в океане дышит светом?",
+                "Невидимый лес, кормящий китов."
+            ],
+            "uk": [
+                "Хто в океані дихає світлом?",
+                "Невидимий ліс, що годує китів."
+            ],
+            "en": [
+                "Who in the ocean breathes with light?",
+                "An invisible forest that feeds whales."
+            ],
+            "es": [
+                "¿Quién en el océano respira con luz?",
+                "Un bosque invisible que alimenta a las ballenas."
+            ],
+            "pt": [
+                "Quem no oceano respira com luz?",
+                "Uma floresta invisível que alimenta baleias."
+            ]
+        },
+        "tooltip": {
+            "ru": "Играют ключевую роль в поглощении углекислого газа, помогая регулировать климат.",
+            "uk": "Відіграють ключову роль у поглинанні вуглекислого газу, допомагаючи регулювати клімат.",
+            "en": "They play a key role in absorbing carbon dioxide, helping to regulate the global climate.",
+            "es": "Juegan un papel clave en la absorción de dióxido de carbono, ayudando a regular el clima global.",
+            "pt": "Desempenham um papel fundamental na absorção de dióxido de carbono, ajudando a regular o clima global."
+        },
+        "qwestion": {
+            "ru": "Какой микроскопический морской организм является основой пищевой цепи океана?",
+            "uk": "Який мікроскопічний морський організм є основою харчового ланцюга океану?",
+            "en": "What microscopic marine organism forms the base of the ocean's food chain?",
+            "es": "¿Qué organismo marino microscópico forma la base de la cadena alimentaria del océano?",
+            "pt": "Qual organismo marinho microscópico forma a base da cadeia alimentar do oceano?"
+        },
+        "definition": {
+            "ru": "Фитопланктон — это микроскопические водоросли, которые живут в толще воды. Они используют фотосинтез для производства энергии и являются главными производителями кислорода и основой пищевых цепей в океане.",
+            "uk": "Фітопланктон — це мікроскопічні водорості, що живуть у товщі води. Вони використовують фотосинтез для виробництва енергії і є головними виробниками кисню та основою харчових ланцюгів в океані.",
+            "en": "Phytoplankton are microscopic algae that live in the water column. They use photosynthesis to produce energy and are the primary producers of oxygen and the foundation of oceanic food webs.",
+            "es": "El fitoplancton son algas microscópicas que viven en la columna de agua. Utilizan la fotosíntesis para producir energía y son los principales productores de oxígeno y la base de las redes alimentarias oceánicas.",
+            "pt": "O fitoplâncton são algas microscópicas que vivem na coluna d'água. Eles usam a fotossíntese para produzir energia e são os principais produtores de oxigênio e a base das cadeias alimentares oceânicas."
+        },
+        "antipod": {
+            "ru": "Водоросли",
+            "uk": "Водорості",
+            "en": "Algae",
+            "es": "Algas",
+            "pt": "Algas"
+        },
+        "hintFuiz": {
+            "ru": "Кто производит больше кислорода?",
+            "uk": "Хто виробляє більше кисню?",
+            "en": "Who produces more oxygen?",
+            "es": "¿Quién produce más oxígeno?",
+            "pt": "Quem produz mais oxigênio?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Phytoplankton"
+    },
+    "imgFlag": "all" 
+}

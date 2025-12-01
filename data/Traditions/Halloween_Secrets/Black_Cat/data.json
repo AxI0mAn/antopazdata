@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Чёрная кошка",
+            "uk": "Чорна кішка",
+            "en": "Black cat",
+            "es": "Gato negro",
+            "pt": "Gato preto"
+        },
+        "wrong": {
+            "ru": [
+                "Сова",
+                "Ворон",
+                "Летучая мышь"
+            ],
+            "uk": [
+                "Сова",
+                "Ворон",
+                "Кажан"
+            ],
+            "en": [
+                "Owl",
+                "Raven",
+                "Bat"
+            ],
+            "es": [
+                "Búho",
+                "Cuervo",
+                "Murciélago"
+            ],
+            "pt": [
+                "Coruja",
+                "Corvo",
+                "Morcego"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Суеверие.",
+                "Зло.",
+                "Средневековье."
+            ],
+            "uk": [
+                "Забобон.",
+                "Зло.",
+                "Середньовіччя."
+            ],
+            "en": [
+                "Superstition.",
+                "Evil.",
+                "Middle Ages."
+            ],
+            "es": [
+                "Superstición.",
+                "Mal.",
+                "Edad Media."
+            ],
+            "pt": [
+                "Superstição.",
+                "Mal.",
+                "Idade Média."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Её цвет — как ночь.",
+                "Пушистый спутник ведьм."
+            ],
+            "uk": [
+                "Її колір — як ніч.",
+                "Пухнастий супутник відьом."
+            ],
+            "en": [
+                "Its color is like the night.",
+                "A fluffy companion of witches."
+            ],
+            "es": [
+                "Su color es como la noche.",
+                "Un peludo compañero de brujas."
+            ],
+            "pt": [
+                "Sua cor é como a noite.",
+                "Um companheiro fofo de bruxas."
+            ]
+        },
+        "tooltip": {
+            "ru": "Считалось, что это животное — слуга ведьмы или сама ведьма, превратившаяся в него.",
+            "uk": "Вважалося, що ця тварина — слуга відьми або сама відьма, яка перетворилася на неї.",
+            "en": "It was believed this animal was a witch's servant or the witch herself in disguise.",
+            "es": "Se creía que este animal era un sirviente de una bruja o la propia bruja disfrazada.",
+            "pt": "Acreditava-se que este animal era um servo de uma bruxa ou a própria bruxa disfarçada."
+        },
+        "qwestion": {
+            "ru": "Кого в Средневековье ассоциировали с ведьмами и злыми духами?",
+            "uk": "Кого в Середньовіччі асоціювали з відьмами та злими духами?",
+            "en": "Who was associated with witches and evil spirits in the Middle Ages?",
+            "es": "¿A quién se asociaba con brujas y espíritus malignos en la Edad Media?",
+            "pt": "Quem era associado a bruxas e espíritos malignos na Idade Média?"
+        },
+        "definition": {
+            "ru": "Чёрная кошка — это животное, которое в Средневековье считалось символом зла и ассоциировалось с колдовством. Согласно поверьям, чёрные кошки были спутниками ведьм, способными приносить несчастья и дурные знамения.",
+            "uk": "Чорна кішка — це тварина, яка в Середньовіччі вважалася символом зла та асоціювалася з чаклунством. Згідно з повір'ями, чорні кішки були супутниками відьом, здатними приносити нещастя та погані знамення.",
+            "en": "A black cat is an animal that was considered a symbol of evil in the Middle Ages and associated with witchcraft. According to beliefs, black cats were companions of witches, capable of bringing misfortune and bad omens.",
+            "es": "Un gato negro es un animal que en la Edad Media era considerado un símbolo del mal y asociado con la brujería. Según las creencias, los gatos negros eran compañeros de las brujas, capaces de traer desgracia y malos presagios.",
+            "pt": "Um gato preto é um animal que na Idade Média era considerado um símbolo do mal e associado à bruxaria. Segundo as crenças, gatos pretos eram companheiros de bruxas, capazes de trazer infortúnio e maus presságios."
+        },
+        "antipod": {
+            "ru": "Лиса",
+            "uk": "Лисиця",
+            "en": "Fox",
+            "es": "Zorro",
+            "pt": "Raposa"
+        },
+        "hintFuiz": {
+            "ru": "Кого считали воплощением ведьмы и злых духов?",
+            "uk": "Кого вважали втіленням відьми та злих духів?",
+            "en": "Who was considered the embodiment of a witch and evil spirits?",
+            "es": "¿A quién se consideraba la encarnación de una bruja y de los espíritus malignos?",
+            "pt": "Quem era considerado a encarnação de uma bruxa e de espíritos malignos?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Black_cat_superstition"
+    },
+    "imgFlag": "all" 
+}

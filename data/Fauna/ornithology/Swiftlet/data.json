@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Салангана",
+            "uk": "Салангана",
+            "en": "Swiftlet",
+            "es": "Salangana",
+            "pt": "Andorinhão"
+        },
+        "wrong": {
+            "ru": [
+                "Синица",
+                "Колибри",
+                "Сорока"
+            ],
+            "uk": [
+                "Синиця",
+                "Колібрі",
+                "Сорока"
+            ],
+            "en": [
+                "Tit",
+                "Hummingbird",
+                "Magpie"
+            ],
+            "es": [
+                "Carbonero",
+                "Colibrí",
+                "Urraca"
+            ],
+            "pt": [
+                "Chapim",
+                "Beija-flor",
+                "Pega-rabuda"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Слюна.",
+                "Гнездо.",
+                "Эхолокация."
+            ],
+            "uk": [
+                "Слина.",
+                "Гніздо.",
+                "Ехолокація."
+            ],
+            "en": [
+                "Saliva.",
+                "Nest.",
+                "Echolocation."
+            ],
+            "es": [
+                "Saliva.",
+                "Nido.",
+                "Ecolocalización."
+            ],
+            "pt": [
+                "Saliva.",
+                "Ninho.",
+                "Ecolocalização."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Его гнёзда — деликатес.",
+                "Гнездятся в пещерах."
+            ],
+            "uk": [
+                "Його гнізда — делікатес.",
+                "Гніздяться в печерах."
+            ],
+            "en": [
+                "Its nests are a delicacy.",
+                "They nest in caves."
+            ],
+            "es": [
+                "Sus nidos son un manjar.",
+                "Anidan en cuevas."
+            ],
+            "pt": [
+                "Seus ninhos são uma iguaria.",
+                "Nidificam em cavernas."
+            ]
+        },
+        "tooltip": {
+            "ru": "Его гнездо, полностью состоящее из слюны, является деликатесом в китайской кухне.",
+            "uk": "Його гніздо, що повністю складається зі слини, є делікатесом у китайській кухні.",
+            "en": "Its nest, made entirely of saliva, is a delicacy in Chinese cuisine.",
+            "es": "Su nido, compuesto enteramente de saliva, es un manjar en la cocina china.",
+            "pt": "Seu ninho, feito inteiramente de saliva, é uma iguaria na culinária chinesa."
+        },
+        "qwestion": {
+            "ru": "Какая птица строит гнездо из собственной слюны?",
+            "uk": "Який птах будує гніздо з власної слини?",
+            "en": "Which bird builds a nest from its own saliva?",
+            "es": "¿Qué ave construye un nido con su propia saliva?",
+            "pt": "Qual ave constrói um ninho com a própria saliva?"
+        },
+        "definition": {
+            "ru": "Саланганы — это род птиц, похожих на стрижей, известные тем, что строят свои гнезда почти полностью из собственной клейкой слюны, которая затвердевает на воздухе.",
+            "uk": "Салангани — це рід птахів, схожих на стрижів, відомі тим, що будують свої гнізда майже повністю з власної клейкої слини, яка твердне на повітрі.",
+            "en": "Swiftlets are a genus of birds similar to swifts, known for building their nests almost entirely from their own sticky saliva, which hardens when exposed to air.",
+            "es": "Las salanganas son un género de aves similares a los vencejos, conocidas por construir sus nidos casi por completo con su propia saliva pegajosa, que se endurece al exponerse al aire.",
+            "pt": "As andorinhões são um gênero de aves semelhantes a andorinhas, conhecidas por construir seus ninhos quase inteiramente de sua própria saliva pegajosa, que endurece quando exposta ao ar."
+        },
+        "antipod": {
+            "ru": "Воробей",
+            "uk": "Горобець",
+            "en": "Sparrow",
+            "es": "Gorrión",
+            "pt": "Pardal"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих птиц способна к эхолокации для ориентирования в темноте?",
+            "uk": "Який з цих птахів здатний до ехолокації для орієнтування в темряві?",
+            "en": "Which of these birds is capable of echolocation to navigate in the dark?",
+            "es": "¿Cuál de estas aves es capaz de la ecolocalización para orientarse en la oscuridad?",
+            "pt": "Qual dessas aves é capaz de ecolocalização para se orientar no escuro?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Swiftlet"
+    },
+    "imgFlag": "all" 
+}

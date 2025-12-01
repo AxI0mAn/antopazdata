@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Шершень-убийца",
+            "uk": "Шершень-убивця",
+            "en": "Asian Giant Hornet",
+            "es": "Avispón gigante asiático",
+            "pt": "Vespa gigante asiática"
+        },
+        "wrong": {
+            "ru": [
+                "Жук-носорог",
+                "Скорпион",
+                "Черная вдова"
+            ],
+            "uk": [
+                "Жук-носоріг",
+                "Скорпіон",
+                "Чорна вдова"
+            ],
+            "en": [
+                "Rhinoceros beetle",
+                "Scorpion",
+                "Black widow"
+            ],
+            "es": [
+                "Escarabajo rinoceronte",
+                "Escorpión",
+                "Viuda negra"
+            ],
+            "pt": [
+                "Besouro-rinoceronte",
+                "Escorpião",
+                "Viúva-negra"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Азия.",
+                "Яд.",
+                "Жало."
+            ],
+            "uk": [
+                "Азія.",
+                "Отрута.",
+                "Жало."
+            ],
+            "en": [
+                "Asia.",
+                "Venom.",
+                "Stinger."
+            ],
+            "es": [
+                "Asia.",
+                "Veneno.",
+                "Aguijón."
+            ],
+            "pt": [
+                "Ásia.",
+                "Veneno.",
+                "Ferrão."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Самый большой среди ос, а охотится на пчел.",
+                "Его жало не щадит, а укус опасен."
+            ],
+            "uk": [
+                "Найбільший серед ос, а полює на бджіл.",
+                "Його жало не щадить, а укус небезпечний."
+            ],
+            "en": [
+                "The largest among wasps, and it preys on bees.",
+                "Its sting is merciless, and its bite is dangerous."
+            ],
+            "es": [
+                "El más grande entre las avispas, y caza abejas.",
+                "Su aguijón no perdona, y su picadura es peligrosa."
+            ],
+            "pt": [
+                "O maior entre as vespas, e caça abelhas.",
+                "Seu ferrão é impiedoso, e sua picada é perigosa."
+            ]
+        },
+        "tooltip": {
+            "ru": "Их укусы могут быть смертельными для человека.",
+            "uk": "Їхні укуси можуть бути смертельними для людини.",
+            "en": "Its stings can be fatal to humans.",
+            "es": "Sus picaduras pueden ser fatales para los humanos.",
+            "pt": "Suas picadas podem ser fatais para humanos."
+        },
+        "qwestion": {
+            "ru": "Кто одни из самых больших и опасных насекомых в мире?",
+            "uk": "Хто одні з найбільших і найнебезпечніших комах у світі?",
+            "en": "Which insect is one of the largest and most dangerous in the world?",
+            "es": "¿Qué insecto es uno de los más grandes y peligrosos del mundo?",
+            "pt": "Qual inseto é um dos maiores e mais perigosos do mundo?"
+        },
+        "definition": {
+            "ru": "Шершень-убийца — крупнейший в мире шершень, родом из Азии. Он известен своим мощным ядом, болезненными укусами и способностью уничтожать целые ульи медоносных пчел всего за несколько часов.",
+            "uk": "Шершень-убивця — найбільший у світі шершень, родом з Азії. Він відомий своєю потужною отрутою, болючими укусами та здатністю знищувати цілі вулики медоносних бджіл всього за кілька годин.",
+            "en": "The Asian Giant Hornet is the world's largest hornet, native to Asia. It is known for its potent venom, painful stings, and ability to wipe out entire honey bee hives in just a few hours.",
+            "es": "El avispón gigante asiático es el avispón más grande del mundo, nativo de Asia. Es conocido por su potente veneno, picaduras dolorosas y capacidad para aniquilar colmenas enteras de abejas en solo unas horas.",
+            "pt": "A vespa gigante asiática é a maior vespa do mundo, nativa da Ásia. É conhecida por seu veneno potente, picadas dolorosas e capacidade de aniquilar colmeias inteiras de abelhas em poucas horas."
+        },
+        "antipod": {
+            "ru": "Сколопендра",
+            "uk": "Сколопендра",
+            "en": "Centipede",
+            "es": "Ciempiés",
+            "pt": "Centopeia"
+        },
+        "hintFuiz": {
+            "ru": "Кто охотится на пчёл?",
+            "uk": "Хто полює на бджіл?",
+            "en": "Who preys on bees?",
+            "es": "¿Quién caza abejas?",
+            "pt": "Quem caça abelhas?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Asian_giant_hornet"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,134 @@
+{
+    "data": {
+        "name": {
+            "ru": "Марианская впадина",
+            "uk": "Маріанський жолоб",
+            "en": "Mariana Trench",
+            "es": "Fosa de las Marianas",
+            "pt": "Fossa das Marianas"
+        },
+        "wrong": {
+            "ru": [
+                "Большой каньон",
+                "Пустыня Атакама",
+                "Мертвое море"
+            ],
+            "uk": [
+                "Великий каньйон",
+                "Пустеля Атакама",
+                "Мертве море"
+            ],
+            "en": [
+                "Grand Canyon",
+                "Atacama Desert",
+                "Dead Sea"
+            ],
+            "es": [
+                "Gran Cañón",
+                "Desierto de Atacama",
+                "Mar Muerto"
+            ],
+            "pt": [
+                "Grand Canyon",
+                "Deserto de Atacama",
+                "Mar Morto"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Глубина.",
+                "Океан.",
+                "Давление."
+            ],
+            "uk": [
+                "Глибина.",
+                "Океан.",
+                "Тиск."
+            ],
+            "en": [
+                "Depth.",
+                "Ocean.",
+                "Pressure."
+            ],
+            "es": [
+                "Profundidad.",
+                "Océano.",
+                "Presión."
+            ],
+            "pt": [
+                "Profundidade.",
+                "Oceano.",
+                "Pressão."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Больше Эвереста, но под водой?",
+                "Какое место на Земле самое глубокое?"
+            ],
+            "uk": [
+                "Більше за Еверест, але під водою?",
+                "Яке місце на Землі найглибше?"
+            ],
+            "en": [
+                "Bigger than Everest, but underwater?",
+                "What is the deepest place on Earth?"
+            ],
+            "es": [
+                "¿Más grande que el Everest, pero bajo el agua?",
+                "¿Cuál es el lugar más profundo de la Tierra?"
+            ],
+            "pt": [
+                "Maior que o Everest, mas debaixo d'água?",
+                "Qual é o lugar mais profundo da Terra?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Давление воды на дне в 1100 раз превышает атмосферное давление.",
+            "uk": "Тиск води на дні в 1100 разів перевищує атмосферний тиск.",
+            "en": "The water pressure at its bottom is over 1,000 times greater than at sea level.",
+            "es": "La presión del agua en su fondo es más de 1,000 veces mayor que a nivel del mar.",
+            "pt": "A pressão da água em seu fundo é mais de 1.000 vezes maior do que no nível do mar."
+        },
+        "qwestion": {
+            "ru": "Какая самая глубокая океаническая впадина в мире?",
+            "uk": "Яка найглибша океанічна западина у світі?",
+            "en": "What is the deepest oceanic trench in the world?",
+            "es": "¿Cuál es la fosa oceánica más profunda del mundo?",
+            "pt": "Qual é a fossa oceânica mais profunda do mundo?"
+        },
+        "definition": {
+            "ru": "Марианская впадина — это самый глубокий океанический желоб на Земле. Её глубочайшая точка, «Бездна Челленджера», находится на глубине почти 11 км.",
+            "uk": "Маріанський жолоб — це найглибший океанічний жолоб на Землі. Його найглибша точка, «Безодня Челленджера», знаходиться на глибині майже 11 км.",
+            "en": "The Mariana Trench is the deepest oceanic trench on Earth. Its deepest point, the Challenger Deep, is almost 11 km deep.",
+            "es": "La Fosa de las Marianas es la fosa oceánica más profunda de la Tierra. Su punto más profundo, el Abismo Challenger, se encuentra a casi 11 km de profundidad.",
+            "pt": "A Fossa das Marianas é a fossa oceânica mais profunda da Terra. Seu ponto mais profundo, a Depressão Challenger, está a quase 11 km de profundidade."
+        },
+        "antipod": {
+            "ru": "Гора Эверест",
+            "uk": "Гора Еверест",
+            "en": "Mount Everest",
+            "es": "Monte Everest",
+            "pt": "Monte Everest"
+        },
+        "hintFuiz": {
+            "ru": [
+                "Что ближе к центру Земли: дно Марианской впадины или пик Эвереста?"
+            ],
+            "uk": [
+                "Що ближче до центру Землі: дно Маріанської западини чи пік Евересту?"
+            ],
+            "en": [
+                "What is closer to the center of the Earth: the bottom of the Mariana Trench or the peak of Mount Everest?"
+            ],
+            "es": [
+                "¿Qué está más cerca del centro de la Tierra: el fondo de la Fosa de las Marianas o la cima del Monte Everest?"
+            ],
+            "pt": [
+                "O que está mais perto do centro da Terra: o fundo da Fossa das Marianas ou o pico do Monte Everest?"
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Mariana_Trench"
+    },
+    "imgFlag": "quiz"
+}

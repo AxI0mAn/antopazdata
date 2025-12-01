@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Мейн-кун",
+            "uk": "Мейн-кун",
+            "en": "Maine Coon",
+            "es": "Maine Coon",
+            "pt": "Maine Coon"
+        },
+        "wrong": {
+            "ru": [
+                "Саванна",
+                "Сибирская кошка",
+                "Рэгдолл"
+            ],
+            "uk": [
+                "Саванна",
+                "Сибірська кішка",
+                "Регдолл"
+            ],
+            "en": [
+                "Savannah cat",
+                "Siberian cat",
+                "Ragdoll"
+            ],
+            "es": [
+                "Gato de Savannah",
+                "Gato siberiano",
+                "Ragdoll"
+            ],
+            "pt": [
+                "Gato de Savannah",
+                "Gato siberiano",
+                "Ragdoll"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Полосатый.",
+                "Пушистый.",
+                "Большой."
+            ],
+            "uk": [
+                "Смугастий.",
+                "Пухнастий.",
+                "Великий."
+            ],
+            "en": [
+                "Striped.",
+                "Fluffy.",
+                "Big."
+            ],
+            "es": [
+                "Atigrado.",
+                "Peludo.",
+                "Grande."
+            ],
+            "pt": [
+                "Listrado.",
+                "Fofo.",
+                "Grande."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Кошачий гигант с кисточками на ушах.",
+                "Кошка родом из штата Мэн."
+            ],
+            "uk": [
+                "Котячий гігант з пензликами на вухах.",
+                "Кішка родом зі штату Мен."
+            ],
+            "en": [
+                "A feline giant with tufted ears.",
+                "A cat native to the state of Maine."
+            ],
+            "es": [
+                "Un gigante felino con mechones en las orejas.",
+                "Un gato originario del estado de Maine."
+            ],
+            "pt": [
+                "Um gigante felino com tufos nas orelhas.",
+                "Um gato nativo do estado do Maine."
+            ]
+        },
+        "tooltip": {
+            "ru": "Кот может достигать веса более 10 кг.",
+            "uk": "Кіт може досягати ваги понад 10 кг.",
+            "en": "A male can reach a weight of over 10 kg.",
+            "es": "Un macho puede alcanzar un peso de más de 10 kg.",
+            "pt": "Um macho pode atingir um peso de mais de 10 kg."
+        },
+        "qwestion": {
+            "ru": "Какая порода кошек является самой большой?",
+            "uk": "Яка порода кішок є найбільшою?",
+            "en": "What is the largest cat breed?",
+            "es": "¿Cuál es la raza de gato más grande?",
+            "pt": "Qual é a maior raça de gato?"
+        },
+        "definition": {
+            "ru": "Мейн-кун — это одна из старейших и крупнейших пород домашних кошек в Северной Америке. Известная своим большим размером, пушистым хвостом и дружелюбным характером, она часто упоминается как 'нежный гигант'.",
+            "uk": "Мейн-кун — це одна з найстаріших і найбільших порід домашніх кішок у Північній Америці. Відома своїм великим розміром, пухнастим хвостом і дружнім характером, вона часто згадується як 'ніжний велетень'.",
+            "en": "The Maine Coon is one of the oldest and largest domestic cat breeds in North America. Known for its large size, fluffy tail, and friendly disposition, it is often referred to as the 'gentle giant.'",
+            "es": "El Maine Coon es una de las razas de gatos domésticos más antiguas y grandes de América del Norte. Conocido por su gran tamaño, cola peluda y temperamento amigable, a menudo se le llama el 'gigante amable'.",
+            "pt": "O Maine Coon é uma das raças de gatos domésticos mais antigas e maiores da América do Norte. Conhecido por seu grande porte, rabo fofo e temperamento amigável, é frequentemente chamado de 'gigante gentil'."
+        },
+        "antipod": {
+            "ru": "Сингапура",
+            "uk": "Сінгапура",
+            "en": "Singapura",
+            "es": "Singapura",
+            "pt": "Singapura"
+        },
+        "hintFuiz": {
+            "ru": "Это аборигенная порода кошек Северной Америки.",
+            "uk": "Це аборигенна порода кішок Північної Америки.",
+            "en": "This is a native cat breed of North America.",
+            "es": "Esta es una raza de gato nativa de América del Norte.",
+            "pt": "Esta é uma raça de gato nativa da América do Norte."
+        },
+        "article": "https://en.wikipedia.org/wiki/Maine_Coon"
+    },
+    "imgFlag": "all" 
+}

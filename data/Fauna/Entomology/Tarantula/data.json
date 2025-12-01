@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Тарантул",
+            "uk": "Тарантул",
+            "en": "Tarantula",
+            "es": "Tarántula",
+            "pt": "Tarântula"
+        },
+        "wrong": {
+            "ru": [
+                "Каракурт",
+                "Паук-скакунчик",
+                "Паук-серебрянка"
+            ],
+            "uk": [
+                "Каракурт",
+                "Павук-стрибун",
+                "Павук-сріблянка"
+            ],
+            "en": [
+                "Black widow",
+                "Jumping spider",
+                "Diving bell spider"
+            ],
+            "es": [
+                "Viuda negra",
+                "Araña saltadora",
+                "Araña de agua"
+            ],
+            "pt": [
+                "Viúva-negra",
+                "Aranha-saltadora",
+                "Aranha-de-água"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Волоски.",
+                "Яд.",
+                "Норка."
+            ],
+            "uk": [
+                "Волоски.",
+                "Отрута.",
+                "Нірка."
+            ],
+            "en": [
+                "Hairs.",
+                "Venom.",
+                "Burrow."
+            ],
+            "es": [
+                "Pelos.",
+                "Veneno.",
+                "Madriguera."
+            ],
+            "pt": [
+                "Pelos.",
+                "Veneno.",
+                "Toca."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Мои волоски могут вызвать раздражение.",
+                "Я охочусь из засады, а не с помощью сети."
+            ],
+            "uk": [
+                "Мої волоски можуть спричинити подразнення.",
+                "Я полюю із засідки, а не за допомогою павутини."
+            ],
+            "en": [
+                "My hairs can cause irritation.",
+                "I hunt from an ambush, not with a web."
+            ],
+            "es": [
+                "Mis pelos pueden causar irritación.",
+                "Cazo desde una emboscada, no con una telaraña."
+            ],
+            "pt": [
+                "Meus pelos podem causar irritação.",
+                "Eu caço de emboscada, não com uma teia."
+            ]
+        },
+        "tooltip": {
+            "ru": "Паук, который использует паутину не для ловли, а для защиты потомства и укрепления нор.",
+            "uk": "Павук, який використовує павутину не для лову, а для захисту потомства та зміцнення нір.",
+            "en": "A spider that uses its web not for hunting, but for protecting its offspring and reinforcing its burrow.",
+            "es": "Una araña que usa su telaraña no para cazar, sino para proteger a su descendencia y reforzar su madriguera.",
+            "pt": "Uma aranha que usa sua teia não para caçar, mas para proteger sua prole e reforçar sua toca."
+        },
+        "qwestion": {
+            "ru": "Какой паук не использует паутину для ловли добычи?",
+            "uk": "Який павук не використовує павутину для лову здобичі?",
+            "en": "Which spider doesn't use its web to catch prey?",
+            "es": "¿Qué araña no usa su telaraña para cazar presas?",
+            "pt": "Qual aranha não usa sua teia para caçar presas?"
+        },
+        "definition": {
+            "ru": "Тарантул — это крупный, волосатый паук, который охотится из засады, а не с помощью паутины. Он использует паутину для других целей: выстилает стены своей норы, строит коконы для яиц и создаёт сигнальные нити у входа в убежище.",
+            "uk": "Тарантул — це великий, волохатий павук, який полює із засідки, а не за допомогою павутини. Він використовує павутину для інших цілей: вистилає стіни своєї нори, будує кокони для яєць і створює сигнальні нитки біля входу в сховище.",
+            "en": "A tarantula is a large, hairy spider that hunts by ambush rather than with a web. It uses its silk for other purposes, such as lining its burrow, building egg sacs, and creating tripwires at the entrance of its home.",
+            "es": "La tarántula es una araña grande y peluda que caza por emboscada en lugar de usar una telaraña. Utiliza su seda para otros fines, como revestir su madriguera, construir sacos de huevos y crear hilos de alarma en la entrada de su hogar.",
+            "pt": "Uma tarântula é uma aranha grande e peluda que caça por emboscada, em vez de usar uma teia. Ela usa sua seda para outros propósitos, como forrar sua toca, construir sacos de ovos e criar fios de alarme na entrada de sua casa."
+        },
+        "antipod": {
+            "ru": "Паук-крестовик",
+            "uk": "Павук-хрестовик",
+            "en": "Orb-weaver spider",
+            "es": "Araña tejedora de orbes",
+            "pt": "Aranha-de-teia-de-orbe"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих двух пауков охотится из засады, а не с помощью паутины?",
+            "uk": "Який з цих двох павуків полює із засідки, а не за допомогою павутини?",
+            "en": "Which of these two spiders hunts by ambush, not with a web?",
+            "es": "¿Cuál de estas dos arañas caza por emboscada, no con una telaraña?",
+            "pt": "Qual dessas duas aranhas caça por emboscada, não com uma teia?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Tarantula"
+    },
+    "imgFlag": "all" 
+}

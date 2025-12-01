@@ -1,0 +1,125 @@
+{
+    "data": {
+        "name": {
+            "ru": "Кровавая Мэри",
+            "uk": "Кривава Мері",
+            "en": "Bloody Mary",
+            "es": "Bloody Mary",
+            "pt": "Bloody Mary"
+        },
+        "wrong": {
+            "ru": [
+                "Виски Сауэр",
+                "Дайкири",
+                "Джин-тоник"
+            ],
+            "uk": [
+                "Віскі Сауер",
+                "Дайкірі",
+                "Джин-тонік"
+            ],
+            "en": [
+                "Whiskey Sour",
+                "Daiquiri",
+                "Gin and Tonic"
+            ],
+            "es": [
+                "Whisky Sour",
+                "Daiquirí",
+                "Gin-tonic"
+            ],
+            "pt": [
+                "Whisky Sour",
+                "Daiquiri",
+                "Gin-tônico"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Помидор.",
+                "Водка.",
+                "Легенда."
+            ],
+            "uk": [
+                "Помідор.",
+                "Горілка.",
+                "Легенда."
+            ],
+            "en": [
+                "Tomato.",
+                "Vodka.",
+                "Legend."
+            ],
+            "es": [
+                "Tomate.",
+                "Vodka.",
+                "Leyenda."
+            ],
+            "pt": [
+                "Tomate.",
+                "Vodka.",
+                "Lenda."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "В баре Harry's New York Bar в 1921 году.",
+                "Коктейль, который маскирует запах алкоголя."
+            ],
+            "uk": [
+                "У барі Harry's New York Bar у 1921 році.",
+                "Коктейль, який маскує запах алкоголю."
+            ],
+            "en": [
+                "At Harry's New York Bar in 1921.",
+                "A cocktail that masks the smell of alcohol."
+            ],
+            "es": [
+                "En el Harry's New York Bar en 1921.",
+                "Un cóctel que enmascara el olor a alcohol."
+            ],
+            "pt": [
+                "No Harry's New York Bar em 1921.",
+                "Um coquetel que disfarça o cheiro de álcool."
+            ]
+        },
+        "tooltip": {
+            "ru": "Водку невозможно было достать во времена Сухого закона.",
+            "uk": "Горілку неможливо було дістати за часів Сухого закону.",
+            "en": "Vodka was impossible to get during Prohibition.",
+            "es": "Era imposible conseguir vodka durante la Prohibición.",
+            "pt": "Era impossível conseguir vodca durante a Lei Seca."
+        },
+        "qwestion": {
+            "ru": "Какой знаменитый коктейль был изначально придуман без водки?",
+            "uk": "Який знаменитий коктейль спочатку був придуманий без горілки?",
+            "en": "What famous cocktail was originally invented without vodka?",
+            "es": "¿Qué famoso cóctel fue inventado originalmente sin vodka?",
+            "pt": "Qual coquetel famoso foi originalmente inventado sem vodca?"
+        },
+        "definition": {
+            "ru": "Кровавая Мэри — это коктейль на основе томатного сока, который обычно готовят с водкой. По легенде, он был придуман в Париже в 1920-х годах, во времена Сухого закона в США, когда водку было сложно достать. Изначально его могли делать с джином или вовсе без алкоголя.",
+            "uk": "Кривава Мері — це коктейль на основі томатного соку, який зазвичай готують з горілкою. За легендою, він був придуманий у Парижі в 1920-х роках, за часів Сухого закону в США, коли горілку було складно дістати. Спочатку його могли робити з джином або зовсім без алкоголю.",
+            "en": "The Bloody Mary is a tomato juice-based cocktail typically made with vodka. According to legend, it was invented in Paris in the 1920s, during the US Prohibition era when vodka was difficult to obtain. It may have been originally made with gin or without spirits at all.",
+            "es": "El Bloody Mary es un cóctel a base de jugo de tomate, generalmente hecho con vodka. Según la leyenda, fue inventado en París en la década de 1920, durante la Prohibición en Estados Unidos, cuando el vodka era difícil de conseguir. Originalmente, podría haberse hecho con ginebra o sin alcohol.",
+            "pt": "O Bloody Mary é um coquetel à base de suco de tomate, geralmente feito com vodca. Segundo a lenda, foi inventado em Paris na década de 1920, durante a Lei Seca nos EUA, quando a vodca era difícil de ser obtida. Originalmente, pode ter sido feito com gin ou sem álcool.",
+            "type": "cocktail"
+        },
+        "antipod": {
+            "ru": "Манхэттен",
+            "uk": "Манхеттен",
+            "en": "Manhattan",
+            "es": "Manhattan",
+            "pt": "Manhattan"
+        },
+        "hintFuiz": {
+            "ru": "Это коктейль из Америки времён Сухого Закона.",
+            "uk": "Це коктейль з Америки часів Сухого Закону.",
+            "en": "This is a cocktail from Prohibition-era America.",
+            "es": "Este es un cóctel de la época de la Prohibición en América.",
+            "pt": "Este é um coquetel da era da Lei Seca nos Estados Unidos."
+        },
+        "article": "https://en.wikipedia.org/wiki/Bloody_Mary_(cocktail)"
+    },
+    "imgFlag": "quizfoto" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Карнавал",
+            "uk": "Карнавал",
+            "en": "Carnival",
+            "es": "Carnaval",
+            "pt": "Carnaval"
+        },
+        "wrong": {
+            "ru": [
+                "Амазония",
+                "Кофе",
+                "Фавеллы"
+            ],
+            "uk": [
+                "Амазонія",
+                "Кава",
+                "Фавели"
+            ],
+            "en": [
+                "Amazonia",
+                "Coffee",
+                "Favelas"
+            ],
+            "es": [
+                "Amazonia",
+                "Café",
+                "Favelas"
+            ],
+            "pt": [
+                "Amazônia",
+                "Café",
+                "Favelas"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Самба",
+                "Парады",
+                "Рио-де-Жанейро"
+            ],
+            "uk": [
+                "Самба",
+                "Паради",
+                "Ріо-де-Жанейро"
+            ],
+            "en": [
+                "Samba",
+                "Parades",
+                "Rio de Janeiro"
+            ],
+            "es": [
+                "Samba",
+                "Desfiles",
+                "Río de Janeiro"
+            ],
+            "pt": [
+                "Samba",
+                "Desfiles",
+                "Rio de Janeiro"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Мои улицы взрываются ритмом и танцами.",
+                "Тут перья, блеск и самба правят миром."
+            ],
+            "uk": [
+                "Мої вулиці вибухають ритмом і танцями.",
+                "Тут пір'я, блиск і самба правлять світом."
+            ],
+            "en": [
+                "My streets explode with rhythm and dance.",
+                "Here, feathers, glitter, and samba rule the world."
+            ],
+            "es": [
+                "Mis calles explotan con ritmo y baile.",
+                "Aquí, las plumas, el brillo y la samba gobiernan el mundo."
+            ],
+            "pt": [
+                "Minhas ruas explodem com ritmo e dança.",
+                "Aqui, penas, brilho e samba governam o mundo."
+            ]
+        },
+        "tooltip": {
+            "ru": "Является символом праздника и танца.",
+            "uk": "Є символом свята і танцю.",
+            "en": "Is a symbol of celebration and dance.",
+            "es": "Es un símbolo de fiesta y baile.",
+            "pt": "É um símbolo de festa e dança."
+        },
+        "qwestion": {
+            "ru": "Что ежегодно притягивает миллионы туристов в Бразилию?",
+            "uk": "Що щорічно притягує мільйони туристів до Бразилії?",
+            "en": "What annually attracts millions of tourists to Brazil?",
+            "es": "¿Qué atrae anualmente a millones de turistas a Brasil?",
+            "pt": "O que atrai anualmente milhões de turistas para o Brasil?"
+        },
+        "definition": {
+            "ru": "Карнавал — это самый известный в мире фестиваль, который ежегодно проходит в Бразилии. Особенно он знаменит в Рио-де-Жанейро, где школы самбы соревнуются в ярких парадах на самбадроме. Это грандиозное событие, наполненное музыкой, танцами и костюмами.",
+            "uk": "Карнавал — це найвідоміший у світі фестиваль, який щорічно проходить у Бразилії. Особливо він знаменитий у Ріо-де-Жанейро, де школи самби змагаються у яскравих парадах на самбадромі. Це грандіозна подія, наповнена музикою, танцями та костюмами.",
+            "en": "Carnival is the most famous festival in the world, held annually in Brazil. It is especially famous in Rio de Janeiro, where samba schools compete in vibrant parades at the Sambadrome. It's a grand event filled with music, dancing, and costumes.",
+            "es": "El Carnaval es el festival más famoso del mundo, que se celebra anualmente en Brasil. Es especialmente conocido en Río de Janeiro, donde las escuelas de samba compiten en desfiles vibrantes en el Sambódromo. Es un evento grandioso lleno de música, baile y disfraces.",
+            "pt": "O Carnaval é o festival mais famoso do mundo, realizado anualmente no Brasil. É especialmente conhecido no Rio de Janeiro, onde as escolas de samba competem em desfiles vibrantes no Sambódromo. É um evento grandioso cheio de música, dança e fantasias."
+        },
+        "antipod": {
+            "ru": "Фавеллы",
+            "uk": "Фавели",
+            "en": "Favelas",
+            "es": "Favelas",
+            "pt": "Favelas"
+        },
+        "hintFuiz": {
+            "ru": "Что располагается на самбадроме?",
+            "uk": "Що розташоване на самбадромі?",
+            "en": "What is located on the Sambadrome?",
+            "es": "¿Qué se encuentra en el sambódromo?",
+            "pt": "O que está localizado no sambódromo?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Brazilian_Carnival"
+    },
+    "imgFlag": "quizfoto"
+}

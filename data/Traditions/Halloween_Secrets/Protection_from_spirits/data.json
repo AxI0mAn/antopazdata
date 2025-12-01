@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Защита от духов",
+            "uk": "Захист від духів",
+            "en": "Protection from spirits",
+            "es": "Protección contra espíritus",
+            "pt": "Proteção contra espíritos"
+        },
+        "wrong": {
+            "ru": [
+                "Чтобы получить конфеты",
+                "Чтобы скрыть свою личность",
+                "Чтобы быть похожим на супергероя"
+            ],
+            "uk": [
+                "Щоб отримати цукерки",
+                "Щоб приховати свою особистість",
+                "Щоб бути схожим на супергероя"
+            ],
+            "en": [
+                "To get candy",
+                "To hide your identity",
+                "To look like a superhero"
+            ],
+            "es": [
+                "Para conseguir dulces",
+                "Para ocultar la identidad",
+                "Para parecer un superhéroe"
+            ],
+            "pt": [
+                "Para pegar doces",
+                "Para esconder a identidade",
+                "Para parecer um super-herói"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Камуфляж.",
+                "Злые духи.",
+                "Защита."
+            ],
+            "uk": [
+                "Камуфляж.",
+                "Злі духи.",
+                "Захист."
+            ],
+            "en": [
+                "Camouflage.",
+                "Evil spirits.",
+                "Protection."
+            ],
+            "es": [
+                "Camuflaje.",
+                "Espíritus malignos.",
+                "Protección."
+            ],
+            "pt": [
+                "Camuflagem.",
+                "Espíritos malignos.",
+                "Proteção."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Маскировка от духов.",
+                "Надевали чужое лицо, чтобы никто не нашёл."
+            ],
+            "uk": [
+                "Маскування від духів.",
+                "Надягали чуже обличчя, щоб ніхто не знайшов."
+            ],
+            "en": [
+                "Disguise from spirits.",
+                "They wore someone else's face so no one could find them."
+            ],
+            "es": [
+                "Disfraz de espíritus.",
+                "Se ponían la cara de otra persona para que nadie pudiera encontrarlos."
+            ],
+            "pt": [
+                "Disfarce de espíritos.",
+                "Eles usavam o rosto de outra pessoa para que ninguém os encontrasse."
+            ]
+        },
+        "tooltip": {
+            "ru": "Люди верили, что в ночь Самайна духи возвращались на землю.",
+            "uk": "Люди вірили, що в ніч Самайну духи поверталися на землю.",
+            "en": "People believed that on the night of Samhain, spirits returned to earth.",
+            "es": "La gente creía que en la noche de Samhain, los espíritus regresaban a la tierra.",
+            "pt": "As pessoas acreditavam que na noite de Samhain, os espíritos voltavam à Terra."
+        },
+        "qwestion": {
+            "ru": "С какой целью изначально носили маски и костюмы?",
+            "uk": "З якою метою спочатку носили маски та костюми?",
+            "en": "What was the original purpose of wearing masks and costumes?",
+            "es": "¿Cuál era el propósito original de usar máscaras y disfraces?",
+            "pt": "Qual era o propósito original de usar máscaras e fantasias?"
+        },
+        "definition": {
+            "ru": "Изначальная цель ношения костюмов и масок во время кельтского праздника Самайн состояла в том, чтобы замаскироваться от блуждающих по земле духов и злых существ. Люди переодевались, чтобы обмануть духов, заставляя их думать, что они сами являются духами.",
+            "uk": "Початкова мета носіння костюмів і масок під час кельтського свята Самайн полягала в тому, щоб замаскуватися від духів і злих істот, що блукають по землі. Люди переодягалися, щоб обдурити духів, змушуючи їх думати, що вони самі є духами.",
+            "en": "The original purpose of wearing costumes and masks during the Celtic festival of Samhain was to disguise oneself from spirits and malevolent beings wandering the Earth. People dressed up to trick the spirits into thinking they were spirits themselves, thus blending in and avoiding harm.",
+            "es": "El propósito original de usar disfraces y máscaras durante el festival celta de Samhain era disfrazarse de los espíritus y seres malévolos que deambulaban por la Tierra. La gente se vestía para engañar a los espíritus, haciéndoles creer que eran espíritus ellos mismos, para así mezclarse y evitar ser dañados.",
+            "pt": "O propósito original de usar fantasias e máscaras durante o festival celta de Samhain era se disfarçar dos espíritos e seres malévolos que vagavam pela Terra. As pessoas se vestiam para enganar os espíritos, fazendo-os pensar que eram espíritos eles mesmos, misturando-se para evitar serem prejudicados."
+        },
+        "antipod": {
+            "ru": "Чтобы согреться",
+            "uk": "Щоб зігрітися",
+            "en": "To keep warm",
+            "es": "Para abrigarse",
+            "pt": "Para se aquecer"
+        },
+        "hintFuiz": {
+            "ru": "Что было изначальной целью костюма?",
+            "uk": "Що було початковою метою костюма?",
+            "en": "What was the original purpose of the costume?",
+            "es": "¿Cuál era el propósito original del disfraz?",
+            "pt": "Qual era o propósito original da fantasia?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Halloween"
+    },
+    "imgFlag": "quizfoto" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Комодский варан",
+            "uk": "Комодський варан",
+            "en": "Komodo dragon",
+            "es": "Dragón de Komodo",
+            "pt": "Dragão-de-komodo"
+        },
+        "wrong": {
+            "ru": [
+                "Крокодил",
+                "Аллигатор",
+                "Калимантанский варан"
+            ],
+            "uk": [
+                "Крокодил",
+                "Алігатор",
+                "Калімантанський варан"
+            ],
+            "en": [
+                "Crocodile",
+                "Alligator",
+                "Earless monitor lizard"
+            ],
+            "es": [
+                "Cocodrilo",
+                "Caimán",
+                "Varano sin orejas"
+            ],
+            "pt": [
+                "Crocodilo",
+                "Jacaré",
+                "Lagarto-monitor-sem-orelhas"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Ящерица.",
+                "Длина.",
+                "Вес."
+            ],
+            "uk": [
+                "Ящірка.",
+                "Довжина.",
+                "Вага."
+            ],
+            "en": [
+                "Lizard.",
+                "Length.",
+                "Weight."
+            ],
+            "es": [
+                "Lagarto.",
+                "Longitud.",
+                "Peso."
+            ],
+            "pt": [
+                "Lagarto.",
+                "Comprimento.",
+                "Peso."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Кусает и ходит следом.",
+                "Самый большой среди ящериц."
+            ],
+            "uk": [
+                "Кусає і ходить слідом.",
+                "Найбільший серед ящірок."
+            ],
+            "en": [
+                "It bites and follows you.",
+                "The largest of the lizards."
+            ],
+            "es": [
+                "Muerde y te sigue.",
+                "El más grande de los lagartos."
+            ],
+            "pt": [
+                "Ele morde e te segue.",
+                "O maior dos lagartos."
+            ]
+        },
+        "tooltip": {
+            "ru": "Её длина может достигать 3 метров, а вес более 70 кг.",
+            "uk": "Її довжина може досягати 3 метрів, а вага понад 70 кг.",
+            "en": "Its length can reach 3 meters, and its weight is over 70 kg.",
+            "es": "Su longitud puede alcanzar los 3 metros y su peso supera los 70 kg.",
+            "pt": "Seu comprimento pode chegar a 3 metros, e seu peso é superior a 70 kg."
+        },
+        "qwestion": {
+            "ru": "Какая самая большая ящерица в мире?",
+            "uk": "Яка найбільша ящірка у світі?",
+            "en": "What is the largest lizard in the world?",
+            "es": "¿Cuál es el lagarto más grande del mundo?",
+            "pt": "Qual é o maior lagarto do mundo?"
+        },
+        "definition": {
+            "ru": "Комодский варан — это крупнейшая из ныне живущих ящериц, обитающая на нескольких островах Индонезии. Известен своим ядовитым укусом, силой и большими размерами. Находится под угрозой исчезновения.",
+            "uk": "Комодський варан — це найбільша з нині живих ящірок, що мешкає на кількох островах Індонезії. Відомий своїм отруйним укусом, силою та великими розмірами. Перебуває під загрозою зникнення.",
+            "en": "The Komodo dragon is the largest living species of lizard, native to a few Indonesian islands. It is known for its venomous bite, powerful build, and large size. The species is currently endangered.",
+            "es": "El dragón de Komodo es la especie de lagarto más grande que vive, nativa de algunas islas de Indonesia. Es conocido por su mordedura venenosa, constitución poderosa y gran tamaño. La especie se encuentra actualmente en peligro de extinción.",
+            "pt": "O dragão-de-komodo é a maior espécie de lagarto viva, nativa de algumas ilhas da Indonésia. É conhecido por sua mordida venenosa, constituição poderosa e grande porte. A espécie está atualmente em perigo de extinção."
+        },
+        "antipod": {
+            "ru": "Игуана",
+            "uk": "Ігуана",
+            "en": "Iguana",
+            "es": "Iguana",
+            "pt": "Iguana"
+        },
+        "hintFuiz": {
+            "ru": "Это самая большая ящерица, которая живет в джунглях.",
+            "uk": "Це найбільша ящірка, яка живе в джунглях.",
+            "en": "This is the largest lizard that lives in the jungle.",
+            "es": "Este es el lagarto más grande que vive en la selva.",
+            "pt": "Este é o maior lagarto que vive na selva."
+        },
+        "article": "https://en.wikipedia.org/wiki/Komodo_dragon"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Жук-голиаф",
+            "uk": "Жук-голіаф",
+            "en": "Goliath beetle",
+            "es": "Escarabajo Goliat",
+            "pt": "Besouro-golias"
+        },
+        "wrong": {
+            "ru": [
+                "Богомол",
+                "Жук-слон",
+                "Уэта"
+            ],
+            "uk": [
+                "Богомол",
+                "Жук-слон",
+                "Вета"
+            ],
+            "en": [
+                "Praying mantis",
+                "Elephant beetle",
+                "Giant weta"
+            ],
+            "es": [
+                "Mantis religiosa",
+                "Escarabajo elefante",
+                "Weta gigante"
+            ],
+            "pt": [
+                "Louva-a-deus",
+                "Besouro-elefante",
+                "Weta-gigante"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Жук.",
+                "Вес.",
+                "Африка."
+            ],
+            "uk": [
+                "Жук.",
+                "Вага.",
+                "Африка."
+            ],
+            "en": [
+                "Beetle.",
+                "Weight.",
+                "Africa."
+            ],
+            "es": [
+                "Escarabajo.",
+                "Peso.",
+                "África."
+            ],
+            "pt": [
+                "Besouro.",
+                "Peso.",
+                "África."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Он носит имя великана, но живёт не в сказке.",
+                "Его личинки весят больше, чем он сам."
+            ],
+            "uk": [
+                "Він носить ім'я велетня, але живе не в казці.",
+                "Його личинки важать більше, ніж він сам."
+            ],
+            "en": [
+                "It is named after a giant, but it doesn't live in a fairy tale.",
+                "Its larvae weigh more than the adult itself."
+            ],
+            "es": [
+                "Lleva el nombre de un gigante, pero no vive en un cuento de hadas.",
+                "Sus larvas pesan más que él mismo."
+            ],
+            "pt": [
+                "Ele tem o nome de um gigante, mas não vive em um conto de fadas.",
+                "Suas larvas pesam mais do que ele."
+            ]
+        },
+        "tooltip": {
+            "ru": "Оно может весить до 100 грамм.",
+            "uk": "Воно може важити до 100 грамів.",
+            "en": "It can weigh up to 100 grams.",
+            "es": "Puede pesar hasta 100 gramos.",
+            "pt": "Pode pesar até 100 gramas."
+        },
+        "qwestion": {
+            "ru": "Какое самое большое насекомое в мире по весу и объему?",
+            "uk": "Яка найбільша комаха у світі за вагою і об'ємом?",
+            "en": "What is the largest insect in the world by weight and volume?",
+            "es": "¿Cuál es el insecto más grande del mundo por peso y volumen?",
+            "pt": "Qual é o maior inseto do mundo em peso e volume?"
+        },
+        "definition": {
+            "ru": "Жук-голиаф — это род крупных жуков, обитающих в тропических лесах Африки. Его длина может достигать 11 см, а вес до 100 г, что делает его одним из самых тяжелых насекомых в мире. Питается в основном соком деревьев и фруктами.",
+            "uk": "Жук-голіаф — це рід великих жуків, що мешкають у тропічних лісах Африки. Його довжина може досягати 11 см, а вага до 100 г, що робить його однією з найважчих комах у світі. Харчується в основному соком дерев і фруктами.",
+            "en": "The Goliath beetle is a genus of large beetles native to the tropical forests of Africa. Its length can reach up to 11 cm and its weight up to 100 g, making it one of the heaviest insects in the world. It feeds mainly on tree sap and fruits.",
+            "es": "El escarabajo Goliat es un género de grandes escarabajos nativos de los bosques tropicales de África. Su longitud puede alcanzar los 11 cm y su peso hasta 100 g, lo que lo convierte en uno de los insectos más pesados del mundo. Se alimenta principalmente de savia de árboles y frutas.",
+            "pt": "O besouro-golias é um gênero de grandes besouros nativos das florestas tropicais da África. Seu comprimento pode chegar a 11 cm e seu peso a 100 g, tornando-o um dos insetos mais pesados do mundo. Alimenta-se principalmente de seiva de árvores e frutas."
+        },
+        "antipod": {
+            "ru": "Жук-атлас",
+            "uk": "Жук-атлас",
+            "en": "Atlas beetle",
+            "es": "Escarabajo Atlas",
+            "pt": "Besouro-atlas"
+        },
+        "hintFuiz": {
+            "ru": "Это самый большой и тяжелый жук в мире.",
+            "uk": "Це найбільший і найважчий жук у світі.",
+            "en": "This is the largest and heaviest beetle in the world.",
+            "es": "Este es el escarabajo más grande y pesado del mundo.",
+            "pt": "Este é o maior e mais pesado besouro do mundo."
+        },
+        "article": "https://en.wikipedia.org/wiki/Goliathus"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Рыба-попугай",
+            "uk": "Риба-папуга",
+            "en": "Parrotfish",
+            "es": "Pez loro",
+            "pt": "Peixe-papagaio"
+        },
+        "wrong": {
+            "ru": [
+                "Рыба-клоун",
+                "Дори",
+                "Морской окунь"
+            ],
+            "uk": [
+                "Риба-клоун",
+                "Дорі",
+                "Морський окунь"
+            ],
+            "en": [
+                "Clownfish",
+                "Dory",
+                "Sea bass"
+            ],
+            "es": [
+                "Pez payaso",
+                "Dory",
+                "Lubina"
+            ],
+            "pt": [
+                "Peixe-palhaço",
+                "Dory",
+                "Robalo"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Рыба.",
+                "Клюв.",
+                "Песок."
+            ],
+            "uk": [
+                "Риба.",
+                "Дзьоб.",
+                "Пісок."
+            ],
+            "en": [
+                "Fish.",
+                "Beak.",
+                "Sand."
+            ],
+            "es": [
+                "Pez.",
+                "Pico.",
+                "Arena."
+            ],
+            "pt": [
+                "Peixe.",
+                "Bico.",
+                "Areia."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Кто делает песок?",
+                "Откуда песок на пляжах?"
+            ],
+            "uk": [
+                "Хто робить пісок?",
+                "Звідки пісок на пляжах?"
+            ],
+            "en": [
+                "Who makes sand?",
+                "Where does the sand on beaches come from?"
+            ],
+            "es": [
+                "¿Quién hace la arena?",
+                "¿De dónde viene la arena de las playas?"
+            ],
+            "pt": [
+                "Quem faz a areia?",
+                "De onde vem a areia nas praias?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Их зубы слиты в структуру, похожую на клюв, которая позволяет им соскребать водоросли и частицы коралла.",
+            "uk": "Їхні зуби злиті в структуру, схожу на дзьоб, що дозволяє їм зішкрябувати водорості та частинки корала.",
+            "en": "Their teeth are fused into a beak-like structure that allows them to scrape algae and coral particles.",
+            "es": "Sus dientes están fusionados en una estructura similar a un pico que les permite raspar algas y partículas de coral.",
+            "pt": "Seus dentes são fundidos em uma estrutura semelhante a um bico que lhes permite raspar algas e partículas de coral."
+        },
+        "qwestion": {
+            "ru": "Какая рыба ест кораллы, превращая их в тонны песка?",
+            "uk": "Яка риба їсть корали, перетворюючи їх на тонни піску?",
+            "en": "Which fish eats coral and turns it into tons of sand?",
+            "es": "¿Qué pez come coral y lo convierte en toneladas de arena?",
+            "pt": "Qual peixe come coral e o transforma em toneladas de areia?"
+        },
+        "definition": {
+            "ru": "Рыба-попугай играет жизненно важную роль в экосистеме коралловых рифов, перерабатывая твердые кораллы в песок, который составляет основу многих пляжей.",
+            "uk": "Риба-папуга відіграє життєво важливу роль в екосистемі коралових рифів, переробляючи тверді корали на пісок, який є основою багатьох пляжів.",
+            "en": "The parrotfish plays a vital role in the coral reef ecosystem by processing hard corals into sand, which forms the basis of many beaches.",
+            "es": "El pez loro juega un papel vital en el ecosistema del arrecife de coral al procesar corales duros en arena, que forma la base de muchas playas.",
+            "pt": "O peixe-papagaio desempenha um papel vital no ecossistema de recifes de coral, processando corais duros em areia, que forma a base de muitas praias."
+        },
+        "antipod": {
+            "ru": "Скумбрия",
+            "uk": "Скумбрія",
+            "en": "Mackerel",
+            "es": "Caballa",
+            "pt": "Cavala"
+        },
+        "hintFuiz": {
+            "ru": "Какая из двух рыб формирует рифы и песок?",
+            "uk": "Яка з двох риб формує рифи та пісок?",
+            "en": "Which of the two fish shapes reefs and sand?",
+            "es": "¿Cuál de los dos peces da forma a los arrecifes y la arena?",
+            "pt": "Qual dos dois peixes molda recifes e areia?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Parrotfish"
+    },
+    "imgFlag": "all" 
+}

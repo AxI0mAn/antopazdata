@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Эгг-ног",
+            "uk": "Ег-ног",
+            "en": "Eggnog",
+            "es": "Ponche de huevo",
+            "pt": "Eggnog"
+        },
+        "wrong": {
+            "ru": [
+                "Горячий шоколад",
+                "Капучино",
+                "Латте"
+            ],
+            "uk": [
+                "Гарячий шоколад",
+                "Капучино",
+                "Лате"
+            ],
+            "en": [
+                "Hot chocolate",
+                "Cappuccino",
+                "Latte"
+            ],
+            "es": [
+                "Chocolate caliente",
+                "Capuchino",
+                "Latte"
+            ],
+            "pt": [
+                "Chocolate quente",
+                "Cappuccino",
+                "Latte"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Молоко.",
+                "Ром.",
+                "Горячий."
+            ],
+            "uk": [
+                "Молоко.",
+                "Ром.",
+                "Гарячий."
+            ],
+            "en": [
+                "Milk.",
+                "Rum.",
+                "Hot."
+            ],
+            "es": [
+                "Leche.",
+                "Ron.",
+                "Caliente."
+            ],
+            "pt": [
+                "Leite.",
+                "Rum.",
+                "Quente."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Какой коктейль выглядит как молоко?",
+                "Молочного цвета и очень крепкий коктейль."
+            ],
+            "uk": [
+                "Який коктейль виглядає як молоко?",
+                "Молочного кольору і дуже міцний коктейль."
+            ],
+            "en": [
+                "What cocktail looks like milk?",
+                "A milk-colored and very strong cocktail."
+            ],
+            "es": [
+                "¿Qué cóctel parece leche?",
+                "Un cóctel de color leche y muy fuerte."
+            ],
+            "pt": [
+                "Que coquetel parece leite?",
+                "Um coquetel de cor de leite e muito forte."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это коктейль, который готовится на основе молока и яиц с добавлением рома или бренди.",
+            "uk": "Це коктейль, який готується на основі молока та яєць з додаванням рому або бренді.",
+            "en": "It is a cocktail made from milk and eggs with the addition of rum or brandy.",
+            "es": "Es un cóctel hecho de leche y huevos con la adición de ron o brandy.",
+            "pt": "É um coquetel feito de leite e ovos com a adição de rum ou conhaque."
+        },
+        "qwestion": {
+            "ru": "Какой напиток выглядит как молоко и подается горячим?",
+            "uk": "Який напій виглядає як молоко і подається гарячим?",
+            "en": "What drink looks like milk and is served hot?",
+            "es": "¿Qué bebida se parece a la leche y se sirve caliente?",
+            "pt": "Que bebida se parece com leite e é servida quente?"
+        },
+        "definition": {
+            "ru": "Эгг-ног — это густой, сливочный и сладкий напиток, традиционно готовящийся на основе молока, сливок, сахара, взбитых яиц и яичных желтков. Часто в него добавляют ром, бренди или бурбон. Он является популярным зимним и рождественским напитком, который подается как горячим, так и охлажденным.",
+            "uk": "Ег-ног — це густий, вершковий і солодкий напій, що традиційно готується на основі молока, вершків, цукру, збитих яєць і яєчних жовтків. Часто до нього додають ром, бренді або бурбон. Він є популярним зимовим і різдвяним напоєм, який подається як гарячим, так і охолодженим.",
+            "en": "Eggnog is a thick, creamy, and sweet beverage traditionally made with milk, cream, sugar, whipped egg whites, and egg yolks. It is often spiked with rum, brandy, or bourbon. It's a popular winter and Christmas drink, served both hot and chilled.",
+            "es": "El ponche de huevo es una bebida espesa, cremosa y dulce, tradicionalmente hecha con leche, crema, azúcar, claras de huevo batidas y yemas de huevo. A menudo se le añade ron, brandy o bourbon. Es una bebida popular de invierno y Navidad, que se sirve tanto caliente como fría.",
+            "pt": "Eggnog é uma bebida espessa, cremosa e doce, tradicionalmente feita com leite, creme, açúcar, claras de ovo batidas e gemas. É frequentemente adicionado com rum, conhaque ou bourbon. É uma bebida popular de inverno e Natal, servida tanto quente quanto gelada."
+        },
+        "antipod": {
+            "ru": "Грог",
+            "uk": "Грог",
+            "en": "Grog",
+            "es": "Grog",
+            "pt": "Grogue"
+        },
+        "hintFuiz": {
+            "ru": "Этот напиток выглядит как молоко, но на самом деле он очень крепкий.",
+            "uk": "Цей напій виглядає як молоко, але насправді він дуже міцний.",
+            "en": "This drink looks like milk, but it is actually very strong.",
+            "es": "Esta bebida parece leche, pero en realidad es muy fuerte.",
+            "pt": "Esta bebida parece leite, mas na verdade é muito forte."
+        },
+        "article": "https://en.wikipedia.org/wiki/Eggnog"
+    },
+    "imgFlag": "quizfoto" 
+}

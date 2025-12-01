@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Дубай",
+            "uk": "Дубай",
+            "en": "Dubai",
+            "es": "Dubái",
+            "pt": "Dubai"
+        },
+        "wrong": {
+            "ru": [
+                "Лондон",
+                "Рим",
+                "Токио"
+            ],
+            "uk": [
+                "Лондон",
+                "Рим",
+                "Токіо"
+            ],
+            "en": [
+                "London",
+                "Rome",
+                "Tokyo"
+            ],
+            "es": [
+                "Londres",
+                "Roma",
+                "Tokio"
+            ],
+            "pt": [
+                "Londres",
+                "Roma",
+                "Tóquio"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Небоскребы.",
+                "Искусственные острова.",
+                "Роскошь."
+            ],
+            "uk": [
+                "Хмарочоси.",
+                "Штучні острови.",
+                "Розкіш."
+            ],
+            "en": [
+                "Skyscrapers.",
+                "Artificial islands.",
+                "Luxury."
+            ],
+            "es": [
+                "Rascacielos.",
+                "Islas artificiales.",
+                "Lujo."
+            ],
+            "pt": [
+                "Arranha-céus.",
+                "Ilhas artificiais.",
+                "Luxo."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Остров в виде Пальмы.",
+                "Я вырос в пустыне и достиг небес."
+            ],
+            "uk": [
+                "Острів у вигляді Пальми.",
+                "Я виріс у пустелі та досяг небес."
+            ],
+            "en": [
+                "An island shaped like a palm.",
+                "I grew out of the desert and reached for the sky."
+            ],
+            "es": [
+                "Una isla con forma de palmera.",
+                "Crecí del desierto y alcancé el cielo."
+            ],
+            "pt": [
+                "Uma ilha em forma de palmeira.",
+                "Eu cresci no deserto e alcancei o céu."
+            ]
+        },
+        "tooltip": {
+            "ru": "И самым высоким зданием в мире.",
+            "uk": "І найвищою будівлею у світі.",
+            "en": "And the tallest building in the world.",
+            "es": "Y el edificio más alto del mundo.",
+            "pt": "E o edifício mais alto do mundo."
+        },
+        "qwestion": {
+            "ru": "Какой город знаменит своими невероятными искусственными островами?",
+            "uk": "Яке місто знамените своїми неймовірними штучними островами?",
+            "en": "Which city is famous for its incredible artificial islands?",
+            "es": "¿Qué ciudad es famosa por sus increíbles islas artificiales?",
+            "pt": "Qual cidade é famosa por suas incríveis ilhas artificiais?"
+        },
+        "definition": {
+            "ru": "Дубай — город и эмират в Объединенных Арабских Эмиратах, известный своей футуристической архитектурой, роскошью и амбициозными строительными проектами. В нем находится самое высокое здание в мире, Бурдж-Халифа, и невероятные искусственные архипелаги, такие как Пальма Джумейра и архипелаг Мир. Дубай превратился из скромного порта в глобальный центр бизнеса, туризма и финансов, привлекая посетителей со всего мира своими торговыми центрами, ресторанами и развлечениями.",
+            "uk": "Дубай — місто та емірат в Об'єднаних Арабських Еміратах, відомий своєю футуристичною архітектурою, розкішшю та амбітними будівельними проектами. У ньому знаходиться найвища будівля у світі, Бурдж-Халіфа, та неймовірні штучні архіпелаги, такі як Пальма Джумейра та архіпелаг Мир. Дубай перетворився зі скромного порту на глобальний центр бізнесу, туризму та фінансів, приваблюючи відвідувачів з усього світу своїми торговими центрами, ресторанами та розвагами.",
+            "en": "Dubai is a city and emirate in the United Arab Emirates known for its futuristic architecture, luxury, and ambitious construction projects. It is home to the world's tallest building, the Burj Khalifa, and incredible artificial archipelagos like the Palm Jumeirah and The World. Dubai has transformed from a humble port into a global hub for business, tourism, and finance, attracting visitors from all over the world with its malls, restaurants, and entertainment.",
+            "es": "Dubái es una ciudad y emirato en los Emiratos Árabes Unidos conocido por su arquitectura futurista, lujo y ambiciosos proyectos de construcción. Es el hogar del edificio más alto del mundo, el Burj Khalifa, e increíbles archipiélagos artificiales como la Palm Jumeirah y The World. Dubái se ha transformado de un humilde puerto en un centro global para los negocios, el turismo y las finanzas, atrayendo a visitantes de todo el mundo con sus centros comerciales, restaurantes y entretenimiento.",
+            "pt": "Dubai é uma cidade e emirado nos Emirados Árabes Unidos, conhecida por sua arquitetura futurista, luxo e projetos de construção ambiciosos. Abriga o edifício mais alto do mundo, o Burj Khalifa, e incríveis arquipélagos artificiais como a Palm Jumeirah e The World. Dubai se transformou de um humilde porto em um centro global de negócios, turismo e finanças, atraindo visitantes de todo o mundo com seus shoppings, restaurantes e entretenimento."
+        },
+        "antipod": {
+            "ru": "Париж",
+            "uk": "Париж",
+            "en": "Paris",
+            "es": "París",
+            "pt": "Paris"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих городов знаменит своими футуристическими постройками?",
+            "uk": "Яке з цих міст знамените своїми футуристичними будівлями?",
+            "en": "Which of these cities is famous for its futuristic buildings?",
+            "es": "¿Cuál de estas ciudades es famosa por sus construcciones futuristas?",
+            "pt": "Qual dessas cidades é famosa por suas construções futuristas?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Dubai"
+    },
+    "imgFlag": "quizfoto" 
+}

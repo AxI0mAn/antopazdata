@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Рождественский гном",
+            "uk": "Різдвяний гном",
+            "en": "Christmas Gnome",
+            "es": "Gnomo de Navidad",
+            "pt": "Gnomo de Natal"
+        },
+        "wrong": {
+            "ru": [
+                "Олень",
+                "Дед Мороз",
+                "Метель"
+            ],
+            "uk": [
+                "Олень",
+                "Дід Мороз",
+                "Хуртовина"
+            ],
+            "en": [
+                "Reindeer",
+                "Grandfather Frost",
+                "Blizzard"
+            ],
+            "es": [
+                "Reno",
+                "Papá Noel Ruso",
+                "Ventisca"
+            ],
+            "pt": [
+                "Rena",
+                "Papai Noel Russo",
+                "Nevasca"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Зима",
+                "Подарок",
+                "Метель"
+            ],
+            "uk": [
+                "Зима",
+                "Подарунок",
+                "Хуртовина"
+            ],
+            "en": [
+                "Winter",
+                "Gift",
+                "Blizzard"
+            ],
+            "es": [
+                "Invierno",
+                "Regalo",
+                "Ventisca"
+            ],
+            "pt": [
+                "Inverno",
+                "Presente",
+                "Nevasca"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Это маленький гном или домовой.",
+                "Он помогает Санта-Клаусу."
+            ],
+            "uk": [
+                "Це маленький гном або домовик.",
+                "Він допомагає Санта-Клаусу."
+            ],
+            "en": [
+                "It's a little gnome or brownie.",
+                "He helps Santa Claus."
+            ],
+            "es": [
+                "Es un pequeño gnomo o duende.",
+                "Él ayuda a Papá Noel."
+            ],
+            "pt": [
+                "É um pequeno gnomo ou duende.",
+                "Ele ajuda o Papai Noel."
+            ]
+        },
+        "tooltip": {
+            "ru": "Его имя Юль Томтен",
+            "uk": "Його ім'я Юль Томтен",
+            "en": "His name is Jultomten",
+            "es": "Su nombre es Jultomten",
+            "pt": "O nome dele é Jultomten"
+        },
+        "qwestion": {
+            "ru": "Кто приносит подарки детям в Швеции?",
+            "uk": "Хто приносить подарунки дітям у Швеції?",
+            "en": "Who brings gifts to children in Sweden?",
+            "es": "¿Quién trae regalos a los niños en Suecia?",
+            "pt": "Quem traz presentes para as crianças na Suécia?"
+        },
+        "definition": {
+            "ru": "Рождественский гном (Юлетомтен) — традиционный рождественский персонаж в Швеции, который приносит подарки. Это маленький гном или домовой, который живет под полом или в лесу и помогает Санта-Клаусу.",
+            "uk": "Різдвяний гном (Юлетомтен) — традиційний різдвяний персонаж у Швеції, який приносить подарунки. Це маленький гном або домовик, який живе під підлогою або в лісі та допомагає Санта-Клаусу.",
+            "en": "The Christmas gnome (Jultomten) is a traditional Christmas character in Sweden who brings gifts. He is a small gnome or house spirit who lives under the floor or in the forest and helps Santa Claus.",
+            "es": "El gnomo de Navidad (Jultomten) es un personaje navideño tradicional en Suecia que trae regalos. Es un pequeño gnomo o espíritu del hogar que vive bajo el suelo o en el bosque y ayuda a Papá Noel.",
+            "pt": "O gnomo de Natal (Jultomten) é um personagem de Natal tradicional na Suécia que traz presentes. É um pequeno gnomo ou espírito da casa que vive debaixo do chão ou na floresta e ajuda o Papai Noel."
+        },
+        "antipod": {
+            "ru": "Великан",
+            "uk": "Велетень",
+            "en": "Giant",
+            "es": "Gigante",
+            "pt": "Gigante"
+        },
+        "hintFuiz": {
+            "ru": "Он приносит подарки детям в Швеции.",
+            "uk": "Він приносить подарунки дітям у Швеції.",
+            "en": "He brings gifts to children in Sweden.",
+            "es": "Él trae regalos a los niños en Suecia.",
+            "pt": "Ele traz presentes para as crianças na Suécia."
+        },
+        "article": "https://en.wikipedia.org/wiki/Jultomten"
+    },
+    "imgFlag": "quizfoto"
+}

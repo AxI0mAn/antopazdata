@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Хаукарль",
+            "uk": "Хаукарль",
+            "en": "Hákarl",
+            "es": "Hákarl",
+            "pt": "Hákarl"
+        },
+        "wrong": {
+            "ru": [
+                "Лютефиск",
+                "Сморреброд",
+                "Лосось"
+            ],
+            "uk": [
+                "Лютефіск",
+                "Сморреброд",
+                "Лосось"
+            ],
+            "en": [
+                "Lutefisk",
+                "Smørrebrød",
+                "Salmon"
+            ],
+            "es": [
+                "Lutefisk",
+                "Smørrebrød",
+                "Salmón"
+            ],
+            "pt": [
+                "Lutefisk",
+                "Smørrebrød",
+                "Salmão"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Исландия.",
+                "Аммиак.",
+                "Вонючка."
+            ],
+            "uk": [
+                "Ісландія.",
+                "Аміак.",
+                "Смердючка."
+            ],
+            "en": [
+                "Iceland.",
+                "Ammonia.",
+                "Stinky."
+            ],
+            "es": [
+                "Islandia.",
+                "Amoníaco.",
+                "Apestoso."
+            ],
+            "pt": [
+                "Islândia.",
+                "Amoníaco.",
+                "Fedido."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Его запах отпугивает.",
+                "Съедобный деликатес с душком."
+            ],
+            "uk": [
+                "Його запах відлякує.",
+                "Їстівний делікатес із душком."
+            ],
+            "en": [
+                "Its smell is off-putting.",
+                "An edible delicacy with a bad odor."
+            ],
+            "es": [
+                "Su olor es desagradable.",
+                "Un manjar comestible con un olor desagradable."
+            ],
+            "pt": [
+                "Seu cheiro é repulsivo.",
+                "Uma iguaria comestível com um odor ruim."
+            ]
+        },
+        "tooltip": {
+            "ru": "Готовится по древней рецептуре викингов.",
+            "uk": "Готується за давнім рецептом вікінгів.",
+            "en": "Prepared according to an ancient Viking recipe.",
+            "es": "Preparado según una antigua receta vikinga.",
+            "pt": "Preparado de acordo com uma antiga receita viking."
+        },
+        "qwestion": {
+            "ru": "Какой исландский деликатес из акулы имеет сильный запах аммиака?",
+            "uk": "Який ісландський делікатес з акули має сильний запах аміаку?",
+            "en": "What Icelandic shark delicacy has a strong smell of ammonia?",
+            "es": "¿Qué manjar islandés de tiburón tiene un fuerte olor a amoníaco?",
+            "pt": "Que iguaria islandesa de tubarão tem um forte cheiro de amoníaco?"
+        },
+        "definition": {
+            "ru": "Хаукарль — это исландский деликатес из ферментированного мяса гренландской полярной акулы. Мясо закапывают в землю на несколько месяцев, а затем вялят. Он имеет сильный аммиачный запах и является традиционным блюдом, особенно на праздники.",
+            "uk": "Хаукарль — це ісландський делікатес із ферментованого м'яса гренландської полярної акули. М'ясо закопують у землю на кілька місяців, а потім в'ялять. Він має сильний аміачний запах і є традиційною стравою, особливо на свята.",
+            "en": "Hákarl is an Icelandic delicacy of fermented Greenland shark meat. The meat is buried in the ground for several months and then hung to dry. It has a strong ammonia smell and is a traditional dish, especially for holidays.",
+            "es": "El Hákarl es un manjar islandés de carne de tiburón de Groenlandia fermentada. La carne se entierra durante varios meses y luego se cuelga para secar. Tiene un fuerte olor a amoníaco y es un plato tradicional, especialmente en días festivos.",
+            "pt": "O Hákarl é uma iguaria islandesa de carne de tubarão da Groenlândia fermentada. A carne é enterrada por vários meses e depois pendurada para secar. Tem um forte cheiro de amoníaco e é um prato tradicional, especialmente em feriados."
+        },
+        "antipod": {
+            "ru": "Сюрстреминг",
+            "uk": "Сюрстремінг",
+            "en": "Surströmming",
+            "es": "Surströmming",
+            "pt": "Surströmming"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих двух продуктов сделан из акулы?",
+            "uk": "Який з цих двох продуктів зроблений з акули?",
+            "en": "Which of these two products is made from shark?",
+            "es": "¿Cuál de estos dos productos está hecho de tiburón?",
+            "pt": "Qual desses dois produtos é feito de tubarão?"
+        },
+        "article": "https://en.wikipedia.org/wiki/H%C3%A1karl"
+    },
+    "imgFlag": "quizfoto"
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Сонгкран",
+            "uk": "Сонгкран",
+            "en": "Songkran",
+            "es": "Songkran",
+            "pt": "Songkran"
+        },
+        "wrong": {
+            "ru": [
+                "Лои Кратонг",
+                "Фестиваль ананаса",
+                "День Слона"
+            ],
+            "uk": [
+                "Лой Кратонг",
+                "Фестиваль ананаса",
+                "День Слона"
+            ],
+            "en": [
+                "Loi Krathong",
+                "Pineapple Festival",
+                "Elephant Day"
+            ],
+            "es": [
+                "Loi Krathong",
+                "Festival de la Piña",
+                "Día del Elefante"
+            ],
+            "pt": [
+                "Loi Krathong",
+                "Festival do Abacaxi",
+                "Dia do Elefante"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Таиланд",
+                "Вода",
+                "Очищение"
+            ],
+            "uk": [
+                "Таїланд",
+                "Вода",
+                "Очищення"
+            ],
+            "en": [
+                "Thailand",
+                "Water",
+                "Purification"
+            ],
+            "es": [
+                "Tailandia",
+                "Agua",
+                "Purificación"
+            ],
+            "pt": [
+                "Tailândia",
+                "Água",
+                "Purificação"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Обливание, смывающее грехи.",
+                "Вода приносит удачу."
+            ],
+            "uk": [
+                "Обливання, що змиває гріхи.",
+                "Вода приносить удачу."
+            ],
+            "en": [
+                "A dousing that washes away sins.",
+                "Water brings good luck."
+            ],
+            "es": [
+                "Un chorro que lava los pecados.",
+                "El agua trae buena suerte."
+            ],
+            "pt": [
+                "Um banho que lava os pecados.",
+                "A água traz boa sorte."
+            ]
+        },
+        "tooltip": {
+            "ru": "Празднование тайского Нового года, сопровождается ритуальным обливанием водой.",
+            "uk": "Святкування тайського Нового року, що супроводжується ритуальним обливанням водою.",
+            "en": "The celebration of the Thai New Year, accompanied by ritual water dousing.",
+            "es": "La celebración del Año Nuevo tailandés, acompañada de un ritual de dousing con agua.",
+            "pt": "A celebração do Ano Novo tailandês, acompanhada por um ritual de banho de água."
+        },
+        "qwestion": {
+            "ru": "Как называется праздник, связанный с переходом Солнца в созвездие Овна?",
+            "uk": "Як називається свято, пов'язане з переходом Сонця до сузір'я Овна?",
+            "en": "What is the name of the holiday associated with the Sun's transition into the constellation of Aries?",
+            "es": "¿Cómo se llama el festival asociado con la transición del Sol a la constelación de Aries?",
+            "pt": "Qual o nome do feriado associado à transição do Sol para a constelação de Áries?"
+        },
+        "definition": {
+            "ru": "Сонгкран — это традиционный тайский Новый год, который отмечается в середине апреля. Праздник известен ритуальными омовениями, которые превратились в массовые водные битвы на улицах, символизируя очищение, обновление и прощание со всем плохим.",
+            "uk": "Сонгкран — це традиційний тайський Новий рік, який відзначається в середині квітня. Свято відоме ритуальними омиваннями, які перетворилися на масові водні битви на вулицях, символізуючи очищення, оновлення і прощання з усім поганим.",
+            "en": "Songkran is the traditional Thai New Year, which is celebrated in mid-April. The festival is known for ritual dousings that have turned into mass water battles in the streets, symbolizing cleansing, renewal, and saying goodbye to all that is bad.",
+            "es": "Songkran es el tradicional Año Nuevo tailandés, que se celebra a mediados de abril. La festividad es conocida por los rituales de dousing que se han convertido en batallas masivas de agua en las calles, simbolizando la purificación, la renovación y la despedida de todo lo malo.",
+            "pt": "Songkran é o tradicional Ano Novo tailandês, que é celebrado em meados de abril. A festividade é conhecida pelos rituais de banho que se transformaram em batalhas de água em massa nas ruas, simbolizando a purificação, a renovação e a despedida de tudo o que é ruim."
+        },
+        "antipod": {
+            "ru": "Фестиваль ананаса",
+            "uk": "Фестиваль ананаса",
+            "en": "Pineapple Festival",
+            "es": "Festival de la piña",
+            "pt": "Festival do abacaxi"
+        },
+        "hintFuiz": {
+            "ru": "В какой из праздников принято обливать друг друга водой?",
+            "uk": "У яке зі свят прийнято обливати один одного водою?",
+            "en": "During which holiday is it customary to pour water on each other?",
+            "es": "¿En qué fiesta es costumbre echarse agua unos a otros?",
+            "pt": "Em qual feriado é costume jogar água uns nos outros?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Songkran"
+    },
+    "imgFlag": "quizfoto"
+}

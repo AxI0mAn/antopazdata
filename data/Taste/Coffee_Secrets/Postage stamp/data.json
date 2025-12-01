@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Почтовая марка",
+            "uk": "Поштова марка",
+            "en": "Postage stamp",
+            "es": "Sello postal",
+            "pt": "Selo postal"
+        },
+        "wrong": {
+            "ru": [
+                "Банкнота",
+                "Флаг",
+                "Паспорт"
+            ],
+            "uk": [
+                "Банкнота",
+                "Прапор",
+                "Паспорт"
+            ],
+            "en": [
+                "Banknote",
+                "Flag",
+                "Passport"
+            ],
+            "es": [
+                "Billete",
+                "Bandera",
+                "Pasaporte"
+            ],
+            "pt": [
+                "Cédula",
+                "Bandeira",
+                "Passaporte"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Богатство.",
+                "Бразилия.",
+                "Кофе."
+            ],
+            "uk": [
+                "Багатство.",
+                "Бразилія.",
+                "Кава."
+            ],
+            "en": [
+                "Wealth.",
+                "Brazil.",
+                "Coffee."
+            ],
+            "es": [
+                "Riqueza.",
+                "Brasil.",
+                "Café."
+            ],
+            "pt": [
+                "Riqueza.",
+                "Brasil.",
+                "Café."
+            ]
+        },
+        "tooltip": {
+            "ru": "Оно символизирует богатство страны",
+            "uk": "Він символізує багатство країни",
+            "en": "It symbolizes the country's wealth",
+            "es": "Simboliza la riqueza del país",
+            "pt": "Simboliza a riqueza do país"
+        },
+        "qwestion": {
+            "ru": "На чём в Бразилии изображено кофейное зерно?",
+            "uk": "На чому в Бразилії зображено кавове зерно?",
+            "en": "What in Brazil features an image of a coffee bean?",
+            "es": "¿Qué objeto en Brasil presenta la imagen de un grano de café?",
+            "pt": "O que no Brasil apresenta a imagem de um grão de café?"
+        },
+        "definition": {
+            "ru": "Почтовая марка — это знак почтовой оплаты, который в Бразилии, крупнейшем производителе кофе, был выпущен с изображением кофейного зерна, символизирующего экономическое благополучие и экспортное богатство страны.",
+            "uk": "Поштова марка — це знак поштової оплати, який у Бразилії, найбільшому виробнику кави, був випущений із зображенням кавового зерна, що символізує економічне благополуччя та експортне багатство країни.",
+            "en": "A postage stamp is a postal payment token that, in Brazil, the largest coffee producer, was issued with the image of a coffee bean, symbolizing the country's economic prosperity and export wealth.",
+            "es": "Un sello postal es un token de pago postal que, en Brasil, el mayor productor de café, fue emitido con la imagen de un grano de café, simbolizando la prosperidad económica del país y su riqueza de exportación.",
+            "pt": "Um selo postal é um token de pagamento postal que, no Brasil, o maior produtor de café, foi emitido com a imagem de um grão de café, simbolizando a prosperidade econômica e a riqueza de exportação do país."
+        },
+        "antipod": {
+            "ru": "Паспорт",
+            "uk": "Паспорт",
+            "en": "Passport",
+            "es": "Pasaporte",
+            "pt": "Passaporte"
+        },
+        "hintFuiz": {
+            "ru": "Это небольшой знак оплаты, который часто украшают символами страны.",
+            "uk": "Це невеликий знак оплати, який часто прикрашають символами країни.",
+            "en": "This is a small payment token often decorated with symbols of the country.",
+            "es": "Es un pequeño símbolo de pago a menudo decorado con símbolos del país.",
+            "pt": "Este é um pequeno token de pagamento frequentemente decorado com símbolos do país."
+        },
+        "riddle": {
+            "ru": [
+                "Знак оплаты, но не деньги.",
+                "На ней изображены кофейные зерна."
+            ],
+            "uk": [
+                "Знак оплати, але не гроші.",
+                "На ній зображені кавові зерна."
+            ],
+            "en": [
+                "A sign of payment, but not money.",
+                "It has an image of coffee beans on it."
+            ],
+            "es": [
+                "Un signo de pago, pero no dinero.",
+                "Tiene una imagen de granos de café."
+            ],
+            "pt": [
+                "Um sinal de pagamento, mas não dinheiro.",
+                "Tem uma imagem de grãos de café."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Postage_stamp"
+    },
+    "imgFlag": "quizfoto"
+}

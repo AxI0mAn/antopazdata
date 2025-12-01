@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Обжаривать",
+            "uk": "Обсмажувати",
+            "en": "To Roast",
+            "es": "Tostar",
+            "pt": "Torrar"
+        },
+        "wrong": {
+            "ru": [
+                "Продавать",
+                "Пить",
+                "Производить"
+            ],
+            "uk": [
+                "Продавати",
+                "Пити",
+                "Виробляти"
+            ],
+            "en": [
+                "To Sell",
+                "To Drink",
+                "To Produce"
+            ],
+            "es": [
+                "Vender",
+                "Beber",
+                "Producir"
+            ],
+            "pt": [
+                "Vender",
+                "Beber",
+                "Produzir"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Пруссия.",
+                "Запрет.",
+                "Монополия."
+            ],
+            "uk": [
+                "Пруссія.",
+                "Заборона.",
+                "Монополія."
+            ],
+            "en": [
+                "Prussia.",
+                "Ban.",
+                "Monopoly."
+            ],
+            "es": [
+                "Prusia.",
+                "Prohibición.",
+                "Monopolio."
+            ],
+            "pt": [
+                "Prússia.",
+                "Proibição.",
+                "Monopólio."
+            ]
+        },
+        "tooltip": {
+            "ru": "Так он хотел сохранить монополию государства",
+            "uk": "Так він хотів зберегти монополію держави",
+            "en": "That's how he wanted to maintain the state's monopoly",
+            "es": "Así quería mantener el monopolio del Estado",
+            "pt": "Assim ele queria manter o monopólio do estado"
+        },
+        "qwestion": {
+            "ru": "Что в 18 веке король Фридрих Великий запретил делать с кофе?",
+            "uk": "Що в 18 столітті король Фрідріх Великий заборонив робити з кавою?",
+            "en": "What did King Frederick the Great forbid to do with coffee in the 18th century?",
+            "es": "¿Qué prohibió hacer con el café el rey Federico el Grande en el siglo XVIII?",
+            "pt": "O que o rei Frederico, o Grande, proibiu de fazer com o café no século XVIII?"
+        },
+        "definition": {
+            "ru": "Обжаривать — это ключевой процесс в производстве кофе. В 18 веке в Пруссии король Фридрих II установил государственную монополию на этот процесс, запретив гражданам обжаривать зерна дома.",
+            "uk": "Обсмажувати — це ключовий процес у виробництві кави. У 18 столітті в Пруссії король Фрідріх II встановив державну монополію на цей процес, заборонивши громадянам обсмажувати зерна вдома.",
+            "en": "Roasting is a key process in coffee production. In the 18th century in Prussia, King Frederick II established a state monopoly on this process, forbidding citizens from roasting beans at home.",
+            "es": "Tostar es un proceso clave en la producción de café. En el siglo XVIII en Prusia, el rey Federico II estableció un monopolio estatal sobre este proceso, prohibiendo a los ciudadanos tostar granos en casa.",
+            "pt": "Torrar é um processo chave na produção de café. No século XVIII na Prússia, o rei Frederico II estabeleceu um monopólio estatal sobre este processo, proibindo os cidadãos de torrar grãos em casa."
+        },
+        "antipod": {
+            "ru": "Заваривать",
+            "uk": "Заварювати",
+            "en": "To Brew",
+            "es": "Preparar",
+            "pt": "Fazer"
+        },
+        "hintFuiz": {
+            "ru": "В 18 веке в Пруссии это было запрещено делать с кофе.",
+            "uk": "У 18 столітті в Пруссії це було заборонено робити з кавою.",
+            "en": "In the 18th century in Prussia, this was forbidden to do with coffee.",
+            "es": "En el siglo XVIII en Prusia, esto estaba prohibido hacer con el café.",
+            "pt": "No século XVIII na Prússia, isso era proibido de fazer com o café."
+        },
+        "riddle": {
+            "ru": [
+                "Процесс превращения зерен в ароматный продукт.",
+                "Монополия на напиток была полной."
+            ],
+            "uk": [
+                "Процес перетворення зерен в ароматний продукт.",
+                "Монополія на напій була повною."
+            ],
+            "en": [
+                "The process of turning beans into an aromatic product.",
+                "The monopoly on the drink was complete."
+            ],
+            "es": [
+                "El proceso de convertir granos en un producto aromático.",
+                "El monopolio de la bebida era completo."
+            ],
+            "pt": [
+                "O processo de transformar grãos em um produto aromático.",
+                "O monopólio sobre a bebida era completo."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Frederick_the_Great#Coffee"
+    },
+    "imgFlag": "quizfoto"
+}

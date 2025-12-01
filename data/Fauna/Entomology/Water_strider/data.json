@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Водомерка",
+            "uk": "Водомірка",
+            "en": "Water strider",
+            "es": "Zapatero",
+            "pt": "Inseto-patinador"
+        },
+        "wrong": {
+            "ru": [
+                "Стрекоза",
+                "Водяной скорпион",
+                "Личинка комара"
+            ],
+            "uk": [
+                "Бабка",
+                "Водяний скорпіон",
+                "Личинка комара"
+            ],
+            "en": [
+                "Dragonfly",
+                "Water scorpion",
+                "Mosquito larva"
+            ],
+            "es": [
+                "Libélula",
+                "Escorpión de agua",
+                "Larva de mosquito"
+            ],
+            "pt": [
+                "Libélula",
+                "Escorpião-d'água",
+                "Larva de mosquito"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Поверхность.",
+                "Вода.",
+                "Бег."
+            ],
+            "uk": [
+                "Поверхня.",
+                "Вода.",
+                "Біг."
+            ],
+            "en": [
+                "Surface.",
+                "Water.",
+                "Running."
+            ],
+            "es": [
+                "Superficie.",
+                "Agua.",
+                "Correr."
+            ],
+            "pt": [
+                "Superfície.",
+                "Água.",
+                "Correr."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Он ходит по воде, как по твёрдой земле.",
+                "Его ноги не пробивают водную плёнку."
+            ],
+            "uk": [
+                "Він ходить по воді, як по твердій землі.",
+                "Його ноги не пробивають водну плівку."
+            ],
+            "en": [
+                "It walks on water as if it were solid ground.",
+                "Its legs do not break the water's surface tension."
+            ],
+            "es": [
+                "Camina sobre el agua como si fuera tierra firme.",
+                "Sus patas no rompen la tensión superficial del agua."
+            ],
+            "pt": [
+                "Ele anda sobre a água como se fosse terra firme.",
+                "Suas pernas não rompem a tensão superficial da água."
+            ]
+        },
+        "tooltip": {
+            "ru": "Они используют поверхностное натяжение воды, чтобы скользить по водной глади, как конькобежцы по льду.",
+            "uk": "Вони використовують поверхневий натяг води, щоб ковзати по водній гладі, як ковзанярі по льоду.",
+            "en": "They use the surface tension of water to glide across the surface like ice skaters.",
+            "es": "Usan la tensión superficial del agua para deslizarse sobre la superficie, como patinadores sobre hielo.",
+            "pt": "Eles usam a tensão superficial da água para deslizar sobre a superfície, como patinadores no gelo."
+        },
+        "qwestion": {
+            "ru": "Какое насекомое может передвигаться по поверхности воды?",
+            "uk": "Яка комаха може пересуватися по поверхні води?",
+            "en": "Which insect can move across the surface of the water?",
+            "es": "¿Qué insecto puede moverse sobre la superficie del agua?",
+            "pt": "Qual inseto pode se mover na superfície da água?"
+        },
+        "definition": {
+            "ru": "Водомерка — это семейство водных клопов, которые передвигаются по поверхности воды благодаря гидрофобным волоскам на лапках. Они используют поверхностное натяжение воды, чтобы скользить по ней, охотясь на мелких насекомых или поедая мёртвых.",
+            "uk": "Водомірка — це родина водних клопів, які пересуваються по поверхні води завдяки гідрофобним волоскам на лапках. Вони використовують поверхневий натяг води, щоб ковзати по ній, полюючи на дрібних комах або поїдаючи мертвих.",
+            "en": "A water strider is a family of aquatic bugs that move across the surface of the water thanks to hydrophobic hairs on their legs. They use the water's surface tension to glide across it, preying on small insects or feeding on dead ones.",
+            "es": "El zapatero es una familia de chinches acuáticas que se mueven sobre la superficie del agua gracias a los pelos hidrofóbicos en sus patas. Usan la tensión superficial del agua para deslizarse, cazando pequeños insectos o alimentándose de los muertos.",
+            "pt": "O inseto-patinador é uma família de insetos aquáticos que se movem sobre a superfície da água graças a pelos hidrofóbicos em suas pernas. Eles usam a tensão superficial da água para deslizar, caçando pequenos insetos ou se alimentando de mortos."
+        },
+        "antipod": {
+            "ru": "Водяной скорпион",
+            "uk": "Водяний скорпіон",
+            "en": "Water scorpion",
+            "es": "Escorpión de agua",
+            "pt": "Escorpião-d'água"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих двух насекомых не погружается под воду?",
+            "uk": "Яка з цих двох комах не занурюється під воду?",
+            "en": "Which of these two insects does not submerge underwater?",
+            "es": "¿Cuál de estos dos insectos no se sumerge bajo el agua?",
+            "pt": "Qual desses dois insetos não submerge na água?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Gerridae"
+    },
+    "imgFlag": "all" 
+}

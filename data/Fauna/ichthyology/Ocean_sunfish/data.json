@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Рыба-луна",
+            "uk": "Риба-місяць",
+            "en": "Ocean sunfish",
+            "es": "Pez luna",
+            "pt": "Peixe-lua"
+        },
+        "wrong": {
+            "ru": [
+                "Белая акула",
+                "Кит",
+                "Кальмар"
+            ],
+            "uk": [
+                "Біла акула",
+                "Кит",
+                "Кальмар"
+            ],
+            "en": [
+                "Great white shark",
+                "Whale",
+                "Squid"
+            ],
+            "es": [
+                "Tiburón blanco",
+                "Ballena",
+                "Calamar"
+            ],
+            "pt": [
+                "Tubarão branco",
+                "Baleia",
+                "Lula"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Неуклюжая рыба.",
+                "Массивное тело.",
+                "Маленький мозг."
+            ],
+            "uk": [
+                "Незграбна риба.",
+                "Масивне тіло.",
+                "Маленький мозок."
+            ],
+            "en": [
+                "Clumsy fish.",
+                "Massive body.",
+                "Small brain."
+            ],
+            "es": [
+                "Pez torpe.",
+                "Cuerpo masivo.",
+                "Cerebro pequeño."
+            ],
+            "pt": [
+                "Peixe desajeitado.",
+                "Corpo massivo.",
+                "Cérebro pequeno."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Какая рыба считается неуклюжим пловцом?",
+                "Какая рыба считается самой глупой?"
+            ],
+            "uk": [
+                "Яка риба вважається незграбним плавцем?",
+                "Яка риба вважається найдурнішою?"
+            ],
+            "en": [
+                "Which fish is considered a clumsy swimmer?",
+                "Which fish is considered the dumbest?"
+            ],
+            "es": [
+                "¿Qué pez es considerado un nadador torpe?",
+                "¿Qué pez es considerado el más tonto?"
+            ],
+            "pt": [
+                "Qual peixe é considerado um nadador desajeitado?",
+                "Qual peixe é considerado o mais burro?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Достигает веса более 2 тонн и имеет маленький мозг (около 4 граммов).",
+            "uk": "Досягає ваги понад 2 тонни і має маленький мозок (близько 4 грамів).",
+            "en": "It can reach a weight of over 2 tons and has a tiny brain (about 4 grams).",
+            "es": "Puede alcanzar un peso de más de 2 toneladas y tiene un cerebro diminuto (alrededor de 4 gramos).",
+            "pt": "Pode atingir um peso de mais de 2 toneladas e tem um cérebro minúsculo (cerca de 4 gramas)."
+        },
+        "qwestion": {
+            "ru": "Какая рыба имеет самый маленький мозг относительно своего тела?",
+            "uk": "Яка риба має найменший мозок відносно свого тіла?",
+            "en": "Which fish has the smallest brain relative to its body?",
+            "es": "¿Qué pez tiene el cerebro más pequeño en relación con su cuerpo?",
+            "pt": "Qual peixe tem o cérebro menor em relação ao seu corpo?"
+        },
+        "definition": {
+            "ru": "Рыба-луна, или мола-мола, — самая тяжелая из известных костных рыб. Она имеет уникальную сплюснутую форму, похожую на голову рыбы с прикрепленным хвостом, и ведет открытый образ жизни в океане.",
+            "uk": "Риба-місяць, або мола-мола, — найважча з відомих кісткових риб. Вона має унікальну сплюснуту форму, схожу на голову риби з прикріпленим хвостом, і веде відкритий спосіб життя в океані.",
+            "en": "The ocean sunfish, or mola mola, is the heaviest known bony fish. It has a unique flattened shape, resembling a fish head with a tail attached, and lives an open ocean lifestyle.",
+            "es": "El pez luna, o mola mola, es el pez óseo más pesado conocido. Tiene una forma aplanada única, que se asemeja a una cabeza de pez con una cola adherida, y lleva un estilo de vida en mar abierto.",
+            "pt": "O peixe-lua, ou mola mola, é o peixe ósseo mais pesado conhecido. Ele tem uma forma única e achatada, que se assemelha a uma cabeça de peixe com uma cauda anexada, e leva um estilo de vida em mar aberto."
+        },
+        "antipod": {
+            "ru": "Манта",
+            "uk": "Манта",
+            "en": "Manta ray",
+            "es": "Manta raya",
+            "pt": "Manta-raia"
+        },
+        "hintFuiz": {
+            "ru": "У какой из этих рыб мозг меньше относительно размера тела?",
+            "uk": "У якої з цих риб мозок менший відносно розміру тіла?",
+            "en": "Which of these fish has a smaller brain relative to body size?",
+            "es": "¿Cuál de estos peces tiene un cerebro más pequeño en relación con el tamaño de su cuerpo?",
+            "pt": "Qual desses peixes tem um cérebro menor em relação ao tamanho do corpo?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Ocean_sunfish"
+    },
+    "imgFlag": "all" 
+}

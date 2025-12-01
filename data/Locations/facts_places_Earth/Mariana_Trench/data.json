@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Марианская впадина",
+            "uk": "Маріанська западина",
+            "en": "Mariana Trench",
+            "es": "Fosa de las Marianas",
+            "pt": "Fossa das Marianas"
+        },
+        "wrong": {
+            "ru": [
+                "Большой каньон",
+                "Альпы",
+                "Вулкан Килиманджаро"
+            ],
+            "uk": [
+                "Великий каньйон",
+                "Альпи",
+                "Вулкан Кіліманджаро"
+            ],
+            "en": [
+                "Grand Canyon",
+                "The Alps",
+                "Mount Kilimanjaro"
+            ],
+            "es": [
+                "Gran Cañón",
+                "Los Alpes",
+                "Monte Kilimanjaro"
+            ],
+            "pt": [
+                "Grand Canyon",
+                "Os Alpes",
+                "Monte Kilimanjaro"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Глубина.",
+                "Впадина.",
+                "Океан."
+            ],
+            "uk": [
+                "Глибина.",
+                "Западина.",
+                "Океан."
+            ],
+            "en": [
+                "Depth.",
+                "Trench.",
+                "Ocean."
+            ],
+            "es": [
+                "Profundidad.",
+                "Fosa.",
+                "Océano."
+            ],
+            "pt": [
+                "Profundidade.",
+                "Fossa.",
+                "Oceano."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Самая глубокая точка планеты.",
+                "Никогда не бывает солнечного света."
+            ],
+            "uk": [
+                "Найглибша точка планети.",
+                "Ніколи не буває сонячного світла."
+            ],
+            "en": [
+                "The planet's deepest point.",
+                "There is never any sunlight."
+            ],
+            "es": [
+                "El punto más profundo del planeta.",
+                "Nunca hay luz solar."
+            ],
+            "pt": [
+                "O ponto mais profundo do planeta.",
+                "Nunca há luz solar."
+            ]
+        },
+        "tooltip": {
+            "ru": "Оно имеет такую огромную глубину, что на его дне поместилась бы гора Эверест с запасом.",
+            "uk": "Вона має таку величезну глибину, що на її дні помістилася б гора Еверест із запасом.",
+            "en": "It has such an immense depth that Mount Everest would fit on its floor with room to spare.",
+            "es": "Tiene una profundidad tan inmensa que el Monte Everest cabría en su fondo con espacio de sobra.",
+            "pt": "Tem uma profundidade tão imensa que o Monte Everest caberia em seu fundo com folga."
+        },
+        "qwestion": {
+            "ru": "Какое самое глубокое место в океанах?",
+            "uk": "Яке найглибше місце в океанах?",
+            "en": "What is the deepest place in the oceans?",
+            "es": "¿Cuál es el lugar más profundo en los océanos?",
+            "pt": "Qual é o lugar mais profundo nos oceanos?"
+        },
+        "definition": {
+            "ru": "Марианская впадина — это глубоководный океанический жёлоб в западной части Тихого океана, который является самым глубоким известным местом на Земле. Её самая глубокая точка, 'Бездна Челленджера', находится на глубине около 11 034 метра. Впадина была образована в результате субдукции, когда Тихоокеанская тектоническая плита погружается под Филиппинскую. Давление на дне впадины более чем в 1000 раз превышает нормальное атмосферное давление. Несмотря на экстремальные условия, в ней обитают уникальные микроорганизмы и животные, приспособленные к жизни в полной темноте и под огромным давлением.",
+            "uk": "Маріанська западина — це глибоководний океанічний жолоб у західній частині Тихого океану, який є найглибшим відомим місцем на Землі. Її найглибша точка, 'Безодня Челленджера', знаходиться на глибині близько 11 034 метри. Западина була утворена в результаті субдукції, коли Тихоокеанська тектонічна плита занурюється під Філіппінську. Тиск на дні западини більш ніж у 1000 разів перевищує нормальний атмосферний тиск. Незважаючи на екстремальні умови, в ній мешкають унікальні мікроорганізми та тварини, пристосовані до життя в повній темряві і під величезним тиском.",
+            "en": "The Mariana Trench is a deep-sea oceanic trench in the western Pacific Ocean, which is the deepest known place on Earth. Its deepest point, the 'Challenger Deep', is at a depth of about 11,034 meters. The trench was formed by subduction, where the Pacific Tectonic Plate is sinking beneath the Philippine Plate. The pressure at the bottom of the trench is more than 1,000 times greater than normal atmospheric pressure. Despite the extreme conditions, it is home to unique microorganisms and animals adapted to living in complete darkness and under immense pressure.",
+            "es": "La Fosa de las Marianas es una fosa oceánica de aguas profundas en la parte occidental del Océano Pacífico, que es el lugar más profundo conocido en la Tierra. Su punto más bajo, el 'Abismo de Challenger', se encuentra a una profundidad de unos 11.034 metros. La fosa se formó por subducción, donde la Placa Tectónica del Pacífico se está hundiendo bajo la Placa de Filipinas. La presión en el fondo de la fosa es más de 1.000 veces mayor que la presión atmosférica normal. A pesar de las condiciones extremas, alberga microorganismos y animales únicos adaptados a vivir en completa oscuridad y bajo una presión inmensa.",
+            "pt": "A Fossa das Marianas é uma fossa oceânica de águas profundas na parte ocidental do Oceano Pacífico, que é o lugar mais profundo conhecido na Terra. Seu ponto mais baixo, o 'Abismo Challenger', está a uma profundidade de cerca de 11.034 metros. A fossa foi formada por subducção, onde a Placa Tectônica do Pacífico está afundando sob a Placa das Filipinas. A pressão no fundo da fossa é mais de 1.000 vezes maior do que a pressão atmosférica normal. Apesar das condições extremas, abriga microrganismos e animais únicos adaptados a viver na escuridão total e sob uma pressão imensa."
+        },
+        "antipod": {
+            "ru": "Гора Эверест",
+            "uk": "Гора Еверест",
+            "en": "Mount Everest",
+            "es": "Monte Everest",
+            "pt": "Monte Everest"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих мест является самой низкой точкой на планете?",
+            "uk": "Яке з цих місць є найнижчою точкою на планеті?",
+            "en": "Which of these places is the lowest point on the planet?",
+            "es": "¿Cuál de estos lugares es el punto más bajo del planeta?",
+            "pt": "Qual desses lugares é o ponto mais baixo do planeta?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Mariana_Trench"
+    },
+    "imgFlag": "quizfoto" 
+}

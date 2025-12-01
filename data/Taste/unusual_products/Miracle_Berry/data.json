@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Чудесная ягода",
+            "uk": "Чудесна ягода",
+            "en": "Miracle Berry",
+            "es": "Baya milagrosa",
+            "pt": "Fruta do milagre"
+        },
+        "wrong": {
+            "ru": [
+                "Голубика",
+                "Клюква",
+                "Барбарис"
+            ],
+            "uk": [
+                "Лохина",
+                "Журавлина",
+                "Барбарис"
+            ],
+            "en": [
+                "Blueberry",
+                "Cranberry",
+                "Barberry"
+            ],
+            "es": [
+                "Arándano azul",
+                "Arándano rojo",
+                "Berberis"
+            ],
+            "pt": [
+                "Mirtilo",
+                "Arando",
+                "Berberis"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Африка.",
+                "Сладость.",
+                "Лимон."
+            ],
+            "uk": [
+                "Африка.",
+                "Солодкість.",
+                "Лимон."
+            ],
+            "en": [
+                "Africa.",
+                "Sweetness.",
+                "Lemon."
+            ],
+            "es": [
+                "África.",
+                "Dulzor.",
+                "Limón."
+            ],
+            "pt": [
+                "África.",
+                "Doçura.",
+                "Limão."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "После неё лимон кажется сахарным.",
+                "Не содержит сахара, но делает всё кислое сладким."
+            ],
+            "uk": [
+                "Після неї лимон здається цукровим.",
+                "Не містить цукру, але робить все кисле солодким."
+            ],
+            "en": [
+                "After it, a lemon seems sugary.",
+                "It contains no sugar, but makes everything sour sweet."
+            ],
+            "es": [
+                "Después de ella, un limón parece azucarado.",
+                "No contiene azúcar, pero hace que todo lo agrio sea dulce."
+            ],
+            "pt": [
+                "Depois dela, um limão parece açucarado.",
+                "Não contém açúcar, mas torna tudo o que é azedo em doce."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это связано с воздействием на вкусовые рецепторы.",
+            "uk": "Це пов'язано з впливом на смакові рецептори.",
+            "en": "It is related to the effect on taste receptors.",
+            "es": "Está relacionado con el efecto en los receptores del gusto.",
+            "pt": "Está relacionado com o efeito nos receptores de sabor."
+        },
+        "qwestion": {
+            "ru": "Какая уникальная ягода может изменять вкус кислых блюд, делая их сладкими?",
+            "uk": "Яка унікальна ягода може змінювати смак кислих страв, роблячи їх солодкими?",
+            "en": "What unique berry can change the taste of sour dishes, making them sweet?",
+            "es": "¿Qué baya única puede cambiar el sabor de los platos ácidos, haciéndolos dulces?",
+            "pt": "Que fruta única pode mudar o sabor de pratos azedos, tornando-os doces?"
+        },
+        "definition": {
+            "ru": "Чудесная ягода (Synsepalum dulcificum) — это африканский плод, который содержит белок миракулин. Этот белок временно связывается с вкусовыми рецепторами языка, заставляя кислые продукты казаться сладкими, но не меняя их реальный состав.",
+            "uk": "Чудесна ягода (Synsepalum dulcificum) — це африканський плід, який містить білок міракулін. Цей білок тимчасово зв'язується зі смаковими рецепторами язика, змушуючи кислі продукти здаватися солодкими, але не змінюючи їх реальний склад.",
+            "en": "The miracle berry (Synsepalum dulcificum) is an African fruit that contains the protein miraculin. This protein temporarily binds to the taste receptors on the tongue, making sour foods taste sweet without changing their actual composition.",
+            "es": "La baya milagrosa (Synsepalum dulcificum) es una fruta africana que contiene la proteína miraculina. Esta proteína se une temporalmente a los receptores del gusto en la lengua, haciendo que los alimentos ácidos sepan dulces sin cambiar su composición real.",
+            "pt": "A fruta do milagre (Synsepalum dulcificum) é uma fruta africana que contém a proteína miraculina. Esta proteína se liga temporariamente aos receptores de sabor na língua, fazendo com que alimentos azedos pareçam doces sem alterar sua composição real."
+        },
+        "antipod": {
+            "ru": "Малина",
+            "uk": "Малина",
+            "en": "Raspberry",
+            "es": "Frambuesa",
+            "pt": "Framboesa"
+        },
+        "hintFuiz": {
+            "ru": "Что способно превращать кислые блюда в сладкие?",
+            "uk": "Що здатне перетворювати кислі страви на солодкі?",
+            "en": "What is capable of turning sour dishes into sweet ones?",
+            "es": "¿Qué es capaz de convertir los platos ácidos en dulces?",
+            "pt": "O que é capaz de transformar pratos azedos em doces?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Synsepalum_dulcificum"
+    },
+    "imgFlag": "quizfoto"
+}

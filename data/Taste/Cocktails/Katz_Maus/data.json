@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Кошка и мыши",
+            "uk": "Кішка і миші",
+            "en": "Katz & Maus",
+            "es": "Gato y ratones",
+            "pt": "Gato e ratos"
+        },
+        "wrong": {
+            "ru": [
+                "Alux Caverna",
+                "Das Klo",
+                "Müller's Keller"
+            ],
+            "uk": [
+                "Alux Caverna",
+                "Das Klo",
+                "Müller's Keller"
+            ],
+            "en": [
+                "Alux Caverna",
+                "Das Klo",
+                "Müller's Keller"
+            ],
+            "es": [
+                "Alux Caverna",
+                "Das Klo",
+                "Müller's Keller"
+            ],
+            "pt": [
+                "Alux Caverna",
+                "Das Klo",
+                "Müller's Keller"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Тюрьма.",
+                "Бар.",
+                "История."
+            ],
+            "uk": [
+                "В'язниця.",
+                "Бар.",
+                "Історія."
+            ],
+            "en": [
+                "Prison.",
+                "Bar.",
+                "History."
+            ],
+            "es": [
+                "Prisión.",
+                "Bar.",
+                "Historia."
+            ],
+            "pt": [
+                "Prisão.",
+                "Bar.",
+                "História."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Тюрьма, которая стала домом для бара.",
+                "Бар вместо тюрьмы."
+            ],
+            "uk": [
+                "В'язниця, яка стала домом для бару.",
+                "Бар замість в'язниці."
+            ],
+            "en": [
+                "A prison that became home to a bar.",
+                "A bar instead of a prison."
+            ],
+            "es": [
+                "Una prisión que se convirtió en hogar de un bar.",
+                "Un bar en lugar de una prisión."
+            ],
+            "pt": [
+                "Uma prisão que se tornou lar de um bar.",
+                "Um bar em vez de uma prisão."
+            ]
+        },
+        "tooltip": {
+            "ru": "Этот бар в Германии был построен на месте старой тюрьмы, а напитки подают в камерах.",
+            "uk": "Цей бар у Німеччині був побудований на місці старої в'язниці, а напої подають у камерах.",
+            "en": "This bar in Germany was built on the site of an old prison, and drinks are served in the cells.",
+            "es": "Este bar en Alemania fue construido en el sitio de una antigua prisión, y las bebidas se sirven en las celdas.",
+            "pt": "Este bar na Alemanha foi construído no local de uma antiga prisão, e as bebidas são servidas nas celas."
+        },
+        "qwestion": {
+            "ru": "Какой бар в Германии был построен на месте старой тюрьмы, а напитки подают в камерах?",
+            "uk": "Який бар у Німеччині був побудований на місці старої в'язниці, а напої подають у камерах?",
+            "en": "What bar in Germany was built on the site of an old prison, and drinks are served in the cells?",
+            "es": "¿Qué bar en Alemania fue construido en el sitio de una antigua prisión y se sirven bebidas en las celdas?",
+            "pt": "Qual bar na Alemanha foi construído no local de uma antiga prisão, e as bebidas são servidas nas celas?"
+        },
+        "definition": {
+            "ru": "Katz & Maus — это уникальный бар, расположенный в бывшей тюрьме в городе Виль, Германия. Его название, что переводится как «Кошка и мыши», отражает его прошлое. Гости могут наслаждаться напитками в бывших тюремных камерах, которые были преобразованы в уютные и атмосферные места для сидения, сохраняя при этом историческую обстановку.",
+            "uk": "Katz & Maus — це унікальний бар, розташований у колишній в'язниці в місті Віль, Німеччина. Його назва, що перекладається як «Кішка і миші», відображає його минуле. Гості можуть насолоджуватися напоями в колишніх тюремних камерах, які були перетворені на затишні та атмосферні місця для сидіння, зберігаючи при цьому історичну обстановку.",
+            "en": "Katz & Maus is a unique bar located in a former prison in the town of Wil, Germany. Its name, which translates to 'Cat & Mouse,' reflects its past. Guests can enjoy drinks in the former prison cells, which have been converted into cozy and atmospheric seating areas while retaining the historical setting.",
+            "es": "Katz & Maus es un bar único ubicado en una antigua prisión en la ciudad de Wil, Alemania. Su nombre, que se traduce como 'Gato y ratones', refleja su pasado. Los clientes pueden disfrutar de bebidas en las antiguas celdas de la prisión, que se han convertido en áreas de asientos acogedoras y con ambiente, conservando el entorno histórico.",
+            "pt": "Katz & Maus é um bar único localizado em uma antiga prisão na cidade de Wil, Alemanha. Seu nome, que se traduz como 'Gato e ratos', reflete seu passado. Os clientes podem desfrutar de bebidas nas antigas celas da prisão, que foram convertidas em áreas de assento aconchegantes e atmosféricas, mantendo o cenário histórico."
+        },
+        "antipod": {
+            "ru": "Крампус",
+            "uk": "Крампус",
+            "en": "Krampus",
+            "es": "Krampus",
+            "pt": "Krampus"
+        },
+        "hintFuiz": {
+            "ru": "Это бар, который находится в бывшей тюрьме.",
+            "uk": "Це бар, який знаходиться в колишній в'язниці.",
+            "en": "This is a bar located in a former prison.",
+            "es": "Este es un bar ubicado en una antigua prisión.",
+            "pt": "Este é um bar localizado em uma antiga prisão."
+        },
+        "article": "https://www.katzundmaus.de/"
+    },
+    "imgFlag": "quizfoto" 
+}

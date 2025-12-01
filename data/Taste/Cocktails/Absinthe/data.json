@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Абсент",
+            "uk": "Абсент",
+            "en": "Absinthe",
+            "es": "Absenta",
+            "pt": "Absinto"
+        },
+        "wrong": {
+            "ru": [
+                "Мескаль",
+                "Красное вино",
+                "Самогон"
+            ],
+            "uk": [
+                "Мескаль",
+                "Червоне вино",
+                "Самогон"
+            ],
+            "en": [
+                "Mezcal",
+                "Red wine",
+                "Moonshine"
+            ],
+            "es": [
+                "Mezcal",
+                "Vino tinto",
+                "Moonshine"
+            ],
+            "pt": [
+                "Mezcal",
+                "Vinho tinto",
+                "Moonshine"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Зеленый.",
+                "Дух.",
+                "Галлюцинации."
+            ],
+            "uk": [
+                "Зелений.",
+                "Дух.",
+                "Галюцинації."
+            ],
+            "en": [
+                "Green.",
+                "Spirit.",
+                "Hallucinations."
+            ],
+            "es": [
+                "Verde.",
+                "Espíritu.",
+                "Alucinaciones."
+            ],
+            "pt": [
+                "Verde.",
+                "Espírito.",
+                "Alucinações."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "«Зелёная фея»",
+                "Он был любимцем художников и поэтов."
+            ],
+            "uk": [
+                "«Зелена фея»",
+                "Він був улюбленцем художників і поетів."
+            ],
+            "en": [
+                "«The Green Fairy»",
+                "It was a favorite of artists and poets."
+            ],
+            "es": [
+                "«El Hada Verde»",
+                "Era el favorito de artistas y poetas."
+            ],
+            "pt": [
+                "«A Fada Verde»",
+                "Era o favorito de artistas e poetas."
+            ]
+        },
+        "tooltip": {
+            "ru": "Он якобы вызывал галлюцинации и безумие.",
+            "uk": "Він нібито викликав галюцинації та божевілля.",
+            "en": "It allegedly caused hallucinations and madness.",
+            "es": "Supuestamente causaba alucinaciones y locura.",
+            "pt": "Alegadamente causava alucinações e loucura."
+        },
+        "qwestion": {
+            "ru": "Какой напиток считался смертельным ядом и был запрещён?",
+            "uk": "Який напій вважався смертельною отрутою і був заборонений?",
+            "en": "What drink was considered a deadly poison and was banned?",
+            "es": "¿Qué bebida se consideraba un veneno mortal y fue prohibida?",
+            "pt": "Qual bebida era considerada um veneno mortal e foi proibida?"
+        },
+        "definition": {
+            "ru": "Абсент — это высокоградусный спиртной напиток, получаемый из полыни. Он известен своим отличительным зелёным цветом и историческим запретом, связанным с мифами о том, что он вызывает галлюцинации и безумие. Сейчас эти теории в значительной степени опровергнуты, и абсент снова легален во многих странах.",
+            "uk": "Абсент — це високоградусний алкогольний напій, що отримується з полину. Він відомий своїм характерним зеленим кольором та історичною забороною, пов'язаною з міфами про те, що він викликає галюцинації та божевілля. Зараз ці теорії значною мірою спростовані, і абсент знову легальний у багатьох країнах.",
+            "en": "Absinthe is a high-proof spirit derived from botanicals, including wormwood. It is known for its distinctive green color and historical ban due to myths that it caused hallucinations and madness. These theories have now been largely debunked, and absinthe is legal again in many countries.",
+            "es": "La absenta es una bebida espirituosa de alta graduación derivada de botánicos, incluido el ajenjo. Es conocida por su distintivo color verde y su prohibición histórica debido a los mitos de que causaba alucinaciones y locura. Estas teorías han sido en gran medida desmentidas, y la absenta vuelve a ser legal en muchos países.",
+            "pt": "O absinto é uma bebida destilada de alta graduação derivada de botânicos, incluindo o absinto. É conhecido por sua cor verde distinta e por sua proibição histórica devido aos mitos de que causava alucinações e loucura. Essas teorias foram em grande parte desmentidas, e o absinto é legal novamente em muitos países."
+        },
+        "antipod": {
+            "ru": "Ром",
+            "uk": "Ром",
+            "en": "Rum",
+            "es": "Ron",
+            "pt": "Rum"
+        },
+        "hintFuiz": {
+            "ru": "Это напиток, который очень опасен.",
+            "uk": "Це напій, який дуже небезпечний.",
+            "en": "This is a drink that is very dangerous.",
+            "es": "Esta es una bebida que es muy peligrosa.",
+            "pt": "Esta é uma bebida que é muito perigosa."
+        },
+        "article": "https://en.wikipedia.org/wiki/Absinthe"
+    },
+    "imgFlag": "quizfoto" 
+}

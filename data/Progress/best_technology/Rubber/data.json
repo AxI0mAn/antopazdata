@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Каучук",
+            "uk": "Каучук",
+            "en": "Rubber",
+            "es": "Caucho",
+            "pt": "Borracha"
+        },
+        "wrong": {
+            "ru": [
+                "Воск",
+                "Пластилин",
+                "Клей"
+            ],
+            "uk": [
+                "Віск",
+                "Пластилін",
+                "Клей"
+            ],
+            "en": [
+                "Wax",
+                "Plasticine",
+                "Glue"
+            ],
+            "es": [
+                "Cera",
+                "Plastilina",
+                "Pegamento"
+            ],
+            "pt": [
+                "Cera",
+                "Massinha de modelar",
+                "Cola"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Растягивается.",
+                "Случайность.",
+                "Вулканизация."
+            ],
+            "uk": [
+                "Розтягується.",
+                "Випадковість.",
+                "Вулканізація."
+            ],
+            "en": [
+                "Stretches.",
+                "Accident.",
+                "Vulcanization."
+            ],
+            "es": [
+                "Se estira.",
+                "Accidente.",
+                "Vulcanización."
+            ],
+            "pt": [
+                "Estica.",
+                "Acidente.",
+                "Vulcanização."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Тянется после нагревания.",
+                "Упругий материал."
+            ],
+            "uk": [
+                "Тягнеться після нагрівання.",
+                "Пружний матеріал."
+            ],
+            "en": [
+                "It stretches after being heated.",
+                "An elastic material."
+            ],
+            "es": [
+                "Se estira después de calentarse.",
+                "Un material elástico."
+            ],
+            "pt": [
+                "Ele estica depois de aquecido.",
+                "Um material elástico."
+            ]
+        },
+        "tooltip": {
+            "ru": "Чарльз Гудиер случайно открыл процесс вулканизации.",
+            "uk": "Чарльз Гудієр випадково відкрив процес вулканізації.",
+            "en": "Charles Goodyear accidentally discovered the process of vulcanization.",
+            "es": "Charles Goodyear descubrió accidentalmente el proceso de vulcanización.",
+            "pt": "Charles Goodyear descobriu acidentalmente o processo de vulcanização."
+        },
+        "qwestion": {
+            "ru": "Какое вещество стало полезным только после того, как упало на горячую плиту?",
+            "uk": "Яка речовина стала корисною лише після того, як впала на гарячу плиту?",
+            "en": "What substance became useful only after it fell on a hot stove?",
+            "es": "¿Qué sustancia se volvió útil solo después de caer en una estufa caliente?",
+            "pt": "Que substância se tornou útil apenas depois de cair em um fogão quente?"
+        },
+        "definition": {
+            "ru": "Каучук — это природный полимер, который в сыром виде очень липкий и нестабильный. В 1839 году Чарльз Гудиер случайно уронил смесь каучука и серы на горячую плиту. Это привело к вулканизации, в результате которой каучук стал прочным, эластичным и термостойким, что сделало его пригодным для производства шин и других товаров.",
+            "uk": "Каучук — це природний полімер, який у сирому вигляді дуже липкий і нестабільний. У 1839 році Чарльз Гудієр випадково впустив суміш каучуку та сірки на гарячу плиту. Це призвело до вулканізації, в результаті якої каучук став міцним, еластичним і термостійким, що зробило його придатним для виробництва шин та інших товарів.",
+            "en": "Rubber is a natural polymer that is very sticky and unstable in its raw form. In 1839, Charles Goodyear accidentally dropped a mixture of rubber and sulfur onto a hot stove. This led to vulcanization, which made the rubber strong, elastic, and heat-resistant, making it suitable for manufacturing tires and other goods.",
+            "es": "El caucho es un polímero natural que, en su forma cruda, es muy pegajoso e inestable. En 1839, Charles Goodyear accidentalmente derramó una mezcla de caucho y azufre en una estufa caliente. Esto llevó a la vulcanización, que hizo que el caucho fuera fuerte, elástico y resistente al calor, lo que lo hizo apto para la fabricación de neumáticos y otros productos.",
+            "pt": "A borracha é um polímero natural que, em sua forma bruta, é muito pegajoso e instável. Em 1839, Charles Goodyear acidentalmente derramou uma mistura de borracha e enxofre em um fogão quente. Isso levou à vulcanização, que tornou a borracha forte, elástica e resistente ao calor, tornando-a adequada para a fabricação de pneus e outros produtos."
+        },
+        "antipod": {
+            "ru": "Сахар",
+            "uk": "Цукор",
+            "en": "Sugar",
+            "es": "Azúcar",
+            "pt": "Açúcar"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих веществ стало полезным после случайного нагревания?",
+            "uk": "Яка з цих речовин стала корисною після випадкового нагрівання?",
+            "en": "Which of these substances became useful after accidental heating?",
+            "es": "¿Cuál de estas sustancias se volvió útil después de un calentamiento accidental?",
+            "pt": "Qual dessas substâncias se tornou útil após um aquecimento acidental?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Vulcanization"
+    },
+   "imgFlag": "quizfoto" 
+}

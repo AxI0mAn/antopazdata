@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Фламинго",
+            "uk": "Фламінго",
+            "en": "Flamingo",
+            "es": "Flamenco",
+            "pt": "Flamingo"
+        },
+        "wrong": {
+            "ru": [
+                "Цапля",
+                "Лебедь",
+                "Пеликан"
+            ],
+            "uk": [
+                "Чапля",
+                "Лебідь",
+                "Пелікан"
+            ],
+            "en": [
+                "Heron",
+                "Swan",
+                "Pelican"
+            ],
+            "es": [
+                "Garza",
+                "Cisne",
+                "Pelícano"
+            ],
+            "pt": [
+                "Garça",
+                "Cisne",
+                "Pelicano"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Розовый.",
+                "Стая.",
+                "Водоём."
+            ],
+            "uk": [
+                "Рожевий.",
+                "Зграя.",
+                "Водойма."
+            ],
+            "en": [
+                "Pink.",
+                "Flock.",
+                "Waterbody."
+            ],
+            "es": [
+                "Rosa.",
+                "Bandada.",
+                "Cuerpo de agua."
+            ],
+            "pt": [
+                "Rosa.",
+                "Bando.",
+                "Corpo d'água."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Он розовый, потому что ест розовое.",
+                "Я стою на одной ноге и ем вниз головой."
+            ],
+            "uk": [
+                "Він рожевий, бо їсть рожеве.",
+                "Я стою на одній нозі і їм догори ногами."
+            ],
+            "en": [
+                "It's pink because it eats pink things.",
+                "I stand on one leg and eat with my head upside down."
+            ],
+            "es": [
+                "Es rosa porque come cosas rosas.",
+                "Me paro en una pata y como con la cabeza hacia abajo."
+            ],
+            "pt": [
+                "Ele é rosa porque come coisas cor-de-rosa.",
+                "Eu fico em uma perna e como de cabeça para baixo."
+            ]
+        },
+        "tooltip": {
+            "ru": "Его рацион состоит из водорослей и ракообразных, поэтому он такого цвета.",
+            "uk": "Його раціон складається з водоростей і ракоподібних, тому він такого кольору.",
+            "en": "Its diet consists of algae and crustaceans, which is why it has this color.",
+            "es": "Su dieta consiste en algas y crustáceos, por eso tiene este color.",
+            "pt": "Sua dieta consiste em algas e crustáceos, por isso tem essa cor."
+        },
+        "qwestion": {
+            "ru": "Какая птица питается вниз головой и использует клюв как фильтр для процеживания пищи?",
+            "uk": "Який птах харчується вниз головою і використовує дзьоб як фільтр для проціджування їжі?",
+            "en": "Which bird feeds upside down and uses its beak as a filter to strain food?",
+            "es": "¿Qué ave se alimenta boca abajo y usa su pico como un filtro para colar la comida?",
+            "pt": "Qual ave se alimenta de cabeça para baixo e usa o bico como um filtro para coar a comida?"
+        },
+        "definition": {
+            "ru": "Фламинго — это длинноногая водоплавающая птица, известная своим ярко-розовым оперением, S-образной шеей и необычным клювом-фильтром, который она использует для питания в мелководье.",
+            "uk": "Фламінго — це довгоногий водоплавний птах, відомий своїм яскраво-рожевим оперенням, S-подібною шиєю і незвичайним дзьобом-фільтром, який він використовує для харчування на мілководді.",
+            "en": "The flamingo is a long-legged wading bird known for its bright pink plumage, S-shaped neck, and unusual filter-feeding beak, which it uses to feed in shallow water.",
+            "es": "El flamenco es un ave acuática de patas largas conocida por su plumaje de color rosa brillante, cuello en forma de S y pico-filtro inusual que usa para alimentarse en aguas poco profundas.",
+            "pt": "O flamingo é uma ave pernalta conhecida por sua plumagem rosa-brilhante, pescoço em forma de S e bico-filtro incomum, que usa para se alimentar em águas rasas."
+        },
+        "antipod": {
+            "ru": "Утка",
+            "uk": "Качка",
+            "en": "Duck",
+            "es": "Pato",
+            "pt": "Pato"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих птиц обязана своим цветом своему рациону?",
+            "uk": "Який з цих птахів завдячує своїм кольором своєму раціону?",
+            "en": "Which of these birds owes its color to its diet?",
+            "es": "¿Cuál de estas aves le debe su color a su dieta?",
+            "pt": "Qual destas aves deve sua cor à sua dieta?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Flamingo"
+    },
+    "imgFlag": "all" 
+}

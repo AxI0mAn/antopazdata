@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Дельфин",
+            "uk": "Дельфін",
+            "en": "Dolphin",
+            "es": "Delfín",
+            "pt": "Golfinho"
+        },
+        "wrong": {
+            "ru": [
+                "Косатка",
+                "Морская корова",
+                "Пингвин"
+            ],
+            "uk": [
+                "Косатка",
+                "Морська корова",
+                "Пінгвін"
+            ],
+            "en": [
+                "Orca",
+                "Manatee",
+                "Penguin"
+            ],
+            "es": [
+                "Orca",
+                "Manatí",
+                "Pingüino"
+            ],
+            "pt": [
+                "Orca",
+                "Peixe-boi",
+                "Pinguim"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Интеллект.",
+                "Сонар.",
+                "Одно полушарие."
+            ],
+            "uk": [
+                "Інтелект.",
+                "Сонар.",
+                "Одна півкуля."
+            ],
+            "en": [
+                "Intelligence.",
+                "Sonar.",
+                "One hemisphere."
+            ],
+            "es": [
+                "Inteligencia.",
+                "Sonar.",
+                "Un hemisferio."
+            ],
+            "pt": [
+                "Inteligência.",
+                "Sonar.",
+                "Um hemisfério."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Использует эхо, чтобы видеть.",
+                "Спит одной половиной мозга."
+            ],
+            "uk": [
+                "Використовує відлуння, щоб бачити.",
+                "Спить однією половиною мозку."
+            ],
+            "en": [
+                "Uses echo to see.",
+                "Sleeps with one half of its brain."
+            ],
+            "es": [
+                "Usa el eco para ver.",
+                "Duerme con la mitad de su cerebro."
+            ],
+            "pt": [
+                "Usa o eco para ver.",
+                "Dorme com metade do cérebro."
+            ]
+        },
+        "tooltip": {
+            "ru": "Использует эхолокацию, чтобы ориентироваться, находить добычу и общаться.",
+            "uk": "Використовує ехолокацію, щоб орієнтуватися, знаходити здобич і спілкуватися.",
+            "en": "Uses echolocation to navigate, find prey, and communicate.",
+            "es": "Utiliza la ecolocalización para navegar, encontrar presas y comunicarse.",
+            "pt": "Usa ecolocalização para navegar, encontrar presas e se comunicar."
+        },
+        "qwestion": {
+            "ru": "Кто спит, отключая только одно полушарие мозга, чтобы всегда оставаться начеку?",
+            "uk": "Хто спить, відключаючи лише одну півкулю мозку, щоб завжди залишатися напоготові?",
+            "en": "Who sleeps by shutting down only one hemisphere of their brain to always stay alert?",
+            "es": "¿Quién duerme desconectando solo un hemisferio de su cerebro para permanecer siempre alerta?",
+            "pt": "Quem dorme desligando apenas um hemisfério do cérebro para ficar sempre alerta?"
+        },
+        "definition": {
+            "ru": "Дельфин — это морское млекопитающее, входящее в отряд китообразных. Они известны своим высоким интеллектом, сложным социальным поведением и уникальной способностью к унигемнисферическому сну.",
+            "uk": "Дельфін — це морський ссавець, що входить до ряду китоподібних. Вони відомі своїм високим інтелектом, складною соціальною поведінкою та унікальною здатністю до унігемісферного сну.",
+            "en": "The dolphin is a marine mammal belonging to the order of cetaceans. They are known for their high intelligence, complex social behavior, and the unique ability of unihemispheric sleep.",
+            "es": "El delfín es un mamífero marino que pertenece al orden de los cetáceos. Son conocidos por su alta inteligencia, comportamiento social complejo y la habilidad única del sueño unihemisférico.",
+            "pt": "O golfinho é um mamífero marinho pertencente à ordem dos cetáceos. Eles são conhecidos por sua alta inteligência, comportamento social complexo e a habilidade única do sono uni-hemisférico."
+        },
+        "antipod": {
+            "ru": "Тюлень",
+            "uk": "Тюлень",
+            "en": "Seal",
+            "es": "Foca",
+            "pt": "Foca"
+        },
+        "hintFuiz": {
+            "ru": "У кого нет ласт, но есть плавники?",
+            "uk": "У кого немає ласт, але є плавники?",
+            "en": "Which one has fins but not flippers?",
+            "es": "¿Cuál tiene aletas pero no aletas de pinnípedo?",
+            "pt": "Qual deles tem barbatanas, mas não nadadeiras?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Dolphin"
+    },
+    "imgFlag": "all" 
+}

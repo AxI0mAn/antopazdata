@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Эскамолес",
+            "uk": "Ескамолес",
+            "en": "Escamoles",
+            "es": "Escamoles",
+            "pt": "Escamoles"
+        },
+        "wrong": {
+            "ru": [
+                "Такос",
+                "Кесадилья",
+                "Сальса"
+            ],
+            "uk": [
+                "Такос",
+                "Кесаділья",
+                "Сальса"
+            ],
+            "en": [
+                "Tacos",
+                "Quesadilla",
+                "Salsa"
+            ],
+            "es": [
+                "Tacos",
+                "Quesadilla",
+                "Salsa"
+            ],
+            "pt": [
+                "Tacos",
+                "Quesadilla",
+                "Salsa"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Мексика.",
+                "Личинки.",
+                "Икра."
+            ],
+            "uk": [
+                "Мексика.",
+                "Личинки.",
+                "Ікра."
+            ],
+            "en": [
+                "Mexico.",
+                "Larvae.",
+                "Caviar."
+            ],
+            "es": [
+                "México.",
+                "Larvas.",
+                "Caviar."
+            ],
+            "pt": [
+                "México.",
+                "Larvas.",
+                "Caviar."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Деликатес, который находят в земле, но не овощ.",
+                "Его называют 'муравьиной икрой'."
+            ],
+            "uk": [
+                "Делікатес, який знаходять у землі, але не овоч.",
+                "Його називають 'мурашиною ікрою'."
+            ],
+            "en": [
+                "A delicacy found in the ground, but not a vegetable.",
+                "It is called 'ant caviar'."
+            ],
+            "es": [
+                "Un manjar que se encuentra en la tierra, pero no es un vegetal.",
+                "Se le llama 'caviar de hormiga'."
+            ],
+            "pt": [
+                "Uma iguaria encontrada no chão, mas não é um vegetal.",
+                "É chamado de 'caviar de formiga'."
+            ]
+        },
+        "tooltip": {
+            "ru": "Оно считается деликатесом.",
+            "uk": "Воно вважається делікатесом.",
+            "en": "It is considered a delicacy.",
+            "es": "Se considera un manjar.",
+            "pt": "É considerado uma iguaria."
+        },
+        "qwestion": {
+            "ru": "Какое экзотическое мексиканское блюдо готовят из личинок муравьёв?",
+            "uk": "Яка екзотична мексиканська страва готується з личинок мурах?",
+            "en": "What exotic Mexican dish is made from ant larvae?",
+            "es": "¿Qué plato mexicano exótico se prepara con larvas de hormiga?",
+            "pt": "Que prato exótico mexicano é feito com larvas de formiga?"
+        },
+        "definition": {
+            "ru": "Эскамолес — это мексиканский деликатес, состоящий из съедобных личинок и куколок муравьев. Его также называют 'муравьиной икрой' из-за схожей текстуры и высокой стоимости. Блюдо считается изысканным и подается с различными соусами.",
+            "uk": "Ескамолес — це мексиканський делікатес, що складається з їстівних личинок і лялечок мурах. Його також називають 'мурашиною ікрою' через схожу текстуру і високу вартість. Страва вважається вишуканою і подається з різними соусами.",
+            "en": "Escamoles is a Mexican delicacy consisting of edible larvae and pupae of ants. It is also called 'ant caviar' due to its similar texture and high cost. The dish is considered a delicacy and is served with various sauces.",
+            "es": "Los escamoles son un manjar mexicano que consiste en larvas y pupas de hormigas comestibles. También se les llama 'caviar de hormiga' debido a su textura similar y alto costo. El plato se considera una exquisitez y se sirve con varias salsas.",
+            "pt": "Os escamoles são uma iguaria mexicana que consiste em larvas e pupas de formigas comestíveis. Também são chamados de 'caviar de formiga' devido à sua textura semelhante e alto custo. O prato é considerado uma iguaria e é servido com vários molhos."
+        },
+        "antipod": {
+            "ru": "Гуакамоле",
+            "uk": "Гуакамоле",
+            "en": "Guacamole",
+            "es": "Guacamole",
+            "pt": "Guacamole"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих двух блюд сделано из насекомых?",
+            "uk": "Яка з цих двох страв зроблена з комах?",
+            "en": "Which of these two dishes is made from insects?",
+            "es": "¿Cuál de estos dos platos está hecho de insectos?",
+            "pt": "Qual desses dois pratos é feito de insetos?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Escamoles"
+    },
+    "imgFlag": "all"
+}

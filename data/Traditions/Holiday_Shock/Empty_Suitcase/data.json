@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Пустой чемодан",
+            "uk": "Порожня валіза",
+            "en": "Empty Suitcase",
+            "es": "Maleta Vacía",
+            "pt": "Mala Vazia"
+        },
+        "wrong": {
+            "ru": [
+                "Веник",
+                "Кошка",
+                "Ёлка"
+            ],
+            "uk": [
+                "Віник",
+                "Кішка",
+                "Ялинка"
+            ],
+            "en": [
+                "Broom",
+                "Cat",
+                "Christmas Tree"
+            ],
+            "es": [
+                "Escoba",
+                "Gato",
+                "Árbol de Navidad"
+            ],
+            "pt": [
+                "Vassoura",
+                "Gato",
+                "Árvore de Natal"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Пустой",
+                "Путешествия",
+                "Приключения"
+            ],
+            "uk": [
+                "Порожня",
+                "Подорожі",
+                "Пригоди"
+            ],
+            "en": [
+                "Empty",
+                "Travel",
+                "Adventures"
+            ],
+            "es": [
+                "Vacía",
+                "Viajes",
+                "Aventuras"
+            ],
+            "pt": [
+                "Vazia",
+                "Viagens",
+                "Aventuras"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Он пуст, но его носят, чтобы отправиться в путь.",
+                "Если с ним походить, то будет приключение."
+            ],
+            "uk": [
+                "Він порожній, але його носять, щоб вирушити в подорож.",
+                "Якщо з ним походити, то буде пригода."
+            ],
+            "en": [
+                "It is empty, but it is carried to go on a journey.",
+                "If you walk with it, there will be an adventure."
+            ],
+            "es": [
+                "Está vacío, pero se lleva para emprender un viaje.",
+                "Si caminas con él, habrá una aventura."
+            ],
+            "pt": [
+                "Está vazio, mas é carregado para ir em uma jornada.",
+                "Se você caminhar com ele, haverá uma aventura."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это привлечёт путешествия и приключения в следующем году.",
+            "uk": "Це привабить подорожі та пригоди наступного року.",
+            "en": "This will attract travel and adventure in the coming year.",
+            "es": "Esto atraerá viajes y aventuras el próximo año.",
+            "pt": "Isso atrairá viagens e aventura no próximo ano."
+        },
+        "qwestion": {
+            "ru": "Что советуют носить вокруг дома в Новогоднюю ночь?",
+            "uk": "Що радять носити навколо будинку в Новорічну ніч?",
+            "en": "What are you advised to wear around the house on New Year's Eve?",
+            "es": "¿Qué se aconseja usar alrededor de la casa en la víspera de Año Nuevo?",
+            "pt": "O que é aconselhado a usar em casa na Véspera de Ano Novo?"
+        },
+        "definition": {
+            "ru": "Пустой чемодан - это предмет, который, согласно латиноамериканской новогодней традиции, нужно носить по улице или вокруг дома в полночь, чтобы в наступающем году совершить много путешествий.",
+            "uk": "Порожня валіза — це предмет, який, згідно з латиноамериканською новорічною традицією, потрібно носити по вулиці або навколо будинку опівночі, щоб у прийдешньому році здійснити багато подорожей.",
+            "en": "An empty suitcase is an object that, according to a Latin American New Year's tradition, you should carry in the street or around the house at midnight to travel a lot in the coming year.",
+            "es": "Una maleta vacía es un objeto que, según una tradición de Año Nuevo latinoamericana, se debe llevar por la calle o alrededor de la casa a medianoche para viajar mucho en el próximo año.",
+            "pt": "Uma mala vazia é um objeto que, de acordo com uma tradição de Ano Novo latino-americana, deve ser carregado na rua ou ao redor da casa à meia-noite para viajar bastante no próximo ano."
+        },
+        "antipod": {
+            "ru": "Веник",
+            "uk": "Віник",
+            "en": "Broom",
+            "es": "Escoba",
+            "pt": "Vassoura"
+        },
+        "hintFuiz": {
+            "ru": "Это носят вокруг дома для удачи в путешествиях.",
+            "uk": "Це носять навколо будинку для удачі в подорожах.",
+            "en": "It is carried around the house for luck in travel.",
+            "es": "Se lleva alrededor de la casa para la suerte en los viajes.",
+            "pt": "É carregado pela casa para dar sorte em viagens."
+        },
+        "article": "https://en.wikipedia.org/wiki/New_Year%27s_Eve#Latin_America"
+    },
+    "imgFlag": "quizfoto"
+}

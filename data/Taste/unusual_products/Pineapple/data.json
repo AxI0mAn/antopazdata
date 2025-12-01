@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Ананас",
+            "uk": "Ананас",
+            "en": "Pineapple",
+            "es": "Piña",
+            "pt": "Abacaxi"
+        },
+        "wrong": {
+            "ru": [
+                "Малина",
+                "Манго",
+                "Арбуз"
+            ],
+            "uk": [
+                "Малина",
+                "Манго",
+                "Кавун"
+            ],
+            "en": [
+                "Raspberry",
+                "Mango",
+                "Watermelon"
+            ],
+            "es": [
+                "Frambuesa",
+                "Mango",
+                "Sandía"
+            ],
+            "pt": [
+                "Framboesa",
+                "Manga",
+                "Melancia"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Тропики.",
+                "Корона.",
+                "Композитный."
+            ],
+            "uk": [
+                "Тропіки.",
+                "Корона.",
+                "Композитний."
+            ],
+            "en": [
+                "Tropics.",
+                "Crown.",
+                "Composite."
+            ],
+            "es": [
+                "Trópicos.",
+                "Corona.",
+                "Compuesto."
+            ],
+            "pt": [
+                "Trópicos.",
+                "Coroa.",
+                "Composto."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Это сотни маленьких сросшихся плодов.",
+                "Снаружи колючий, а внутри сочный и сладкий."
+            ],
+            "uk": [
+                "Це сотні маленьких зрощених плодів.",
+                "Ззовні колючий, а всередині соковитий і солодкий."
+            ],
+            "en": [
+                "It's hundreds of small, fused fruits.",
+                "Prickly on the outside, and juicy and sweet on the inside."
+            ],
+            "es": [
+                "Son cientos de pequeñas frutas fusionadas.",
+                "Espinoso por fuera y jugoso y dulce por dentro."
+            ],
+            "pt": [
+                "São centenas de pequenas frutas fundidas.",
+                "Espinhoso por fora, e suculento e doce por dentro."
+            ]
+        },
+        "tooltip": {
+            "ru": "Этот фрукт является соплодием, а его листья используются для производства прочной ткани.",
+            "uk": "Цей фрукт є соплодієм, а його листя використовуються для виробництва міцної тканини.",
+            "en": "This fruit is a composite fruit, and its leaves are used to produce a durable fabric.",
+            "es": "Esta fruta es un fruto compuesto, y sus hojas se utilizan para producir un tejido duradero.",
+            "pt": "Esta fruta é um fruto composto, e suas folhas são usadas para produzir um tecido durável."
+        },
+        "qwestion": {
+            "ru": "Этот фрукт состоит из множества плодов, которые срастаются вместе.",
+            "uk": "Цей фрукт складається з безлічі плодів, які зростаються разом.",
+            "en": "This fruit is made of many fruits that grow together.",
+            "es": "Esta fruta se compone de muchos frutos que se fusionan.",
+            "pt": "Esta fruta é composta por muitos frutos que se fundem."
+        },
+        "definition": {
+            "ru": "Ананас — это тропическое соплодие, состоящее из множества сросшихся ягод, каждая из которых вырастает из отдельного цветка. Это единственный плод, растущий на вершине растения, которое имеет форму розетки из толстых листьев.",
+            "uk": "Ананас — це тропічне соплодіє, що складається з безлічі зрощених ягід, кожна з яких виростає з окремої квітки. Це єдиний плід, що росте на вершині рослини, яка має форму розетки з товстих листків.",
+            "en": "The pineapple is a tropical composite fruit, consisting of many fused berries, each of which grows from a separate flower. It is the only fruit that grows on top of a plant that has the shape of a rosette of thick leaves.",
+            "es": "La piña es una fruta tropical compuesta, que consiste en muchas bayas fusionadas, cada una de las cuales crece a partir de una flor separada. Es el único fruto que crece en la parte superior de una planta que tiene la forma de una roseta de hojas gruesas.",
+            "pt": "O abacaxi é um fruto tropical composto, consistindo de muitas bagas fundidas, cada uma das quais cresce a partir de uma flor separada. É o único fruto que cresce no topo de uma planta que tem a forma de uma roseta de folhas grossas."
+        },
+        "antipod": {
+            "ru": "Виноград",
+            "uk": "Виноград",
+            "en": "Grapes",
+            "es": "Uvas",
+            "pt": "Uvas"
+        },
+        "hintFuiz": {
+            "ru": "Какой из них даёт один плод на одно растение?",
+            "uk": "Який з них дає один плід на одну рослину?",
+            "en": "Which of them yields one fruit per plant?",
+            "es": "¿Cuál de ellos da un solo fruto por planta?",
+            "pt": "Qual deles dá um único fruto por planta?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Pineapple"
+    },
+    "imgFlag": "all"
+}

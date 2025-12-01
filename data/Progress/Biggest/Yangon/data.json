@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Янгон",
+            "uk": "Янгон",
+            "en": "Yangon",
+            "es": "Yangón",
+            "pt": "Yangon"
+        },
+        "wrong": {
+            "ru": [
+                "Торонто",
+                "Мельбурн",
+                "Пекин"
+            ],
+            "uk": [
+                "Торонто",
+                "Мельбурн",
+                "Пекін"
+            ],
+            "en": [
+                "Toronto",
+                "Melbourne",
+                "Beijing"
+            ],
+            "es": [
+                "Toronto",
+                "Melbourne",
+                "Pekín"
+            ],
+            "pt": [
+                "Toronto",
+                "Melbourne",
+                "Pequim"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Улица.",
+                "Мьянма.",
+                "Император."
+            ],
+            "uk": [
+                "Вулиця.",
+                "М'янма.",
+                "Імператор."
+            ],
+            "en": [
+                "Street.",
+                "Myanmar.",
+                "Emperor."
+            ],
+            "es": [
+                "Calle.",
+                "Myanmar.",
+                "Emperador."
+            ],
+            "pt": [
+                "Rua.",
+                "Mianmar.",
+                "Imperador."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Дорога императора.",
+                "Самая длинная улица."
+            ],
+            "uk": [
+                "Дорога імператора.",
+                "Найдовша вулиця."
+            ],
+            "en": [
+                "The Emperor's Road.",
+                "The longest street."
+            ],
+            "es": [
+                "El camino del Emperador.",
+                "La calle más larga."
+            ],
+            "pt": [
+                "A Estrada do Imperador.",
+                "A rua mais longa."
+            ]
+        },
+        "tooltip": {
+            "ru": "Её длина составляет 48 километров, а название переводится как «Путь императора».",
+            "uk": "Її довжина становить 48 кілометрів, а назва перекладається як «Шлях імператора».",
+            "en": "Its length is 48 kilometers, and its name is translated as 'Emperor's Way.'",
+            "es": "Su longitud es de 48 kilómetros y su nombre se traduce como 'Camino del Emperador'.",
+            "pt": "Seu comprimento é de 48 quilômetros e seu nome é traduzido como 'Caminho do Imperador'."
+        },
+        "qwestion": {
+            "ru": "В каком городе находится самая длинная улица в мире?",
+            "uk": "У якому місті знаходиться найдовша вулиця у світі?",
+            "en": "What city has the longest street in the world?",
+            "es": "¿En qué ciudad se encuentra la calle más larga del mundo?",
+            "pt": "Em qual cidade fica a rua mais longa do mundo?"
+        },
+        "definition": {
+            "ru": "Янгон — крупнейший город Мьянмы и её бывшая столица. В нем находится улица Пьяй-роуд, одна из самых длинных городских дорог в мире, ведущая из центра города на север. Ее длина составляет около 48 км.",
+            "uk": "Янгон — найбільше місто М'янми та її колишня столиця. У ньому знаходиться вулиця П'яй-роуд, одна з найдовших міських доріг у світі, що веде з центру міста на північ. Її довжина становить близько 48 км.",
+            "en": "Yangon is the largest city in Myanmar and its former capital. It is home to Pyay Road, one of the longest urban roads in the world, which runs from the city center northwards. Its length is approximately 48 km.",
+            "es": "Yangón es la ciudad más grande de Myanmar y su antigua capital. Es el hogar de la calle Pyay Road, una de las carreteras urbanas más largas del mundo, que se extiende desde el centro de la ciudad hacia el norte. Su longitud es de aproximadamente 48 km.",
+            "pt": "Yangon é a maior cidade de Mianmar e sua antiga capital. Abriga a Rua Pyay, uma das estradas urbanas mais longas do mundo, que vai do centro da cidade para o norte. Seu comprimento é de aproximadamente 48 km."
+        },
+        "antipod": {
+            "ru": "Харьков",
+            "uk": "Харків",
+            "en": "Kharkiv",
+            "es": "Járkov",
+            "pt": "Carquiv"
+        },
+        "hintFuiz": {
+            "ru": "Город с самой длинной улицей.",
+            "uk": "Місто з найдовшою вулицею.",
+            "en": "A city with the longest street.",
+            "es": "La ciudad con la calle más larga.",
+            "pt": "Uma cidade com a rua mais longa."
+        },
+        "article": "https://en.wikipedia.org/wiki/Yangon"
+    },
+    "imgFlag": "quizfoto" 
+}

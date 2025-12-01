@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Облака Аспертас",
+            "uk": "Хмари Асперітас",
+            "en": "Asperitas clouds",
+            "es": "Nubes Asperitas",
+            "pt": "Nuvens Asperitas"
+        },
+        "wrong": {
+            "ru": [
+                "Перистые облака",
+                "Вымеобразные облака",
+                "Лентикулярные облака"
+            ],
+            "uk": [
+                "Перисті хмари",
+                "Вименеподібні хмари",
+                "Лентикулярні хмари"
+            ],
+            "en": [
+                "Cirrus clouds",
+                "Mammatus clouds",
+                "Lenticular clouds"
+            ],
+            "es": [
+                "Nubes cirros",
+                "Nubes mammatus",
+                "Nubes lenticulares"
+            ],
+            "pt": [
+                "Nuvens cirrus",
+                "Nuvens mammatus",
+                "Nuvens lenticulares"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Волны.",
+                "Недавно открыты.",
+                "Темное небо."
+            ],
+            "uk": [
+                "Хвилі.",
+                "Нещодавно відкриті.",
+                "Темне небо."
+            ],
+            "en": [
+                "Waves.",
+                "Newly discovered.",
+                "Dark sky."
+            ],
+            "es": [
+                "Olas.",
+                "Descubiertas recientemente.",
+                "Cielo oscuro."
+            ],
+            "pt": [
+                "Ondas.",
+                "Recentemente descobertas.",
+                "Céu escuro."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Я похож на неспокойное море, но я в небе.",
+                "Я предвещаю не бурю, а лишь красоту и тревогу."
+            ],
+            "uk": [
+                "Я схожий на неспокійне море, але я в небі.",
+                "Я віщує не бурю, а лише красу та тривогу."
+            ],
+            "en": [
+                "I look like a troubled sea, but I'm in the sky.",
+                "I predict not a storm, but only beauty and unease."
+            ],
+            "es": [
+                "Me parezco a un mar agitado, pero estoy en el cielo.",
+                "No pronostico una tormenta, sino solo belleza e inquietud."
+            ],
+            "pt": [
+                "Eu pareço um mar agitado, mas estou no céu.",
+                "Não prevejo uma tempestade, mas apenas beleza e inquietação."
+            ]
+        },
+        "tooltip": {
+            "ru": "Они похожи на вздыбленное море, видимое снизу.",
+            "uk": "Вони схожі на збурене море, видиме знизу.",
+            "en": "They look like a troubled sea, viewed from below.",
+            "es": "Se parecen a un mar agitado, visto desde abajo.",
+            "pt": "Elas se parecem com um mar agitado, visto de baixo."
+        },
+        "qwestion": {
+            "ru": "Какие редкие и недавно признанные облака выглядят как волнующееся море?",
+            "uk": "Які рідкісні та нещодавно визнані хмари виглядають як схвильоване море?",
+            "en": "What rare and recently recognized clouds look like a troubled sea?",
+            "es": "¿Qué nubes raras y recientemente reconocidas se parecen a un mar agitado?",
+            "pt": "Que nuvens raras e recentemente reconhecidas se parecem com um mar agitado?"
+        },
+        "definition": {
+            "ru": "Облака Аспертас — это редкий и недавно классифицированный вид облаков, который выглядит как хаотичная, волнообразная структура, будто поверхность бушующего моря, видимая снизу. Несмотря на свой устрашающий вид, они не предвещают бури и являются результатом нисходящих воздушных потоков, но их точный механизм образования до сих пор изучается. Аспертас стали первым новым видом облаков, добавленным в Международный атлас облаков с 1951 года.",
+            "uk": "Хмари Асперітас — це рідкісний і нещодавно класифікований вид хмар, який виглядає як хаотична, хвилеподібна структура, ніби поверхня бурхливого моря, видима знизу. Незважаючи на свій страхітливий вигляд, вони не віщують бурі і є результатом низхідних повітряних потоків, але їх точний механізм утворення досі вивчається. Асперітас стали першим новим видом хмар, доданим до Міжнародного атласу хмар з 1951 року.",
+            "en": "Asperitas clouds are a rare and recently classified type of cloud that appears as a chaotic, wave-like structure, much like the surface of a stormy sea viewed from below. Despite their menacing appearance, they do not foretell a storm and are a result of sinking air currents, though their exact formation mechanism is still being studied. Asperitas was the first new cloud type to be added to the International Cloud Atlas since 1951.",
+            "es": "Las nubes Asperitas son un tipo de nube raro y recientemente clasificado que aparece como una estructura caótica y ondulada, muy parecida a la superficie de un mar tormentoso vista desde abajo. A pesar de su apariencia amenazante, no presagian una tormenta y son el resultado de corrientes de aire descendentes, aunque su mecanismo exacto de formación aún se está estudiando. Asperitas fue el primer tipo de nube nuevo en ser agregado al Atlas Internacional de Nubes desde 1951.",
+            "pt": "As nuvens Asperitas são um tipo de nuvem raro e recentemente classificado que aparece como uma estrutura caótica e ondulada, muito parecida com a superfície de um mar tempestuoso vista de baixo. Apesar de sua aparência ameaçadora, elas não preveem uma tempestade e são o resultado de correntes de ar descendentes, embora seu mecanismo de formação exato ainda esteja sendo estudado. Asperitas foi o primeiro novo tipo de nuvem a ser adicionado ao Atlas Internacional de Nuvens desde 1951."
+        },
+        "antipod": {
+            "ru": "Слоистые облака",
+            "uk": "Шаруваті хмари",
+            "en": "Stratus clouds",
+            "es": "Nubes estratos",
+            "pt": "Nuvens estratos"
+        },
+        "hintFuiz": {
+            "ru": "Какие из этих облаков имеют хаотичную, волновую структуру?",
+            "uk": "Яка з цих хмар має хаотичну, хвильову структуру?",
+            "en": "Which of these clouds has a chaotic, wave-like structure?",
+            "es": "¿Cuál de estas nubes tiene una estructura caótica y ondulada?",
+            "pt": "Qual dessas nuvens tem uma estrutura caótica e ondulada?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Asperitas_cloud"
+    },
+    "imgFlag": "all" 
+}

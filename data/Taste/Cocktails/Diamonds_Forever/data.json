@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Бриллианты навсегда",
+            "uk": "Діаманти назавжди",
+            "en": "Diamonds Are Forever",
+            "es": "Diamantes para la eternidad",
+            "pt": "Diamantes para sempre"
+        },
+        "wrong": {
+            "ru": [
+                "Королевский",
+                "Сауэр",
+                "Олд Фэшн"
+            ],
+            "uk": [
+                "Королівський",
+                "Сауер",
+                "Олд Фешн"
+            ],
+            "en": [
+                "Royal",
+                "Sour",
+                "Old Fashioned"
+            ],
+            "es": [
+                "Real",
+                "Sour",
+                "Old Fashioned"
+            ],
+            "pt": [
+                "Real",
+                "Sour",
+                "Old Fashioned"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Коньяк.",
+                "Бриллиант.",
+                "Кольцо."
+            ],
+            "uk": [
+                "Коньяк.",
+                "Діамант.",
+                "Кільце."
+            ],
+            "en": [
+                "Cognac.",
+                "Diamond.",
+                "Ring."
+            ],
+            "es": [
+                "Coñac.",
+                "Diamante.",
+                "Anillo."
+            ],
+            "pt": [
+                "Conhaque.",
+                "Diamante.",
+                "Anel."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Выпила и получила кольцо.",
+                "Самый дорогой коктейль."
+            ],
+            "uk": [
+                "Випила і отримала обручку.",
+                "Найдорожчий коктейль."
+            ],
+            "en": [
+                "She drank it and got a ring.",
+                "The most expensive cocktail."
+            ],
+            "es": [
+                "Ella lo bebió y recibió un anillo.",
+                "El cóctel más caro."
+            ],
+            "pt": [
+                "Ela bebeu e ganhou um anel.",
+                "O coquetel mais caro."
+            ]
+        },
+        "tooltip": {
+            "ru": "Он подается в бокале с кольцом с бриллиантом.",
+            "uk": "Він подається в келиху з каблучкою з діамантом.",
+            "en": "It is served in a glass with a diamond ring.",
+            "es": "Se sirve en un vaso con un anillo de diamantes.",
+            "pt": "É servido em um copo com um anel de diamante."
+        },
+        "qwestion": {
+            "ru": "Какой коктейль стоит 25 000 долларов и готовится из коньяка 1840 года?",
+            "uk": "Який коктейль коштує 25 000 доларів і готується з коньяку 1840 року?",
+            "en": "What cocktail costs $25,000 and is made with 1840 cognac?",
+            "es": "¿Qué cóctel cuesta $25,000 y está hecho con coñac de 1840?",
+            "pt": "Qual coquetel custa 25.000 dólares e é feito com conhaque de 1840?"
+        },
+        "definition": {
+            "ru": "«Бриллианты навсегда» — один из самых дорогих коктейлей в мире, который подают в токийском отеле Ritz-Carlton. Его стоимость, достигающая 25 000 долларов, обусловлена не только коньяком 1840 года, но и тем, что в него кладут кольцо с бриллиантом.",
+            "uk": "«Діаманти назавжди» — один із найдорожчих коктейлів у світі, який подають у токійському готелі Ritz-Carlton. Його вартість, що досягає 25 000 доларів, зумовлена не лише коньяком 1840 року, а й тим, що в нього кладуть каблучку з діамантом.",
+            "en": "The 'Diamonds Are Forever' is one of the world's most expensive cocktails, served at the Ritz-Carlton in Tokyo. Its price, reaching $25,000, is due not only to the 1840 cognac but also to the fact that a diamond ring is placed inside the glass.",
+            "es": "El 'Diamantes para la eternidad' es uno de los cócteles más caros del mundo, servido en el Ritz-Carlton de Tokio. Su precio, que alcanza los $25,000, se debe no solo al coñac de 1840, sino también al hecho de que se coloca un anillo de diamantes dentro del vaso.",
+            "pt": "O 'Diamantes para sempre' é um dos coquetéis mais caros do mundo, servido no Ritz-Carlton em Tóquio. Seu preço, que chega a 25.000 dólares, se deve não apenas ao conhaque de 1840, mas também ao fato de que um anel de diamante é colocado dentro do copo."
+        },
+        "antipod": {
+            "ru": "Дабл рай виски",
+            "uk": "Дабл рай віскі",
+            "en": "Double rye whiskey",
+            "es": "Doble whiskey de centeno",
+            "pt": "Uísque de centeio duplo"
+        },
+        "hintFuiz": {
+            "ru": "Этот коктейль — самый дорогой.",
+            "uk": "Цей коктейль — найдорожчий.",
+            "en": "This cocktail is the most expensive.",
+            "es": "Este cóctel es el más caro.",
+            "pt": "Este coquetel é o mais caro."
+        },
+        "article": "https://en.wikipedia.org/wiki/Diamonds_Are_Forever_(cocktail)"
+    },
+    "imgFlag": "quizfoto" 
+}

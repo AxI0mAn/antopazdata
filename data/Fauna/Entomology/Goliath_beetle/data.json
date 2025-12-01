@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Жук-голиаф",
+            "uk": "Жук-голіаф",
+            "en": "Goliath beetle",
+            "es": "Escarabajo Goliat",
+            "pt": "Besouro-golias"
+        },
+        "wrong": {
+            "ru": [
+                "Жук-олень",
+                "Майский жук",
+                "Носорог"
+            ],
+            "uk": [
+                "Жук-олень",
+                "Хрущ",
+                "Носоріг"
+            ],
+            "en": [
+                "Stag beetle",
+                "May beetle",
+                "Rhinoceros beetle"
+            ],
+            "es": [
+                "Escarabajo ciervo",
+                "Escarabajo de mayo",
+                "Escarabajo rinoceronte"
+            ],
+            "pt": [
+                "Besouro-veado",
+                "Besouro de maio",
+                "Besouro-rinoceronte"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Размер.",
+                "Вес.",
+                "Гигант."
+            ],
+            "uk": [
+                "Розмір.",
+                "Вага.",
+                "Гігант."
+            ],
+            "en": [
+                "Size.",
+                "Weight.",
+                "Giant."
+            ],
+            "es": [
+                "Tamaño.",
+                "Peso.",
+                "Gigante."
+            ],
+            "pt": [
+                "Tamanho.",
+                "Peso.",
+                "Gigante."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Он самый тяжелый среди своих сородичей.",
+                "В мире жуков он — настоящий гигант."
+            ],
+            "uk": [
+                "Він найважчий серед своїх родичів.",
+                "У світі жуків він — справжній гігант."
+            ],
+            "en": [
+                "It is the heaviest among its relatives.",
+                "In the world of beetles, it is a true giant."
+            ],
+            "es": [
+                "Es el más pesado entre sus parientes.",
+                "En el mundo de los escarabajos, es un verdadero gigante."
+            ],
+            "pt": [
+                "É o mais pesado entre seus parentes.",
+                "No mundo dos besouros, ele é um verdadeiro gigante."
+            ]
+        },
+        "tooltip": {
+            "ru": "Один из самых крупных и тяжелых жуков в мире.",
+            "uk": "Один із найбільших і найважчих жуків у світі.",
+            "en": "One of the largest and heaviest beetles in the world.",
+            "es": "Uno de los escarabajos más grandes y pesados del mundo.",
+            "pt": "Um dos maiores e mais pesados besouros do mundo."
+        },
+        "qwestion": {
+            "ru": "Какой жук считается одним из самых больших в мире?",
+            "uk": "Який жук вважається одним із найбільших у світі?",
+            "en": "Which beetle is considered one of the largest in the world?",
+            "es": "¿Qué escarabajo es considerado uno de los más grandes del mundo?",
+            "pt": "Qual besouro é considerado um dos maiores do mundo?"
+        },
+        "definition": {
+            "ru": "Жук-голиаф — род крупных африканских жуков-бронзовок. Взрослые особи достигают больших размеров, и их личинки могут весить более 100 граммов, что делает их одними из самых тяжелых насекомых на Земле.",
+            "uk": "Жук-голіаф — рід великих африканських жуків-бронзівок. Дорослі особини досягають великих розмірів, і їхні личинки можуть важити понад 100 грамів, що робить їх одними з найважчих комах на Землі.",
+            "en": "The Goliath beetle is a genus of large African scarab beetles. Adults reach immense sizes, and their larvae can weigh over 100 grams, making them among the heaviest insects on Earth.",
+            "es": "El escarabajo Goliat es un género de grandes escarabajos africanos. Los adultos alcanzan tamaños inmensos, y sus larvas pueden pesar más de 100 gramos, lo que los convierte en uno de los insectos más pesados de la Tierra.",
+            "pt": "O besouro-golias é um gênero de grandes besouros africanos. Os adultos atingem tamanhos imensos, e suas larvas podem pesar mais de 100 gramas, tornando-os um dos insetos mais pesados da Terra."
+        },
+        "antipod": {
+            "ru": "Жук-олень",
+            "uk": "Жук-олень",
+            "en": "Stag beetle",
+            "es": "Escarabajo ciervo",
+            "pt": "Besouro-veado"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих двух жуков самый тяжелый?",
+            "uk": "Який із цих двох жуків найважчий?",
+            "en": "Which of these two beetles is the heaviest?",
+            "es": "¿Cuál de estos dos escarabajos es el más pesado?",
+            "pt": "Qual desses dois besouros é o mais pesado?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Goliathus"
+    },
+    "imgFlag": "all" 
+}

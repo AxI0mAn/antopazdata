@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Рыба-клоун",
+            "uk": "Риба-клоун",
+            "en": "Clownfish",
+            "es": "Pez payaso",
+            "pt": "Peixe-palhaço"
+        },
+        "wrong": {
+            "ru": [
+                "Тунец",
+                "Лосось",
+                "Окунь"
+            ],
+            "uk": [
+                "Тунець",
+                "Лосось",
+                "Окунь"
+            ],
+            "en": [
+                "Tuna",
+                "Salmon",
+                "Perch"
+            ],
+            "es": [
+                "Atún",
+                "Salmón",
+                "Perca"
+            ],
+            "pt": [
+                "Atum",
+                "Salmão",
+                "Perca"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Актиния.",
+                "Симбиоз.",
+                "Цирк."
+            ],
+            "uk": [
+                "Актинія.",
+                "Симбіоз.",
+                "Цирк."
+            ],
+            "en": [
+                "Anemone.",
+                "Symbiosis.",
+                "Circus."
+            ],
+            "es": [
+                "Anémona.",
+                "Simbiosis.",
+                "Circo."
+            ],
+            "pt": [
+                "Anêmona.",
+                "Simbiose.",
+                "Circo."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Какая рыба симбиот актинии?",
+                "Какая рыба меняет свой пол?"
+            ],
+            "uk": [
+                "Яка риба симбіот актинії?",
+                "Яка риба змінює свою стать?"
+            ],
+            "en": [
+                "Which fish is a symbiont of the sea anemone?",
+                "Which fish can change its sex?"
+            ],
+            "es": [
+                "¿Qué pez es un simbionte de la anémona de mar?",
+                "¿Qué pez puede cambiar de sexo?"
+            ],
+            "pt": [
+                "Qual peixe é um simbionte da anêmona do mar?",
+                "Qual peixe pode mudar de sexo?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Эта рыба может менять свой пол в течение жизни.",
+            "uk": "Ця риба може змінювати свою стать протягом життя.",
+            "en": "This fish can change its sex during its lifetime.",
+            "es": "Este pez puede cambiar de sexo a lo largo de su vida.",
+            "pt": "Este peixe pode mudar de sexo ao longo de sua vida."
+        },
+        "qwestion": {
+            "ru": "Какая тропическая морская рыба обитает среди щупалец актиний?",
+            "uk": "Яка тропічна морська риба мешкає серед щупалець актиній?",
+            "en": "What tropical marine fish lives among the tentacles of sea anemones?",
+            "es": "¿Qué pez marino tropical vive entre los tentáculos de las anémonas de mar?",
+            "pt": "Qual peixe marinho tropical vive entre os tentáculos de anêmonas do mar?"
+        },
+        "definition": {
+            "ru": "Рыба-клоун — это семейство тропических морских рыб, которые обитают среди щупалец актиний. Они известны своей ярко-оранжевой окраской.",
+            "uk": "Риба-клоун — це сімейство тропічних морських риб, які мешкають серед щупальців актиній. Вони відомі своїм яскраво-помаранчевим забарвленням.",
+            "en": "The clownfish is a family of tropical marine fish that live among the tentacles of sea anemones. They are known for their bright orange coloration.",
+            "es": "El pez payaso es una familia de peces marinos tropicales que viven entre los tentáculos de las anémonas de mar. Son conocidos por su coloración naranja brillante.",
+            "pt": "O peixe-palhaço é uma família de peixes marinhos tropicais que vivem entre os tentáculos de anêmonas do mar. Eles são conhecidos por sua coloração laranja brilhante."
+        },
+        "antipod": {
+            "ru": "Треска",
+            "uk": "Тріска",
+            "en": "Cod",
+            "es": "Bacalao",
+            "pt": "Bacalhau"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих двух рыб обладает способностью к смене пола?",
+            "uk": "Яка з цих двох риб має здатність до зміни статі?",
+            "en": "Which of these two fish has the ability to change sex?",
+            "es": "¿Cuál de estos dos peces tiene la capacidad de cambiar de sexo?",
+            "pt": "Qual desses dois peixes tem a capacidade de mudar de sexo?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Clownfish"
+    },
+    "imgFlag": "all" 
+}

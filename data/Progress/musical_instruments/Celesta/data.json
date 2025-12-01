@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Челеста",
+            "uk": "Челеста",
+            "en": "Celesta",
+            "es": "Celesta",
+            "pt": "Celesta"
+        },
+        "wrong": {
+            "ru": [
+                "Вибрафон",
+                "Глокеншпиль",
+                "Маримба"
+            ],
+            "uk": [
+                "Вібрафон",
+                "Глокеншпіль",
+                "Маримба"
+            ],
+            "en": [
+                "Vibraphone",
+                "Glockenspiel",
+                "Marimba"
+            ],
+            "es": [
+                "Vibráfono",
+                "Glockenspiel",
+                "Marimba"
+            ],
+            "pt": [
+                "Vibrafone",
+                "Glockenspiel",
+                "Marimba"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Клавиши",
+                "Колокольчики",
+                "Чайковский"
+            ],
+            "uk": [
+                "Клавіші",
+                "Дзвіночки",
+                "Чайковський"
+            ],
+            "en": [
+                "Keys",
+                "Bells",
+                "Tchaikovsky"
+            ],
+            "es": [
+                "Teclas",
+                "Campanas",
+                "Chaikovski"
+            ],
+            "pt": [
+                "Teclas",
+                "Sinos",
+                "Tchaikovsky"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Что выглядит как небольшое пианино?",
+                "С клавишами, но звучит как колокольчики?"
+            ],
+            "uk": [
+                "Що виглядає як невелике піаніно?",
+                "З клавішами, але звучить як дзвіночки?"
+            ],
+            "en": [
+                "What looks like a small piano?",
+                "What has keys but sounds like bells?"
+            ],
+            "es": [
+                "¿Qué parece un pequeño piano?",
+                "¿Qué tiene teclas pero suena como campanas?"
+            ],
+            "pt": [
+                "O que parece um pequeno piano?",
+                "O que tem teclas mas soa como sinos?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Его название происходит от итальянского слова, означающего «небесный», что отражает его мягкий и колокольный звук.",
+            "uk": "Його назва походить від італійського слова, що означає «небесний», що відображає його м'який і дзвінкий звук.",
+            "en": "Its name comes from an Italian word meaning “heavenly,” which reflects its soft, bell-like sound.",
+            "es": "Su nombre proviene de la palabra italiana que significa 'celestial', lo que refleja su sonido suave, parecido al de una campana",
+            "pt": "O seu nome vem de uma palavra italiana que significa 'celestial', refletindo o seu som suave e de sino."
+        },
+        "qwestion": {
+            "ru": "Какой инструмент, как пианино, использовал Чайковский для Феи Драже?",
+            "uk": "Який інструмент, як піаніно, використав Чайковський для Феї Драже?",
+            "en": "Which piano-like instrument did Tchaikovsky use for the Sugar Plum Fairy?",
+            "es": "¿Qué instrumento parecido a un piano usó Chaikovski para el Hada de Azúcar?",
+            "pt": "Qual instrumento parecido com um piano Tchaikovsky usou para a Fada Açucarada?"
+        },
+        "definition": {
+            "ru": "Челеста — это клавишный ударный инструмент, который выглядит как небольшое пианино. Звук в нем создается ударом войлочных молоточков по стальным пластинам, что дает нежный, колокольный тембр.",
+            "uk": "Челеста — це клавішний ударний інструмент, що виглядає як невелике піаніно. Звук у ньому створюється ударом повстяних молоточків по сталевих пластинах, що дає ніжний, дзвінкий тембр.",
+            "en": "The celesta is a keyboard percussion instrument resembling a small upright piano. Its sound is produced by felt hammers striking graduated steel plates, which gives it a gentle, bell-like timbre.",
+            "es": "La celesta es un instrumento de percusión de teclado que se parece a un piano pequeño. El sonido se produce cuando martillos de fieltro golpean placas de acero, lo que le da un timbre suave y de campana.",
+            "pt": "A celesta é um instrumento de percussão de teclado que se assemelha a um pequeno piano vertical. O som é produzido por martelos de feltro que atingem placas de aço, o que lhe dá um timbre suave e semelhante a um sino."
+        },
+        "antipod": {
+            "ru": "Ксилофон",
+            "uk": "Ксилофон",
+            "en": "Xylophone",
+            "es": "Xilófono",
+            "pt": "Xilofone"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих инструментов издает звук от удара молоточков по металлическим пластинам?",
+            "uk": "Який з цих інструментів видає звук від удару молоточків по металевих пластинах?",
+            "en": "Which of these instruments produces sound by hammers striking metal plates?",
+            "es": "¿Cuál de estos instrumentos produce sonido al golpear martillos sobre placas de metal?",
+            "pt": "Qual desses instrumentos produz som batendo martelos em placas de metal?"
+        },
+        "article": "https://ru.wikipedia.org/wiki/Челеста"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Чарльз Дарвин",
+            "uk": "Чарльз Дарвін",
+            "en": "Charles Darwin",
+            "es": "Charles Darwin",
+            "pt": "Charles Darwin"
+        },
+        "wrong": {
+            "ru": [
+                "Битлз",
+                "Исаак Ньютон",
+                "Илон Маск"
+            ],
+            "uk": [
+                "Бітлз",
+                "Ісаак Ньютон",
+                "Ілон Маск"
+            ],
+            "en": [
+                "The Beatles",
+                "Isaac Newton",
+                "Elon Musk"
+            ],
+            "es": [
+                "The Beatles",
+                "Isaac Newton",
+                "Elon Musk"
+            ],
+            "pt": [
+                "The Beatles",
+                "Isaac Newton",
+                "Elon Musk"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Англия",
+                "Эволюция",
+                "Фестиваль"
+            ],
+            "uk": [
+                "Англія",
+                "Еволюція",
+                "Фестиваль"
+            ],
+            "en": [
+                "England",
+                "Evolution",
+                "Festival"
+            ],
+            "es": [
+                "Inglaterra",
+                "Evolución",
+                "Festival"
+            ],
+            "pt": [
+                "Inglaterra",
+                "Evolução",
+                "Festival"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Моё имя связано с теорией эволюции?",
+                "Кто написал «Происхождение видов»?"
+            ],
+            "uk": [
+                "Моє ім'я пов'язане з теорією еволюції?",
+                "Хто написав «Походження видів»?"
+            ],
+            "en": [
+                "Is my name connected with the theory of evolution?",
+                "Who wrote 'On the Origin of Species'?"
+            ],
+            "es": [
+                "¿Mi nombre está relacionado con la teoría de la evolución?",
+                "¿Quién escribió 'El origen de las especies'?"
+            ],
+            "pt": [
+                "Meu nome está ligado à teoria da evolução?",
+                "Quem escreveu 'A Origem das Espécies'?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Фестиваль проводится в городе Шрусбери, где родился этот знаменитый учёный.",
+            "uk": "Фестиваль проводиться в місті Шрусбері, де народився цей знаменитий вчений.",
+            "en": "The festival is held in the town of Shrewsbury, where this famous scientist was born.",
+            "es": "El festival se celebra en la ciudad de Shrewsbury, donde nació este famoso científico.",
+            "pt": "O festival é realizado na cidade de Shrewsbury, onde este famoso cientista nasceu."
+        },
+        "qwestion": {
+            "ru": "В честь кого проходит фестиваль, в Англии, в городе Шрусбери?",
+            "uk": "На честь кого проходить фестиваль, в Англії, в місті Шрусбері?",
+            "en": "In honor of whom does a festival take place in Shrewsbury, England?",
+            "es": "¿En honor a quién se celebra un festival en Shrewsbury, Inglaterra?",
+            "pt": "Em honra de quem acontece um festival em Shrewsbury, Inglaterra?"
+        },
+        "definition": {
+            "ru": "Чарльз Дарвин — великий английский натуралист, биолог и геолог. Он известен своей теорией эволюции, согласно которой все виды живых организмов произошли от общих предков и развиваются в процессе естественного отбора. Его работа «Происхождение видов» является основополагающей для современной биологии.",
+            "uk": "Чарльз Дарвін — великий англійський натураліст, біолог і геолог. Він відомий своєю теорією еволюції, згідно з якою всі види живих організмів походять від спільних предків і розвиваються в процесі природного добору. Його праця «Походження видів» є основоположною для сучасної біології.",
+            "en": "Charles Darwin is a great English naturalist, biologist, and geologist. He is known for his theory of evolution, according to which all species of living organisms descended from common ancestors and develop through the process of natural selection. His work 'On the Origin of Species' is fundamental to modern biology.",
+            "es": "Charles Darwin es un gran naturalista, biólogo y geólogo inglés. Es conocido por su teoría de la evolución, según la cual todas las especies de organismos vivos descienden de antepasados comunes y se desarrollan a través del proceso de selección natural. Su obra 'El origen de las especies' es fundamental para la biología moderna.",
+            "pt": "Charles Darwin é um grande naturalista, biólogo e geólogo inglês. Ele é conhecido por sua teoria da evolução, segundo a qual todas as espécies de organismos vivos descendem de ancestrais comuns e se desenvolvem através do processo de seleção natural. Sua obra 'A Origem das Espécies' é fundamental para a biologia moderna."
+        },
+        "antipod": {
+            "ru": "Уинстон Черчилль",
+            "uk": "Вінстон Черчилль",
+            "en": "Winston Churchill",
+            "es": "Winston Churchill",
+            "pt": "Winston Churchill"
+        },
+        "hintFuiz": {
+            "ru": "В его честь проходит фестиваль, в городе Шрусбери.",
+            "uk": "На його честь проходить фестиваль, у місті Шрусбері.",
+            "en": "A festival is held in his honor in the town of Shrewsbury.",
+            "es": "Un festival se celebra en su honor en la ciudad de Shrewsbury.",
+            "pt": "Um festival é realizado em sua honra na cidade de Shrewsbury."
+        },
+        "article": "https://en.wikipedia.org/wiki/Charles_Darwin"
+    },
+    "imgFlag": "quizfoto"
+}

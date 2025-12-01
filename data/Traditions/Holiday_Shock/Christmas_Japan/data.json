@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Жареная курица KFC",
+            "uk": "Смажена курка KFC",
+            "en": "KFC Fried Chicken",
+            "es": "Pollo Frito de KFC",
+            "pt": "Frango Frito do KFC"
+        },
+        "wrong": {
+            "ru": [
+                "Суши",
+                "Оливки",
+                "Тыква"
+            ],
+            "uk": [
+                "Суші",
+                "Оливки",
+                "Гарбуз"
+            ],
+            "en": [
+                "Sushi",
+                "Olives",
+                "Pumpkin"
+            ],
+            "es": [
+                "Sushi",
+                "Aceitunas",
+                "Calabaza"
+            ],
+            "pt": [
+                "Sushi",
+                "Azeitonas",
+                "Abóbora"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Япония",
+                "Маркетинг",
+                "Рождество"
+            ],
+            "uk": [
+                "Японія",
+                "Маркетинг",
+                "Різдво"
+            ],
+            "en": [
+                "Japan",
+                "Marketing",
+                "Christmas"
+            ],
+            "es": [
+                "Japón",
+                "Marketing",
+                "Navidad"
+            ],
+            "pt": [
+                "Japão",
+                "Marketing",
+                "Natal"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "С ним в Японии встречают Рождество.",
+                "Кулинарная традиция, созданная рекламой."
+            ],
+            "uk": [
+                "З ним у Японії зустрічають Різдво.",
+                "Кулінарна традиція, створена рекламою."
+            ],
+            "en": [
+                "They celebrate Christmas with it in Japan.",
+                "A culinary tradition created by advertising."
+            ],
+            "es": [
+                "Con él se celebra la Navidad en Japón.",
+                "Una tradición culinaria creada por la publicidad."
+            ],
+            "pt": [
+                "Com ele, se celebra o Natal no Japão.",
+                "Uma tradição culinária criada por publicidade."
+            ]
+        },
+        "tooltip": {
+            "ru": "Оно стало традицией благодаря успешной маркетинговой кампании",
+            "uk": "Воно стало традицією завдяки успішній маркетинговій кампанії",
+            "en": "It became a tradition due to a successful marketing campaign",
+            "es": "Se convirtió en una tradición gracias a una exitosa campaña de marketing",
+            "pt": "Tornou-se uma tradição devido a uma campanha de marketing bem-sucedida"
+        },
+        "qwestion": {
+            "ru": "Какое самое популярное рождественское блюдо в Японии?",
+            "uk": "Яка найпопулярніша різдвяна страва в Японії?",
+            "en": "What is the most popular Christmas dish in Japan?",
+            "es": "¿Cuál es el plato navideño más popular en Japón?",
+            "pt": "Qual é o prato de Natal mais popular no Japão?"
+        },
+        "definition": {
+            "ru": "Жареная курица KFC — это блюдо из сети ресторанов быстрого питания. В Японии стало символом Рождества и самым популярным праздничным ужином после успешной маркетинговой кампании, начавшейся в 1970-х.",
+            "uk": "Смажена курка KFC — це страва з мережі ресторанів швидкого харчування. У Японії вона стала символом Різдва і найпопулярнішою святковою вечерею після успішної маркетингової кампанії, що розпочалася в 1970-х.",
+            "en": "KFC Fried Chicken is a dish from the fast-food chain. In Japan, it became a Christmas symbol and the most popular holiday dinner after a successful marketing campaign that began in the 1970s.",
+            "es": "El Pollo Frito de KFC es un plato de la cadena de comida rápida. En Japón, se convirtió en un símbolo navideño y en la cena festiva más popular después de una exitosa campaña de marketing que comenzó en la década de 1970.",
+            "pt": "O Frango Frito do KFC é um prato da rede de fast-food. No Japão, tornou-se um símbolo de Natal e o jantar festivo mais popular após uma campanha de marketing bem-sucedida que começou na década de 1970."
+        },
+        "antipod": {
+            "ru": "Чипсы",
+            "uk": "Чіпси",
+            "en": "Chips",
+            "es": "Patatas fritas",
+            "pt": "Salgadinhos"
+        },
+        "hintFuiz": {
+            "ru": "Это блюдо из жареной курицы — рождественская традиция в Японии.",
+            "uk": "Ця страва зі смаженої курки — різдвяна традиція в Японії.",
+            "en": "This fried chicken dish is a Christmas tradition in Japan.",
+            "es": "Este plato de pollo frito es una tradición navideña en Japón.",
+            "pt": "Este prato de frango frito é uma tradição de Natal no Japão."
+        },
+        "article": "https://en.wikipedia.org/wiki/KFC_in_Japan"
+    },
+    "imgFlag": "quizfoto"
+}

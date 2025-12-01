@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Морской огурец",
+            "uk": "Морський огірок",
+            "en": "Sea cucumber",
+            "es": "Pepino de mar",
+            "pt": "Pepino-do-mar"
+        },
+        "wrong": {
+            "ru": [
+                "Морская звезда",
+                "Морской ёж",
+                "Кальмар"
+            ],
+            "uk": [
+                "Морська зірка",
+                "Морський їжак",
+                "Кальмар"
+            ],
+            "en": [
+                "Starfish",
+                "Sea urchin",
+                "Squid"
+            ],
+            "es": [
+                "Estrella de mar",
+                "Erizo de mar",
+                "Calamar"
+            ],
+            "pt": [
+                "Estrela-do-mar",
+                "Ouriço-do-mar",
+                "Lula"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Дно.",
+                "Эхинодерма.",
+                "Регенерация."
+            ],
+            "uk": [
+                "Дно.",
+                "Ехінодерма.",
+                "Регенерація."
+            ],
+            "en": [
+                "Seafloor.",
+                "Echinoderm.",
+                "Regeneration."
+            ],
+            "es": [
+                "Fondo marino.",
+                "Equinodermo.",
+                "Regeneración."
+            ],
+            "pt": [
+                "Fundo do mar.",
+                "Equinodermo.",
+                "Regeneração."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Кто может вырастить свои внутренние органы?",
+                "Живой пылесос на дне моря."
+            ],
+            "uk": [
+                "Хто може виростити свої внутрішні органи?",
+                "Живий пилосос на дні моря."
+            ],
+            "en": [
+                "Who can regrow their internal organs?",
+                "A living vacuum cleaner on the seafloor."
+            ],
+            "es": [
+                "¿Quién puede regenerar sus órganos internos?",
+                "Una aspiradora viviente en el fondo del mar."
+            ],
+            "pt": [
+                "Quem pode regenerar seus órgãos internos?",
+                "Um aspirador de pó vivo no fundo do mar."
+            ]
+        },
+        "tooltip": {
+            "ru": "Они очищают морское дно от органических остатков.",
+            "uk": "Вони очищають морське дно від органічних залишків.",
+            "en": "They clean the seafloor of organic remains.",
+            "es": "Limpian el fondo marino de restos orgánicos.",
+            "pt": "Eles limpam o fundo do mar de restos orgânicos."
+        },
+        "qwestion": {
+            "ru": "Какое морское животное в случае опасности может выбросить свои внутренние органы, а затем вырастить их заново?",
+            "uk": "Яка морська тварина у разі небезпеки може викинути свої внутрішні органи, а потім виростити їх заново?",
+            "en": "What marine animal can eject its internal organs in case of danger and then regrow them?",
+            "es": "¿Qué animal marino puede expulsar sus órganos internos en caso de peligro y luego regenerarlos?",
+            "pt": "Que animal marinho pode ejetar seus órgãos internos em caso de perigo e depois regenerá-los?"
+        },
+        "definition": {
+            "ru": "Морской огурец — это класс беспозвоночных животных, которые обитают на морском дне. Они обладают уникальной способностью к регенерации и могут выбрасывать внутренние органы для защиты от хищников.",
+            "uk": "Морський огірок — це клас безхребетних тварин, які мешкають на морському дні. Вони мають унікальну здатність до регенерації та можуть викидати внутрішні органи для захисту від хижаків.",
+            "en": "Sea cucumbers are a class of invertebrate animals that live on the seafloor. They possess a unique ability to regenerate and can eject their internal organs as a defense mechanism against predators.",
+            "es": "El pepino de mar es una clase de animal invertebrado que vive en el fondo marino. Posee una habilidad única para regenerarse y puede expulsar sus órganos internos como mecanismo de defensa contra depredadores.",
+            "pt": "O pepino-do-mar é uma classe de animais invertebrados que vivem no fundo do mar. Eles possuem uma capacidade única de regeneração e podem ejetar seus órgãos internos como mecanismo de defesa contra predadores."
+        },
+        "antipod": {
+            "ru": "Осьминог",
+            "uk": "Восьминіг",
+            "en": "Octopus",
+            "es": "Pulpo",
+            "pt": "Polvo"
+        },
+        "hintFuiz": {
+            "ru": "Какое животное может регенерировать свои внутренние органы?",
+            "uk": "Яка тварина може регенерувати свої внутрішні органи?",
+            "en": "Which animal can regenerate its internal organs?",
+            "es": "¿Qué animal puede regenerar sus órganos internos?",
+            "pt": "Que animal pode regenerar seus órgãos internos?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Sea_cucumber"
+    },
+    "imgFlag": "quiz"
+}

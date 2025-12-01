@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Комар",
+            "uk": "Комар",
+            "en": "Mosquito",
+            "es": "Mosquito",
+            "pt": "Mosquito"
+        },
+        "wrong": {
+            "ru": [
+                "Стрекоза",
+                "Мотылёк",
+                "Слепень"
+            ],
+            "uk": [
+                "Бабка",
+                "Метелик",
+                "Ґедзь"
+            ],
+            "en": [
+                "Dragonfly",
+                "Moth",
+                "Horsefly"
+            ],
+            "es": [
+                "Libélula",
+                "Polilla",
+                "Tábano"
+            ],
+            "pt": [
+                "Libélula",
+                "Mariposa",
+                "Mutuca"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Кровь.",
+                "Жужжание.",
+                "Укус."
+            ],
+            "uk": [
+                "Кров.",
+                "Дзижчання.",
+                "Укус."
+            ],
+            "en": [
+                "Blood.",
+                "Buzzing.",
+                "Bite."
+            ],
+            "es": [
+                "Sangre.",
+                "Zumbido.",
+                "Picadura."
+            ],
+            "pt": [
+                "Sangue.",
+                "Zumbido.",
+                "Picada."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Он назойливо жужжит ночью.",
+                "Только его самки пьют кровь."
+            ],
+            "uk": [
+                "Він настирливо дзижчить вночі.",
+                "Тільки його самки п'ють кров."
+            ],
+            "en": [
+                "It buzzes annoyingly at night.",
+                "Only its females drink blood."
+            ],
+            "es": [
+                "Zumba de forma molesta por la noche.",
+                "Solo sus hembras beben sangre."
+            ],
+            "pt": [
+                "Ele zumbí insistentemente à noite.",
+                "Apenas suas fêmeas bebem sangue."
+            ]
+        },
+        "tooltip": {
+            "ru": "Кусаются только самки, так как им нужна кровь для развития яиц.",
+            "uk": "Кусаються тільки самки, оскільки їм потрібна кров для розвитку яєць.",
+            "en": "Only females bite, as they need blood to develop their eggs.",
+            "es": "Solo las hembras pican, ya que necesitan sangre para desarrollar sus huevos.",
+            "pt": "Apenas as fêmeas picam, pois precisam de sangue para desenvolver seus ovos."
+        },
+        "qwestion": {
+            "ru": "Какое насекомое нуждается в крови для размножения?",
+            "uk": "Яка комаха потребує крові для розмноження?",
+            "en": "Which insect needs blood for reproduction?",
+            "es": "¿Qué insecto necesita sangre para reproducirse?",
+            "pt": "Qual inseto precisa de sangue para se reproduzir?"
+        },
+        "definition": {
+            "ru": "Комар — это небольшое двукрылое насекомое, известное своим тонким, жужжащим звуком. Самки комаров, в отличие от самцов, являются кровососущими, используя кровь для получения белков и железа, необходимых для созревания яиц. Они могут быть переносчиками опасных заболеваний.",
+            "uk": "Комар — це невелика двокрила комаха, відома своїм тонким, дзижчачим звуком. Самки комарів, на відміну від самців, є кровосисними, використовуючи кров для отримання білків і заліза, необхідних для дозрівання яєць. Вони можуть бути переносниками небезпечних захворювань.",
+            "en": "The mosquito is a small two-winged insect known for its high-pitched, buzzing sound. Female mosquitoes, unlike males, are blood-suckers, using blood for the proteins and iron needed to mature their eggs. They can also be carriers of dangerous diseases.",
+            "es": "El mosquito es un pequeño insecto de dos alas conocido por su zumbido agudo. Las hembras de los mosquitos, a diferencia de los machos, son chupadoras de sangre y la usan para obtener las proteínas y el hierro necesarios para madurar sus huevos. También pueden ser portadoras de enfermedades peligrosas.",
+            "pt": "O mosquito é um pequeno inseto de duas asas conhecido por seu zumbido agudo. As fêmeas dos mosquitos, ao contrário dos machos, são sugadoras de sangue, usando-o para obter as proteínas e o ferro necessários para amadurecer seus ovos. Elas também podem ser portadoras de doenças perigosas."
+        },
+        "antipod": {
+            "ru": "Пчела",
+            "uk": "Бджола",
+            "en": "Bee",
+            "es": "Abeja",
+            "pt": "Abelha"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих двух насекомых кусается?",
+            "uk": "Яка з цих двох комах кусається?",
+            "en": "Which of these two insects bites?",
+            "es": "¿Cuál de estos dos insectos pica?",
+            "pt": "Qual desses dois insetos pica?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Mosquito"
+    },
+    "imgFlag": "all" 
+}

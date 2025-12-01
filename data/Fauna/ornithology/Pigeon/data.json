@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Голубь",
+            "uk": "Голуб",
+            "en": "Pigeon",
+            "es": "Paloma",
+            "pt": "Pombo"
+        },
+        "wrong": {
+            "ru": [
+                "Ворона",
+                "Сова",
+                "Воробей"
+            ],
+            "uk": [
+                "Ворона",
+                "Сова",
+                "Горобець"
+            ],
+            "en": [
+                "Crow",
+                "Owl",
+                "Sparrow"
+            ],
+            "es": [
+                "Cuervo",
+                "Búho",
+                "Gorrión"
+            ],
+            "pt": [
+                "Corvo",
+                "Coruja",
+                "Pardal"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Молочко.",
+                "Зоб.",
+                "Птенцы."
+            ],
+            "uk": [
+                "Молочко.",
+                "Зоб.",
+                "Пташенята."
+            ],
+            "en": [
+                "Milk.",
+                "Crop.",
+                "Chicks."
+            ],
+            "es": [
+                "Leche.",
+                "Buche.",
+                "Polluelos."
+            ],
+            "pt": [
+                "Leite.",
+                "Papo.",
+                "Filhotes."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Птица, которая вырабатывает молоко.",
+                "Крылатый почтальон."
+            ],
+            "uk": [
+                "Птах, який виробляє молоко.",
+                "Крилатий листоноша."
+            ],
+            "en": [
+                "A bird that produces milk.",
+                "A winged postman."
+            ],
+            "es": [
+                "Un ave que produce leche.",
+                "Un cartero alado."
+            ],
+            "pt": [
+                "Uma ave que produz leite.",
+                "Um carteiro alado."
+            ]
+        },
+        "tooltip": {
+            "ru": "Они обладают отличной памятью, способны к обучению математике, а также могут распознавать лица людей.",
+            "uk": "Вони мають чудову пам'ять, здатні до навчання математики, а також можуть розпізнавати обличчя людей.",
+            "en": "They have an excellent memory, are capable of learning mathematics, and can also recognize human faces.",
+            "es": "Tienen una excelente memoria, son capaces de aprender matemáticas y también pueden reconocer rostros humanos.",
+            "pt": "Eles têm uma excelente memória, são capazes de aprender matemática e também podem reconhecer rostos humanos."
+        },
+        "qwestion": {
+            "ru": "Какая птица выкармливает птенцов своим молоком?",
+            "uk": "Який птах вигодовує пташенят своїм молоком?",
+            "en": "Which bird feeds its chicks with its own milk?",
+            "es": "¿Qué ave alimenta a sus crías con su propia leche?",
+            "pt": "Qual ave alimenta seus filhotes com seu próprio leite?"
+        },
+        "definition": {
+            "ru": "Голубь — это птица, известная своей способностью производить в зобе «молочко» — питательную, богатую белком жидкость, которой он кормит своих птенцов в первые дни их жизни.",
+            "uk": "Голуб — це птах, відомий своєю здатністю виробляти у зобі «молочко» — поживну, багату на білок рідину, якою він годує своїх пташенят у перші дні їхнього життя.",
+            "en": "The pigeon is a bird known for its ability to produce 'crop milk'—a nutritious, protein-rich liquid in its crop—which it feeds to its nestlings in the first few days of their life.",
+            "es": "La paloma es un ave conocida por su capacidad de producir 'leche de buche' —un líquido nutritivo y rico en proteínas— que alimenta a sus crías en los primeros días de vida.",
+            "pt": "O pombo é uma ave conhecida por sua capacidade de produzir 'leite de papo' — um líquido nutritivo e rico em proteínas — que alimenta seus filhotes nos primeiros dias de vida."
+        },
+        "antipod": {
+            "ru": "Курица",
+            "uk": "Курка",
+            "en": "Chicken",
+            "es": "Gallina",
+            "pt": "Galinha"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих двух птиц выкармливает птенцов «молочком»?",
+            "uk": "Який з цих двох птахів вигодовує пташенят «молочком»?",
+            "en": "Which of these two birds feeds its chicks with 'milk'?",
+            "es": "¿Cuál de estas dos aves alimenta a sus crías con 'leche'?",
+            "pt": "Qual dessas duas aves alimenta seus filhotes com 'leite'?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Pigeon"
+    },
+    "imgFlag": "all" 
+}

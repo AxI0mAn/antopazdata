@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Соль",
+            "uk": "Сіль",
+            "en": "Salt",
+            "es": "Sal",
+            "pt": "Sal"
+        },
+        "wrong": {
+            "ru": [
+                "Сахар",
+                "Молоко",
+                "Зефир"
+            ],
+            "uk": [
+                "Цукор",
+                "Молоко",
+                "Зефір"
+            ],
+            "en": [
+                "Sugar",
+                "Milk",
+                "Marshmallows"
+            ],
+            "es": [
+                "Azúcar",
+                "Leche",
+                "Malvaviscos"
+            ],
+            "pt": [
+                "Açúcar",
+                "Leite",
+                "Marshmallows"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Эфиопия.",
+                "Вкус.",
+                "Горечь."
+            ],
+            "uk": [
+                "Ефіопія.",
+                "Смак.",
+                "Гіркота."
+            ],
+            "en": [
+                "Ethiopia.",
+                "Taste.",
+                "Bitterness."
+            ],
+            "es": [
+                "Etiopía.",
+                "Sabor.",
+                "Amargura."
+            ],
+            "pt": [
+                "Etiópia.",
+                "Sabor.",
+                "Amargura."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это нужно, чтобы смягчить горечь и улучшить вкус",
+            "uk": "Це потрібно, щоб пом'якшити гіркоту та покращити смак",
+            "en": "This is needed to soften the bitterness and improve the taste",
+            "es": "Esto se necesita para suavizar la amargura y mejorar el sabor",
+            "pt": "Isso é necessário para suavizar o amargor e melhorar o sabor"
+        },
+        "qwestion": {
+            "ru": "Что в Эфиопии принято добавлять в кофе?",
+            "uk": "Що в Ефіопії заведено додавати до кави?",
+            "en": "What is a common addition to coffee in Ethiopia?",
+            "es": "¿Qué es una adición común al café en Etiopía?",
+            "pt": "O que é uma adição comum ao café na Etiópia?"
+        },
+        "definition": {
+            "ru": "Добавление соли в кофе — это традиционный способ в некоторых регионах Эфиопии и других частях мира. Считается, что щепотка соли смягчает горечь, подчеркивает натуральный вкус и аромат кофе.",
+            "uk": "Додавання солі в каву — це традиційний спосіб у деяких регіонах Ефіопії та інших частинах світу. Вважається, що щіпка солі пом'якшує гіркоту, підкреслює натуральний смак та аромат кави.",
+            "en": "Adding salt to coffee is a traditional practice in some regions of Ethiopia and other parts of the world. It is believed that a pinch of salt softens bitterness and enhances the natural taste and aroma of the coffee.",
+            "es": "Agregar sal al café es una práctica tradicional en algunas regiones de Etiopía y otras partes del mundo. Se cree que una pizca de sal suaviza la amargura y realza el sabor y aroma natural del café.",
+            "pt": "Adicionar sal ao café é uma prática tradicional em algumas regiões da Etiópia e outras partes do mundo. Acredita-se que uma pitada de sal suaviza o amargor e realça o sabor e aroma natural do café."
+        },
+        "antipod": {
+            "ru": "Молоко",
+            "uk": "Молоко",
+            "en": "Milk",
+            "es": "Leche",
+            "pt": "Leite"
+        },
+        "hintFuiz": {
+            "ru": "Этот продукт добавляют в кофе в Эфиопии.",
+            "uk": "Цей продукт додають до кави в Ефіопії.",
+            "en": "This product is added to coffee in Ethiopia.",
+            "es": "Este producto se añade al café en Etiopía.",
+            "pt": "Este produto é adicionado ao café na Etiópia."
+        },
+        "riddle": {
+            "ru": [
+                "Добавляют в кофе, чтоб уменьшить горечь.",
+                "Улучшает вкус кофе в Эфиопии."
+            ],
+            "uk": [
+                "Додають в каву, щоб зменшити гіркоту.",
+                "Покращує смак кави в Ефіопії."
+            ],
+            "en": [
+                "They add it to coffee to reduce bitterness.",
+                "It improves the taste of coffee in Ethiopia."
+            ],
+            "es": [
+                "Lo añaden al café para reducir el amargor.",
+                "Mejora el sabor del café en Etiopía."
+            ],
+            "pt": [
+                "Eles o adicionam ao café para reduzir o amargor.",
+                "Melhora o sabor do café na Etiópia."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Coffee_ceremony"
+    },
+    "imgFlag": "quizfoto"
+}

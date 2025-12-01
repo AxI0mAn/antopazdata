@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Огурец",
+            "uk": "Огірок",
+            "en": "Cucumber",
+            "es": "Pepino",
+            "pt": "Pepino"
+        },
+        "wrong": {
+            "ru": [
+                "Свеча",
+                "Шишка",
+                "Письмо"
+            ],
+            "uk": [
+                "Свічка",
+                "Шишка",
+                "Лист"
+            ],
+            "en": [
+                "Candle",
+                "Pine Cone",
+                "Letter"
+            ],
+            "es": [
+                "Vela",
+                "Piña",
+                "Carta"
+            ],
+            "pt": [
+                "Vela",
+                "Pinha",
+                "Carta"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Германия.",
+                "Подарок.",
+                "Ёлка."
+            ],
+            "uk": [
+                "Німеччина.",
+                "Подарунок.",
+                "Ялинка."
+            ],
+            "en": [
+                "Germany.",
+                "Gift.",
+                "Christmas Tree."
+            ],
+            "es": [
+                "Alemania.",
+                "Regalo.",
+                "Árbol de Navidad."
+            ],
+            "pt": [
+                "Alemanha.",
+                "Presente.",
+                "Árvore de Natal."
+            ]
+        },
+        "tooltip": {
+            "ru": "Тот, кто находил это, получал дополнительный подарок",
+            "uk": "Той, хто знаходив це, отримував додатковий подарунок",
+            "en": "The one who found it received an extra gift",
+            "es": "Quien lo encontraba, recibía un regalo adicional",
+            "pt": "Quem o encontrava recebia um presente extra"
+        },
+        "qwestion": {
+            "ru": "Что прятали в рождественских елках в Германии, чтоб найти?",
+            "uk": "Що ховали в різдвяних ялинках у Німеччині, щоб знайти?",
+            "en": "What was hidden in German Christmas trees to be found?",
+            "es": "¿Qué se escondía en los árboles de Navidad alemanes para ser encontrado?",
+            "pt": "O que era escondido nas árvores de Natal alemãs para ser encontrado?"
+        },
+        "definition": {
+            "ru": "Огурец — это традиционная ёлочная прикраса в Германии, которая имеет форму огурца. Он прячется среди ветвей, а тот, кто найдёт его, считается счастливчиком и получает дополнительный подарок.",
+            "uk": "Огірок — це традиційна ялинкова прикраса в Німеччині, яка має форму огірка. Її ховають серед гілок, а той, хто її знаходить, вважається щасливчиком і отримує додатковий подарунок.",
+            "en": "The cucumber is a traditional Christmas tree ornament in Germany shaped like a cucumber. It is hidden among the branches, and the person who finds it is considered lucky and receives an extra gift.",
+            "es": "El pepino es un adorno tradicional para el árbol de Navidad en Alemania que tiene forma de pepino. Se esconde entre las ramas, y la persona que lo encuentra se considera afortunada y recibe un regalo adicional.",
+            "pt": "O pepino é um ornamento tradicional para a árvore de Natal na Alemanha, em forma de pepino. Ele é escondido entre os galhos, e a pessoa que o encontra é considerada sortuda e recebe um presente extra."
+        },
+        "antipod": {
+            "ru": "Письмо",
+            "uk": "Лист",
+            "en": "Letter",
+            "es": "Carta",
+            "pt": "Carta"
+        },
+        "hintFuiz": {
+            "ru": "Это прячут в Германии в рождественских елках.",
+            "uk": "Це ховають в Німеччині в різдвяних ялинках.",
+            "en": "This is hidden in German Christmas trees.",
+            "es": "Esto se esconde en los árboles de Navidad alemanes.",
+            "pt": "Isso é escondido nas árvores de Natal alemãs."
+        },
+        "riddle": {
+            "ru": [
+                "Зелёный и длинный, спрятали на дереве.",
+                "Его ищут на Рождество, чтобы получить приз."
+            ],
+            "uk": [
+                "Зелений і довгий, сховали на дереві.",
+                "Його шукають на Різдво, щоб отримати приз."
+            ],
+            "en": [
+                "It's green and long, hidden on a tree.",
+                "It is searched for at Christmas to get a prize."
+            ],
+            "es": [
+                "Es verde y largo, escondido en un árbol.",
+                "Se busca en Navidad para conseguir un premio."
+            ],
+            "pt": [
+                "É verde e comprido, escondido numa árvore.",
+                "É procurado no Natal para obter um prêmio."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Christmas_pickle"
+    },
+    "imgFlag": "quizfoto"
+}

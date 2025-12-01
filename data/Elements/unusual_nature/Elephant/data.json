@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Слон",
+            "uk": "Слон",
+            "en": "Elephant",
+            "es": "Elefante",
+            "pt": "Elefante"
+        },
+        "wrong": {
+            "ru": [
+                "Бегемот",
+                "Бизон",
+                "Медведь"
+            ],
+            "uk": [
+                "Бегемот",
+                "Бізон",
+                "Ведмідь"
+            ],
+            "en": [
+                "Hippopotamus",
+                "Bison",
+                "Bear"
+            ],
+            "es": [
+                "Hipopótamo",
+                "Bisonte",
+                "Oso"
+            ],
+            "pt": [
+                "Hipopótamo",
+                "Bisão",
+                "Urso"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Хобот.",
+                "Бивни.",
+                "Память."
+            ],
+            "uk": [
+                "Хобот.",
+                "Бивні.",
+                "Пам'ять."
+            ],
+            "en": [
+                "Trunk.",
+                "Tusks.",
+                "Memory."
+            ],
+            "es": [
+                "Trompa.",
+                "Colmillos.",
+                "Memoria."
+            ],
+            "pt": [
+                "Tromba.",
+                "Presas.",
+                "Memória."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Самый большой на суше, а прыгнуть не может.",
+                "У него хобот, большие уши и хорошая память."
+            ],
+            "uk": [
+                "Найбільший на суші, а стрибнути не може.",
+                "У нього хобот, великі вуха і гарна пам'ять."
+            ],
+            "en": [
+                "The largest on land, but it can't jump.",
+                "It has a trunk, large ears, and a good memory."
+            ],
+            "es": [
+                "El más grande en tierra, pero no puede saltar.",
+                "Tiene una trompa, orejas grandes y buena memoria."
+            ],
+            "pt": [
+                "O maior em terra, mas não pode pular.",
+                "Ele tem uma tromba, orelhas grandes e boa memória."
+            ]
+        },
+        "tooltip": {
+            "ru": "Он большой, но боится мышей.",
+            "uk": "Він великий, але боїться мишей.",
+            "en": "It is large, but is afraid of mice.",
+            "es": "Es grande, pero le tiene miedo a los ratones.",
+            "pt": "É grande, mas tem medo de ratos."
+        },
+        "qwestion": {
+            "ru": "Какое животное не умеет прыгать?",
+            "uk": "Яка тварина не вміє стрибати?",
+            "en": "What animal cannot jump?",
+            "es": "¿Qué animal no puede saltar?",
+            "pt": "Que animal não consegue pular?"
+        },
+        "definition": {
+            "ru": "Слон — это крупнейшее наземное животное, обладающее длинным хоботом и бивнями. Из-за огромного веса и строения ног, он не может прыгать — по крайней мере, все четыре ноги не отрываются от земли одновременно.",
+            "uk": "Слон — це найбільша наземна тварина, що має довгий хобот і бивні. Через величезну вагу та будову ніг, він не може стрибати — принаймні, всі чотири ноги не відриваються від землі одночасно.",
+            "en": "The elephant is the largest land animal, with a long trunk and tusks. Due to its immense weight and leg structure, it cannot jump—meaning all four feet never leave the ground at the same time.",
+            "es": "El elefante es el animal terrestre más grande, con una larga trompa y colmillos. Debido a su inmenso peso y la estructura de sus patas, no puede saltar, lo que significa que sus cuatro patas nunca se levantan del suelo al mismo tiempo.",
+            "pt": "O elefante é o maior animal terrestre, com uma tromba longa e presas. Devido ao seu imenso peso e à estrutura de suas pernas, ele não consegue pular, o que significa que as quatro patas nunca saem do chão ao mesmo tempo."
+        },
+        "antipod": {
+            "ru": "Носорог",
+            "uk": "Носоріг",
+            "en": "Rhinoceros",
+            "es": "Rinoceronte",
+            "pt": "Rinoceronte"
+        },
+        "hintFuiz": {
+            "ru": "Кто из них не умеет прыгать?",
+            "uk": "Хто з них не вміє стрибати?",
+            "en": "Which one of them cannot jump?",
+            "es": "¿Cuál de ellos no puede saltar?",
+            "pt": "Qual deles não consegue pular?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Elephant"
+    },
+    "imgFlag": "all" 
+}

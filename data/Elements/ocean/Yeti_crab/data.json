@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Йети-краб",
+            "uk": "Йеті-краб",
+            "en": "Yeti crab",
+            "es": "Cangrejo yeti",
+            "pt": "Caranguejo-yeti"
+        },
+        "wrong": {
+            "ru": [
+                "Королевский краб",
+                "Краб-паук",
+                "Омар"
+            ],
+            "uk": [
+                "Королівський краб",
+                "Краб-павук",
+                "Омар"
+            ],
+            "en": [
+                "King crab",
+                "Spider crab",
+                "Lobster"
+            ],
+            "es": [
+                "Cangrejo real",
+                "Cangrejo araña",
+                "Langosta"
+            ],
+            "pt": [
+                "Caranguejo-real",
+                "Caranguejo-aranha",
+                "Lagosta"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Глубина.",
+                "Бактерии.",
+                "Мех."
+            ],
+            "uk": [
+                "Глибина.",
+                "Бактерії.",
+                "Хутро."
+            ],
+            "en": [
+                "Deep sea.",
+                "Bacteria.",
+                "Fur."
+            ],
+            "es": [
+                "Profundidad.",
+                "Bacterias.",
+                "Pelaje."
+            ],
+            "pt": [
+                "Mar profundo.",
+                "Bactérias.",
+                "Pelos."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Он назван в честь мифического существа.",
+                "Пушистый краб, живущий в самых темных глубинах."
+            ],
+            "uk": [
+                "Його названо на честь міфічної істоти.",
+                "Пухнастий краб, що живе в найтемніших глибинах."
+            ],
+            "en": [
+                "It is named after a mythical creature.",
+                "A fuzzy crab that lives in the darkest depths."
+            ],
+            "es": [
+                "Es nombrado por una criatura mítica.",
+                "Un cangrejo peludo que vive en las profundidades más oscuras."
+            ],
+            "pt": [
+                "É nomeado após uma criatura mítica.",
+                "Um caranguejo peludo que vive nas profundezas mais escuras."
+            ]
+        },
+        "tooltip": {
+            "ru": "Его «меховые» клешни покрыты бактериями, которые помогают ему перерабатывать токсичные минералы.",
+            "uk": "Його «хутряні» клешні вкриті бактеріями, які допомагають йому переробляти токсичні мінерали.",
+            "en": "Its 'furry' claws are covered in bacteria that are believed to help it process toxic minerals.",
+            "es": "Sus pinzas 'peludas' están cubiertas de bacterias que se cree que le ayudan a procesar minerales tóxicos.",
+            "pt": "Suas garras 'peludas' são cobertas por bactérias que se acredita que o ajudam a processar minerais tóxicos."
+        },
+        "qwestion": {
+            "ru": "Какой глубоководный краб получил свое название из-за густого волосяного покрова на клешнях?",
+            "uk": "Який глибоководний краб отримав свою назву через густий волосяний покрив на клешнях?",
+            "en": "Which deep-sea crab is named after the dense, hairy covering on its claws?",
+            "es": "¿Qué cangrejo de aguas profundas recibe su nombre por la densa cubierta de pelo en sus pinzas?",
+            "pt": "Qual caranguejo de águas profundas é nomeado pela densa cobertura de pelos em suas garras?"
+        },
+        "definition": {
+            "ru": "Йети-краб — это семейство крабов-отшельников, обнаруженных в 2005 году. Они обитают вблизи гидротермальных источников на больших глубинах, и их тело покрыто пушистыми щетинками.",
+            "uk": "Йеті-краб — це сімейство крабів-відлюдників, виявлених у 2005 році. Вони мешкають поблизу гідротермальних джерел на великих глибинах, і їхнє тіло вкрите пухнастими щетинками.",
+            "en": "The Yeti crab is a family of hermit crabs discovered in 2005. They live near hydrothermal vents in the deep sea, and their bodies are covered in fuzzy bristles.",
+            "es": "El cangrejo yeti es una familia de cangrejos ermitaños descubiertos en 2005. Viven cerca de fumarolas hidrotermales en las profundidades del mar, y sus cuerpos están cubiertos de cerdas peludas.",
+            "pt": "O caranguejo-yeti é uma família de caranguejos-eremitas descoberta em 2005. Eles vivem perto de fontes hidrotermais em águas profundas, e seus corpos são cobertos por cerdas fofas."
+        },
+        "antipod": {
+            "ru": "Кокосовый краб",
+            "uk": "Кокосовий краб",
+            "en": "Coconut crab",
+            "es": "Cangrejo de los cocoteros",
+            "pt": "Caranguejo-dos-coqueiros"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих двух животных обитает на дне океана?",
+            "uk": "Яка з цих двох тварин мешкає на дні океану?",
+            "en": "Which of these two animals lives on the ocean floor?",
+            "es": "¿Cuál de estos dos animales vive en el fondo del océano?",
+            "pt": "Qual destes dois animais vive no fundo do oceano?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Kiwa_hirsuta"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Вавилонские клятвы",
+            "uk": "Вавилонські клятви",
+            "en": "Babylonian Oaths",
+            "es": "Juramentos Babilónicos",
+            "pt": "Juramentos Babilônicos"
+        },
+        "wrong": {
+            "ru": [
+                "Римские обеты",
+                "Греческие мистерии",
+                "Спартанские указы"
+            ],
+            "uk": [
+                "Римські обітниці",
+                "Грецькі містерії",
+                "Спартанські укази"
+            ],
+            "en": [
+                "Roman vows",
+                "Greek mysteries",
+                "Spartan decrees"
+            ],
+            "es": [
+                "Votos romanos",
+                "Misterios griegos",
+                "Decretos espartanos"
+            ],
+            "pt": [
+                "Votos romanos",
+                "Mistérios gregos",
+                "Decretos espartanos"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Месопотамия",
+                "Обещание",
+                "Возврат"
+            ],
+            "uk": [
+                "Месопотамія",
+                "Обіцянка",
+                "Повернення"
+            ],
+            "en": [
+                "Mesopotamia",
+                "Promise",
+                "Return"
+            ],
+            "es": [
+                "Mesopotamia",
+                "Promesa",
+                "Devolución"
+            ],
+            "pt": [
+                "Mesopotâmia",
+                "Promessa",
+                "Retorno"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Древний обычай, который стал основой для новогодних обещаний.",
+                "Их давали в Месопотамии, чтобы вернуть долги богам."
+            ],
+            "uk": [
+                "Давній звичай, який став основою для новорічних обіцянок.",
+                "Їх давали в Месопотамії, щоб повернути борги богам."
+            ],
+            "en": [
+                "An ancient custom that became the basis for New Year's resolutions.",
+                "They were given in Mesopotamia to repay debts to the gods."
+            ],
+            "es": [
+                "Una antigua costumbre que se convirtió en la base de los propósitos de Año Nuevo.",
+                "Se hacían en Mesopotamia para pagar deudas a los dioses."
+            ],
+            "pt": [
+                "Um costume antigo que se tornou a base para as resoluções de Ano Novo.",
+                "Eram feitos na Mesopotâmia para pagar dívidas aos deuses."
+            ]
+        },
+        "tooltip": {
+            "ru": "Этой традиции уже 4000 лет",
+            "uk": "Цій традиції вже 4000 років",
+            "en": "This tradition is already 4,000 years old",
+            "es": "Esta tradición tiene ya 4,000 años",
+            "pt": "Esta tradição já tem 4.000 anos"
+        },
+        "qwestion": {
+            "ru": "С какой древней традицией, связан современный обычай давать новогодние обещания?",
+            "uk": "З якою стародавньою традицією, пов'язаний сучасний звичай давати новорічні обіцянки?",
+            "en": "With what ancient tradition is the modern custom of making New Year's resolutions connected?",
+            "es": "¿Con qué antigua tradición se relaciona la costumbre moderna de hacer propósitos de Año Nuevo?",
+            "pt": "Com qual antiga tradição o costume moderno de fazer resoluções de Ano Novo está conectado?"
+        },
+        "definition": {
+            "ru": "Вавилонские клятвы — это древняя месопотамская традиция, зародившаяся около 4000 лет назад. В начале нового года вавилоняне давали обещания богам, например, вернуть долги или украденное имущество, что стало прообразом современных новогодних обещаний.",
+            "uk": "Вавилонські клятви — це давня месопотамська традиція, що зародилася близько 4000 років тому. На початку нового року вавилоняни давали обіцянки богам, наприклад, повернути борги або вкрадене майно, що стало прообразом сучасних новорічних обіцянок.",
+            "en": "Babylonian Oaths is an ancient Mesopotamian tradition that originated around 4,000 years ago. At the beginning of the new year, Babylonians made promises to the gods, such as repaying debts or returning stolen property, which became the prototype for modern New Year's resolutions.",
+            "es": "Los Juramentos Babilónicos son una antigua tradición mesopotámica que se originó hace unos 4.000 años. Al comienzo del nuevo año, los babilonios hacían promesas a los dioses, como pagar deudas o devolver propiedades robadas, lo que se convirtió en el prototipo de los propósitos de Año Nuevo modernos.",
+            "pt": "Os Juramentos Babilônicos são uma antiga tradição mesopotâmica que se originou há cerca de 4.000 anos. No início do ano novo, os babilônios faziam promessas aos deuses, como pagar dívidas ou devolver bens roubados, o que se tornou o protótipo das modernas resoluções de Ano Novo."
+        },
+        "antipod": {
+            "ru": "День Благодарения",
+            "uk": "День подяки",
+            "en": "Thanksgiving Day",
+            "es": "Día de Acción de Gracias",
+            "pt": "Dia de Ação de Graças"
+        },
+        "hintFuiz": {
+            "ru": "Эта древняя традиция была связана с обещаниями богам.",
+            "uk": "Ця давня традиція була пов'язана з обіцянками богам.",
+            "en": "This ancient tradition was linked to promises to the gods.",
+            "es": "Esta antigua tradición estaba ligada a promesas a los dioses.",
+            "pt": "Esta antiga tradição estava ligada a promessas aos deuses."
+        },
+        "article": "https://en.wikipedia.org/wiki/New_Year%27s_resolution"
+    },
+    "imgFlag": "quizfoto"
+}

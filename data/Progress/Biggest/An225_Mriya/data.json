@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Ан-225 «Мрия»",
+            "uk": "Ан-225 «Мрія»",
+            "en": "An-225 'Mriya'",
+            "es": "An-225 'Mriya'",
+            "pt": "An-225 'Mriya'"
+        },
+        "wrong": {
+            "ru": [
+                "C-5 Galaxy",
+                "Boeing 747",
+                "Lockheed C-141 Starlifter"
+            ],
+            "uk": [
+                "C-5 Galaxy",
+                "Boeing 747",
+                "Lockheed C-141 Starlifter"
+            ],
+            "en": [
+                "C-5 Galaxy",
+                "Boeing 747",
+                "Lockheed C-141 Starlifter"
+            ],
+            "es": [
+                "C-5 Galaxy",
+                "Boeing 747",
+                "Lockheed C-141 Starlifter"
+            ],
+            "pt": [
+                "C-5 Galaxy",
+                "Boeing 747",
+                "Lockheed C-141 Starlifter"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Самолет.",
+                "СССР.",
+                "Крылья."
+            ],
+            "uk": [
+                "Літак.",
+                "СРСР.",
+                "Крила."
+            ],
+            "en": [
+                "Plane.",
+                "USSR.",
+                "Wings."
+            ],
+            "es": [
+                "Avión.",
+                "URSS.",
+                "Alas."
+            ],
+            "pt": [
+                "Avião.",
+                "URSS.",
+                "Asas."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Он перенёс космический корабль.",
+                "Самый большой в мире самолёт."
+            ],
+            "uk": [
+                "Він переніс космічний корабель.",
+                "Найбільший у світі літак."
+            ],
+            "en": [
+                "It transported a spacecraft.",
+                "The world's largest airplane."
+            ],
+            "es": [
+                "Transportó una nave espacial.",
+                "El avión más grande del mundo."
+            ],
+            "pt": [
+                "Ele transportou uma nave espacial.",
+                "O maior avião do mundo."
+            ]
+        },
+        "tooltip": {
+            "ru": "Его длина составляет 84 метра, а размах крыльев — 88 метров.",
+            "uk": "Його довжина становить 84 метри, а розмах крил — 88 метрів.",
+            "en": "Its length is 84 meters, and its wingspan is 88 meters.",
+            "es": "Su longitud es de 84 metros, y su envergadura es de 88 metros.",
+            "pt": "Seu comprimento é de 84 metros, e sua envergadura é de 88 metros."
+        },
+        "qwestion": {
+            "ru": "Какой самый большой самолет в мире был разработан в СССР?",
+            "uk": "Який найбільший літак у світі був розроблений в СРСР?",
+            "en": "What was the largest plane in the world developed in the USSR?",
+            "es": "¿Cuál fue el avión más grande del mundo desarrollado en la URSS?",
+            "pt": "Qual foi o maior avião do mundo desenvolvido na URSS?"
+        },
+        "definition": {
+            "ru": "Ан-225 «Мрия» — это был самый большой и тяжелый самолет в истории авиации, созданный в СССР. Предназначенный для перевозки космического корабля «Буран», он обладал уникальной грузоподъемностью и размахом крыльев. Самолет был уничтожен в 2022 году.",
+            "uk": "Ан-225 «Мрія» — це був найбільший і найважчий літак в історії авіації, створений в СРСР. Призначений для перевезення космічного корабля «Буран», він мав унікальну вантажопідйомність і розмах крил. Літак був знищений у 2022 році.",
+            "en": "The An-225 'Mriya' was the largest and heaviest aircraft ever built, developed in the USSR. Designed to transport the Buran space shuttle, it had a unique carrying capacity and wingspan. The plane was destroyed in 2022.",
+            "es": "El An-225 'Mriya' fue el avión más grande y pesado jamás construido, desarrollado en la URSS. Diseñado para transportar el transbordador espacial Buran, tenía una capacidad de carga y envergadura únicas. El avión fue destruido en 2022.",
+            "pt": "O An-225 'Mriya' foi o maior e mais pesado avião já construído, desenvolvido na URSS. Projetado para transportar o ônibus espacial Buran, ele tinha uma capacidade de carga e envergadura únicas. O avião foi destruído em 2022."
+        },
+        "antipod": {
+            "ru": "Airbus A380",
+            "uk": "Airbus A380",
+            "en": "Airbus A380",
+            "es": "Airbus A380",
+            "pt": "Airbus A380"
+        },
+        "hintFuiz": {
+            "ru": "Это самый большой самолет в мире.",
+            "uk": "Це найбільший літак у світі.",
+            "en": "This is the largest plane in the world.",
+            "es": "Este es el avión más grande del mundo.",
+            "pt": "Este é o maior avião do mundo."
+        },
+        "article": "https://en.wikipedia.org/wiki/Antonov_An-225_Mriya"
+    },
+    "imgFlag": "all" 
+}

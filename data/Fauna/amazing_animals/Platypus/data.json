@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Утконос",
+            "uk": "Качкодзьоб",
+            "en": "Platypus",
+            "es": "Ornitorrinco",
+            "pt": "Ornitorrinco"
+        },
+        "wrong": {
+            "ru": [
+                "Коала",
+                "Ехидна",
+                "Вомбат"
+            ],
+            "uk": [
+                "Коала",
+                "Єхидна",
+                "Вомбат"
+            ],
+            "en": [
+                "Koala",
+                "Echidna",
+                "Wombat"
+            ],
+            "es": [
+                "Koala",
+                "Equidna",
+                "Uómbat"
+            ],
+            "pt": [
+                "Coala",
+                "Equidna",
+                "Vombate"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Яйцекладущий.",
+                "Клюв.",
+                "Ядовитые шпоры."
+            ],
+            "uk": [
+                "Яйцекладний.",
+                "Дзьоб.",
+                "Отруйні шпори."
+            ],
+            "en": [
+                "Egg-laying.",
+                "Bill.",
+                "Venomous spurs."
+            ],
+            "es": [
+                "Ovíparo.",
+                "Pico.",
+                "Espolones venenosos."
+            ],
+            "pt": [
+                "Ovulíparo.",
+                "Bico.",
+                "Esporas venenosas."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Кто имеет клюв, но не птица?",
+                "Зверь, который выглядит как сборная солянка разных животных."
+            ],
+            "uk": [
+                "Хто має дзьоб, але не птах?",
+                "Звір, який виглядає як збірна солянка різних тварин."
+            ],
+            "en": [
+                "Who has a bill but isn't a bird?",
+                "An animal that looks like a mash-up of different creatures."
+            ],
+            "es": [
+                "¿Quién tiene pico pero no es un ave?",
+                "Un animal que parece una mezcla de diferentes criaturas."
+            ],
+            "pt": [
+                "Quem tem bico mas não é uma ave?",
+                "Um animal que parece uma mistura de diferentes criaturas."
+            ]
+        },
+        "tooltip": {
+            "ru": "Самец имеет ядовитые шпоры на задних лапах, которые он использует для защиты.",
+            "uk": "Самець має отруйні шпори на задніх лапах, які він використовує для захисту.",
+            "en": "The male has venomous spurs on its hind legs that it uses for defense.",
+            "es": "El macho tiene espolones venenosos en las patas traseras que usa para defenderse.",
+            "pt": "O macho tem esporas venenosas nas patas traseiras que usa para defesa."
+        },
+        "qwestion": {
+            "ru": "Какое австралийское млекопитающее откладывает яйца, имеет ядовитые шпоры и клюв?",
+            "uk": "Який австралійський ссавець відкладає яйця, має отруйні шпори та дзьоб?",
+            "en": "What Australian mammal lays eggs, has venomous spurs, and a bill?",
+            "es": "¿Qué mamífero australiano pone huevos, tiene espolones venenosos y un pico?",
+            "pt": "Que mamífero australiano põe ovos, tem esporas venenosas e um bico?"
+        },
+        "definition": {
+            "ru": "Утконос — полуводное млекопитающее, эндемик восточной Австралии. Он является одним из пяти видов однопроходных, или яйцекладущих млекопитающих.",
+            "uk": "Качкодзьоб — напівводний ссавець, ендемік східної Австралії. Він є одним з п'яти видів однопрохідних, або яйцекладних ссавців.",
+            "en": "The platypus is a semiaquatic mammal endemic to eastern Australia. It is one of the five species of monotremes, or egg-laying mammals.",
+            "es": "El ornitorrinco es un mamífero semiacuático endémico del este de Australia. Es una de las cinco especies de monotremas, o mamíferos que ponen huevos.",
+            "pt": "O ornitorrinco é um mamífero semiaquático endêmico da Austrália oriental. É uma das cinco espécies de monotremados, ou mamíferos que põem ovos."
+        },
+        "antipod": {
+            "ru": "Кенгуру",
+            "uk": "Кенгуру",
+            "en": "Kangaroo",
+            "es": "Canguro",
+            "pt": "Canguru"
+        },
+        "hintFuiz": {
+            "ru": "Кто из них откладывает яйца?",
+            "uk": "Хто з них відкладає яйця?",
+            "en": "Which of them lays eggs?",
+            "es": "¿Cuál de ellos pone huevos?",
+            "pt": "Qual deles põe ovos?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Platypus"
+    },
+    "imgFlag": "all" 
+}

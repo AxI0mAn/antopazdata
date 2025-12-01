@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Рим",
+            "uk": "Рим",
+            "en": "Rome",
+            "es": "Roma",
+            "pt": "Roma"
+        },
+        "wrong": {
+            "ru": [
+                "Париж",
+                "Лондон",
+                "Берлин"
+            ],
+            "uk": [
+                "Париж",
+                "Лондон",
+                "Берлін"
+            ],
+            "en": [
+                "Paris",
+                "London",
+                "Berlin"
+            ],
+            "es": [
+                "París",
+                "Londres",
+                "Berlín"
+            ],
+            "pt": [
+                "Paris",
+                "Londres",
+                "Berlim"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Колизей.",
+                "Вечный город.",
+                "Ватикан."
+            ],
+            "uk": [
+                "Колізей.",
+                "Вічне місто.",
+                "Ватикан."
+            ],
+            "en": [
+                "Colosseum.",
+                "Eternal City.",
+                "Vatican."
+            ],
+            "es": [
+                "Coliseo.",
+                "Ciudad Eterna.",
+                "Vaticano."
+            ],
+            "pt": [
+                "Coliseu.",
+                "Cidade Eterna.",
+                "Vaticano."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Город внутри страны, а внутри него — ещё одно государство.",
+                "Его называют Вечным городом."
+            ],
+            "uk": [
+                "Місто всередині країни, а всередині нього — ще одна держава.",
+                "Його називають Вічним містом."
+            ],
+            "en": [
+                "A city inside a country, with another country inside it.",
+                "It's known as the Eternal City."
+            ],
+            "es": [
+                "Una ciudad dentro de un país, con otro país dentro de ella.",
+                "Es conocida como la Ciudad Eterna."
+            ],
+            "pt": [
+                "Uma cidade dentro de um país, com outro país dentro dela.",
+                "É conhecida como a Cidade Eterna."
+            ]
+        },
+        "tooltip": {
+            "ru": "Внутри него находится государство Ватикан.",
+            "uk": "Всередині нього знаходиться держава Ватикан.",
+            "en": "The state of Vatican City is located within it.",
+            "es": "El estado de la Ciudad del Vaticano se encuentra dentro de él.",
+            "pt": "O estado da Cidade do Vaticano está localizado dentro dele."
+        },
+        "qwestion": {
+            "ru": "Какой город является столицей Италии?",
+            "uk": "Яке місто є столицею Італії?",
+            "en": "What city is the capital of Italy?",
+            "es": "¿Qué ciudad es la capital de Italia?",
+            "pt": "Qual cidade é a capital da Itália?"
+        },
+        "definition": {
+            "ru": "Рим — столица Италии и один из самых исторически значимых городов мира. Известный как «Вечный город», он был центром Римской империи и оказал огромное влияние на западную цивилизацию. Рим знаменит своими древними памятниками, такими как Колизей, Римский форум и Пантеон. Город также является домом для Ватикана, самого маленького независимого государства в мире, которое находится в его пределах. Современный Рим — это шумный мегаполис, который прекрасно сочетает свое древнее прошлое с современной жизнью.",
+            "uk": "Рим — столиця Італії та одне з найісторичніших міст світу. Відомий як «Вічне місто», він був центром Римської імперії і мав величезний вплив на західну цивілізацію. Рим славиться своїми стародавніми пам'ятками, такими як Колізей, Римський форум і Пантеон. Місто також є домом для Ватикану, найменшої незалежної держави у світі, яка знаходиться в його межах. Сучасний Рим — це галасливий мегаполіс, який чудово поєднує своє стародавнє минуле із сучасним життям.",
+            "en": "Rome is the capital city of Italy and one of the most historically significant cities in the world. Known as the 'Eternal City,' it was the heart of the Roman Empire and has had an enormous influence on Western civilization. Rome is famous for its ancient landmarks such as the Colosseum, the Roman Forum, and the Pantheon. The city is also home to Vatican City, the world's smallest independent state, which is located entirely within its borders. Modern Rome is a bustling metropolis that beautifully blends its ancient past with contemporary life.",
+            "es": "Roma es la capital de Italia y una de las ciudades más históricamente significativas del mundo. Conocida como la 'Ciudad Eterna', fue el corazón del Imperio Romano y ha tenido una enorme influencia en la civilización occidental. Roma es famosa por sus antiguos monumentos como el Coliseo, el Foro Romano y el Panteón. La ciudad también alberga la Ciudad del Vaticano, el estado independiente más pequeño del mundo, que se encuentra completamente dentro de sus fronteras. La Roma moderna es una metrópolis bulliciosa que combina maravillosamente su pasado antiguo con la vida contemporánea.",
+            "pt": "Roma é a capital da Itália e uma das cidades mais historicamente significativas do mundo. Conhecida como a 'Cidade Eterna', foi o coração do Império Romano e teve uma enorme influência na civilização ocidental. Roma é famosa por seus monumentos antigos como o Coliseu, o Fórum Romano e o Panteão. A cidade também abriga a Cidade do Vaticano, o menor estado independente do mundo, que está inteiramente localizado dentro de suas fronteiras. A Roma moderna é uma metrópole agitada que combina lindamente seu passado antigo com a vida contemporânea."
+        },
+        "antipod": {
+            "ru": "Сан-Марино",
+            "uk": "Сан-Марино",
+            "en": "San Marino",
+            "es": "San Marino",
+            "pt": "San Marino"
+        },
+        "hintFuiz": {
+            "ru": "Внутри какого из городов находится другое государство?",
+            "uk": "Усередині якого з міст знаходиться інша держава?",
+            "en": "Which of these cities has another state located within it?",
+            "es": "¿Dentro de cuál de estas ciudades se encuentra otro estado?",
+            "pt": "Dentro de qual dessas cidades se encontra outro estado?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Rome"
+    },
+    "imgFlag": "quizfoto" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Страус",
+            "uk": "Страус",
+            "en": "Ostrich",
+            "es": "Avestruz",
+            "pt": "Avestruz"
+        },
+        "wrong": {
+            "ru": [
+                "Гусь",
+                "Нанду",
+                "Пингвин"
+            ],
+            "uk": [
+                "Гусак",
+                "Нанду",
+                "Пінгвін"
+            ],
+            "en": [
+                "Goose",
+                "Rhea",
+                "Penguin"
+            ],
+            "es": [
+                "Ganso",
+                "Ñandú",
+                "Pingüino"
+            ],
+            "pt": [
+                "Ganso",
+                "Nandu",
+                "Pinguim"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Не летает.",
+                "Саванна.",
+                "Глаз больше, чем мозг."
+            ],
+            "uk": [
+                "Не літає.",
+                "Саванна.",
+                "Око більше, ніж мозок."
+            ],
+            "en": [
+                "Does not fly.",
+                "Savannah.",
+                "Eye bigger than brain."
+            ],
+            "es": [
+                "No vuela.",
+                "Sabana.",
+                "Ojo más grande que cerebro."
+            ],
+            "pt": [
+                "Não voa.",
+                "Savana.",
+                "Olho maior que cérebro."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Его глаз больше, чем мозг.",
+                "Птица, на которой можно ездить верхом."
+            ],
+            "uk": [
+                "Його око більше, ніж мозок.",
+                "Птах, на якому можна їздити верхи."
+            ],
+            "en": [
+                "Its eye is bigger than its brain.",
+                "A bird you can ride."
+            ],
+            "es": [
+                "Su ojo es más grande que su cerebro.",
+                "Un ave que se puede montar."
+            ],
+            "pt": [
+                "Seu olho é maior que o cérebro.",
+                "Uma ave que pode ser montada."
+            ]
+        },
+        "tooltip": {
+            "ru": "Его глаз больше, чем мозг, и это помогает ему замечать хищников на большом расстоянии.",
+            "uk": "Його око більше, ніж мозок, і це допомагає йому помічати хижаків на великій відстані.",
+            "en": "Its eye is bigger than its brain, which helps it spot predators from a great distance.",
+            "es": "Su ojo es más grande que su cerebro, lo que le ayuda a ver a los depredadores a gran distancia.",
+            "pt": "Seu olho é maior que o cérebro, o que o ajuda a avistar predadores a uma grande distância."
+        },
+        "qwestion": {
+            "ru": "Какая птица обладает самым большим глазом среди всех наземных животных?",
+            "uk": "Який птах має найбільше око серед усіх наземних тварин?",
+            "en": "Which bird has the largest eye among all land animals?",
+            "es": "¿Qué ave tiene el ojo más grande entre todos los animales terrestres?",
+            "pt": "Qual ave tem o maior olho entre todos os animais terrestres?"
+        },
+        "definition": {
+            "ru": "Страус — самая крупная нелетающая птица в мире. Он известен своими длинными ногами и шеей, а также способностью развивать высокую скорость, что помогает ему спасаться от хищников.",
+            "uk": "Страус — найбільший нелітаючий птах у світі. Він відомий своїми довгими ногами і шиєю, а також здатністю розвивати високу швидкість, що допомагає йому рятуватися від хижаків.",
+            "en": "The ostrich is the world's largest flightless bird. It is known for its long legs and neck, as well as its ability to run at high speeds, which helps it escape from predators.",
+            "es": "El avestruz es el ave no voladora más grande del mundo. Es conocido por sus largas patas y cuello, así como por su capacidad para correr a altas velocidades, lo que le ayuda a escapar de los depredadores.",
+            "pt": "A avestruz é a maior ave não voadora do mundo. É conhecida por suas pernas longas e pescoço, além de sua capacidade de correr em alta velocidade, o que a ajuda a escapar de predadores."
+        },
+        "antipod": {
+            "ru": "Колибри",
+            "uk": "Колібрі",
+            "en": "Hummingbird",
+            "es": "Colibrí",
+            "pt": "Beija-flor"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих двух птиц является самой крупной в мире?",
+            "uk": "Який з цих двох птахів є найбільшим у світі?",
+            "en": "Which of these two birds is the largest in the world?",
+            "es": "¿Cuál de estas dos aves es la más grande del mundo?",
+            "pt": "Qual dessas duas aves é a maior do mundo?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Ostrich"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Гудини",
+            "uk": "Гудіні",
+            "en": "Houdini",
+            "es": "Houdini",
+            "pt": "Houdini"
+        },
+        "wrong": {
+            "ru": [
+                "Карл Маркс",
+                "Фридрих Ницше",
+                "Зигмунд Фрейд"
+            ],
+            "uk": [
+                "Карл Маркс",
+                "Фрідріх Ніцше",
+                "Зигмунд Фрейд"
+            ],
+            "en": [
+                "Karl Marx",
+                "Friedrich Nietzsche",
+                "Sigmund Freud"
+            ],
+            "es": [
+                "Karl Marx",
+                "Friedrich Nietzsche",
+                "Sigmund Freud"
+            ],
+            "pt": [
+                "Karl Marx",
+                "Friedrich Nietzsche",
+                "Sigmund Freud"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Иллюзионист.",
+                "Мистика.",
+                "Фокусы."
+            ],
+            "uk": [
+                "Ілюзіоніст.",
+                "Містика.",
+                "Фокуси."
+            ],
+            "en": [
+                "Illusionist.",
+                "Mysticism.",
+                "Tricks."
+            ],
+            "es": [
+                "Ilusionista.",
+                "Misticismo.",
+                "Trucos."
+            ],
+            "pt": [
+                "Ilusionista.",
+                "Misticismo.",
+                "Truques."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Он был мастером побега, но однажды не смог сбежать от судьбы.",
+                "Его последний выход был в самый жуткий праздник года."
+            ],
+            "uk": [
+                "Він був майстром втечі, але одного разу не зміг втекти від долі.",
+                "Його останній вихід був у найстрашніше свято року."
+            ],
+            "en": [
+                "He was an escape artist, but one day he couldn't escape his fate.",
+                "His last performance was on the spookiest holiday of the year."
+            ],
+            "es": [
+                "Era un artista del escape, pero un día no pudo escapar de su destino.",
+                "Su última actuación fue en la festividad más espeluznante del año."
+            ],
+            "pt": [
+                "Ele era um artista de fuga, mas um dia não conseguiu escapar do seu destino.",
+                "Sua última performance foi no feriado mais assustador do ano."
+            ]
+        },
+        "tooltip": {
+            "ru": "Известный иллюзионист и мастер побега умер от перитонита в Хеллоуин в 1926 году.",
+            "uk": "Відомий ілюзіоніст та майстер втечі помер від перитоніту в Хеллоуїн у 1926 році.",
+            "en": "The famous illusionist and escape artist died from peritonitis on Halloween in 1926.",
+            "es": "El famoso ilusionista y artista del escape murió de peritonitis en Halloween en 1926.",
+            "pt": "O famoso ilusionista e artista de fuga morreu de peritonite no Halloween de 1926."
+        },
+        "qwestion": {
+            "ru": "Какой известный иллюзионист, умер в Хеллоуин в 1926 году?",
+            "uk": "Який відомий ілюзіоніст помер у Хеллоуїн у 1926 році?",
+            "en": "What famous illusionist died on Halloween in 1926?",
+            "es": "¿Qué famoso ilusionista murió en Halloween en 1926?",
+            "pt": "Qual famoso ilusionista morreu no Halloween em 1926?"
+        },
+        "definition": {
+            "ru": "Гарри Гудини, урожденный Эрих Вайс, был всемирно известным венгерско-американским иллюзионистом и каскадером, прославившимся своими сенсационными трюками по освобождению. Он умер 31 октября 1926 года от перитонита, вызванного разрывом аппендикса после удара в живот.",
+            "uk": "Гаррі Гудіні, уроджений Еріх Вайс, був всесвітньо відомим угорсько-американським ілюзіоністом і каскадером, що прославився своїми сенсаційними трюками зі звільнення. Він помер 31 жовтня 1926 року від перитоніту, спричиненого розривом апендикса після удару в живіт.",
+            "en": "Harry Houdini, born Ehrich Weiss, was a world-famous Hungarian-American illusionist and stunt performer, noted for his sensational escape acts. He died on October 31, 1926, from peritonitis caused by a ruptured appendix after being punched in the abdomen.",
+            "es": "Harry Houdini, nacido como Ehrich Weiss, fue un ilusionista y artista de acrobacias húngaro-estadounidense de fama mundial, conocido por sus sensacionales actos de escape. Murió el 31 de octubre de 1926, de peritonitis causada por la ruptura de un apéndice después de ser golpeado en el abdomen.",
+            "pt": "Harry Houdini, nascido Ehrich Weiss, foi um ilusionista e dublê húngaro-americano mundialmente famoso, notado por seus sensacionais atos de fuga. Ele morreu em 31 de outubro de 1926, de peritonite causada por um apêndice rompido após ser atingido no abdômen."
+        },
+        "antipod": {
+            "ru": "Ленин",
+            "uk": "Ленін",
+            "en": "Lenin",
+            "es": "Lenin",
+            "pt": "Lênin"
+        },
+        "hintFuiz": {
+            "ru": "Кто умер в Хеллоуин в 1926 году?",
+            "uk": "Хто помер у Хеллоуїн у 1926 році?",
+            "en": "Who died on Halloween in 1926?",
+            "es": "¿Quién murió en Halloween en 1926?",
+            "pt": "Quem morreu no Halloween em 1926?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Harry_Houdini"
+    },
+    "imgFlag": "all" 
+}

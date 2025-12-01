@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Кофейная кантата",
+            "uk": "Кавова кантата",
+            "en": "Coffee Cantata",
+            "es": "Cantata del café",
+            "pt": "Cantata do Café"
+        },
+        "wrong": {
+            "ru": [
+                "Гимн кофе",
+                "Кофейный вальс",
+                "Рок-опера"
+            ],
+            "uk": [
+                "Гімн кави",
+                "Кавовий вальс",
+                "Рок-опера"
+            ],
+            "en": [
+                "Coffee Hymn",
+                "Coffee Waltz",
+                "Rock Opera"
+            ],
+            "es": [
+                "Himno del café",
+                "Vals del café",
+                "Ópera rock"
+            ],
+            "pt": [
+                "Hino do Café",
+                "Valsa do Café",
+                "Ópera rock"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Бах.",
+                "Музыка.",
+                "Кофе."
+            ],
+            "uk": [
+                "Бах.",
+                "Музика.",
+                "Кава."
+            ],
+            "en": [
+                "Bach.",
+                "Music.",
+                "Coffee."
+            ],
+            "es": [
+                "Bach.",
+                "Música.",
+                "Café."
+            ],
+            "pt": [
+                "Bach.",
+                "Música.",
+                "Café."
+            ]
+        },
+        "tooltip": {
+            "ru": "Бах написал произведение посвященное кофе",
+            "uk": "Бах написав твір, присвячений каві",
+            "en": "Bach wrote a piece dedicated to coffee",
+            "es": "Bach escribió una pieza dedicada al café",
+            "pt": "Bach escreveu uma peça dedicada ao café"
+        },
+        "qwestion": {
+            "ru": "Что написал известный композитор в честь кофе?",
+            "uk": "Що написав відомий композитор на честь кави?",
+            "en": "What did a famous composer write in honor of coffee?",
+            "es": "¿Qué escribió un famoso compositor en honor al café?",
+            "pt": "O que um famoso compositor escreveu em homenagem ao café?"
+        },
+        "definition": {
+            "ru": "Кофейная кантата (BWV 211) — это шутливая светская кантата Иоганна Себастьяна Баха. Она рассказывает историю о девушке Лисхен, которая любит кофе, и её отце, пытающемся отучить её от этого напитка.",
+            "uk": "Кавова кантата (BWV 211) — це жартівлива світська кантата Йоганна Себастьяна Баха. Вона розповідає історію про дівчину Лісхен, яка любить каву, і її батька, що намагається відучити її від цього напою.",
+            "en": "The Coffee Cantata (BWV 211) is a humorous secular cantata by Johann Sebastian Bach. It tells the story of a girl named Lieschen, who loves coffee, and her father, who tries to wean her off the drink.",
+            "es": "La Cantata del Café (BWV 211) es una cantata secular humorística de Johann Sebastian Bach. Cuenta la historia de una joven llamada Lieschen, que ama el café, y su padre, que intenta disuadirla de la bebida.",
+            "pt": "A Cantata do Café (BWV 211) é uma cantata secular humorística de Johann Sebastian Bach. Ela conta a história de uma jovem chamada Lieschen, que adora café, e de seu pai, que tenta fazê-la largar a bebida."
+        },
+        "antipod": {
+            "ru": "Кофейная симфония",
+            "uk": "Кавова симфонія",
+            "en": "Coffee Symphony",
+            "es": "Sinfonía del café",
+            "pt": "Sinfonia do Café"
+        },
+        "hintFuiz": {
+            "ru": "Это музыкальное произведение вдохновлено любовью к кофе.",
+            "uk": "Цей музичний твір натхненний любов'ю до кави.",
+            "en": "This musical piece is inspired by a love for coffee.",
+            "es": "Esta pieza musical está inspirada en el amor por el café.",
+            "pt": "Esta peça musical é inspirada pelo amor ao café."
+        },
+        "riddle": {
+            "ru": [
+                "Конфликт отца, пытающегося отучить дочь от кофе.",
+                "Первое музыкальное произведение, посвящённое кофе."
+            ],
+            "uk": [
+                "Конфлікт батька, який намагається відучити доньку від кави.",
+                "Перший музичний твір, присвячений каві."
+            ],
+            "en": [
+                "A conflict of a father trying to wean his daughter off coffee.",
+                "The first musical work dedicated to coffee."
+            ],
+            "es": [
+                "Un conflicto de un padre que intenta que su hija deje de beber café.",
+                "La primera obra musical dedicada al café."
+            ],
+            "pt": [
+                "Um conflito de um pai tentando fazer sua filha parar de beber café.",
+                "A primeira obra musical dedicada ao café."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Coffee_Cantata"
+    },
+    "imgFlag": "quizfoto"
+}

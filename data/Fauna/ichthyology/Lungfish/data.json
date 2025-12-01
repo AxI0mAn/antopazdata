@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Двоякодышащая рыба",
+            "uk": "Двоякодишна риба",
+            "en": "Lungfish",
+            "es": "Pez pulmonado",
+            "pt": "Peixe-pulmonado"
+        },
+        "wrong": {
+            "ru": [
+                "Карп",
+                "Форель",
+                "Окунь"
+            ],
+            "uk": [
+                "Короп",
+                "Форель",
+                "Окунь"
+            ],
+            "en": [
+                "Carp",
+                "Trout",
+                "Perch"
+            ],
+            "es": [
+                "Carpa",
+                "Trucha",
+                "Perca"
+            ],
+            "pt": [
+                "Carpa",
+                "Truta",
+                "Perca"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Легкие.",
+                "Выживание в засуху.",
+                "Ископаемое."
+            ],
+            "uk": [
+                "Легені.",
+                "Виживання в посуху.",
+                "Викопна."
+            ],
+            "en": [
+                "Lungs.",
+                "Drought survival.",
+                "Living fossil."
+            ],
+            "es": [
+                "Pulmones.",
+                "Supervivencia a la sequía.",
+                "Fósil viviente."
+            ],
+            "pt": [
+                "Pulmões.",
+                "Sobrevivência à seca.",
+                "Fóssil vivo."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Какая рыба может дышать воздухом?",
+                "Какая рыба засыпает на время засухи?"
+            ],
+            "uk": [
+                "Яка риба може дихати повітрям?",
+                "Яка риба засинає на час посухи?"
+            ],
+            "en": [
+                "Which fish can breathe air?",
+                "Which fish goes to sleep during a drought?"
+            ],
+            "es": [
+                "¿Qué pez puede respirar aire?",
+                "¿Qué pez se duerme durante una sequía?"
+            ],
+            "pt": [
+                "Qual peixe pode respirar ar?",
+                "Qual peixe dorme durante uma seca?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Она может дышать воздухом и способна впадать в спячку, чтобы выжить в засушливые сезоны.",
+            "uk": "Вона може дихати повітрям і здатна впадати в сплячку, щоб вижити в посушливі сезони.",
+            "en": "It can breathe air and is able to go into a state of estivation to survive during dry seasons.",
+            "es": "Puede respirar aire y es capaz de entrar en un estado de estivación para sobrevivir durante las estaciones secas.",
+            "pt": "Pode respirar ar e é capaz de entrar em um estado de estivação para sobreviver durante as estações secas."
+        },
+        "qwestion": {
+            "ru": "Какая рыба может дышать воздухом и долго жить вне воды?",
+            "uk": "Яка риба може дихати повітрям і довго жити поза водою?",
+            "en": "Which fish can breathe air and live for a long time out of water?",
+            "es": "¿Qué pez puede respirar aire y vivir mucho tiempo fuera del agua?",
+            "pt": "Qual peixe pode respirar ar e viver por muito tempo fora da água?"
+        },
+        "definition": {
+            "ru": "Двоякодышащая рыба — это группа пресноводных рыб, которые обладают легкими в дополнение к жабрам. Это позволяет им дышать атмосферным воздухом и переживать засуху.",
+            "uk": "Двоякодишна риба — це група прісноводних риб, які мають легені на додаток до зябер. Це дозволяє їм дихати атмосферним повітряним і переживати посуху.",
+            "en": "Lungfish are a group of freshwater fish that possess lungs in addition to gills. This allows them to breathe atmospheric air and survive droughts.",
+            "es": "El pez pulmonado es un grupo de peces de agua dulce que poseen pulmones además de branquias. Esto les permite respirar aire atmosférico y sobrevivir a las sequías.",
+            "pt": "O peixe-pulmonado é um grupo de peixes de água doce que possui pulmões além das brânquias. Isso lhes permite respirar ar atmosférico e sobreviver a secas."
+        },
+        "antipod": {
+            "ru": "Сом",
+            "uk": "Сом",
+            "en": "Catfish",
+            "es": "Bagre",
+            "pt": "Bagre"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих двух рыб способна дышать воздухом?",
+            "uk": "Яка з цих двох риб здатна дихати повітрям?",
+            "en": "Which of these two fish is capable of breathing air?",
+            "es": "¿Cuál de estos dos peces es capaz de respirar aire?",
+            "pt": "Qual desses dois peixes é capaz de respirar ar?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Lungfish"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Каналы Венеции",
+            "uk": "Канали Венеції",
+            "en": "Canals of Venice",
+            "es": "Canales de Venecia",
+            "pt": "Canais de Veneza"
+        },
+        "wrong": {
+            "ru": [
+                "Амстердам",
+                "Санкт-Петербург",
+                "Сидней"
+            ],
+            "uk": [
+                "Амстердам",
+                "Санкт-Петербург",
+                "Сідней"
+            ],
+            "en": [
+                "Amsterdam",
+                "Saint Petersburg",
+                "Sydney"
+            ],
+            "es": [
+                "Ámsterdam",
+                "San Petersburgo",
+                "Sídney"
+            ],
+            "pt": [
+                "Amsterdã",
+                "São Petersburgo",
+                "Sydney"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Каналы.",
+                "Острова.",
+                "Гондола."
+            ],
+            "uk": [
+                "Канали.",
+                "Острови.",
+                "Гондола."
+            ],
+            "en": [
+                "Canals.",
+                "Islands.",
+                "Gondola."
+            ],
+            "es": [
+                "Canales.",
+                "Islas.",
+                "Góndola."
+            ],
+            "pt": [
+                "Canais.",
+                "Ilhas.",
+                "Gôndola."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Город, где вместо улиц — вода, а вместо машин — гондолы.",
+                "Здесь не услышишь гудка машины, а только плеск воды."
+            ],
+            "uk": [
+                "Місто, де замість вулиць — вода, а замість машин — гондоли.",
+                "Тут не почуєш гудка машини, а лише плескіт води."
+            ],
+            "en": [
+                "A city where water is the street and gondolas are the cars.",
+                "Here, you won't hear a car horn, only the splash of water."
+            ],
+            "es": [
+                "Una ciudad donde el agua es la calle y las góndolas son los coches.",
+                "Aquí no oirás una bocina de coche, solo el chapoteo del agua."
+            ],
+            "pt": [
+                "Uma cidade onde a água é a rua e as gôndolas são os carros.",
+                "Aqui, você não ouvirá a buzina de um carro, apenas o barulho da água."
+            ]
+        },
+        "tooltip": {
+            "ru": "Он имеет 400 мостов и не имеет дорог, а только каналы.",
+            "uk": "Він має 400 мостів і не має доріг, а лише канали.",
+            "en": "It has 400 bridges and no roads, only canals.",
+            "es": "Tiene 400 puentes y no tiene carreteras, solo canales.",
+            "pt": "Possui 400 pontes e não tem estradas, apenas canais."
+        },
+        "qwestion": {
+            "ru": "Какой город в Италии построен на более чем 100 островах?",
+            "uk": "Яке місто в Італії побудоване на понад 100 островах?",
+            "en": "What city in Italy is built on more than 100 islands?",
+            "es": "¿Qué ciudad en Italia está construida sobre más de 100 islas?",
+            "pt": "Qual cidade na Itália é construída em mais de 100 ilhas?"
+        },
+        "definition": {
+            "ru": "Венеция — это город на воде в северо-восточной Италии, построенный на 118 небольших островах, которые разделены сетью каналов и соединены мостами. Вместо дорог здесь каналы, которые служат основными путями для транспорта, включая гондолы, водные такси и вапоретто. Город является объектом Всемирного наследия ЮНЕСКО и известен своим уникальным архитектурным стилем, многочисленными дворцами, площадями и, конечно же, Большим каналом, который является его главной водной артерией.",
+            "uk": "Венеція — це місто на воді у північно-східній Італії, побудоване на 118 невеликих островах, які розділені мережею каналів і з'єднані мостами. Замість доріг тут канали, які служать основними шляхами для транспорту, включаючи гондоли, водні таксі та вапоретто. Місто є об'єктом Всесвітньої спадщини ЮНЕСКО і відоме своїм унікальним архітектурним стилем, численними палацами, площами і, звичайно ж, Великим каналом, який є його головною водною артерією.",
+            "en": "Venice is a city on the water in northeastern Italy, built on 118 small islands that are separated by a network of canals and connected by bridges. Instead of roads, there are canals that serve as the main transportation routes, including gondolas, water taxis, and vaporettos. The city is a UNESCO World Heritage Site and is known for its unique architectural style, numerous palaces, squares, and, of course, the Grand Canal, which is its main water artery.",
+            "es": "Venecia es una ciudad sobre el agua en el noreste de Italia, construida sobre 118 pequeñas islas que están separadas por una red de canales y conectadas por puentes. En lugar de carreteras, hay canales que sirven como las principales rutas de transporte, incluyendo góndolas, taxis acuáticos y vaporettos. La ciudad es un Patrimonio de la Humanidad de la UNESCO y es conocida por su estilo arquitectónico único, numerosos palacios, plazas y, por supuesto, el Gran Canal, que es su principal arteria acuática.",
+            "pt": "Veneza é uma cidade sobre a água no nordeste da Itália, construída em 118 pequenas ilhas que são separadas por uma rede de canais e conectadas por pontes. Em vez de estradas, há canais que servem como as principais rotas de transporte, incluindo gôndolas, táxis aquáticos e vaporettos. A cidade é um Patrimônio Mundial da UNESCO e é conhecida por seu estilo arquitetônico único, numerosos palácios, praças e, claro, o Grande Canal, que é sua principal artéria aquática."
+        },
+        "antipod": {
+            "ru": "Чикаго",
+            "uk": "Чикаго",
+            "en": "Chicago",
+            "es": "Chicago",
+            "pt": "Chicago"
+        },
+        "hintFuiz": {
+            "ru": "В каком из этих городов основным транспортом являются лодки?",
+            "uk": "В якому з цих міст основним транспортом є човни?",
+            "en": "In which of these cities is the main transportation boats?",
+            "es": "¿En cuál de estas ciudades el transporte principal son los barcos?",
+            "pt": "Em qual dessas cidades o principal meio de transporte são os barcos?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Venice"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Хвост петуха",
+            "uk": "Хвіст півня",
+            "en": "Rooster's tail",
+            "es": "Cola de gallo",
+            "pt": "Rabo de galo"
+        },
+        "wrong": {
+            "ru": [
+                "Смешение цветов",
+                "Разноцветный напиток",
+                "Завтрак петуха"
+            ],
+            "uk": [
+                "Змішування кольорів",
+                "Різнокольоровий напій",
+                "Сніданок півня"
+            ],
+            "en": [
+                "Color mixture",
+                "Colorful drink",
+                "Rooster's breakfast"
+            ],
+            "es": [
+                "Mezcla de colores",
+                "Bebida colorida",
+                "Desayuno de gallo"
+            ],
+            "pt": [
+                "Mistura de cores",
+                "Bebida colorida",
+                "Café da manhã de galo"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Легенда.",
+                "Слово.",
+                "Коктейль."
+            ],
+            "uk": [
+                "Легенда.",
+                "Слово.",
+                "Коктейль."
+            ],
+            "en": [
+                "Legend.",
+                "Word.",
+                "Cocktail."
+            ],
+            "es": [
+                "Leyenda.",
+                "Palabra.",
+                "Cóctel."
+            ],
+            "pt": [
+                "Lenda.",
+                "Palavra.",
+                "Coquetel."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Так появилось слово коктейль.",
+                "Дал имя самому известному напитку."
+            ],
+            "uk": [
+                "Так з'явилося слово коктейль.",
+                "Дав ім'я найвідомішому напою."
+            ],
+            "en": [
+                "This is how the word 'cocktail' appeared.",
+                "It gave its name to the most famous drink."
+            ],
+            "es": [
+                "Así apareció la palabra 'cóctel'.",
+                "Dio nombre a la bebida más famosa."
+            ],
+            "pt": [
+                "Assim surgiu a palavra 'coquetel'.",
+                "Deu nome à bebida mais famosa."
+            ]
+        },
+        "tooltip": {
+            "ru": "Его выставляли в барах, чтобы продать недорогое пойло.",
+            "uk": "Його виставляли в барах, щоб продати недороге пиття.",
+            "en": "It was displayed in bars to sell cheap booze.",
+            "es": "Se exhibía en bares para vender alcohol barato.",
+            "pt": "Era exibido em bares para vender bebida barata."
+        },
+        "qwestion": {
+            "ru": "По легенде, от названия какого предмета произошло слово «коктейль» (cocktail)?",
+            "uk": "За легендою, від назви якого предмета походить слово «коктейль» (cocktail)?",
+            "en": "According to a legend, what object's name is the origin of the word 'cocktail'?",
+            "es": "Según una leyenda, ¿del nombre de qué objeto proviene la palabra 'cóctel'?",
+            "pt": "Segundo uma lenda, de qual objeto deriva a palavra 'coquetel'?"
+        },
+        "definition": {
+            "ru": "Слово «коктейль» (cocktail) произошло от «хвост петуха». По одной из легенд, в барах выставляли хвост петуха, чтобы привлечь внимание к смешанным напиткам, сделанным из остатков разных алкогольных напитков. Так смешение напитков стало называться «хвостом петуха».",
+            "uk": "Слово «коктейль» (cocktail) походить від «хвіст півня». За однією з легенд, у барах виставляли хвіст півня, щоб привернути увагу до змішаних напоїв, зроблених із залишків різних алкогольних напоїв. Так суміш напоїв стала називатися «хвостом півня».",
+            "en": "The word 'cocktail' originated from 'cock's tail.' According to one legend, a rooster's tail was displayed in bars to draw attention to mixed drinks made from the leftover ends of various spirits. Thus, the mixture became known as a 'cock's tail.'",
+            "es": "La palabra 'cóctel' (cocktail) se originó de 'cola de gallo'. Según una leyenda, una cola de gallo se exhibía en los bares para llamar la atención sobre bebidas mezcladas hechas con los restos de varios licores. Así, la mezcla se conoció como 'cola de gallo'.",
+            "pt": "A palavra 'coquetel' (cocktail) se originou de 'rabo de galo'. Segundo uma lenda, um rabo de galo era exibido em bares para chamar a atenção para bebidas misturadas feitas com sobras de vários licores. Assim, a mistura ficou conhecida como 'rabo de galo'."
+        },
+        "antipod": {
+            "ru": "Борода повара",
+            "uk": "Борода кухаря",
+            "en": "Chef's beard",
+            "es": "Barba de chef",
+            "pt": "Barba de chef"
+        },
+        "hintFuiz": {
+            "ru": "От чего произошло слово «коктейль» (cocktail)?",
+            "uk": "Від чого походить слово «коктейль» (cocktail)?",
+            "en": "What is the origin of the word 'cocktail'?",
+            "es": "¿Cuál es el origen de la palabra 'cóctel'?",
+            "pt": "Qual é a origem da palavra 'coquetel'?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Cocktail#Etymology"
+    },
+    "imgFlag": "quizfoto" 
+}

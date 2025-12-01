@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Сингапур",
+            "uk": "Сінгапур",
+            "en": "Singapore",
+            "es": "Singapur",
+            "pt": "Singapura"
+        },
+        "wrong": {
+            "ru": [
+                "Гонконг",
+                "Нью-Йорк",
+                "Токио"
+            ],
+            "uk": [
+                "Гонконг",
+                "Нью-Йорк",
+                "Токіо"
+            ],
+            "en": [
+                "Hong Kong",
+                "New York",
+                "Tokyo"
+            ],
+            "es": [
+                "Hong Kong",
+                "Nueva York",
+                "Tokio"
+            ],
+            "pt": [
+                "Hong Kong",
+                "Nova Iorque",
+                "Tóquio"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Жвачка.",
+                "Город-государство.",
+                "Строгие законы."
+            ],
+            "uk": [
+                "Жуйка.",
+                "Місто-держава.",
+                "Суворі закони."
+            ],
+            "en": [
+                "Chewing gum.",
+                "City-state.",
+                "Strict laws."
+            ],
+            "es": [
+                "Chicle.",
+                "Ciudad-Estado.",
+                "Leyes estrictas."
+            ],
+            "pt": [
+                "Chiclete.",
+                "Cidade-Estado.",
+                "Leis rigorosas."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Город, который также является страной.",
+                "Здесь запрещена жевательная резинка."
+            ],
+            "uk": [
+                "Місто, яке також є країною.",
+                "Тут заборонена жувальна гумка."
+            ],
+            "en": [
+                "A city that is also a country.",
+                "Chewing gum is forbidden here."
+            ],
+            "es": [
+                "Una ciudad que también es un país.",
+                "El chicle está prohibido aquí."
+            ],
+            "pt": [
+                "Uma cidade que também é um país.",
+                "O chiclete é proibido aqui."
+            ]
+        },
+        "tooltip": {
+            "ru": "Расположен в Юго-Восточной Азии.",
+            "uk": "Розташований у Південно-Східній Азії.",
+            "en": "Located in Southeast Asia.",
+            "es": "Ubicado en el Sudeste Asiático.",
+            "pt": "Localizado no Sudeste Asiático."
+        },
+        "qwestion": {
+            "ru": "Какой город-государство запрещает импорт и продажу жевательной резинки?",
+            "uk": "Яке місто-держава забороняє імпорт і продаж жувальної гумки?",
+            "en": "Which city-state bans the import and sale of chewing gum?",
+            "es": "¿Qué ciudad-estado prohíbe la importación y venta de chicle?",
+            "pt": "Qual cidade-estado proíbe a importação e venda de chiclete?"
+        },
+        "definition": {
+            "ru": "Сингапур — это суверенный город-государство, расположенный на острове в Юго-Восточной Азии. Он известен своим поразительным экономическим ростом, превратившись в один из мировых финансовых центров. Сингапур славится своей чистотой, футуристической архитектурой и строгими законами, включая знаменитый запрет на жевательную резинку, который был введен для поддержания чистоты улиц. Это страна с высокой плотностью населения, известная своими зелеными пространствами, современными небоскребами и разнообразной культурой.",
+            "uk": "Сінгапур — це суверенне місто-держава, розташоване на острові в Південно-Східній Азії. Він відомий своїм вражаючим економічним зростанням, перетворившись на один зі світових фінансових центрів. Сінгапур славиться своєю чистотою, футуристичною архітектурою та суворими законами, включаючи знамениту заборону на жувальну гумку, яка була введена для підтримання чистоти вулиць. Це країна з високою щільністю населення, відома своїми зеленими просторами, сучасними хмарочосами та різноманітною культурою.",
+            "en": "Singapore is a sovereign city-state located on an island in Southeast Asia. It is known for its remarkable economic growth, having transformed into one of the world's leading financial hubs. Singapore is famous for its cleanliness, futuristic architecture, and strict laws, including a well-known ban on chewing gum that was implemented to maintain clean streets. It is a highly-populated country celebrated for its green spaces, modern skyscrapers, and diverse culture.",
+            "es": "Singapur es una ciudad-estado soberana ubicada en una isla en el Sudeste Asiático. Es conocida por su notable crecimiento económico, habiéndose transformado en uno de los principales centros financieros del mundo. Singapur es famosa por su limpieza, arquitectura futurista y leyes estrictas, incluido el conocido veto al chicle que se implementó para mantener las calles limpias. Es un país densamente poblado, célebre por sus espacios verdes, rascacielos modernos y cultura diversa.",
+            "pt": "Singapura é uma cidade-estado soberana localizada em uma ilha no Sudeste Asiático. É conhecida por seu notável crescimento econômico, tendo se transformado em um dos principais centros financeiros do mundo. Singapura é famosa por sua limpeza, arquitetura futurista e leis rigorosas, incluindo uma conhecida proibição de chiclete que foi implementada para manter as ruas limpas. É um país densamente povoado, celebrado por seus espaços verdes, arranha-céus modernos e cultura diversa."
+        },
+        "antipod": {
+            "ru": "Дубай",
+            "uk": "Дубай",
+            "en": "Dubai",
+            "es": "Dubái",
+            "pt": "Dubai"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих городов - островной город-государство?",
+            "uk": "Яке з цих міст є острівною містом-державою?",
+            "en": "Which of these cities is an island city-state?",
+            "es": "¿Cuál de estas ciudades es una ciudad-estado insular?",
+            "pt": "Qual dessas cidades é uma cidade-estado insular?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Singapore"
+    },
+    "imgFlag": "quizfoto" 
+}

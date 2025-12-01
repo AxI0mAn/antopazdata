@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Коралл",
+            "uk": "Корал",
+            "en": "Coral",
+            "es": "Coral",
+            "pt": "Coral"
+        },
+        "wrong": {
+            "ru": [
+                "Морская звезда",
+                "Медуза",
+                "Морской огурец"
+            ],
+            "uk": [
+                "Морська зірка",
+                "Медуза",
+                "Морський огірок"
+            ],
+            "en": [
+                "Starfish",
+                "Jellyfish",
+                "Sea cucumber"
+            ],
+            "es": [
+                "Estrella de mar",
+                "Medusa",
+                "Cohombro de mar"
+            ],
+            "pt": [
+                "Estrela-do-mar",
+                "Água-viva",
+                "Pepino-do-mar"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Риф.",
+                "Полип.",
+                "Океан."
+            ],
+            "uk": [
+                "Риф.",
+                "Поліп.",
+                "Океан."
+            ],
+            "en": [
+                "Reef.",
+                "Polyp.",
+                "Ocean."
+            ],
+            "es": [
+                "Arrecife.",
+                "Pólipo.",
+                "Océano."
+            ],
+            "pt": [
+                "Recife.",
+                "Pólipo.",
+                "Oceano."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Строитель рифов, чей дом — океан?",
+                "Скелеты, что видно из космоса?"
+            ],
+            "uk": [
+                "Будівельник рифів, чий дім — океан?",
+                "Скелети, що видно з космосу?"
+            ],
+            "en": [
+                "A reef builder whose home is the ocean?",
+                "Skeletons visible from space?"
+            ],
+            "es": [
+                "¿Constructor de arrecifes cuyo hogar es el océano?",
+                "¿Esqueletos que se ven desde el espacio?"
+            ],
+            "pt": [
+                "Construtor de recifes cujo lar é o oceano?",
+                "Esqueletos visíveis do espaço?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Большинство из них живут в симбиозе с водорослями, которые дают им цвет и питание.",
+            "uk": "Більшість з них живуть у симбіозі з водоростями, які дають їм колір і живлення.",
+            "en": "Most of them live in symbiosis with algae, which provides them with color and nutrients.",
+            "es": "La mayoría vive en simbiosis con algas que les proporcionan color y nutrientes.",
+            "pt": "A maioria vive em simbiose com algas que lhes fornecem cor e nutrientes."
+        },
+        "qwestion": {
+            "ru": "Какой морской организм образует огромные колонии и строит подводные рифы?",
+            "uk": "Який морський організм утворює величезні колонії і будує підводні рифи?",
+            "en": "What marine organism forms huge colonies and builds underwater reefs?",
+            "es": "¿Qué organismo marino forma enormes colonias y construye arrecifes submarinos?",
+            "pt": "Qual organismo marinho forma enormes colônias e constrói recifes subaquáticos?"
+        },
+        "definition": {
+            "ru": "Морские беспозвоночные, которые живут в плотных колониях. Их скелеты из карбоната кальция образуют коралловые рифы.",
+            "uk": "Морські безхребетні, що живуть у щільних колоніях. Їх скелети з карбонату кальцію утворюють коралові рифи.",
+            "en": "Marine invertebrates that live in dense colonies. Their calcium carbonate skeletons form coral reefs.",
+            "es": "Invertebrados marinos que viven en colonias densas. Sus esqueletos de carbonato de calcio forman arrecifes de coral.",
+            "pt": "Invertebrados marinhos que vivem em colônias densas. Seus esqueletos de carbonato de cálcio formam recifes de coral."
+        },
+        "antipod": {
+            "ru": "Морская анемона",
+            "uk": "Морська анемона",
+            "en": "Sea anemone",
+            "es": "Anémona de mar",
+            "pt": "Anêmona-do-mar"
+        },
+        "hintFuiz": {
+            "ru": "Какое животное может образовывать твердый риф?",
+            "uk": "Яка тварина може утворювати твердий риф?",
+            "en": "Which animal can form a hard reef?",
+            "es": "¿Qué animal puede formar un arrecife duro?",
+            "pt": "Qual animal pode formar um recife sólido?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Coral"
+    },
+    "imgFlag": "all" 
+}

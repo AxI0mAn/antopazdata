@@ -1,0 +1,102 @@
+{
+    "data": {
+        "name": {
+            "ru": "Телескоп",
+            "uk": "Телескоп",
+            "en": "Telescope",
+            "es": "Telescopio",
+            "pt": "Telescópio"
+        },
+        "wrong": {
+            "ru": [
+                "Бинокль",
+                "Перископ",
+                "Очки"
+            ],
+            "uk": [
+                "Бінокль",
+                "Перископ",
+                "Окуляри"
+            ],
+            "en": [
+                "Binoculars",
+                "Periscope",
+                "Eyeglasses"
+            ],
+            "es": [
+                "Prismáticos",
+                "Periscopio",
+                "Gafas"
+            ],
+            "pt": [
+                "Binóculos",
+                "Periscópio",
+                "Óculos"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Космос",
+                "Звёзды",
+                "Галилей"
+            ],
+            "uk": [
+                "Космос",
+                "Зірки",
+                "Галілей"
+            ],
+            "en": [
+                "Space",
+                "Stars",
+                "Galileo"
+            ],
+            "es": [
+                "Espacio",
+                "Estrellas",
+                "Galileo"
+            ],
+            "pt": [
+                "Espaço",
+                "Estrelas",
+                "Galileu"
+            ]
+        },
+        "tooltip": {
+            "ru": "Он собирает и фокусирует свет, благодаря чему далёкие объекты выглядят ближе и ярче.",
+            "uk": "Він збирає і фокусує світло, завдяки чому далекі об'єкти виглядають ближче і яскравіше.",
+            "en": "It collects and focuses light, making distant objects appear closer and brighter.",
+            "es": "Recoge y enfoca la luz, haciendo que los objetos distantes parezcan más cercanos y brillantes.",
+            "pt": "Ele coleta e foca a luz, fazendo com que objetos distantes pareçam mais próximos e brilhantes."
+        },
+        "qwestion": {
+            "ru": "Какое из этих двух оптических устройств увеличивает изображение удалённых объектов?",
+            "uk": "Який з цих двох оптичних пристроїв збільшує зображення віддалених об'єктів?",
+            "en": "Which of these two optical devices magnifies the image of distant objects?",
+            "es": "¿Cuál de estos dos dispositivos ópticos magnifica la imagen de objetos distantes?",
+            "pt": "Qual desses dois dispositivos ópticos amplia a imagem de objetos distantes?"
+        },
+        "definition": {
+            "ru": "Телескоп — это оптический прибор, который использует линзы или зеркала для сбора и фокусировки электромагнитного излучения. Он позволяет наблюдать за звёздами, планетами и другими космическими объектами.",
+            "uk": "Телескоп — це оптичний прилад, який використовує лінзи або дзеркала для збору та фокусування електромагнітного випромінювання. Він дозволяє спостерігати за зірками, планетами та іншими космічними об'єктами.",
+            "en": "A telescope is an optical instrument that uses lenses or mirrors to collect and focus electromagnetic radiation. It allows for the observation of stars, planets, and other celestial objects.",
+            "es": "Un telescopio es un instrumento óptico que utiliza lentes o espejos para recoger y enfocar la radiación electromagnética. Permite la observación de estrellas, planetas y otros objetos celestes.",
+            "pt": "Um telescópio é um instrumento óptico que usa lentes ou espelhos para coletar e focar a radiação eletromagnética. Ele permite a observação de estrelas, planetas e outros objetos celestes."
+        },
+        "antipod": {
+            "ru": "Микроскоп",
+            "uk": "Мікроскоп",
+            "en": "Microscope",
+            "es": "Microscopio",
+            "pt": "Microscópio"
+        },
+        "hintFuiz": {
+            "ru": "Какое изобретение,  помогло человеку впервые взглянуть на звёзды и планеты?",
+            "uk": "Який винахід допоміг людині вперше поглянути на зірки та планети?",
+            "en": "Which invention helped people look at the stars and planets for the first time?",
+            "es": "¿Qué invento ayudó a la gente a mirar las estrellas y los planetas por primera vez?",
+            "pt": "Qual invenção ajudou as pessoas a olhar para as estrelas e planetas pela primeira vez?"
+        },
+        "article": "https://ru.wikipedia.org/wiki/Телескоп"
+    },
+    "imgFlag": "all" 
+}

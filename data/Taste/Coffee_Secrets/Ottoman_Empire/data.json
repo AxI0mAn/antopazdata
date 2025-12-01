@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Османская Империя",
+            "uk": "Османська імперія",
+            "en": "Ottoman Empire",
+            "es": "Imperio Otomano",
+            "pt": "Império Otomano"
+        },
+        "wrong": {
+            "ru": [
+                "Испания",
+                "Грузия",
+                "Мексика"
+            ],
+            "uk": [
+                "Іспанія",
+                "Грузія",
+                "Мексика"
+            ],
+            "en": [
+                "Spain",
+                "Georgia",
+                "Mexico"
+            ],
+            "es": [
+                "España",
+                "Georgia",
+                "México"
+            ],
+            "pt": [
+                "Espanha",
+                "Geórgia",
+                "México"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Кофе.",
+                "Семейный кодекс.",
+                "Развод."
+            ],
+            "uk": [
+                "Кава.",
+                "Сімейний кодекс.",
+                "Розлучення."
+            ],
+            "en": [
+                "Coffee.",
+                "Family code.",
+                "Divorce."
+            ],
+            "es": [
+                "Café.",
+                "Código familiar.",
+                "Divorcio."
+            ],
+            "pt": [
+                "Café.",
+                "Código familiar.",
+                "Divórcio."
+            ]
+        },
+        "tooltip": {
+            "ru": "Обеспечение семьи кофе считалось частью супружеской ответственности.",
+            "uk": "Забезпечення сім'ї кавою вважалося частиною подружньої відповідальності.",
+            "en": "Providing the family with coffee was considered part of a husband's responsibility.",
+            "es": "Proveer a la familia de café era considerado parte de la responsabilidad conyugal.",
+            "pt": "Prover a família de café era considerado parte da responsabilidade conjugal."
+        },
+        "qwestion": {
+            "ru": "Где закон позволял женщине подать на развод, если муж не мог обеспечить ее достаточным количеством кофе?",
+            "uk": "Де закон дозволяв жінці подати на розлучення, якщо чоловік не міг забезпечити її достатньою кількістю кави?",
+            "en": "Where did the law allow a woman to file for divorce if her husband couldn't provide her with enough coffee?",
+            "es": "¿Dónde la ley permitía a una mujer solicitar el divorcio si su marido no podía proporcionarle suficiente café?",
+            "pt": "Onde a lei permitia a uma mulher pedir divórcio se o marido não conseguisse fornecer-lhe café suficiente?"
+        },
+        "definition": {
+            "ru": "В Османской империи существовало правило, согласно которому муж должен был обеспечивать жену кофе, и в случае, если он не мог этого сделать, женщина имела право на развод.",
+            "uk": "В Османській імперії існувало правило, згідно з яким чоловік мав забезпечувати дружину кавою, і у випадку, якщо він не міг цього зробити, жінка мала право на розлучення.",
+            "en": "In the Ottoman Empire, there was a rule that a husband had to provide his wife with coffee, and if he could not do so, the woman had the right to divorce.",
+            "es": "En el Imperio Otomano, existía una regla según la cual un marido tenía que proveer a su esposa de café, y si no podía hacerlo, la mujer tenía derecho a solicitar el divorcio.",
+            "pt": "No Império Otomano, havia uma regra segundo a qual um marido tinha que prover sua esposa de café, e se ele não pudesse fazê-lo, a mulher tinha o direito de pedir o divórcio."
+        },
+        "antipod": {
+            "ru": "Италия",
+            "uk": "Італія",
+            "en": "Italy",
+            "es": "Italia",
+            "pt": "Itália"
+        },
+        "hintFuiz": {
+            "ru": "В этой стране, кофе мог быть поводом развода семьи.",
+            "uk": "У цій країні, кава могла бути приводом розлучення сім'ї.",
+            "en": "In this country, coffee could be a reason for family divorce.",
+            "es": "En este país, el café podría ser un motivo para el divorcio familiar.",
+            "pt": "Neste país, o café poderia ser um motivo para o divórcio familiar."
+        },
+        "riddle": {
+            "ru": [
+                "Поводом для развода могла стать чашка кофе.",
+                "Права на кофе были закреплены в Семейном кодексе."
+            ],
+            "uk": [
+                "Приводом для розлучення могла стати чашка кави.",
+                "Права на каву були закріплені в Сімейному кодексі."
+            ],
+            "en": [
+                "A cup of coffee could be a reason for divorce.",
+                "The rights to coffee were enshrined in the Family Code."
+            ],
+            "es": [
+                "Una taza de café podría ser motivo de divorcio.",
+                "Los derechos sobre el café estaban consagrados en el Código de Familia."
+            ],
+            "pt": [
+                "Uma xícara de café poderia ser um motivo para o divórcio.",
+                "Os direitos sobre o café foram consagrados no Código da Família."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Coffee_in_the_Ottoman_Empire"
+    },
+    "imgFlag": "quizfoto"
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Сатурналии",
+            "uk": "Сатурналії",
+            "en": "Saturnalia",
+            "es": "Saturnalia",
+            "pt": "Saturnália"
+        },
+        "wrong": {
+            "ru": [
+                "Олимпийские игры",
+                "Бои гладиаторов",
+                "Ярмарка"
+            ],
+            "uk": [
+                "Олімпійські ігри",
+                "Бої гладіаторів",
+                "Ярмарок"
+            ],
+            "en": [
+                "Olympic Games",
+                "Gladiator Fights",
+                "Fair"
+            ],
+            "es": [
+                "Juegos Olímpicos",
+                "Luchas de Gladiadores",
+                "Feria"
+            ],
+            "pt": [
+                "Jogos Olímpicos",
+                "Lutas de Gladiadores",
+                "Feira"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Рим.",
+                "Рабы.",
+                "Обмен."
+            ],
+            "uk": [
+                "Рим.",
+                "Раби.",
+                "Обмін."
+            ],
+            "en": [
+                "Rome.",
+                "Slaves.",
+                "Exchange."
+            ],
+            "es": [
+                "Roma.",
+                "Esclavos.",
+                "Intercambio."
+            ],
+            "pt": [
+                "Roma.",
+                "Escravos.",
+                "Troca."
+            ]
+        },
+        "tooltip": {
+            "ru": "На время празднования рабы и господа менялись местами",
+            "uk": "На час святкування раби і пани мінялися місцями",
+            "en": "During the celebration, slaves and masters switched places",
+            "es": "Durante la celebración, esclavos y amos intercambiaban lugares",
+            "pt": "Durante a celebração, escravos e senhores trocavam de lugar"
+        },
+        "qwestion": {
+            "ru": "Какой древний римский праздник стал основой для празднования Нового года?",
+            "uk": "Яке давнє римське свято стало основою для святкування Нового року?",
+            "en": "What ancient Roman festival became the basis for celebrating New Year?",
+            "es": "¿Qué antigua fiesta romana se convirtió en la base para celebrar el Año Nuevo?",
+            "pt": "Qual antiga festa romana se tornou a base para a celebração do Ano Novo?"
+        },
+        "definition": {
+            "ru": "Сатурналии — древнеримский языческий праздник в честь бога Сатурна. Он сопровождался публичными пирами, обменом подарками, а также временной отменой социальных норм, когда рабы и господа менялись ролями.",
+            "uk": "Сатурналії — це давньоримське язичницьке свято на честь бога Сатурна. Воно супроводжувалося публічними бенкетами, обміном подарунками, а також тимчасовою відміною соціальних норм, коли раби і пани мінялися ролями.",
+            "en": "Saturnalia is an ancient Roman pagan festival in honor of the god Saturn. It was accompanied by public feasts, gift-giving, and a temporary suspension of social norms, when slaves and masters exchanged roles.",
+            "es": "La Saturnalia es un antiguo festival pagano romano en honor al dios Saturno. Se acompañaba de banquetes públicos, intercambio de regalos y una suspensión temporal de las normas sociales, cuando esclavos y amos intercambiaban roles.",
+            "pt": "A Saturnália é uma antiga festa pagã romana em honra ao deus Saturno. Era acompanhada por banquetes públicos, troca de presentes e uma suspensão temporária das normas sociais, quando escravos e senhores trocavam de papéis."
+        },
+        "antipod": {
+            "ru": "Бои гладиаторов",
+            "uk": "Бої гладіаторів",
+            "en": "Gladiator Fights",
+            "es": "Luchas de Gladiadores",
+            "pt": "Lutas de Gladiadores"
+        },
+        "hintFuiz": {
+            "ru": "Это праздник стал основой для Нового года.",
+            "uk": "Це свято стало основою для Нового року.",
+            "en": "This festival became the basis for the New Year.",
+            "es": "Esta fiesta se convirtió en la base para el Año Nuevo.",
+            "pt": "Esta festa se tornou a base para o Ano Novo."
+        },
+        "riddle": {
+            "ru": [
+                "Прототип Нового года.",
+                "Когда менялись местами."
+            ],
+            "uk": [
+                "Прототип Нового року.",
+                "Коли мінялися місцями."
+            ],
+            "en": [
+                "A prototype of the New Year.",
+                "When they switched places."
+            ],
+            "es": [
+                "Un prototipo del Año Nuevo.",
+                "Cuando se cambiaron de lugar."
+            ],
+            "pt": [
+                "Um protótipo do Ano Novo.",
+                "Quando eles trocavam de lugar."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Saturnalia"
+    },
+    "imgFlag": "quizfoto"
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Малый веретенник",
+            "uk": "Малий грицик",
+            "en": "Bar-tailed godwit",
+            "es": "Aguja colipinta",
+            "pt": "Fuselo"
+        },
+        "wrong": {
+            "ru": [
+                "Полярная крачка",
+                "Сапсан",
+                "Аист"
+            ],
+            "uk": [
+                "Полярна крячка",
+                "Сапсан",
+                "Лелека"
+            ],
+            "en": [
+                "Arctic tern",
+                "Peregrine falcon",
+                "Stork"
+            ],
+            "es": [
+                "Charrán ártico",
+                "Halcón peregrino",
+                "Cigüeña"
+            ],
+            "pt": [
+                "Andorinha-do-mar-ártica",
+                "Falcão-peregrino",
+                "Cegonha"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Миграция.",
+                "Беспосадочный полет.",
+                "Океан."
+            ],
+            "uk": [
+                "Міграція.",
+                "Безпосадковий політ.",
+                "Океан."
+            ],
+            "en": [
+                "Migration.",
+                "Non-stop flight.",
+                "Ocean."
+            ],
+            "es": [
+                "Migración.",
+                "Vuelo sin escalas.",
+                "Océano."
+            ],
+            "pt": [
+                "Migração.",
+                "Voo sem escala.",
+                "Oceano."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Пролетает тысячи километров, не садясь.",
+                "Его тело худеет, чтобы преодолеть океан."
+            ],
+            "uk": [
+                "Пролітає тисячі кілометрів, не сідаючи.",
+                "Його тіло худне, щоб подолати океан."
+            ],
+            "en": [
+                "It flies thousands of kilometers without landing.",
+                "Its body gets thinner to cross the ocean."
+            ],
+            "es": [
+                "Vuela miles de kilómetros sin aterrizar.",
+                "Su cuerpo adelgaza para cruzar el océano."
+            ],
+            "pt": [
+                "Voa milhares de quilômetros sem pousar.",
+                "Seu corpo emagrece para atravessar o oceano."
+            ]
+        },
+        "tooltip": {
+            "ru": "Во время полета размер внутренних органов птицы уменьшается для облегчения веса.",
+            "uk": "Під час польоту розмір внутрішніх органів птаха зменшується для полегшення ваги.",
+            "en": "During flight, the bird’s internal organs shrink to reduce weight.",
+            "es": "Durante el vuelo, los órganos internos del ave se encogen para aligerar el peso.",
+            "pt": "Durante o voo, os órgãos internos do pássaro encolhem para reduzir o peso."
+        },
+        "qwestion": {
+            "ru": "Какая птица может без приземления пролететь более 13 560 км за 11 дней?",
+            "uk": "Який птах може без приземлення пролетіти понад 13 560 км за 11 днів?",
+            "en": "What bird can fly over 13,560 km in 11 days without landing?",
+            "es": "¿Qué ave puede volar más de 13,560 km en 11 días sin aterrizar?",
+            "pt": "Qual pássaro pode voar mais de 13.560 km em 11 dias sem pousar?"
+        },
+        "definition": {
+            "ru": "Малый веретенник — это вид кулика, который совершает самый длинный в мире беспосадочный перелет. Он мигрирует из Аляски в Новую Зеландию, преодолевая Тихий океан, что является самым длинным известным беспосадочным полетом среди птиц.",
+            "uk": "Малий грицик — це вид кулика, який здійснює найдовший у світі безпосадковий переліт. Він мігрує з Аляски до Нової Зеландії, долаючи Тихий океан, що є найдовшим відомим безпосадковим польотом серед птахів.",
+            "en": "The bar-tailed godwit is a species of shorebird that makes the world's longest non-stop flight. It migrates from Alaska to New Zealand, crossing the Pacific Ocean, which is the longest known non-stop bird flight.",
+            "es": "La aguja colipinta es una especie de ave playera que realiza el vuelo sin escalas más largo del mundo. Migra de Alaska a Nueva Zelanda, cruzando el Océano Pacífico, lo que lo convierte en el vuelo sin escalas más largo conocido entre las aves.",
+            "pt": "O fuselo é uma espécie de ave pernalta que realiza o voo sem escalas mais longo do mundo. Ele migra do Alasca para a Nova Zelândia, cruzando o Oceano Pacífico, o que o torna o voo sem escalas mais longo conhecido entre as aves."
+        },
+        "antipod": {
+            "ru": "Чайка",
+            "uk": "Чайка",
+            "en": "Seagull",
+            "es": "Gaviota",
+            "pt": "Gaivota"
+        },
+        "hintFuiz": {
+            "ru": "Какая птица мигрирует через Тихий океан?",
+            "uk": "Який птах мігрує через Тихий океан?",
+            "en": "Which bird migrates across the Pacific Ocean?",
+            "es": "¿Qué ave migra a través del Océano Pacífico?",
+            "pt": "Qual pássaro migra através do Oceano Pacífico?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Bar-tailed_godwit"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Большой Барьерный риф",
+            "uk": "Великий Бар'єрний риф",
+            "en": "Great Barrier Reef",
+            "es": "Gran Barrera de Coral",
+            "pt": "Grande Barreira de Coral"
+        },
+        "wrong": {
+            "ru": [
+                "Коралловое море",
+                "Красное море",
+                "Галапагосские острова"
+            ],
+            "uk": [
+                "Коралове море",
+                "Червоне море",
+                "Галапагоські острови"
+            ],
+            "en": [
+                "Coral Sea",
+                "Red Sea",
+                "Galápagos Islands"
+            ],
+            "es": [
+                "Mar del Coral",
+                "Mar Rojo",
+                "Islas Galápagos"
+            ],
+            "pt": [
+                "Mar de Coral",
+                "Mar Vermelho",
+                "Ilhas Galápagos"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Австралия.",
+                "Подводный мир.",
+                "Колония."
+            ],
+            "uk": [
+                "Австралія.",
+                "Підводний світ.",
+                "Колонія."
+            ],
+            "en": [
+                "Australia.",
+                "Underwater world.",
+                "Colony."
+            ],
+            "es": [
+                "Australia.",
+                "Mundo submarino.",
+                "Colonia."
+            ],
+            "pt": [
+                "Austrália.",
+                "Mundo subaquático.",
+                "Colônia."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Где обитает более 1500 видов рыб?",
+                "Подводное чудо Австралии, видимое из космоса."
+            ],
+            "uk": [
+                "Де мешкає понад 1500 видів риб?",
+                "Підводне диво Австралії, що видно з космосу."
+            ],
+            "en": [
+                "Where do more than 1,500 species of fish live?",
+                "Australia's underwater wonder, visible from space."
+            ],
+            "es": [
+                "¿Dónde viven más de 1,500 especies de peces?",
+                "La maravilla submarina de Australia, visible desde el espacio."
+            ],
+            "pt": [
+                "Onde vivem mais de 1.500 espécies de peixes?",
+                "A maravilha subaquática da Austrália, visível do espaço."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это один из самых разнообразных подводных миров, где обитает более 1500 видов рыб.",
+            "uk": "Це один з найрізноманітніших підводних світів, де мешкає понад 1500 видів риб.",
+            "en": "It is one of the most diverse underwater ecosystems, home to more than 1,500 species of fish.",
+            "es": "Es uno de los ecosistemas submarinos más diversos, hogar de más de 1,500 especies de peces.",
+            "pt": "É um dos ecossistemas subaquáticos mais diversos, lar de mais de 1.500 espécies de peixes."
+        },
+        "qwestion": {
+            "ru": "Какая коралловая система, расположенная у берегов Австралии, является объектом Всемирного наследия ЮНЕСКО?",
+            "uk": "Яка коралова система, розташована біля берегів Австралії, є об'єктом Світової спадщини ЮНЕСКО?",
+            "en": "Which coral system, located off the coast of Australia, is a UNESCO World Heritage site?",
+            "es": "¿Qué sistema de coral, ubicado frente a la costa de Australia, es un sitio del Patrimonio Mundial de la UNESCO?",
+            "pt": "Qual sistema de coral, localizado na costa da Austrália, é um Patrimônio Mundial da UNESCO?"
+        },
+        "definition": {
+            "ru": "Большой Барьерный риф — это крупнейшая в мире система коралловых рифов, состоящая из более чем 2900 отдельных рифов. Расположен в Коралловом море, у берегов Австралии.",
+            "uk": "Великий Бар'єрний риф — це найбільша у світі система коралових рифів, що складається з понад 2900 окремих рифів. Розташований у Кораловому морі, біля берегів Австралії.",
+            "en": "The Great Barrier Reef is the world's largest coral reef system, composed of over 2,900 individual reefs. It is located in the Coral Sea, off the coast of Australia.",
+            "es": "La Gran Barrera de Coral es el sistema de arrecifes de coral más grande del mundo, compuesto por más de 2,900 arrecifes individuales. Se encuentra en el Mar del Coral, frente a la costa de Australia.",
+            "pt": "A Grande Barreira de Coral é o maior sistema de recifes de coral do mundo, composto por mais de 2.900 recifes individuais. Está localizada no Mar de Coral, na costa da Austrália."
+        },
+        "antipod": {
+            "ru": "Коралловый треугольник",
+            "uk": "Кораловий трикутник",
+            "en": "Coral Triangle",
+            "es": "Triángulo de Coral",
+            "pt": "Triângulo de Coral"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих двух систем является единой системой коралловых рифов?",
+            "uk": "Яка з цих двох систем є єдиною системою коралових рифів?",
+            "en": "Which of these two systems is a single, interconnected coral reef system?",
+            "es": "¿Cuál de estos dos sistemas es un único sistema de arrecifes de coral?",
+            "pt": "Qual desses dois sistemas é um único sistema de recifes de coral?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Great_Barrier_Reef"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Пещера кристаллов",
+            "uk": "Печера кристалів",
+            "en": "Cave of the Crystals",
+            "es": "Cueva de los Cristales",
+            "pt": "Caverna dos Cristais"
+        },
+        "wrong": {
+            "ru": [
+                "Пещера Ласко",
+                "Саксонская Швейцария",
+                "Соляные шахты в Величке"
+            ],
+            "uk": [
+                "Печера Ласко",
+                "Саксонська Швейцарія",
+                "Соляні шахти у Величці"
+            ],
+            "en": [
+                "Lascaux Cave",
+                "Saxon Switzerland",
+                "Wieliczka Salt Mine"
+            ],
+            "es": [
+                "Cueva de Lascaux",
+                "Suiza Sajona",
+                "Mina de sal de Wieliczka"
+            ],
+            "pt": [
+                "Caverna de Lascaux",
+                "Suíça Saxônica",
+                "Mina de Sal de Wieliczka"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Кристаллы.",
+                "Мексика.",
+                "Подземное."
+            ],
+            "uk": [
+                "Кристали.",
+                "Мексика.",
+                "Підземне."
+            ],
+            "en": [
+                "Crystals.",
+                "Mexico.",
+                "Underground."
+            ],
+            "es": [
+                "Cristales.",
+                "México.",
+                "Subterráneo."
+            ],
+            "pt": [
+                "Cristais.",
+                "México.",
+                "Subterrâneo."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Пещера гигантских кристалов.",
+                "Подземный собор, где вместо колонн — гигантские кристаллы."
+            ],
+            "uk": [
+                "Печера гігантських кристалів.",
+                "Підземний собор, де замість колон — гігантські кристали."
+            ],
+            "en": [
+                "The cave of giant crystals.",
+                "An underground cathedral where the columns are giant crystals."
+            ],
+            "es": [
+                "La cueva de los cristales gigantes.",
+                "Una catedral subterránea donde las columnas son cristales gigantes."
+            ],
+            "pt": [
+                "A caverna dos cristais gigantes.",
+                "Uma catedral subterrânea onde as colunas são cristais gigantes."
+            ]
+        },
+        "tooltip": {
+            "ru": "Некоторые кристаллы достигают 12 метров.",
+            "uk": "Деякі кристали досягають 12 метрів.",
+            "en": "Some crystals reach 12 meters.",
+            "es": "Algunos cristales alcanzan los 12 metros.",
+            "pt": "Alguns cristais atingem 12 metros."
+        },
+        "qwestion": {
+            "ru": "Какая пещера в Мексике содержит одни из самых больших природных кристаллов в мире?",
+            "uk": "Яка печера в Мексиці містить одні з найбільших природних кристалів у світі?",
+            "en": "What cave in Mexico contains some of the largest natural crystals in the world?",
+            "es": "¿Qué cueva en México contiene algunos de los cristales naturales más grandes del mundo?",
+            "pt": "Qual caverna no México contém alguns dos maiores cristais naturais do mundo?"
+        },
+        "definition": {
+            "ru": "Пещера кристаллов — это пещера, расположенная в шахте Найка в мексиканском штате Чиуауа. Она известна своими гигантскими кристаллами селенита (разновидность гипса), которые являются одними из самых больших природных кристаллов, когда-либо найденных. Самые крупные кристаллы достигают 12 метров в длину и весят до 55 тонн. Пещера была обнаружена в 2000 году братьями-шахтерами. Ее уникальная красота сочетается с экстремальными условиями: температура внутри достигает 58°C при влажности 99%, что делает пребывание в ней смертельно опасным без специального защитного снаряжения.",
+            "uk": "Печера кристалів — це печера, розташована в шахті Найка в мексиканському штаті Чіуауа. Вона відома своїми гігантськими кристалами селеніту (різновид гіпсу), які є одними з найбільших природних кристалів, коли-небудь знайдених. Найбільші кристали досягають 12 метрів у довжину і важать до 55 тонн. Печера була виявлена в 2000 році братами-шахтарями. Її унікальна краса поєднується з екстремальними умовами: температура всередині сягає 58°C при вологості 99%, що робить перебування в ній смертельно небезпечним без спеціального захисного спорядження.",
+            "en": "The Cave of the Crystals is a cave located in the Naica Mine in Chihuahua, Mexico. It is known for its giant selenite crystals (a form of gypsum), which are among the largest natural crystals ever found. The largest crystals reach 12 meters in length and weigh up to 55 tons. The cave was discovered in 2000 by two mining brothers. Its unique beauty is combined with extreme conditions: the temperature inside reaches 58°C with 99% humidity, making it lethally dangerous to be inside without special protective equipment.",
+            "es": "La Cueva de los Cristales es una cueva ubicada en la Mina de Naica en Chihuahua, México. Es conocida por sus gigantes cristales de selenita (una forma de yeso), que se encuentran entre los cristales naturales más grandes jamás hallados. Los cristales más grandes alcanzan los 12 metros de longitud y pesan hasta 55 toneladas. La cueva fue descubierta en el año 2000 por dos hermanos mineros. Su belleza única se combina con condiciones extremas: la temperatura interior alcanza los 58°C con un 99% de humedad, lo que hace que estar dentro sea mortalmente peligroso sin equipo de protección especial.",
+            "pt": "A Caverna dos Cristais é uma caverna localizada na Mina de Naica em Chihuahua, México. É conhecida por seus gigantes cristais de selenita (uma forma de gesso), que estão entre os maiores cristais naturais já encontrados. Os maiores cristais atingem 12 metros de comprimento e pesam até 55 toneladas. A caverna foi descoberta no ano 2000 por dois irmãos mineradores. Sua beleza única se combina com condições extremas: a temperatura interna atinge 58°C com 99% de umidade, tornando a permanência no local mortalmente perigosa sem equipamento de proteção especial."
+        },
+        "antipod": {
+            "ru": "Стоунхендж",
+            "uk": "Стоунхендж",
+            "en": "Stonehenge",
+            "es": "Stonehenge",
+            "pt": "Stonehenge"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих мест находится под землей?",
+            "uk": "Яке з цих місць знаходиться під землею?",
+            "en": "Which of these places is underground?",
+            "es": "¿Cuál de estos lugares está bajo tierra?",
+            "pt": "Qual desses lugares está no subsolo?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Cave_of_the_Crystals"
+    },
+    "imgFlag": "all" 
+}

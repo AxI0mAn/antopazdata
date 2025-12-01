@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Тромбон",
+            "uk": "Тромбон",
+            "en": "Trombone",
+            "es": "Trombón",
+            "pt": "Trombone"
+        },
+        "wrong": {
+            "ru": [
+                "Труба",
+                "Туба",
+                "Корнет"
+            ],
+            "uk": [
+                "Труба",
+                "Туба",
+                "Корнет"
+            ],
+            "en": [
+                "Trumpet",
+                "Tuba",
+                "Cornet"
+            ],
+            "es": [
+                "Trompeta",
+                "Tuba",
+                "Corneta"
+            ],
+            "pt": [
+                "Trompete",
+                "Tuba",
+                "Cornetim"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Медь.",
+                "Кулиса.",
+                "Блюз."
+            ],
+            "uk": [
+                "Мідь.",
+                "Куліса.",
+                "Блюз."
+            ],
+            "en": [
+                "Brass.",
+                "Slide.",
+                "Blues."
+            ],
+            "es": [
+                "Bronce.",
+                "Vara.",
+                "Blues."
+            ],
+            "pt": [
+                "Metal.",
+                "Vara.",
+                "Blues."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Духовой, но без клапанов?",
+                "Что значит «большая труба»?"
+            ],
+            "uk": [
+                "Духовий, але без клапанів?",
+                "Що означає «велика труба»?"
+            ],
+            "en": [
+                "A wind instrument, but no valves?",
+                "What's the 'big trumpet'?"
+            ],
+            "es": [
+                "¿De viento, pero sin válvulas?",
+                "¿El 'gran trompeta'?"
+            ],
+            "pt": [
+                "De sopro, mas sem válvulas?",
+                "O 'grande trompete'?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Его название переводится с итальянского как «большая труба».",
+            "uk": "Його назва перекладається з італійської як «велика труба».",
+            "en": "Its name translates from Italian as 'large trumpet'.",
+            "es": "Su nombre se traduce del italiano como 'gran trompeta'.",
+            "pt": "Seu nome se traduz do italiano como 'trompete grande'."
+        },
+        "qwestion": {
+            "ru": "Какой инструмент без клапанов меняет тон подвижной кулисой?",
+            "uk": "Який інструмент без клапанів змінює тон рухомою кулісою?",
+            "en": "Which instrument without valves changes tone with a movable slide?",
+            "es": "¿Qué instrumento sin válvulas cambia de tono con una vara móvil?",
+            "pt": "Qual instrumento sem válvulas muda de tom com uma vara móvel?"
+        },
+        "definition": {
+            "ru": "Тромбон — это медный духовой инструмент, отличительной чертой которого является телескопическая кулиса. Он используется для изменения высоты звука, создавая тем самым мягкий и глубокий тембр, популярный в джазе и классике.",
+            "uk": "Тромбон — це мідний духовий інструмент, відмінною рисою якого є телескопічна куліса. Він використовується для зміни висоти звуку, створюючи тим самим м'який і глибокий тембр, популярний в джазі та класиці.",
+            "en": "The trombone is a brass wind instrument distinguished by its telescopic slide. The slide is used to change pitch, creating a smooth and deep tone popular in both jazz and classical music.",
+            "es": "El trombón es un instrumento de viento-metal que se distingue por su vara telescópica. La vara se usa para cambiar el tono, creando un sonido suave y profundo popular en el jazz y la música clásica.",
+            "pt": "O trombone é um instrumento de sopro de metal que se distingue pela sua vara telescópica. A vara é usada para mudar o tom, criando um som suave e profundo popular tanto no jazz quanto na música clássica."
+        },
+        "antipod": {
+            "ru": "Валторна",
+            "uk": "Валторна",
+            "en": "French horn",
+            "es": "Trompa",
+            "pt": "Trompa"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих инструментов использует скользящий механизм для изменения длины трубы?",
+            "uk": "Який з цих інструментів використовує ковзний механізм для зміни довжини труби?",
+            "en": "Which of these instruments uses a sliding mechanism to change the tube's length?",
+            "es": "¿Cuál de estos instrumentos utiliza un mecanismo deslizante para cambiar la longitud del tubo?",
+            "pt": "Qual desses instrumentos usa um mecanismo deslizante para mudar o comprimento do tubo?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Trombone"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,102 @@
+{
+    "data": {
+        "name": {
+            "ru": "Динамит",
+            "uk": "Динаміт",
+            "en": "Dynamite",
+            "es": "Dinamita",
+            "pt": "Dinamite"
+        },
+        "wrong": {
+            "ru": [
+                "Тротил",
+                "Нитроглицерин",
+                "Кордит"
+            ],
+            "uk": [
+                "Тротил",
+                "Нітрогліцерин",
+                "Кордит"
+            ],
+            "en": [
+                "TNT",
+                "Nitroglycerin",
+                "Cordite"
+            ],
+            "es": [
+                "TNT",
+                "Nitroglicerina",
+                "Cordita"
+            ],
+            "pt": [
+                "TNT",
+                "Nitroglicerina",
+                "Cordite"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Нобель",
+                "Взрывчатка",
+                "Нитроглицерин"
+            ],
+            "uk": [
+                "Нобель",
+                "Вибухівка",
+                "Нітрогліцерин"
+            ],
+            "en": [
+                "Nobel",
+                "Explosive",
+                "Nitroglycerin"
+            ],
+            "es": [
+                "Nobel",
+                "Explosivo",
+                "Nitroglicerina"
+            ],
+            "pt": [
+                "Nobel",
+                "Explosivo",
+                "Nitroglicerina"
+            ]
+        },
+        "tooltip": {
+            "ru": "Изобретатель динамита, Альфред Нобель, был шокирован, когда в газете его ошибочно назвали 'торговцем смертью'.",
+            "uk": "Винахідник динаміту, Альфред Нобель, був шокований, коли в газеті його помилково назвали «торговцем смертю».",
+            "en": "The inventor of dynamite, Alfred Nobel, was shocked when a newspaper mistakenly called him a 'merchant of death'.",
+            "es": "El inventor de la dinamita, Alfred Nobel, se sorprendió cuando un periódico lo llamó erróneamente 'mercader de la muerte'.",
+            "pt": "O inventor da dinamite, Alfred Nobel, ficou chocado quando um jornal o chamou erroneamente de 'mercador da morte'."
+        },
+        "qwestion": {
+            "ru": "Какая взрывчатка привела к созданию Нобелевской премии мира?",
+            "uk": "Яка вибухівка призвела до створення Нобелівської премії миру?",
+            "en": "What explosive led to the creation of the Nobel Peace Prize?",
+            "es": "¿Qué explosivo llevó a la creación del Premio Nobel de la Paz?",
+            "pt": "Qual explosivo levou à criação do Prêmio Nobel da Paz?"
+        },
+        "definition": {
+            "ru": "Динамит — это мощное взрывчатое вещество, изобретенное химиком Альфредом Нобелем. Изначально предназначенное для строительных и горнодобывающих работ, оно принесло Нобелю огромное состояние, но и заставило задуматься о последствиях своего изобретения, что в итоге привело к учреждению знаменитой премии.",
+            "uk": "Динаміт — це потужна вибухова речовина, винайдена хіміком Альфредом Нобелем. Спочатку призначена для будівельних та гірничодобувних робіт, вона принесла Нобелю величезні статки, але й змусила задуматися про наслідки свого винаходу, що в підсумку призвело до заснування знаменитої премії.",
+            "en": "Dynamite is a powerful explosive invented by chemist Alfred Nobel. Initially intended for construction and mining, it brought Nobel a vast fortune but also made him reflect on the consequences of his invention, which ultimately led to the establishment of the famous prize.",
+            "es": "La dinamita es un potente explosivo inventado por el químico Alfred Nobel. Originalmente destinado a la construcción y la minería, le trajo a Nobel una gran fortuna, pero también lo hizo reflexionar sobre las consecuencias de su invento, lo que finalmente llevó al establecimiento del famoso premio.",
+            "pt": "A dinamite é um explosivo poderoso inventado pelo químico Alfred Nobel. Inicialmente destinada à construção e mineração, trouxe a Nobel uma vasta fortuna, mas também o fez refletir sobre as consequências de sua invenção, o que acabou levando ao estabelecimento do famoso prêmio."
+        },
+        "antipod": {
+            "ru": "Порох",
+            "uk": "Порох",
+            "en": "Gunpowder",
+            "es": "Pólvora",
+            "pt": "Pólvora"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих двух материалов привёл к созданию Нобелевской премии мира?",
+            "uk": "Який з цих двох матеріалів призвів до створення Нобелівської премії миру?",
+            "en": "Which of these two materials led to the creation of the Nobel Peace Prize?",
+            "es": "¿Cuál de estos dos materiales condujo a la creación del Premio Nobel de la Paz?",
+            "pt": "Qual desses dois materiais levou à criação do Prêmio Nobel da Paz?"
+        },
+        "article": "https://ru.wikipedia.org/wiki/Динамит"
+    },
+    "imgFlag": "all" 
+}

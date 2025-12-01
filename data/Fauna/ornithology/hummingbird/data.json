@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Колибри",
+            "uk": "Колібрі",
+            "en": "Hummingbird",
+            "es": "Colibrí",
+            "pt": "Beija-flor"
+        },
+        "wrong": {
+            "ru": [
+                "Стриж",
+                "Ласточка",
+                "Трясогузка"
+            ],
+            "uk": [
+                "Серпокрилець",
+                "Ластівка",
+                "Плиска"
+            ],
+            "en": [
+                "Swift",
+                "Swallow",
+                "Wagtail"
+            ],
+            "es": [
+                "Vencejo",
+                "Golondrina",
+                "Lavandera"
+            ],
+            "pt": [
+                "Andorinhão",
+                "Andorinha",
+                "Alvéola"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Цветок.",
+                "Нектар.",
+                "Полёт."
+            ],
+            "uk": [
+                "Квітка.",
+                "Нектар.",
+                "Політ."
+            ],
+            "en": [
+                "Flower.",
+                "Nectar.",
+                "Flight."
+            ],
+            "es": [
+                "Flor.",
+                "Néctar.",
+                "Vuelo."
+            ],
+            "pt": [
+                "Flor.",
+                "Néctar.",
+                "Voo."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Я питаюсь нектаром цветов.",
+                "Я умею летать назад."
+            ],
+            "uk": [
+                "Я харчуюся нектаром квітів.",
+                "Я вмію літати назад."
+            ],
+            "en": [
+                "I feed on flower nectar.",
+                "I can fly backward."
+            ],
+            "es": [
+                "Me alimento del néctar de las flores.",
+                "Puedo volar hacia atrás."
+            ],
+            "pt": [
+                "Eu me alimento do néctar das flores.",
+                "Eu consigo voar para trás."
+            ]
+        },
+        "tooltip": {
+            "ru": "Маленькая птица, способная летать назад и зависать в воздухе.",
+            "uk": "Маленький птах, здатний літати назад і зависати в повітрі.",
+            "en": "A tiny bird capable of flying backward and hovering in the air.",
+            "es": "Un ave diminuta capaz de volar hacia atrás y mantenerse suspendida en el aire.",
+            "pt": "Uma ave minúscula capaz de voar para trás e pairar no ar."
+        },
+        "qwestion": {
+            "ru": "Какая самая маленькая в мире птица умеет летать назад?",
+            "uk": "Який найменший у світі птах вміє літати назад?",
+            "en": "What is the world's smallest bird that can fly backward?",
+            "es": "¿Cuál es el ave más pequeña del mundo que puede volar hacia atrás?",
+            "pt": "Qual é a menor ave do mundo que consegue voar para trás?"
+        },
+        "definition": {
+            "ru": "Маленькая птица из отряда стрижеобразных, известная своим быстрым сердцебиением и метаболизмом. Питается нектаром, зависая в воздухе.",
+            "uk": "Маленький птах із ряду серпокрильцеподібних, відомий швидким серцебиттям і метаболізмом. Харчується нектаром, зависаючи в повітрі.",
+            "en": "A tiny bird from the Apodiformes order, known for its rapid heartbeat and metabolism. It feeds on nectar by hovering in the air.",
+            "es": "Un ave diminuta del orden Apodiformes, conocida por su ritmo cardíaco y metabolismo rápidos. Se alimenta de néctar flotando en el aire.",
+            "pt": "Uma ave minúscula da ordem Apodiformes, conhecida por seu ritmo cardíaco e metabolismo rápidos. Alimenta-se de néctar pairando no ar."
+        },
+        "antipod": {
+            "ru": "Воробей",
+            "uk": "Горобець",
+            "en": "Sparrow",
+            "es": "Gorrión",
+            "pt": "Pardal"
+        },
+        "hintFuiz": {
+            "ru": "Кто меньше: колибри или воробей?",
+            "uk": "Хто менший: колібрі чи горобець?",
+            "en": "Who is smaller: a hummingbird or a sparrow?",
+            "es": "¿Quién es más pequeño: colibrí o gorrión?",
+            "pt": "Quem é menor: um beija-flor ou um pardal?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Hummingbird"
+    },
+    "imgFlag": "all" 
+}

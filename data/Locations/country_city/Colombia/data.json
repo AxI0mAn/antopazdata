@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Колумбия",
+            "uk": "Колумбія",
+            "en": "Colombia",
+            "es": "Colombia",
+            "pt": "Colômbia"
+        },
+        "wrong": {
+            "ru": [
+                "Перу",
+                "Аргентина",
+                "Боливия"
+            ],
+            "uk": [
+                "Перу",
+                "Аргентина",
+                "Болівія"
+            ],
+            "en": [
+                "Peru",
+                "Argentina",
+                "Bolivia"
+            ],
+            "es": [
+                "Perú",
+                "Argentina",
+                "Bolivia"
+            ],
+            "pt": [
+                "Peru",
+                "Argentina",
+                "Bolívia"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Кристофор.",
+                "Два океана.",
+                "Кофе."
+            ],
+            "uk": [
+                "Крістофор.",
+                "Два океани.",
+                "Кава."
+            ],
+            "en": [
+                "Christopher.",
+                "Two oceans.",
+                "Coffee."
+            ],
+            "es": [
+                "Cristóbal.",
+                "Dos océanos.",
+                "Café."
+            ],
+            "pt": [
+                "Cristóvão.",
+                "Dois oceanos.",
+                "Café."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Страна в честь великого мореплавателя, но он никогда там не был.",
+                "У меня есть два берега, которые не соединяются."
+            ],
+            "uk": [
+                "Країна на честь великого мореплавця, але він ніколи там не був.",
+                "У мене є два береги, які не з'єднуються."
+            ],
+            "en": [
+                "A country named after a great navigator, but he never went there.",
+                "I have two coasts that don't connect."
+            ],
+            "es": [
+                "Un país nombrado en honor a un gran navegante, pero él nunca estuvo allí.",
+                "Tengo dos costas que no se conectan."
+            ],
+            "pt": [
+                "Um país nomeado em homenagem a um grande navegador, mas ele nunca esteve lá.",
+                "Eu tenho duas costas que não se conectam."
+            ]
+        },
+        "tooltip": {
+            "ru": "Только она, в Южной Америке, имеет выход к Тихому и Атлантическому океанам.",
+            "uk": "Тільки вона, у Південній Америці, має вихід до Тихого та Атлантичного океанів.",
+            "en": "Only it, in South America, has access to both the Pacific and Atlantic oceans.",
+            "es": "Solo este país, en América del Sur, tiene acceso a los océanos Pacífico y Atlántico.",
+            "pt": "Apenas ele, na América do Sul, tem acesso aos oceanos Pacífico e Atlântico."
+        },
+        "qwestion": {
+            "ru": "Какая страна, названная в честь известного мореплавателя?",
+            "uk": "Яка країна, названа на честь відомого мореплавця?",
+            "en": "Which country is named after a famous navigator?",
+            "es": "¿Qué país lleva el nombre de un famoso navegante?",
+            "pt": "Qual país leva o nome de um famoso navegador?"
+        },
+        "definition": {
+            "ru": "Колумбия — страна на северо-западе Южной Америки, названная в честь Христофора Колумба. Она уникальна тем, что имеет выход к двум океанам — Тихому и Атлантическому (через Карибское море). Колумбия известна своими разнообразными пейзажами: от Андских гор и тропических лесов Амазонки до плодородных кофейных плантаций. Она является одним из мировых лидеров по производству высококачественного кофе и славится своим богатым культурным наследием, музыкой и биоразнообразием.",
+            "uk": "Колумбія — країна на північному заході Південної Америки, названа на честь Христофора Колумба. Вона унікальна тим, що має вихід до двох океанів — Тихого та Атлантичного (через Карибське море). Колумбія відома своїми різноманітними пейзажами: від Андських гір і тропічних лісів Амазонки до родючих кавових плантацій. Вона є одним зі світових лідерів з виробництва високоякісної кави і славиться своєю багатою культурною спадщиною, музикою та біорізноманіттям.",
+            "en": "Colombia is a country in the northwest of South America, named after Christopher Columbus. It is unique in that it has access to two oceans—the Pacific and the Atlantic (via the Caribbean Sea). Colombia is known for its diverse landscapes, from the Andean mountains and Amazon rainforest to fertile coffee plantations. It is a world leader in high-quality coffee production and is famous for its rich cultural heritage, music, and biodiversity.",
+            "es": "Colombia es un país en el noroeste de América del Sur, llamado así en honor a Cristóbal Colón. Es único porque tiene acceso a dos océanos: el Pacífico y el Atlántico (a través del Mar Caribe). Colombia es conocida por sus diversos paisajes, desde las montañas de los Andes y la selva amazónica hasta las fértiles plantaciones de café. Es uno de los líderes mundiales en la producción de café de alta calidad y es famosa por su rica herencia cultural, música y biodiversidad.",
+            "pt": "A Colômbia é um país no noroeste da América do Sul, nomeado em homenagem a Cristóvão Colombo. É único por ter acesso a dois oceanos — o Pacífico e o Atlântico (através do Mar do Caribe). A Colômbia é conhecida por suas paisagens diversas, desde as montanhas dos Andes e a floresta amazônica até as férteis plantações de café. É um dos líderes mundiais na produção de café de alta qualidade e é famosa por sua rica herança cultural, música e biodiversidade."
+        },
+        "antipod": {
+            "ru": "Бразилия",
+            "uk": "Бразилія",
+            "en": "Brazil",
+            "es": "Brasil",
+            "pt": "Brasil"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих стран имеет выход к двум океанам?",
+            "uk": "Яка з цих країн має вихід до двох океанів?",
+            "en": "Which of these countries has access to two oceans?",
+            "es": "¿Cuál de estos países tiene acceso a dos océanos?",
+            "pt": "Qual desses países tem acesso a dois oceanos?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Colombia"
+    },
+    "imgFlag": "quizfoto" 
+}

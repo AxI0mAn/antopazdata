@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Репа",
+            "uk": "Ріпа",
+            "en": "Turnip",
+            "es": "Nabo",
+            "pt": "Nabo"
+        },
+        "wrong": {
+            "ru": [
+                "Картофель",
+                "Свекла",
+                "Редис"
+            ],
+            "uk": [
+                "Картопля",
+                "Буряк",
+                "Редис"
+            ],
+            "en": [
+                "Potato",
+                "Beet",
+                "Radish"
+            ],
+            "es": [
+                "Patata",
+                "Remolacha",
+                "Rábano"
+            ],
+            "pt": [
+                "Batata",
+                "Beterraba",
+                "Rabanete"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Ирландия.",
+                "Резьба.",
+                "Фонарь."
+            ],
+            "uk": [
+                "Ірландія.",
+                "Різьба.",
+                "Ліхтар."
+            ],
+            "en": [
+                "Ireland.",
+                "Carving.",
+                "Lantern."
+            ],
+            "es": [
+                "Irlanda.",
+                "Talla.",
+                "Linterna."
+            ],
+            "pt": [
+                "Irlanda.",
+                "Esculpindo.",
+                "Lanterna."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Использовали вместо тыквы.",
+                "Её заменила тыква."
+            ],
+            "uk": [
+                "Використовували замість гарбуза.",
+                "Її замінив гарбуз."
+            ],
+            "en": [
+                "It was used instead of a pumpkin.",
+                "It was replaced by a pumpkin."
+            ],
+            "es": [
+                "Se usaba en lugar de una calabaza.",
+                "Fue reemplazada por una calabaza."
+            ],
+            "pt": [
+                "Foi usado no lugar de uma abóbora.",
+                "Foi substituído por uma abóbora."
+            ]
+        },
+        "tooltip": {
+            "ru": "Потому что тыквы были слишком дорогими и редкими.",
+            "uk": "Тому що гарбузи були надто дорогими і рідкісними.",
+            "en": "Because pumpkins were too expensive and rare.",
+            "es": "Porque las calabazas eran demasiado caras y raras.",
+            "pt": "Porque as abóboras eram muito caras e raras."
+        },
+        "qwestion": {
+            "ru": "Какой овощ изначально использовался для вырезания фонарей для Хеллоуина?",
+            "uk": "Який овоч спочатку використовувався для вирізання ліхтарів для Хелловіну?",
+            "en": "What vegetable was originally used to carve lanterns for Halloween?",
+            "es": "¿Qué vegetal se usó originalmente para tallar linternas para Halloween?",
+            "pt": "Que vegetal foi originalmente usado para esculpir lanternas para o Halloween?"
+        },
+        "definition": {
+            "ru": "Репа — это корнеплод, который ирландские и шотландские кельты традиционно использовали для вырезания фонарей во время праздника Самайн. Когда иммигранты перебрались в Северную Америку, они обнаружили, что местные тыквы было гораздо легче вырезать, и репу заменили.",
+            "uk": "Ріпа — це коренеплід, який ірландські та шотландські кельти традиційно використовували для вирізання ліхтарів під час свята Самайн. Коли іммігранти перебралися до Північної Америки, вони виявили, що місцеві гарбузи було набагато легше вирізати, і ріпу замінили.",
+            "en": "The turnip is a root vegetable that Irish and Scottish Celts traditionally used to carve lanterns during the Samhain festival. When immigrants moved to North America, they found that local pumpkins were much easier to carve, and the turnip was replaced.",
+            "es": "El nabo es una raíz que los celtas irlandeses y escoceses usaban tradicionalmente para tallar linternas durante el festival de Samhain. Cuando los inmigrantes se mudaron a América del Norte, encontraron que las calabazas locales eran mucho más fáciles de tallar, y el nabo fue reemplazado.",
+            "pt": "O nabo é um vegetal de raiz que os celtas irlandeses e escoceses usavam tradicionalmente para esculpir lanternas durante o festival de Samhain. Quando os imigrantes se mudaram para a América do Norte, eles descobriram que as abóboras locais eram muito mais fáceis de esculpir, e o nabo foi substituído."
+        },
+        "antipod": {
+            "ru": "Тыква",
+            "uk": "Гарбуз",
+            "en": "Pumpkin",
+            "es": "Calabaza",
+            "pt": "Abóbora"
+        },
+        "hintFuiz": {
+            "ru": "Что использовали изначально для Хеллоуина?",
+            "uk": "Що використовували спочатку для Геловіну?",
+            "en": "What was originally used for Halloween?",
+            "es": "¿Qué se usaba originalmente para Halloween?",
+            "pt": "O que era usado originalmente para o Halloween?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Jack-o%27-lantern"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Пластик",
+            "uk": "Пластик",
+            "en": "Plastic",
+            "es": "Plástico",
+            "pt": "Plástico"
+        },
+        "wrong": {
+            "ru": [
+                "Нейлон",
+                "Стекловолокно",
+                "Синтетический каучук"
+            ],
+            "uk": [
+                "Нейлон",
+                "Скловолокно",
+                "Синтетичний каучук"
+            ],
+            "en": [
+                "Nylon",
+                "Fiberglass",
+                "Synthetic rubber"
+            ],
+            "es": [
+                "Nailon",
+                "Fibra de vidrio",
+                "Caucho sintético"
+            ],
+            "pt": [
+                "Nylon",
+                "Fibra de vidro",
+                "Borracha sintética"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Бильярд.",
+                "Замена.",
+                "Слоновая кость."
+            ],
+            "uk": [
+                "Більярд.",
+                "Заміна.",
+                "Слонова кістка."
+            ],
+            "en": [
+                "Billiards.",
+                "Replacement.",
+                "Ivory."
+            ],
+            "es": [
+                "Billar.",
+                "Reemplazo.",
+                "Marfil."
+            ],
+            "pt": [
+                "Bilhar.",
+                "Substituição.",
+                "Marfim."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Из газа и нефти.",
+                "Твёрдый, но сделан из газа."
+            ],
+            "uk": [
+                "З газу і нафти.",
+                "Твердий, але зроблений з газу."
+            ],
+            "en": [
+                "From gas and oil.",
+                "Solid, but made from gas."
+            ],
+            "es": [
+                "De gas y petróleo.",
+                "Sólido, pero hecho de gas."
+            ],
+            "pt": [
+                "De gás e petróleo.",
+                "Sólido, mas feito de gás."
+            ]
+        },
+        "tooltip": {
+            "ru": "Получают из нефти и природного газа путем их переработки.",
+            "uk": "Отримують з нафти та природного газу шляхом їх переробки.",
+            "en": "It is obtained from oil and natural gas through their processing.",
+            "es": "Se obtiene del petróleo y el gas natural a través de su procesamiento.",
+            "pt": "É obtido do petróleo e gás natural por meio de seu processamento."
+        },
+        "qwestion": {
+            "ru": "Какое изобретение было изначально создано для замены слоновой кости в бильярдных шарах?",
+            "uk": "Який винахід був спочатку створений для заміни слонової кістки в більярдних кулях?",
+            "en": "What invention was originally created to replace ivory in billiard balls?",
+            "es": "¿Qué invento se creó originalmente para reemplazar el marfil en las bolas de billar?",
+            "pt": "Que invenção foi originalmente criada para substituir o marfim em bolas de bilhar?"
+        },
+        "definition": {
+            "ru": "Пластик — это синтетический материал, получаемый из нефти и газа. Первый коммерческий пластик, целлулоид, был изобретен Джоном Уэсли Хайаттом в 1869 году как реакция на конкурс, предлагавший 10 000 долларов за замену слоновой кости для бильярдных шаров. Это положило начало эпохе дешевых и универсальных материалов.",
+            "uk": "Пластик — це синтетичний матеріал, що отримується з нафти та газу. Перший комерційний пластик, целулоїд, був винайдений Джоном Уеслі Хаяттом у 1869 році як реакція на конкурс, що пропонував 10 000 доларів за заміну слонової кістки для більярдних куль. Це поклало початок епосі дешевих і універсальних матеріалів.",
+            "en": "Plastic is a synthetic material derived from oil and gas. The first commercial plastic, celluloid, was invented by John Wesley Hyatt in 1869 in response to a contest offering $10,000 for a substitute for ivory billiard balls. This invention ushered in an era of cheap and versatile materials.",
+            "es": "El plástico es un material sintético derivado del petróleo y el gas. El primer plástico comercial, el celuloide, fue inventado por John Wesley Hyatt en 1869 en respuesta a un concurso que ofrecía $10,000 por un sustituto del marfil para las bolas de billar. Este invento marcó el comienzo de una era de materiales económicos y versátiles.",
+            "pt": "O plástico é um material sintético derivado de petróleo e gás. O primeiro plástico comercial, o celuloide, foi inventado por John Wesley Hyatt em 1869 em resposta a um concurso que oferecia US$ 10.000 por um substituto para as bolas de bilhar de marfim. Essa invenção deu início a uma era de materiais baratos e versáteis."
+        },
+        "antipod": {
+            "ru": "Резина",
+            "uk": "Гума",
+            "en": "Rubber",
+            "es": "Goma",
+            "pt": "Borracha"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих изобретений было создано для замены натуральных материалов?",
+            "uk": "Який із цих винаходів був створений для заміни натуральних матеріалів?",
+            "en": "Which of these inventions was created to replace natural materials?",
+            "es": "¿Cuál de estos inventos fue creado para reemplazar materiales naturales?",
+            "pt": "Qual dessas invenções foi criada para substituir materiais naturais?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Plastic"
+    },
+    "imgFlag": "quizfoto" 
+}

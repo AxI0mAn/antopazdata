@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Атлас Кленке",
+            "uk": "Атлас Кленке",
+            "en": "The Klencke Atlas",
+            "es": "The Klencke Atlas",
+            "pt": "The Klencke Atlas"
+        },
+        "wrong": {
+            "ru": [
+                "Кодекс Гигас",
+                "Библия Гутенберга",
+                "Великая Книга из Келлс"
+            ],
+            "uk": [
+                "Кодекс Гігас",
+                "Біблія Гутенберга",
+                "Велика Книга з Келлс"
+            ],
+            "en": [
+                "Codex Gigas",
+                "Gutenberg Bible",
+                "The Great Book of Kells"
+            ],
+            "es": [
+                "Codex Gigas",
+                "Biblia de Gutenberg",
+                "El Gran Libro de Kells"
+            ],
+            "pt": [
+                "Codex Gigas",
+                "Bíblia de Gutenberg",
+                "O Grande Livro de Kells"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Атлас.",
+                "Карты.",
+                "Вес."
+            ],
+            "uk": [
+                "Атлас.",
+                "Карти.",
+                "Вага."
+            ],
+            "en": [
+                "Atlas.",
+                "Maps.",
+                "Weight."
+            ],
+            "es": [
+                "Atlas.",
+                "Mapas.",
+                "Peso."
+            ],
+            "pt": [
+                "Atlas.",
+                "Mapas.",
+                "Peso."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Книга весом 200 килограм.",
+                "Создан для короля, чтобы показать всю его империю."
+            ],
+            "uk": [
+                "Книга вагою 200 кілограмів.",
+                "Створена для короля, щоб показати всю його імперію."
+            ],
+            "en": [
+                "A book weighing 200 kilograms.",
+                "Created for a king to show his entire empire."
+            ],
+            "es": [
+                "Un libro que pesa 200 kilogramos.",
+                "Creado para un rey para mostrar todo su imperio."
+            ],
+            "pt": [
+                "Um livro que pesa 200 quilos.",
+                "Criado para um rei para mostrar todo o seu império."
+            ]
+        },
+        "tooltip": {
+            "ru": "Она содержит карты мира и весит около 200 кг.",
+            "uk": "Вона містить карти світу і важить близько 200 кг.",
+            "en": "It contains maps of the world and weighs about 200 kg.",
+            "es": "Contiene mapas del mundo y pesa alrededor de 200 kg.",
+            "pt": "Contém mapas do mundo e pesa cerca de 200 kg."
+        },
+        "qwestion": {
+            "ru": "Какая самая большая книга в мире, высотой более 1,5 метра?",
+            "uk": "Яка найбільша книга у світі, висотою понад 1,5 метра?",
+            "en": "What is the largest book in the world, with a height of over 1.5 meters?",
+            "es": "¿Cuál es el libro más grande del mundo, con una altura de más de 1,5 metros?",
+            "pt": "Qual é o maior livro do mundo, com uma altura de mais de 1,5 metros?"
+        },
+        "definition": {
+            "ru": "Атлас Кленке — это самый большой атлас в мире, созданный в 1660 году. Его высота составляет 1,75 м, а вес — около 200 кг. Был подарен голландскими купцами королю Карлу II, и сейчас хранится в Британской библиотеке.",
+            "uk": "Атлас Кленке — це найбільший атлас у світі, створений у 1660 році. Його висота становить 1,75 м, а вага — близько 200 кг. Був подарований голландськими купцями королю Карлу II, і зараз зберігається в Британській бібліотеці.",
+            "en": "The Klencke Atlas is the largest atlas in the world, created in 1660. It stands 1.75 m tall and weighs about 200 kg. It was a gift from Dutch merchants to King Charles II and is now housed in the British Library.",
+            "es": "El Klencke Atlas es el atlas más grande del mundo, creado en 1660. Mide 1,75 m de altura y pesa unos 200 kg. Fue un regalo de comerciantes holandeses al rey Carlos II y ahora se encuentra en la Biblioteca Británica.",
+            "pt": "O Klencke Atlas é o maior atlas do mundo, criado em 1660. Ele tem 1,75 m de altura e pesa cerca de 200 kg. Foi um presente de comerciantes holandeses ao Rei Carlos II e agora está na Biblioteca Britânica."
+        },
+        "antipod": {
+            "ru": "Война и мир",
+            "uk": "Війна і мир",
+            "en": "War and Peace",
+            "es": "Guerra y paz",
+            "pt": "Guerra e Paz"
+        },
+        "hintFuiz": {
+            "ru": "Это книга весом около 200 кг.",
+            "uk": "Це книга вагою близько 200 кг.",
+            "en": "This is a book that weighs about 200 kg.",
+            "es": "Este es un libro que pesa alrededor de 200 kg.",
+            "pt": "Este é um livro que pesa cerca de 200 kg."
+        },
+        "article": "https://en.wikipedia.org/wiki/Klencke_Atlas"
+    },
+    "imgFlag": "quizfoto" 
+}

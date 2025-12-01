@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Стамбул",
+            "uk": "Стамбул",
+            "en": "Istanbul",
+            "es": "Estambul",
+            "pt": "Istambul"
+        },
+        "wrong": {
+            "ru": [
+                "Анкара",
+                "Измир",
+                "Афины"
+            ],
+            "uk": [
+                "Анкара",
+                "Ізмір",
+                "Афіни"
+            ],
+            "en": [
+                "Ankara",
+                "Izmir",
+                "Athens"
+            ],
+            "es": [
+                "Ankara",
+                "Esmirna",
+                "Atenas"
+            ],
+            "pt": [
+                "Ancara",
+                "Esmirna",
+                "Atenas"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Босфор.",
+                "Османская империя.",
+                "Мечети."
+            ],
+            "uk": [
+                "Босфор.",
+                "Османська імперія.",
+                "Мечеті."
+            ],
+            "en": [
+                "Bosphorus.",
+                "Ottoman Empire.",
+                "Mosques."
+            ],
+            "es": [
+                "Bósforo.",
+                "Imperio Otomano.",
+                "Mezquitas."
+            ],
+            "pt": [
+                "Bósforo.",
+                "Império Otomano.",
+                "Mesquitas."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Какой город расположен на двух континентах?",
+                "Где находится гигантский рынок Гранд Базар?"
+            ],
+            "uk": [
+                "Яке місто розташоване на двох континентах?",
+                "Де знаходиться гігантський ринок Гранд Базар?"
+            ],
+            "en": [
+                "Which city is located on two continents?",
+                "Where is the giant Grand Bazaar located?"
+            ],
+            "es": [
+                "¿Qué ciudad está en dos continentes?",
+                "¿Dónde se encuentra el gigantesco mercado del Gran Bazar?"
+            ],
+            "pt": [
+                "Qual cidade está em dois continentes?",
+                "Onde fica o gigantesco mercado Grand Bazaar?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Пролив Босфор разделяет его на европейскую и азиатскую части.",
+            "uk": "Протока Босфор розділяє його на європейську та азіатську частини.",
+            "en": "The Bosphorus Strait divides it into European and Asian parts.",
+            "es": "El estrecho del Bósforo lo divide en partes europea y asiática.",
+            "pt": "O Estreito de Bósforo o divide em partes europeia e asiática."
+        },
+        "qwestion": {
+            "ru": "Эта бывшая столица империи, известна своим собором Святой Софии",
+            "uk": "Ця колишня столиця імперії відома своїм собором Святої Софії",
+            "en": "This former imperial capital is known for its Hagia Sophia",
+            "es": "Esta antigua capital imperial es conocida por su Hagia Sophia",
+            "pt": "Esta antiga capital imperial é conhecida por sua Hagia Sophia"
+        },
+        "definition": {
+            "ru": "Крупнейший город Турции, расположенный на проливе Босфор. Он является историческим центром Византийской и Османской империй и важным культурным узлом.",
+            "uk": "Найбільше місто Туреччини, розташоване на протоці Босфор. Є історичним центром Візантійської та Османської імперій і важливим культурним вузлом.",
+            "en": "The largest city in Turkey, located on the Bosphorus Strait. It is the historical center of the Byzantine and Ottoman empires and a key cultural hub.",
+            "es": "La ciudad más grande de Turquía, ubicada a orillas del estrecho del Bósforo. Es el centro histórico de los imperios bizantino y otomano y un importante centro cultural.",
+            "pt": "A maior cidade da Turquia, situada às margens do Estreito de Bósforo. É o centro histórico dos impérios bizantino e otomano e um importante polo cultural."
+        },
+        "antipod": {
+            "ru": "Инверкаргилл",
+            "uk": "Інверкаргілл",
+            "en": "Invercargill",
+            "es": "Invercargill",
+            "pt": "Invercargill"
+        },
+        "hintFuiz": {
+            "ru": "Какой город расположен на двух континентах — Европе и Азии?",
+            "uk": "Яке місто розташоване на двох континентах — Європі та Азії?",
+            "en": "Which city is on two continents, Europe and Asia?",
+            "es": "¿Qué ciudad está en dos continentes, Europa y Asia?",
+            "pt": "Qual cidade fica em dois continentes, Europa e Ásia?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Istanbul"
+    },
+    "imgFlag": "quizfoto" 
+}

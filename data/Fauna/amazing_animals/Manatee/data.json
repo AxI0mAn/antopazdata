@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Ламантин",
+            "uk": "Ламантин",
+            "en": "Manatee",
+            "es": "Manatí",
+            "pt": "Peixe-boi"
+        },
+        "wrong": {
+            "ru": [
+                "Кашалот",
+                "Морской слон",
+                "Дюгонь"
+            ],
+            "uk": [
+                "Кашалот",
+                "Морський слон",
+                "Дюгонь"
+            ],
+            "en": [
+                "Cachalot",
+                "Elephant seal",
+                "Dugong"
+            ],
+            "es": [
+                "Cachalote",
+                "Elefante marino",
+                "Dugongo"
+            ],
+            "pt": [
+                "Cachalote",
+                "Elefante-marinho",
+                "Dugongo"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Водоплавающий.",
+                "Травоядный.",
+                "Добродушный."
+            ],
+            "uk": [
+                "Водоплавний.",
+                "Травоїдний.",
+                "Добродушний."
+            ],
+            "en": [
+                "Water-dwelling.",
+                "Herbivore.",
+                "Gentle."
+            ],
+            "es": [
+                "Acuático.",
+                "Herbívoro.",
+                "Bondadoso."
+            ],
+            "pt": [
+                "Aquático.",
+                "Herbívoro.",
+                "Gentil."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Родственник слона, живущий в воде.",
+                "У кого постоянно обновляются коренные зубы?"
+            ],
+            "uk": [
+                "Родич слона, що живе у воді.",
+                "У кого постійно оновлюються корінні зуби?"
+            ],
+            "en": [
+                "A relative of the elephant that lives in the water.",
+                "Whose molars are constantly being replaced?"
+            ],
+            "es": [
+                "Un pariente del elefante que vive en el agua.",
+                "¿A quién se le renuevan constantemente los molares?"
+            ],
+            "pt": [
+                "Um parente do elefante que vive na água.",
+                "Quem tem molares que se renovam constantemente?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Его ещё называют 'морская корова'.",
+            "uk": "Його ще називають 'морська корова'.",
+            "en": "It is also called the 'sea cow'.",
+            "es": "También se le llama la 'vaca marina'.",
+            "pt": "Também é chamado de 'vaca marinha'."
+        },
+        "qwestion": {
+            "ru": "Какое морское млекопитающее, имеет самую медленную скорость передвижения?",
+            "uk": "Який морський ссавець має найповільнішу швидкість пересування?",
+            "en": "What marine mammal has the slowest speed of movement?",
+            "es": "¿Qué mamífero marino tiene la velocidad de movimiento más lenta?",
+            "pt": "Que mamífero marinho tem a velocidade de movimento mais lenta?"
+        },
+        "definition": {
+            "ru": "Ламантин, или морская корова, — это большое, медленно движущееся, полностью водное млекопитающее. Он обитает в прибрежных водах и реках и питается исключительно растительностью.",
+            "uk": "Ламантин, або морська корова, — це великий, повільний, повністю водний ссавець. Він мешкає в прибережних водах та річках і харчується виключно рослинністю.",
+            "en": "The manatee, or sea cow, is a large, slow-moving, fully aquatic mammal. It lives in coastal waters and rivers and feeds exclusively on vegetation.",
+            "es": "El manatí, o vaca marina, es un mamífero acuático grande y de movimiento lento. Vive en aguas costeras y ríos y se alimenta exclusivamente de vegetación.",
+            "pt": "O peixe-boi, ou vaca marinha, é um grande mamífero aquático de movimento lento. Ele vive em águas costeiras e rios e se alimenta exclusivamente de vegetação."
+        },
+        "antipod": {
+            "ru": "Косатка",
+            "uk": "Косатка",
+            "en": "Orca",
+            "es": "Orca",
+            "pt": "Orca"
+        },
+        "hintFuiz": {
+            "ru": "Кто из них не хищник?",
+            "uk": "Хто з них не хижак?",
+            "en": "Which of them is not a predator?",
+            "es": "¿Cuál de ellos no es un depredador?",
+            "pt": "Qual deles não é um predador?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Manatee"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Пещерная рыба",
+            "uk": "Печерна риба",
+            "en": "Cavefish",
+            "es": "Pez de cueva",
+            "pt": "Peixe-cego"
+        },
+        "wrong": {
+            "ru": [
+                "Карась",
+                "Сом",
+                "Колюшка"
+            ],
+            "uk": [
+                "Карась",
+                "Сом",
+                "Колючка"
+            ],
+            "en": [
+                "Crucian carp",
+                "Catfish",
+                "Stickleback"
+            ],
+            "es": [
+                "Carpa cruciana",
+                "Bagre",
+                "Espinoso"
+            ],
+            "pt": [
+                "Carpa-comum",
+                "Bagre",
+                "Espadilha"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Слепота.",
+                "Подземные воды.",
+                "Метаболизм."
+            ],
+            "uk": [
+                "Сліпота.",
+                "Підземні води.",
+                "Метаболізм."
+            ],
+            "en": [
+                "Blindness.",
+                "Underground waters.",
+                "Metabolism."
+            ],
+            "es": [
+                "Ceguera.",
+                "Aguas subterráneas.",
+                "Metabolismo."
+            ],
+            "pt": [
+                "Cegueira.",
+                "Águas subterrâneas.",
+                "Metabolismo."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "У какой рыбы нет глаз?",
+                "Какая рыба живёт в пещерах?"
+            ],
+            "uk": [
+                "У якої риби немає очей?",
+                "Яка риба живе в печерах?"
+            ],
+            "en": [
+                "Which fish has no eyes?",
+                "What fish lives in caves?"
+            ],
+            "es": [
+                "¿Qué pez no tiene ojos?",
+                "¿Qué pez vive en cuevas?"
+            ],
+            "pt": [
+                "Qual peixe não tem olhos?",
+                "Qual peixe vive em cavernas?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Она не имеет глаз, но использует высокоразвитые чувства вкуса, обоняния и боковую линию для навигации.",
+            "uk": "Вона не має очей, але використовує високорозвинені почуття смаку, нюху і бічну лінію для навігації.",
+            "en": "It has no eyes, but uses highly developed senses of taste, smell, and its lateral line for navigation.",
+            "es": "No tiene ojos, pero utiliza sentidos del gusto y del olfato muy desarrollados y su línea lateral para la navegación.",
+            "pt": "Não tem olhos, mas usa sentidos de paladar e olfato altamente desenvolvidos e sua linha lateral para navegação."
+        },
+        "qwestion": {
+            "ru": "Какая слепая рыба может жить больше 100 лет?",
+            "uk": "Яка сліпа риба може жити більше 100 років?",
+            "en": "Which blind fish can live for over 100 years?",
+            "es": "¿Qué pez ciego puede vivir más de 100 años?",
+            "pt": "Qual peixe cego pode viver por mais de 100 anos?"
+        },
+        "definition": {
+            "ru": "Пещерная рыба — это общее название для рыб, которые эволюционировали в пещерах, потеряв зрение и пигментацию из-за жизни в полной темноте. Они обладают замедленным метаболизмом, что объясняет их долгую продолжительность жизни.",
+            "uk": "Печерна риба — це загальна назва для риб, які еволюціонували в печерах, втративши зір і пігментацію через життя в повній темряві. Вони мають уповільнений метаболізм, що пояснює їхню довгу тривалість життя.",
+            "en": "Cavefish is a common name for fish that have evolved in caves, losing sight and pigmentation due to living in complete darkness. They have a slow metabolism, which explains their long lifespan.",
+            "es": "El pez de cueva es un nombre común para los peces que han evolucionado en cuevas, perdiendo la vista y la pigmentación debido a que viven en completa oscuridad. Tienen un metabolismo lento, lo que explica su larga vida útil.",
+            "pt": "Peixe-cego é um nome comum para peixes que evoluíram em cavernas, perdendo a visão e a pigmentação devido a viverem na escuridão total. Eles têm um metabolismo lento, o que explica sua longa expectativa de vida."
+        },
+        "antipod": {
+            "ru": "Форель",
+            "uk": "Форель",
+            "en": "Trout",
+            "es": "Trucha",
+            "pt": "Truta"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих двух рыб потеряла зрение из-за жизни в полной темноте?",
+            "uk": "Яка з цих двох риб втратила зір через життя в повній темряві?",
+            "en": "Which of these two fish lost its sight due to living in complete darkness?",
+            "es": "¿Cuál de estos dos peces perdió la vista debido a vivir en la oscuridad total?",
+            "pt": "Qual desses dois peixes perdeu a visão devido a viver na escuridão total?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Cavefish"
+    },
+    "imgFlag": "all" 
+}

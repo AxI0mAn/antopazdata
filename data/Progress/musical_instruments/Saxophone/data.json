@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Саксофон",
+            "uk": "Саксофон",
+            "en": "Saxophone",
+            "es": "Saxofón",
+            "pt": "Saxofone"
+        },
+        "wrong": {
+            "ru": [
+                "Кларнет",
+                "Флейта",
+                "Тромбон"
+            ],
+            "uk": [
+                "Кларнет",
+                "Флейта",
+                "Тромбон"
+            ],
+            "en": [
+                "Clarinet",
+                "Flute",
+                "Trombone"
+            ],
+            "es": [
+                "Clarinete",
+                "Flauta",
+                "Trombón"
+            ],
+            "pt": [
+                "Clarinete",
+                "Flauta",
+                "Trombone"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Трость.",
+                "Латунь.",
+                "Джаз."
+            ],
+            "uk": [
+                "Тростина.",
+                "Латунь.",
+                "Джаз."
+            ],
+            "en": [
+                "Reed.",
+                "Brass.",
+                "Jazz."
+            ],
+            "es": [
+                "Caña.",
+                "Latón.",
+                "Jazz."
+            ],
+            "pt": [
+                "Palheta.",
+                "Latão.",
+                "Jazz."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Что металлическое относится к деревянным духовым?",
+                "Что названо в честь Адольфа Сакса?"
+            ],
+            "uk": [
+                "Що зроблено з металу, але належить до дерев'яних духових?",
+                "Який інструмент названо на честь Адольфа Сакса?"
+            ],
+            "en": [
+                "What's made of metal but is a woodwind instrument?",
+                "What instrument is named after Adolphe Sax?"
+            ],
+            "es": [
+                "¿Metal, pero viento-madera?",
+                "¿Qué instrumento lleva el nombre de Adolphe Sax?"
+            ],
+            "pt": [
+                "O que é feito de metal, mas pertence à família das madeiras?",
+                "Qual instrumento tem o nome de Adolphe Sax?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Изготовленный из латуни, он звучит как кларнет, так как использует трость.",
+            "uk": "Виготовлений з латуні, він звучить як кларнет, оскільки використовує тростину.",
+            "en": "Made of brass, it sounds like a clarinet because it uses a reed.",
+            "es": "Hecho de latón, suena como un clarinete porque usa una caña para producir el sonido.",
+            "pt": "Feito de latão, soa como um clarinete porque usa uma palheta para produzir o som."
+        },
+        "qwestion": {
+            "ru": "Какой инструмент из металла относится к деревянным духовым?",
+            "uk": "Який інструмент з металу належить до дерев'яних духових?",
+            "en": "Which metal instrument belongs to the woodwind family?",
+            "es": "¿Qué instrumento de metal pertenece a la familia de viento-madera?",
+            "pt": "Qual instrumento de metal pertence à família das madeiras?"
+        },
+        "definition": {
+            "ru": "Саксофон — это духовой музыкальный инструмент, чаще всего изготовленный из латуни. Он относится к деревянным духовым, так как звук извлекается при помощи трости, как у кларнета.",
+            "uk": "Саксофон — це духовий музичний інструмент, найчастіше виготовлений з латуні. Він належить до дерев'яних духових, оскільки звук витягується за допомогою тростини, як у кларнета.",
+            "en": "The saxophone is a wind instrument most often made of brass. It is classified as a woodwind because its sound is produced by a single reed, similar to a clarinet.",
+            "es": "El saxofón es un instrumento de viento, fabricado principalmente en latón. Se clasifica como de viento-madera porque su sonido es producido por una caña, similar al clarinete.",
+            "pt": "O saxofone é um instrumento de sopro, feito de latão. É classificado como um instrumento de madeira porque seu som é produzido por uma palheta, de forma similar ao clarinete."
+        },
+        "antipod": {
+            "ru": "Труба",
+            "uk": "Труба",
+            "en": "Trumpet",
+            "es": "Trompeta",
+            "pt": "Trompete"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих инструментов для создания звука использует трость?",
+            "uk": "Який з цих інструментів для створення звуку використовує тростину?",
+            "en": "Which of these instruments uses a reed to create sound?",
+            "es": "¿Cuál de estos instrumentos usa una caña para crear sonido?",
+            "pt": "Qual desses instrumentos usa uma palheta para criar som?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Saxophone"
+    },
+    "imgFlag": "all" 
+}

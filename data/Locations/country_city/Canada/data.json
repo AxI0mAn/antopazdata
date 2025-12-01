@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Канада",
+            "uk": "Канада",
+            "en": "Canada",
+            "es": "Canadá",
+            "pt": "Canadá"
+        },
+        "wrong": {
+            "ru": [
+                "США",
+                "Китай",
+                "Россия"
+            ],
+            "uk": [
+                "США",
+                "Китай",
+                "Росія"
+            ],
+            "en": [
+                "USA",
+                "China",
+                "Russia"
+            ],
+            "es": [
+                "EE. UU.",
+                "China",
+                "Rusia"
+            ],
+            "pt": [
+                "EUA",
+                "China",
+                "Rússia"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Кленовый лист.",
+                "Озера.",
+                "Север."
+            ],
+            "uk": [
+                "Кленовий лист.",
+                "Озера.",
+                "Північ."
+            ],
+            "en": [
+                "Maple leaf.",
+                "Lakes.",
+                "North."
+            ],
+            "es": [
+                "Hoja de arce.",
+                "Lagos.",
+                "Norte."
+            ],
+            "pt": [
+                "Folha de bordo.",
+                "Lagos.",
+                "Norte."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Её береговая линия самая длинная.",
+                "Там больше озер, чем в любой другой стране."
+            ],
+            "uk": [
+                "Її берегова лінія найдовша.",
+                "Там більше озер, ніж у будь-якій іншій країні."
+            ],
+            "en": [
+                "Its coastline is the longest.",
+                "It has more lakes than any other country."
+            ],
+            "es": [
+                "Su costa es la más larga.",
+                "Tiene más lagos que cualquier otro país."
+            ],
+            "pt": [
+                "Sua costa é a mais longa.",
+                "Tem mais lagos do que qualquer outro país."
+            ]
+        },
+        "tooltip": {
+            "ru": "В ней больше озер, чем во всех остальных странах вместе взятых.",
+            "uk": "У ній більше озер, ніж у всіх інших країнах разом узятих.",
+            "en": "It has more lakes than all other countries combined.",
+            "es": "Tiene más lagos que todos los demás países juntos.",
+            "pt": "Tem mais lagos do que todos os outros países juntos."
+        },
+        "qwestion": {
+            "ru": "Какая страна имеет самую длинную береговую линию в мире?",
+            "uk": "Яка країна має найдовшу берегову лінію у світі?",
+            "en": "Which country has the longest coastline in the world?",
+            "es": "¿Qué país tiene la costa más larga del mundo?",
+            "pt": "Qual país tem a costa mais longa do mundo?"
+        },
+        "definition": {
+            "ru": "Канада — это второе по площади государство в мире, занимающее большую часть Северной Америки. Она известна своими бескрайними просторами, невероятными природными ландшафтами и одной из самых низких плотностей населения в мире. Канада имеет самую длинную береговую линию в мире, а также содержит более 60% мировых озер. Она славится своей дружелюбной культурой, мультикультурализмом, хоккеем и символом страны — кленовым листом.",
+            "uk": "Канада — це друга за площею держава у світі, що займає більшу частину Північної Америки. Вона відома своїми безкрайніми просторами, неймовірними природними ландшафтами та однією з найнижчих щільностей населення у світі. Канада має найдовшу берегову лінію у світі, а також містить понад 60% світових озер. Вона славиться своєю дружньою культурою, мультикультуралізмом, хокеєм та символом країни — кленовим листом.",
+            "en": "Canada is the world's second-largest country by area, occupying a large portion of North America. It is known for its vast expanses, incredible natural landscapes, and one of the world's lowest population densities. Canada has the longest coastline in the world and also contains over 60% of the world's lakes. It is famous for its friendly culture, multiculturalism, hockey, and national symbol, the maple leaf.",
+            "es": "Canadá es el segundo país más grande del mundo por área, ocupando una gran parte de América del Norte. Es conocido por sus vastas extensiones, increíbles paisajes naturales y una de las densidades de población más bajas del mundo. Canadá tiene la costa más larga del mundo y también contiene más del 60% de los lagos del mundo. Es famoso por su cultura amigable, multiculturalismo, hockey y su símbolo nacional, la hoja de arce.",
+            "pt": "O Canadá é o segundo maior país do mundo em área, ocupando uma grande parte da América do Norte. É conhecido por suas vastas extensões, paisagens naturais incríveis e uma das densidades populacionais mais baixas do mundo. O Canadá tem a costa mais longa do mundo e também contém mais de 60% dos lagos do mundo. É famoso por sua cultura amigável, multiculturalismo, hóquei e seu símbolo nacional, a folha de bordo."
+        },
+        "antipod": {
+            "ru": "Испания",
+            "uk": "Іспанія",
+            "en": "Spain",
+            "es": "España",
+            "pt": "Espanha"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих стран имеет самую длинную береговую линию?",
+            "uk": "Яка з цих країн має найдовшу берегову лінію?",
+            "en": "Which of these countries has the longest coastline?",
+            "es": "¿Cuál de estos países tiene la costa más larga?",
+            "pt": "Qual desses países tem a costa mais longa?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Canada"
+    },
+    "imgFlag": "quizfoto" 
+}

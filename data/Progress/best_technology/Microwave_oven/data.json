@@ -1,0 +1,102 @@
+{
+    "data": {
+        "name": {
+            "ru": "Микроволновая печь",
+            "uk": "Мікрохвильова піч",
+            "en": "Microwave oven",
+            "es": "Horno de microondas",
+            "pt": "Forno de micro-ondas"
+        },
+        "wrong": {
+            "ru": [
+                "Тостер",
+                "Блендер",
+                "Холодильник"
+            ],
+            "uk": [
+                "Тостер",
+                "Блендер",
+                "Холодильник"
+            ],
+            "en": [
+                "Toaster",
+                "Blender",
+                "Refrigerator"
+            ],
+            "es": [
+                "Tostadora",
+                "Batidora",
+                "Refrigerador"
+            ],
+            "pt": [
+                "Torradeira",
+                "Liquidificador",
+                "Geladeira"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Микроволны",
+                "СВЧ",
+                "Быстро"
+            ],
+            "uk": [
+                "Мікрохвилі",
+                "НВЧ",
+                "Швидко"
+            ],
+            "en": [
+                "Microwaves",
+                "Microwave",
+                "Quick"
+            ],
+            "es": [
+                "Microondas",
+                "Horno",
+                "Rápido"
+            ],
+            "pt": [
+                "Micro-ondas",
+                "Forno",
+                "Rápido"
+            ]
+        },
+        "tooltip": {
+            "ru": "Открытие было сделано физиком Перси Спенсером во время работы с магнетроном.",
+            "uk": "Відкриття було зроблено фізиком Персі Спенсером під час роботи з магнетроном.",
+            "en": "The discovery was made by physicist Percy Spencer while working with a magnetron.",
+            "es": "El descubrimiento fue hecho por el físico Percy Spencer mientras trabajaba con un magnetrón.",
+            "pt": "A descoberta foi feita pelo físico Percy Spencer enquanto trabalhava com um magnetrão."
+        },
+        "qwestion": {
+            "ru": "Какое открытие было сделано, когда микроволны расплавили шоколад в кармане?",
+            "uk": "Яке відкриття було зроблено, коли мікрохвилі розтопили шоколад у кишені?",
+            "en": "What discovery was made when microwaves melted chocolate in a pocket?",
+            "es": "¿Qué descubrimiento se hizo cuando las microondas derritieron chocolate en un bolsillo?",
+            "pt": "Que descoberta foi feita quando as micro-ondas derreteram chocolate no bolso?"
+        },
+        "definition": {
+            "ru": "Микроволновая печь — это электрический кухонный прибор, который быстро нагревает пищу за счет воздействия на молекулы воды в ней микроволновым излучением, что вызывает их вибрацию и трение.",
+            "uk": "Мікрохвильова піч — це електричний кухонний прилад, який швидко нагріває їжу за рахунок впливу на молекули води в ній мікрохвильовим випромінюванням, що викликає їхню вібрацію та тертя.",
+            "en": "The microwave oven is an electric kitchen appliance that rapidly heats food by exposing the water molecules within it to microwave radiation, causing them to vibrate and create friction.",
+            "es": "El horno de microondas es un electrodoméstico de cocina que calienta rápidamente los alimentos exponiendo las moléculas de agua en su interior a radiación de microondas, lo que provoca su vibración y fricción.",
+            "pt": "O forno de micro-ondas é um aparelho de cozinha elétrico que aquece rapidamente os alimentos expondo as moléculas de água dentro deles à radiação de micro-ondas, fazendo-as vibrar e criar atrito."
+        },
+        "antipod": {
+            "ru": "Духовка",
+            "uk": "Духовка",
+            "en": "Oven",
+            "es": "Horno",
+            "pt": "Forno"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих двух приборов был изобретён случайно?",
+            "uk": "Який з цих двох приладів був винайдений випадково?",
+            "en": "Which of these two appliances was invented by accident?",
+            "es": "¿Cuál de estos dos electrodomésticos fue inventado por accidente?",
+            "pt": "Qual desses dois eletrodomésticos foi inventado por acidente?"
+        },
+        "article": "https://ru.wikipedia.org/wiki/Микроволновая_печь"
+    },
+    "imgFlag": "all" 
+}

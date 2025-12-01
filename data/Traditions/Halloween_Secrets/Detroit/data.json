@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Массовые поджоги",
+            "uk": "Масові підпали",
+            "en": "Mass arsons",
+            "es": "Incendios masivos",
+            "pt": "Incêndios em massa"
+        },
+        "wrong": {
+            "ru": [
+                "Блэкаут",
+                "Массовая драка",
+                "Разграбление магазинов"
+            ],
+            "uk": [
+                "Блекаут",
+                "Масова бійка",
+                "Пограбування магазинів"
+            ],
+            "en": [
+                "Blackout",
+                "Mass brawl",
+                "Looting of stores"
+            ],
+            "es": [
+                "Apagón",
+                "Pelea masiva",
+                "Saqueo de tiendas"
+            ],
+            "pt": [
+                "Apagão",
+                "Briga em massa",
+                "Saque de lojas"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Детройт.",
+                "Поджог.",
+                "Вандализм."
+            ],
+            "uk": [
+                "Детройт.",
+                "Підпал.",
+                "Вандалізм."
+            ],
+            "en": [
+                "Detroit.",
+                "Arson.",
+                "Vandalism."
+            ],
+            "es": [
+                "Detroit.",
+                "Incendio.",
+                "Vandalismo."
+            ],
+            "pt": [
+                "Detroit.",
+                "Incêndio criminoso.",
+                "Vandalismo."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Огонь в Детройте, что не от костра, а от рук человека.",
+                "Событие, когда праздничный огонь превращается в вандализм."
+            ],
+            "uk": [
+                "Вогонь у Детройті, що не від багаття, а від рук людини.",
+                "Подія, коли святковий вогонь перетворюється на вандалізм."
+            ],
+            "en": [
+                "Fire in Detroit, not from a bonfire, but from human hands.",
+                "An event where festive fire turns into an act of vandalism."
+            ],
+            "es": [
+                "Fuego en Detroit, no de una hoguera, sino de manos humanas.",
+                "Un evento en el que el fuego festivo se convierte en vandalismo."
+            ],
+            "pt": [
+                "Fogo em Detroit, não de uma fogueira, mas de mãos humanas.",
+                "Um evento onde o fogo festivo se transforma em vandalismo."
+            ]
+        },
+        "tooltip": {
+            "ru": "В эти дни в городе происходит резкий всплеск поджогов и вандализма.",
+            "uk": "У ці дні в місті відбувається різкий сплеск підпалів і вандалізму.",
+            "en": "During these days, the city experiences a sharp surge in arsons and vandalism.",
+            "es": "Durante estos días, la ciudad experimenta un fuerte aumento de incendios y vandalismo.",
+            "pt": "Nesses dias, a cidade vivencia um forte aumento de incêndios criminosos e vandalismo."
+        },
+        "qwestion": {
+            "ru": "Из-за чего в Детройте (США) Хеллоуин известен, как Ночь дьявола?",
+            "uk": "Через що в Детройті (США) Хеллоуїн відомий, як Ніч диявола?",
+            "en": "Because of what is Halloween in Detroit (USA) known as Devil's Night?",
+            "es": "¿Por qué en Detroit (EE. UU.) Halloween es conocido como la Noche del Diablo?",
+            "pt": "Por que o Halloween em Detroit (EUA) é conhecido como a Noite do Diabo?"
+        },
+        "definition": {
+            "ru": "Массовые поджоги — это событие, известное как Ночь дьявола, которое происходит в Детройте в ночь перед Хеллоуином. Исторически это ночь массовых актов вандализма и пожаров.",
+            "uk": "Масові підпали — це подія, відома як Ніч диявола, яка відбувається в Детройті в ніч перед Хеллоуїном. Історично це ніч масових актів вандалізму та пожеж.",
+            "en": "Mass arsons are the event known as Devil's Night, which takes place in Detroit on the night before Halloween. Historically, this is a night of widespread acts of vandalism and fires.",
+            "es": "Los incendios masivos son el evento conocido como la Noche del Diablo, que tiene lugar en Detroit la noche antes de Halloween. Históricamente, es una noche de actos de vandalismo e incendios generalizados.",
+            "pt": "Os incêndios em massa são o evento conhecido como Noite do Diabo, que ocorre em Detroit na noite anterior ao Halloween. Historicamente, é uma noite de atos generalizados de vandalismo e incêndios."
+        },
+        "antipod": {
+            "ru": "Массовая драка",
+            "uk": "Масова бійка",
+            "en": "Mass brawl",
+            "es": "Pelea masiva",
+            "pt": "Briga em massa"
+        },
+        "hintFuiz": {
+            "ru": "Что произошло в Детройте в Ночь дьявола?",
+            "uk": "Що сталося в Детройті в Ніч диявола?",
+            "en": "What happened in Detroit on Devil's Night?",
+            "es": "¿Qué ocurrió en Detroit en la Noche del Diablo?",
+            "pt": "O que aconteceu em Detroit na Noite do Diabo?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Devil%27s_Night"
+    },
+    "imgFlag": "quizfoto" 
+}

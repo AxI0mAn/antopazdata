@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "США",
+            "uk": "США",
+            "en": "USA",
+            "es": "EE. UU.",
+            "pt": "EUA"
+        },
+        "wrong": {
+            "ru": [
+                "Канада",
+                "Россия",
+                "Франция"
+            ],
+            "uk": [
+                "Канада",
+                "Росія",
+                "Франція"
+            ],
+            "en": [
+                "Canada",
+                "Russia",
+                "France"
+            ],
+            "es": [
+                "Canadá",
+                "Rusia",
+                "Francia"
+            ],
+            "pt": [
+                "Canadá",
+                "Rússia",
+                "França"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Алкоголь.",
+                "Запрет.",
+                "Закон."
+            ],
+            "uk": [
+                "Алкоголь.",
+                "Заборона.",
+                "Закон."
+            ],
+            "en": [
+                "Alcohol.",
+                "Prohibition.",
+                "Law."
+            ],
+            "es": [
+                "Alcohol.",
+                "Prohibición.",
+                "Ley."
+            ],
+            "pt": [
+                "Álcool.",
+                "Proibição.",
+                "Lei."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Где было 13 лет сухого закона?",
+                "Родина коктейлей, джаза и сухого закона."
+            ],
+            "uk": [
+                "Де було 13 років сухого закону?",
+                "Батьківщина коктейлів, джазу та сухого закону."
+            ],
+            "en": [
+                "Where was Prohibition for 13 years?",
+                "The birthplace of cocktails, jazz, and Prohibition."
+            ],
+            "es": [
+                "¿Dónde hubo 13 años de Ley Seca?",
+                "La cuna de los cócteles, el jazz y la Prohibición."
+            ],
+            "pt": [
+                "Onde houve 13 anos de Lei Seca?",
+                "O berço dos coquetéis, do jazz e da Lei Seca."
+            ]
+        },
+        "tooltip": {
+            "ru": "Действовал с 1920 по 1933 год и был закреплен в конституции.",
+            "uk": "Діяв з 1920 по 1933 рік і був закріплений у конституції.",
+            "en": "It was in effect from 1920 to 1933 and was enshrined in the constitution.",
+            "es": "Estuvo en vigor de 1920 a 1933 y fue consagrado en la constitución.",
+            "pt": "Esteve em vigor de 1920 a 1933 e foi consagrado na constituição."
+        },
+        "qwestion": {
+            "ru": "В какой стране был принят закон, который запрещал производство, продажу и транспортировку алкоголя?",
+            "uk": "У якій країні було прийнято закон, який забороняв виробництво, продаж і транспортування алкоголю?",
+            "en": "In what country was a law adopted that prohibited the production, sale, and transportation of alcohol?",
+            "es": "¿En qué país se adoptó una ley que prohibía la producción, venta y transporte de alcohol?",
+            "pt": "Em que país foi adotada uma lei que proibia a produção, venda e transporte de álcool?"
+        },
+        "definition": {
+            "ru": "Прогибиция (Сухой закон) — период в истории США с 1920 по 1933 год, когда федеральным законом было запрещено производство, продажа и транспортировка алкогольных напитков. Этот закон, закрепленный Восемнадцатой поправкой к Конституции США, привел к расцвету подпольной торговли и бутлегерства.",
+            "uk": "Прогібіція (Сухий закон) — період в історії США з 1920 по 1933 рік, коли федеральним законом було заборонено виробництво, продаж і транспортування алкогольних напоїв. Цей закон, закріплений Восемнадцятою поправкою до Конституції США, призвів до розквіту підпільної торгівлі та бутлегерства.",
+            "en": "Prohibition was a period in U.S. history from 1920 to 1933 when the federal law prohibited the production, sale, and transportation of alcoholic beverages. This law, enshrined in the Eighteenth Amendment to the U.S. Constitution, led to the flourishing of underground trade and bootlegging.",
+            "es": "La Prohibición fue un período en la historia de los EE. UU. de 1920 a 1933 cuando la ley federal prohibió la producción, venta y transporte de bebidas alcohólicas. Esta ley, consagrada en la Decimoctava Enmienda a la Constitución de los EE. UU., condujo al florecimiento del comercio clandestino y el contrabando.",
+            "pt": "A Proibição foi um período na história dos EUA de 1920 a 1933, quando a lei federal proibiu a produção, venda e transporte de bebidas alcoólicas. Esta lei, consagrada na Décima Oitava Emenda à Constituição dos EUA, levou ao florescimento do comércio clandestino e do contrabando."
+        },
+        "antipod": {
+            "ru": "Германия",
+            "uk": "Німеччина",
+            "en": "Germany",
+            "es": "Alemania",
+            "pt": "Alemanha"
+        },
+        "hintFuiz": {
+            "ru": "Где 13 лет действовал «сухой закон»?",
+            "uk": "Де 13 років діяв «сухий закон»?",
+            "en": "Where did 'prohibition' last for 13 years?",
+            "es": "¿Dónde duró la 'prohibición' 13 años?",
+            "pt": "Onde a 'proibição' durou 13 anos?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Prohibition_in_the_United_States"
+    },
+    "imgFlag": "quizfoto" 
+}

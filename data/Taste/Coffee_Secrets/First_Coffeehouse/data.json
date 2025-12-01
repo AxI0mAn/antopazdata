@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Первая Кофейня",
+            "uk": "Перша Кав'ярня",
+            "en": "First Coffeehouse",
+            "es": "Primera Cafetería",
+            "pt": "Primeiro Café"
+        },
+        "wrong": {
+            "ru": [
+                "Кальянная",
+                "Рыбный ресторан",
+                "Шашлычная"
+            ],
+            "uk": [
+                "Кальянна",
+                "Рибний ресторан",
+                "Шашлична"
+            ],
+            "en": [
+                "Hookah lounge",
+                "Fish restaurant",
+                "Kebab house"
+            ],
+            "es": [
+                "Salón de narguile",
+                "Restaurante de pescado",
+                "Asador"
+            ],
+            "pt": [
+                "Tabacaria",
+                "Restaurante de peixe",
+                "Churrascaria"
+            ]
+        },
+        "association": {
+            "ru": [
+                "«Кива Хан».",
+                "Шахматы.",
+                "Встреча."
+            ],
+            "uk": [
+                "«Ківа Хан».",
+                "Шахи.",
+                "Зустріч."
+            ],
+            "en": [
+                "«Kiva Han».",
+                "Chess.",
+                "Meeting."
+            ],
+            "es": [
+                "«Kiva Han».",
+                "Ajedrez.",
+                "Reunión."
+            ],
+            "pt": [
+                "«Kiva Han».",
+                "Xadrez.",
+                "Reunião."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это стало местом встречи поэтов и философов",
+            "uk": "Це стало місцем зустрічі поетів і філософів",
+            "en": "It became a meeting place for poets and philosophers",
+            "es": "Se convirtió en un lugar de encuentro para poetas y filósofos",
+            "pt": "Tornou-se um local de encontro para poetas e filósofos"
+        },
+        "qwestion": {
+            "ru": "Что было открыто в Константинополе (ныне Стамбул) в 1475 году?",
+            "uk": "Що було відкрито в Константинополі (нині Стамбул) у 1475 році?",
+            "en": "What was opened in Constantinople (now Istanbul) in 1475?",
+            "es": "¿Qué se abrió en Constantinopla (ahora Estambul) en 1475?",
+            "pt": "O que foi aberto em Constantinopla (agora Istambul) em 1475?"
+        },
+        "definition": {
+            "ru": "Первая в мире кофейня, известная как «Кива Хан», была открыта в Константинополе (Стамбуле) в 1475 году. Она стала важным общественным центром, где люди собирались для общения, обсуждения новостей, политики и игры в шахматы.",
+            "uk": "Перша в світі кав'ярня, відома як «Ківа Хан», була відкрита в Константинополі (Стамбулі) в 1475 році. Вона стала важливим громадським центром, де люди збиралися для спілкування, обговорення новин, політики та гри в шахи.",
+            "en": "The world's first coffeehouse, known as «Kiva Han», was opened in Constantinople (Istanbul) in 1475. It became an important social center where people gathered to socialize, discuss news, politics, and play chess.",
+            "es": "La primera cafetería del mundo, conocida como «Kiva Han», se abrió en Constantinopla (Estambul) en 1475. Se convirtió en un importante centro social donde la gente se reunía para socializar, discutir noticias, política y jugar ajedrez.",
+            "pt": "O primeiro café do mundo, conhecido como «Kiva Han», foi aberto em Constantinopla (Istambul) em 1475. Tornou-se um importante centro social onde as pessoas se reuniam para socializar, discutir notícias, política e jogar xadrez."
+        },
+        "antipod": {
+            "ru": "Шахматный клуб",
+            "uk": "Шаховий клуб",
+            "en": "Chess club",
+            "es": "Club de ajedrez",
+            "pt": "Clube de xadrez"
+        },
+        "hintFuiz": {
+            "ru": "Это заведение впервые появилось В Константинополе в 1475 году.",
+            "uk": "Цей заклад вперше з'явився в Константинополі в 1475 році.",
+            "en": "This establishment first appeared in Constantinople in 1475.",
+            "es": "Este establecimiento apareció por primera vez en Constantinopla en 1475.",
+            "pt": "Este estabelecimento apareceu pela primeira vez em Constantinopla em 1475."
+        },
+        "riddle": {
+            "ru": [
+                "Константинополь. 1475 год.",
+                "Сюда приходили за новостями и идеями."
+            ],
+            "uk": [
+                "Константинополь. 1475 рік.",
+                "Сюди приходили за новинами та ідеями."
+            ],
+            "en": [
+                "Constantinople. The year 1475.",
+                "People came here for news and ideas."
+            ],
+            "es": [
+                "Constantinopla. El año 1475.",
+                "La gente venía aquí en busca de noticias e ideas."
+            ],
+            "pt": [
+                "Constantinopla. O ano de 1475.",
+                "As pessoas vinham aqui em busca de notícias e ideias."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Coffeehouse#History"
+    },
+    "imgFlag": "quizfoto"
+}

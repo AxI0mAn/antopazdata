@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Лев",
+            "uk": "Лев",
+            "en": "Lion",
+            "es": "León",
+            "pt": "Leão"
+        },
+        "wrong": {
+            "ru": [
+                "Тигр",
+                "Ягуар",
+                "Гепард"
+            ],
+            "uk": [
+                "Тигр",
+                "Ягуар",
+                "Гепард"
+            ],
+            "en": [
+                "Tiger",
+                "Jaguar",
+                "Cheetah"
+            ],
+            "es": [
+                "Tigre",
+                "Jaguar",
+                "Guepardo"
+            ],
+            "pt": [
+                "Tigre",
+                "Jaguar",
+                "Guepardo"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Африка.",
+                "Жизнь в прайде.",
+                "Наличие гривы."
+            ],
+            "uk": [
+                "Африка.",
+                "Життя в прайді.",
+                "Наявність гриви."
+            ],
+            "en": [
+                "Africa.",
+                "Life in a pride.",
+                "Possession of a mane."
+            ],
+            "es": [
+                "África.",
+                "Vida en manada.",
+                "Presencia de melena."
+            ],
+            "pt": [
+                "África.",
+                "Vida em bando.",
+                "Possessão de juba."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Какое крупное кошачье живёт большими семьями, называемыми прайдами?",
+                "У какого самца этого вида есть грива?"
+            ],
+            "uk": [
+                "Яке велике котяче живе великими сім'ями, що називаються прайдами?",
+                "У якого самця цього виду є грива?"
+            ],
+            "en": [
+                "What large feline lives in big families called prides?",
+                "Which male of this species has a mane?"
+            ],
+            "es": [
+                "¿Qué gran felino vive en grandes familias llamadas manadas?",
+                "¿Qué macho de esta especie tiene melena?"
+            ],
+            "pt": [
+                "Que grande felino vive em grandes famílias chamadas bandos?",
+                "Qual macho desta espécie tem juba?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Крупный хищник с гривой, живущий прайдами.",
+            "uk": "Великий хижак з гривою, що живе прайдами.",
+            "en": "A large predator with a mane, living in prides.",
+            "es": "Un gran depredador con melena, que vive en manadas.",
+            "pt": "Um grande predador com juba, que vive em bandos."
+        },
+        "qwestion": {
+            "ru": "Какое крупное кошачье называют Царём зверей?",
+            "uk": "Яке велике котяче називають Царем звірів?",
+            "en": "What large feline is called the King of Beasts?",
+            "es": "¿Qué gran felino es llamado el Rey de las Bestias?",
+            "pt": "Qual grande felino é chamado de Rei das Feras?"
+        },
+        "definition": {
+            "ru": "Крупное млекопитающее из семейства кошачьих, обитающее в Африке и Индии. Единственный вид, у которого самцы имеют гриву.",
+            "uk": "Великий ссавець з родини котячих, що мешкає в Африці та Індії. Єдиний вид, у якого самці мають гриву.",
+            "en": "A large mammal from the cat family, native to Africa and India. It is the only species where the males have a mane.",
+            "es": "Un gran mamífero de la familia de los felinos, nativo de África e India. Es la única especie en la que los machos tienen melena.",
+            "pt": "Um grande mamífero da família dos felinos, nativo da África e da Índia. É a única espécie onde os machos têm juba."
+        },
+        "antipod": {
+            "ru": "Пума",
+            "uk": "Пума",
+            "en": "Puma",
+            "es": "Puma",
+            "pt": "Puma"
+        },
+        "hintFuiz": {
+            "ru": "Кто из них обитает в Африке?",
+            "uk": "Хто з них мешкає в Африці?",
+            "en": "Which of them lives in Africa?",
+            "es": "¿Cuál de ellos vive en África?",
+            "pt": "Qual deles vive na África?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Lion"
+    },
+    "imgFlag": "all" 
+}

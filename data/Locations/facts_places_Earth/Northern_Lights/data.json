@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Северное сияние",
+            "uk": "Північне сяйво",
+            "en": "Northern Lights",
+            "es": "Aurora boreal",
+            "pt": "Aurora boreal"
+        },
+        "wrong": {
+            "ru": [
+                "Радуга",
+                "Гало",
+                "Мираж"
+            ],
+            "uk": [
+                "Веселка",
+                "Гало",
+                "Міраж"
+            ],
+            "en": [
+                "Rainbow",
+                "Halo",
+                "Mirage"
+            ],
+            "es": [
+                "Arco iris",
+                "Halo",
+                "Espejismo"
+            ],
+            "pt": [
+                "Arco-íris",
+                "Halo",
+                "Miragem"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Свет.",
+                "Небо.",
+                "Полярный."
+            ],
+            "uk": [
+                "Світло.",
+                "Небо.",
+                "Полярний."
+            ],
+            "en": [
+                "Light.",
+                "Sky.",
+                "Polar."
+            ],
+            "es": [
+                "Luz.",
+                "Cielo.",
+                "Polar."
+            ],
+            "pt": [
+                "Luz.",
+                "Céu.",
+                "Polar."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Зеленые и фиолетовые ленты, танцующие в холодном небе.",
+                "Свечение, вызванное солнечным ветром."
+            ],
+            "uk": [
+                "Зелені та фіолетові стрічки, що танцюють у холодному небі.",
+                "Світіння, викликане сонячним вітром."
+            ],
+            "en": [
+                "Green and purple ribbons dancing in the cold sky.",
+                "A glow caused by solar wind."
+            ],
+            "es": [
+                "Cintas verdes y púrpuras bailando en el cielo frío.",
+                "Un resplandor causado por el viento solar."
+            ],
+            "pt": [
+                "Fitas verdes e roxas dançando no céu frio.",
+                "Um brilho causado pelo vento solar."
+            ]
+        },
+        "tooltip": {
+            "ru": "Оно возникает, когда частицы Солнца сталкиваются с атмосферой Земли.",
+            "uk": "Воно виникає, коли частинки Сонця стикаються з атмосферою Землі.",
+            "en": "It occurs when particles from the Sun collide with Earth's atmosphere.",
+            "es": "Ocurre cuando partículas del Sol chocan con la atmósfera de la Tierra.",
+            "pt": "Ocorre quando partículas do Sol colidem com a atmosfera da Terra."
+        },
+        "qwestion": {
+            "ru": "Какое атмосферное явление вызывает красочное свечение в небе в полярных регионах?",
+            "uk": "Яке атмосферне явище викликає барвисте світіння в небі в полярних регіонах?",
+            "en": "What atmospheric phenomenon causes a colorful glow in the sky in polar regions?",
+            "es": "¿Qué fenómeno atmosférico causa un resplandor colorido en el cielo en las regiones polares?",
+            "pt": "Qual fenômeno atmosférico causa um brilho colorido no céu nas regiões polares?"
+        },
+        "definition": {
+            "ru": "Северное сияние, или полярное сияние, — это световое явление в верхних слоях атмосферы Земли. Оно возникает, когда заряженные частицы, испускаемые Солнцем (солнечный ветер), достигают магнитосферы Земли и сталкиваются с атомами и молекулами газов, такими как кислород и азот. В результате этого столкновения атомы и молекулы переходят в возбужденное состояние и испускают свет, создавая в небе красочные узоры, чаще всего зеленого и красного цветов. Это явление наблюдается в основном в полярных регионах.",
+            "uk": "Північне сяйво, або полярне сяйво, — це світлове явище у верхніх шарах атмосфери Землі. Воно виникає, коли заряджені частинки, що випромінюються Сонцем (сонячний вітер), досягають магнітосфери Землі і стикаються з атомами та молекулами газів, таких як кисень і азот. В результаті цього зіткнення атоми та молекули переходять у збуджений стан і випромінюють світло, створюючи в небі барвисті візерунки, найчастіше зеленого і червоного кольорів. Це явище спостерігається в основному в полярних регіонах.",
+            "en": "The Northern Lights, also known as the aurora borealis, is a light phenomenon in the upper atmosphere of Earth. It occurs when charged particles emitted by the Sun (solar wind) reach Earth's magnetosphere and collide with atoms and molecules of gases, such as oxygen and nitrogen. This collision causes the atoms and molecules to become excited and emit light, creating colorful patterns in the sky, most often green and red. This phenomenon is primarily observed in the polar regions.",
+            "es": "La aurora boreal es un fenómeno luminoso en las capas superiores de la atmósfera de la Tierra. Ocurre cuando las partículas cargadas emitidas por el Sol (viento solar) alcanzan la magnetosfera de la Tierra y chocan con los átomos y moléculas de gases, como el oxígeno y el nitrógeno. Esta colisión hace que los átomos y moléculas se exciten y emitan luz, creando patrones de colores en el cielo, más a menudo verdes y rojos. Este fenómeno se observa principalmente en las regiones polares.",
+            "pt": "A Aurora Boreal é um fenômeno luminoso nas camadas superiores da atmosfera da Terra. Ela ocorre quando partículas carregadas emitidas pelo Sol (vento solar) atingem a magnetosfera da Terra e colidem com átomos e moléculas de gases, como oxigênio e nitrogênio. Esta colisão faz com que os átomos e moléculas se excitem e emitam luz, criando padrões coloridos no céu, mais frequentemente verdes e vermelhos. Este fenômeno é observado principalmente nas regiões polares."
+        },
+        "antipod": {
+            "ru": "Южное сияние",
+            "uk": "Південне сяйво",
+            "en": "Southern Lights",
+            "es": "Aurora austral",
+            "pt": "Aurora austral"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих явлений наблюдается в небе северного полушария?",
+            "uk": "Яке з цих явищ спостерігається в небі північної півкулі?",
+            "en": "Which of these phenomena is observed in the sky of the Northern Hemisphere?",
+            "es": "¿Cuál de estos fenómenos se observa en el cielo del hemisferio norte?",
+            "pt": "Qual desses fenômenos é observado no céu do Hemisfério Norte?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Aurora"
+    },
+    "imgFlag": "all" 
+}

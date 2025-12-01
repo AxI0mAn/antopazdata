@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Фестиваль огней",
+            "uk": "Фестиваль вогнів",
+            "en": "Festival of Lights",
+            "es": "Festival de las Luces",
+            "pt": "Festival das Luzes"
+        },
+        "wrong": {
+            "ru": [
+                "Пожар",
+                "Чтение книг",
+                "Парад светлячков"
+            ],
+            "uk": [
+                "Пожежа",
+                "Читання книг",
+                "Парад світлячків"
+            ],
+            "en": [
+                "Fire",
+                "Reading books",
+                "Parade of fireflies"
+            ],
+            "es": [
+                "Incendio",
+                "Lectura de libros",
+                "Desfile de luciérnagas"
+            ],
+            "pt": [
+                "Incêndio",
+                "Leitura de livros",
+                "Desfile de vaga-lumes"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Свет",
+                "Добро",
+                "Победа над злом"
+            ],
+            "uk": [
+                "Світло",
+                "Добро",
+                "Перемога над злом"
+            ],
+            "en": [
+                "Light",
+                "Good",
+                "Victory over evil"
+            ],
+            "es": [
+                "Luz",
+                "Bien",
+                "Victoria sobre el mal"
+            ],
+            "pt": [
+                "Luz",
+                "Bem",
+                "Vitória sobre o mal"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "В этот день миллионы огней зажигаются в каждом доме.",
+                "Это напоминает людям о победе света над тьмой."
+            ],
+            "uk": [
+                "У цей день мільйони вогнів запалюються в кожному домі.",
+                "Це нагадує людям про перемогу світла над темрявою."
+            ],
+            "en": [
+                "On this day, millions of lights are lit in every home.",
+                "It reminds people of the victory of light over darkness."
+            ],
+            "es": [
+                "En este día, millones de luces se encienden en cada hogar.",
+                "Recuerda a la gente la victoria de la luz sobre la oscuridad."
+            ],
+            "pt": [
+                "Neste dia, milhões de luzes são acesas em cada casa.",
+                "Isso lembra as pessoas da vitória da luz sobre as trevas."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это символизирует победу добра над злом, света над тьмой и знания над невежеством.",
+            "uk": "Це символізує перемогу добра над злом, світла над темрявою і знання над невіглаством.",
+            "en": "It symbolizes the victory of good over evil, light over darkness, and knowledge over ignorance.",
+            "es": "Simboliza la victoria del bien sobre el mal, de la luz sobre la oscuridad y del conocimiento sobre la ignorancia.",
+            "pt": "Simboliza a vitória do bem sobre o mal, da luz sobre a escuridão e do conhecimento sobre a ignorância."
+        },
+        "qwestion": {
+            "ru": "Что происходит во время праздника Дивали, когда миллионы огней зажигаются в домах и на улицах?",
+            "uk": "Що відбувається під час свята Дівалі, коли мільйони вогнів запалюються в будинках і на вулицях?",
+            "en": "What happens during the festival of Diwali when millions of lights are lit in homes and on streets?",
+            "es": "¿Qué sucede durante el festival de Diwali cuando se encienden millones de luces en casas y calles?",
+            "pt": "O que acontece durante o festival de Diwali quando milhões de luzes são acesas em casas e nas ruas?"
+        },
+        "definition": {
+            "ru": "Дивали, или Фестиваль огней, — это один из главных и наиболее почитаемых индуистских праздников. Отмечается в течение пяти дней зажиганием миллионов огней, светильников и фейерверков, что символизирует победу света над тьмой и добра над злом.",
+            "uk": "Дівалі, або Фестиваль вогнів, — це одне з головних і найбільш шанованих індуїстських свят. Відзначається протягом п'яти днів запалюванням мільйонів вогнів, світильників і феєрверків, що символізує перемогу світла над темрявою і добра над злом.",
+            "en": "Diwali, or the Festival of Lights, is one of the main and most revered Hindu festivals. It is celebrated for five days by lighting millions of lights, lamps, and fireworks, which symbolizes the victory of light over darkness and good over evil.",
+            "es": "Diwali, o el Festival de las Luces, es uno de los festivales hindúes más importantes y venerados. Se celebra durante cinco días encendiendo millones de luces, lámparas y fuegos artificiales, lo que simboliza la victoria de la luz sobre la oscuridad y del bien sobre el mal.",
+            "pt": "Diwali, ou o Festival das Luzes, é um dos principais e mais reverenciados festivais hindus. É celebrado por cinco dias acendendo milhões de luzes, lâmpadas e fogos de artifício, o que simboliza a vitória da luz sobre a escuridão e do bem sobre o mal."
+        },
+        "antipod": {
+            "ru": "Хэллоуин",
+            "uk": "Хелловін",
+            "en": "Halloween",
+            "es": "Halloween",
+            "pt": "Halloween"
+        },
+        "hintFuiz": {
+            "ru": "Какой праздник отмечает победу добра над злом?",
+            "uk": "Яке свято відзначає перемогу добра над злом?",
+            "en": "Which holiday celebrates the victory of good over evil?",
+            "es": "¿Qué festividad celebra la victoria del bien sobre el mal?",
+            "pt": "Qual feriado celebra a vitória do bem sobre o mal?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    "imgFlag": "quizfoto"
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Вельвичия",
+            "uk": "Вельвічія",
+            "en": "Welwitschia",
+            "es": "Welwitschia",
+            "pt": "Welwitschia"
+        },
+        "wrong": {
+            "ru": [
+                "Баобаб",
+                "Сагуаро",
+                "Драцена"
+            ],
+            "uk": [
+                "Баобаб",
+                "Сагуаро",
+                "Драцена"
+            ],
+            "en": [
+                "Baobab",
+                "Saguaro",
+                "Dracaena"
+            ],
+            "es": [
+                "Baobab",
+                "Saguaro",
+                "Dracaena"
+            ],
+            "pt": [
+                "Baobá",
+                "Saguaro",
+                "Dracena"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Намиб.",
+                "Два листа.",
+                "Долгожитель."
+            ],
+            "uk": [
+                "Наміб.",
+                "Два листи.",
+                "Довгожитель."
+            ],
+            "en": [
+                "Namib.",
+                "Two leaves.",
+                "Long-lived."
+            ],
+            "es": [
+                "Namib.",
+                "Dos hojas.",
+                "Longevidad."
+            ],
+            "pt": [
+                "Namibe.",
+                "Duas folhas.",
+                "Longevidade."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Живёт тысячи лет.",
+                "Может выжить в пустыне."
+            ],
+            "uk": [
+                "Живе тисячі років.",
+                "Може вижити в пустелі."
+            ],
+            "en": [
+                "It lives for thousands of years.",
+                "It can survive in the desert."
+            ],
+            "es": [
+                "Vive miles de años.",
+                "Puede sobrevivir en el desierto."
+            ],
+            "pt": [
+                "Vive por milhares de anos.",
+                "Pode sobreviver no deserto."
+            ]
+        },
+        "tooltip": {
+            "ru": "Какое растение живёт 1500 лет?",
+            "uk": "Яка рослина живе 1500 років?",
+            "en": "What plant lives for 1500 years?",
+            "es": "¿Qué planta vive 1500 años?",
+            "pt": "Que planta vive por 1500 anos?"
+        },
+        "qwestion": {
+            "ru": "Какое растение, имеет всего два постоянно растущих листа?",
+            "uk": "Яка рослина має всього два постійно зростаючих листи?",
+            "en": "What plant has only two continuously growing leaves?",
+            "es": "¿Qué planta tiene solo dos hojas que crecen continuamente?",
+            "pt": "Que planta tem apenas duas folhas que crescem continuamente?"
+        },
+        "definition": {
+            "ru": "Вельвичия — уникальное растение из пустыни Намиб. Она живёт более 1500 лет и имеет всего два постоянно растущих листа, которые могут достигать огромной длины.",
+            "uk": "Вельвічія — унікальна рослина з пустелі Наміб. Вона живе понад 1500 років і має лише два постійно зростаючих листи, які можуть досягати величезної довжини.",
+            "en": "Welwitschia is a unique plant from the Namib Desert. It lives for over 1500 years and has only two continuously growing leaves that can reach enormous lengths.",
+            "es": "La welwitschia es una planta única del desierto del Namib. Vive más de 1500 años y solo tiene dos hojas que crecen continuamente y pueden alcanzar longitudes enormes.",
+            "pt": "A welwitschia é uma planta única do deserto do Namibe. Vive por mais de 1500 anos e tem apenas duas folhas que crescem continuamente e podem atingir comprimentos enormes."
+        },
+        "antipod": {
+            "ru": "Кактус",
+            "uk": "Кактус",
+            "en": "Cactus",
+            "es": "Cactus",
+            "pt": "Cacto"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих растений рекордсмен по продолжительности жизни в пустыне?",
+            "uk": "Яка з цих рослин є рекордсменом за тривалістю життя в пустелі?",
+            "en": "Which of these plants is the longevity record holder in the desert?",
+            "es": "¿Cuál de estas plantas es el poseedor del récord de longevidad en el desierto?",
+            "pt": "Qual dessas plantas é a detentora do recorde de longevidade no deserto?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Welwitschia"
+    },
+    "imgFlag": "all" 
+}

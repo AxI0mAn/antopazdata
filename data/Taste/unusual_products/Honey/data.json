@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Мёд",
+            "uk": "Мед",
+            "en": "Honey",
+            "es": "Miel",
+            "pt": "Mel"
+        },
+        "wrong": {
+            "ru": [
+                "Сахар",
+                "Рис",
+                "Соль"
+            ],
+            "uk": [
+                "Цукор",
+                "Рис",
+                "Сіль"
+            ],
+            "en": [
+                "Sugar",
+                "Rice",
+                "Salt"
+            ],
+            "es": [
+                "Azúcar",
+                "Arroz",
+                "Sal"
+            ],
+            "pt": [
+                "Açúcar",
+                "Arroz",
+                "Sal"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Пчёлы.",
+                "Сладость.",
+                "Свежесть."
+            ],
+            "uk": [
+                "Бджоли.",
+                "Солодкість.",
+                "Свіжість."
+            ],
+            "en": [
+                "Bees.",
+                "Sweetness.",
+                "Freshness."
+            ],
+            "es": [
+                "Abejas.",
+                "Dulzor.",
+                "Frescura."
+            ],
+            "pt": [
+                "Abelhas.",
+                "Doçura.",
+                "Frescura."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Рождённый из нектара цветов.",
+                "Найденный в гробницах фараонов, а всё ещё съедобен."
+            ],
+            "uk": [
+                "Народжений з нектару квітів.",
+                "Знайдений у гробницях фараонів, а все ще їстівний."
+            ],
+            "en": [
+                "Born from the nectar of flowers.",
+                "Found in the tombs of pharaohs, and still edible."
+            ],
+            "es": [
+                "Nacido del néctar de las flores.",
+                "Encontrado en las tumbas de los faraones, y aún comestible."
+            ],
+            "pt": [
+                "Nascido do néctar das flores.",
+                "Encontrado nos túmulos dos faraós, e ainda comestível."
+            ]
+        },
+        "tooltip": {
+            "ru": "Его низкое содержание воды и высокая кислотность препятствуют развитию бактерий.",
+            "uk": "Його низький вміст води і висока кислотність перешкоджають розвитку бактерій.",
+            "en": "Its low water content and high acidity prevent the development of bacteria.",
+            "es": "Su bajo contenido de agua y alta acidez previenen el desarrollo de bacterias.",
+            "pt": "Seu baixo teor de água e alta acidez impedem o desenvolvimento de bactérias."
+        },
+        "qwestion": {
+            "ru": "Один из немногих продуктов, которые могут храниться вечно.",
+            "uk": "Один з небагатьох продуктів, які можуть зберігатися вічно.",
+            "en": "One of the few products that can be stored forever.",
+            "es": "Uno de los pocos productos que se puede almacenar para siempre.",
+            "pt": "Um dos poucos produtos que pode ser armazenado para sempre."
+        },
+        "definition": {
+            "ru": "Мёд — это сладкое вязкое вещество, производимое пчёлами из нектара цветов. Благодаря своему уникальному составу с низким содержанием воды и высоким уровнем кислотности, он является одним из немногих продуктов, которые могут храниться практически вечно.",
+            "uk": "Мед — це солодка в'язка речовина, що виробляється бджолами з нектару квітів. Завдяки своєму унікальному складу з низьким вмістом води і високим рівнем кислотності, він є одним з небагатьох продуктів, які можуть зберігатися практично вічно.",
+            "en": "Honey is a sweet, viscous substance produced by bees from flower nectar. Thanks to its unique composition with low water content and high acidity, it is one of the few products that can be stored almost forever.",
+            "es": "La miel es una sustancia dulce y viscosa producida por las abejas a partir del néctar de las flores. Gracias a su composición única con bajo contenido de agua y alta acidez, es uno de los pocos productos que se puede almacenar casi para siempre.",
+            "pt": "O mel é uma substância doce e viscosa produzida pelas abelhas a partir do néctar das flores. Graças à sua composição única, com baixo teor de água e alta acidez, é um dos poucos produtos que pode ser armazenado praticamente para sempre."
+        },
+        "antipod": {
+            "ru": "Хамон",
+            "uk": "Хамон",
+            "en": "Jamón",
+            "es": "Jamón",
+            "pt": "Presunto"
+        },
+        "hintFuiz": {
+            "ru": "Что из этого может хранится дольше не испортившись?",
+            "uk": "Що з цього може зберігатися довше, не зіпсувавшись?",
+            "en": "Which of these can be stored for longer without spoiling?",
+            "es": "¿Cuál de estos se puede almacenar por más tiempo sin estropearse?",
+            "pt": "Qual desses pode ser armazenado por mais tempo sem estragar?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Honey"
+    },
+    "imgFlag": "all"
+}

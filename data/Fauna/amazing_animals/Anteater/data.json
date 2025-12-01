@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Муравьед",
+            "uk": "Мурахоїд",
+            "en": "Anteater",
+            "es": "Oso hormiguero",
+            "pt": "Tamanduá"
+        },
+        "wrong": {
+            "ru": [
+                "Коала",
+                "Ленивец",
+                "Ехидна"
+            ],
+            "uk": [
+                "Коала",
+                "Лінивець",
+                "Єхидна"
+            ],
+            "en": [
+                "Koala",
+                "Sloth",
+                "Echidna"
+            ],
+            "es": [
+                "Koala",
+                "Perezoso",
+                "Equidna"
+            ],
+            "pt": [
+                "Coala",
+                "Preguiça",
+                "Equidna"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Длинный язык.",
+                "Муравьи.",
+                "Беззубый."
+            ],
+            "uk": [
+                "Довгий язик.",
+                "Мурахи.",
+                "Беззубий."
+            ],
+            "en": [
+                "Long tongue.",
+                "Ants.",
+                "Toothless."
+            ],
+            "es": [
+                "Lengua larga.",
+                "Hormigas.",
+                "Sin dientes."
+            ],
+            "pt": [
+                "Língua longa.",
+                "Formigas.",
+                "Desdentado."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "У него нет зубов, а его когти напоминают лезвия.",
+                "Тот, кто ест муравьев, но не птица."
+            ],
+            "uk": [
+                "У нього немає зубів, а його кігті нагадують леза.",
+                "Той, хто їсть мурах, але не птах."
+            ],
+            "en": [
+                "It has no teeth, and its claws resemble blades.",
+                "The one who eats ants but is not a bird."
+            ],
+            "es": [
+                "No tiene dientes y sus garras parecen cuchillas.",
+                "El que come hormigas pero no es un pájaro."
+            ],
+            "pt": [
+                "Não tem dentes e suas garras parecem lâminas.",
+                "Aquele que come formigas, mas não é um pássaro."
+            ]
+        },
+        "tooltip": {
+            "ru": "Его язык может достигать 60 см в длину.",
+            "uk": "Його язик може сягати 60 см в довжину.",
+            "en": "Its tongue can reach up to 60 cm in length.",
+            "es": "Su lengua puede alcanzar hasta 60 cm de largo.",
+            "pt": "Sua língua pode atingir até 60 cm de comprimento."
+        },
+        "qwestion": {
+            "ru": "Какое животное без зубов, но с длинным липким языком, питается муравьями и термитами?",
+            "uk": "Яка тварина без зубів, але з довгим липким язиком, харчується мурахами і термітами?",
+            "en": "What toothless animal, with a long, sticky tongue, feeds on ants and termites?",
+            "es": "¿Qué animal sin dientes, pero con una lengua larga y pegajosa, se alimenta de hormigas y termitas?",
+            "pt": "Que animal sem dentes, mas com uma língua longa e pegajosa, se alimenta de formigas e cupins?"
+        },
+        "definition": {
+            "ru": "Муравьед — это млекопитающее, обитающее в Центральной и Южной Америке. Он известен своим длинным, узким рылом, отсутствием зубов, мощными когтями и длинным липким языком, которым он ловит муравьев и термитов.",
+            "uk": "Мурахоїд — це ссавець, що мешкає в Центральній і Південній Америці. Він відомий своїм довгим, вузьким рилом, відсутністю зубів, потужними кігтями та довгим липким язиком, яким він ловить мурах і термітів.",
+            "en": "The anteater is a mammal native to Central and South America. It is known for its long, narrow snout, lack of teeth, powerful claws, and long, sticky tongue, which it uses to capture ants and termites.",
+            "es": "El oso hormiguero es un mamífero nativo de América Central y del Sur. Es conocido por su hocico largo y estrecho, la falta de dientes, garras poderosas y una lengua larga y pegajosa que utiliza para capturar hormigas y termitas.",
+            "pt": "O tamanduá é um mamífero nativo da América Central e do Sul. Ele é conhecido por seu focinho longo e estreito, falta de dentes, garras poderosas e uma língua longa e pegajosa que usa para capturar formigas e cupins."
+        },
+        "antipod": {
+            "ru": "Панда",
+            "uk": "Панда",
+            "en": "Panda",
+            "es": "Panda",
+            "pt": "Panda"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих животных питается только насекомыми?",
+            "uk": "Яка з цих тварин харчується тільки комахами?",
+            "en": "Which of these animals feeds only on insects?",
+            "es": "¿Cuál de estos animales se alimenta solo de insectos?",
+            "pt": "Qual desses animais se alimenta apenas de insetos?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Anteater"
+    },
+    "imgFlag": "all" 
+}

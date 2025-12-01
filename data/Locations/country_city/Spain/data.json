@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Испания",
+            "uk": "Іспанія",
+            "en": "Spain",
+            "es": "España",
+            "pt": "Espanha"
+        },
+        "wrong": {
+            "ru": [
+                "Германия",
+                "Швеция",
+                "Греция"
+            ],
+            "uk": [
+                "Німеччина",
+                "Швеція",
+                "Греція"
+            ],
+            "en": [
+                "Germany",
+                "Sweden",
+                "Greece"
+            ],
+            "es": [
+                "Alemania",
+                "Suecia",
+                "Grecia"
+            ],
+            "pt": [
+                "Alemanha",
+                "Suécia",
+                "Grécia"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Коррида.",
+                "Фламенко.",
+                "Паэлья."
+            ],
+            "uk": [
+                "Корида.",
+                "Фламенко.",
+                "Паелья."
+            ],
+            "en": [
+                "Bullfighting.",
+                "Flamenco.",
+                "Paella."
+            ],
+            "es": [
+                "Tauromaquia.",
+                "Flamenco.",
+                "Paella."
+            ],
+            "pt": [
+                "Tourada.",
+                "Flamenco.",
+                "Paella."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Страна с единственной европейской пустыней.",
+                "В гимне какой страны нет слов?"
+            ],
+            "uk": [
+                "Країна з єдиною європейською пустелею.",
+                "У гімні якої країни немає слів?"
+            ],
+            "en": [
+                "The country with Europe's only desert.",
+                "Which country's anthem has no lyrics?"
+            ],
+            "es": [
+                "El país con el único desierto europeo.",
+                "¿Qué himno nacional no tiene letra?"
+            ],
+            "pt": [
+                "O país com o único deserto europeu.",
+                "Qual hino nacional não tem letra?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Эта страна известна своей единственной континентальной европейской пустыней, Табернас.",
+            "uk": "Ця країна відома своєю єдиною континентальною європейською пустелею, Табернас.",
+            "en": "This country is known for its only continental European desert, the Tabernas Desert.",
+            "es": "Este país es conocido por su único desierto continental europeo, el Desierto de Tabernas.",
+            "pt": "Este país é conhecido por seu único deserto continental europeu, o Deserto de Tabernas."
+        },
+        "qwestion": {
+            "ru": "Какая страна известна корридой, фламенко и паэльей?",
+            "uk": "Яка країна відома коридою, фламенко та паельєю?",
+            "en": "Which country is known for bullfighting, flamenco, and paella?",
+            "es": "¿Qué país es conocido por la tauromaquia, el flamenco y la paella?",
+            "pt": "Qual país é conhecido pela tourada, flamenco e paella?"
+        },
+        "definition": {
+            "ru": "Испания — это страна, расположенная на Пиренейском полуострове в Европе. Она известна своим богатым культурным наследием, включающим фламенко, корриду, архитектуру Антонио Гауди и разнообразную кухню, такую как паэлья и тапас. Испания также обладает удивительным разнообразием ландшафтов: от засушливых регионов, как пустыня Табернас, до зеленых гор и обширных береговых линий. Её национальный гимн, 'Королевский марш', является одним из немногих в мире, у которого нет официальных слов.",
+            "uk": "Іспанія — це країна, розташована на Піренейському півострові в Європі. Вона відома своєю багатою культурною спадщиною, що включає фламенко, кориду, архітектуру Антоніо Гауді та різноманітну кухню, таку як паелья і тапас. Іспанія також має дивовижне розмаїття ландшафтів: від посушливих регіонів, як пустеля Табернас, до зелених гір і великих берегових ліній. Її національний гімн, 'Королівський марш', є одним з небагатьох у світі, який не має офіційних слів.",
+            "en": "Spain is a country located on the Iberian Peninsula in Europe. It is known for its rich cultural heritage, including flamenco, bullfighting, the architecture of Antoni Gaudí, and diverse cuisine such as paella and tapas. Spain also has an amazing variety of landscapes, from arid regions like the Tabernas Desert to green mountains and vast coastlines. Its national anthem, 'Marcha Real', is one of the few in the world that has no official lyrics.",
+            "es": "España es un país ubicado en la Península Ibérica en Europa. Es conocido por su rica herencia cultural, que incluye el flamenco, la tauromaquia, la arquitectura de Antoni Gaudí y una cocina diversa como la paella y las tapas. España también posee una asombrosa variedad de paisajes, desde regiones áridas como el Desierto de Tabernas hasta montañas verdes y extensas costas. Su himno nacional, 'Marcha Real', es uno de los pocos en el mundo que no tiene letra oficial.",
+            "pt": "A Espanha é um país localizado na Península Ibérica, na Europa. É conhecida por sua rica herança cultural, incluindo o flamenco, a tourada, a arquitetura de Antoni Gaudí e uma culinária diversificada como a paella e as tapas. A Espanha também possui uma incrível variedade de paisagens, desde regiões áridas como o Deserto de Tabernas até montanhas verdes e vastas costas. Seu hino nacional, 'Marcha Real', é um dos poucos no mundo que não tem letras oficiais."
+        },
+        "antipod": {
+            "ru": "Новая Зеландия",
+            "uk": "Нова Зеландія",
+            "en": "New Zealand",
+            "es": "Nueva Zelanda",
+            "pt": "Nova Zelândia"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих стран находится на Пиренейском полуострове?",
+            "uk": "Яка з цих країн знаходиться на Піренейському півострові?",
+            "en": "Which of these countries is located on the Iberian Peninsula?",
+            "es": "¿Cuál de estos países se encuentra en la Península Ibérica?",
+            "pt": "Qual desses países está localizado na Península Ibérica?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Spain"
+    },
+    "imgFlag": "quizfoto" 
+}

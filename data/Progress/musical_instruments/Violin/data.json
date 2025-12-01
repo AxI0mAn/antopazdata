@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Скрипка",
+            "uk": "Скрипка",
+            "en": "Violin",
+            "es": "Violín",
+            "pt": "Violino"
+        },
+        "wrong": {
+            "ru": [
+                "Виолончель",
+                "Контрабас",
+                "Гитара"
+            ],
+            "uk": [
+                "Віолончель",
+                "Контрабас",
+                "Гітара"
+            ],
+            "en": [
+                "Cello",
+                "Double bass",
+                "Guitar"
+            ],
+            "es": [
+                "Violonchelo",
+                "Contrabajo",
+                "Guitarra"
+            ],
+            "pt": [
+                "Violoncelo",
+                "Contrabaixo",
+                "Guitarra"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Смычок.",
+                "Оркестр.",
+                "Подбородок."
+            ],
+            "uk": [
+                "Смичок.",
+                "Оркестр.",
+                "Підборіддя."
+            ],
+            "en": [
+                "Bow.",
+                "Orchestra.",
+                "Chin."
+            ],
+            "es": [
+                "Arco.",
+                "Orquesta.",
+                "Barbilla."
+            ],
+            "pt": [
+                "Arco.",
+                "Orquestra.",
+                "Queixo."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Голос оркестра, что покоится на плече?",
+                "Четыре струны, один смычок, а ладов нет?"
+            ],
+            "uk": [
+                "Голос оркестру, що спочиває на плечі?",
+                "Чотири струни, один смичок, а ладів немає?"
+            ],
+            "en": [
+                "The voice of the orchestra resting on a shoulder?",
+                "Four strings, one bow, but no frets?"
+            ],
+            "es": [
+                "¿La voz de la orquesta que descansa en un hombro?",
+                "¿Cuatro cuerdas, un arco, pero sin trastes?"
+            ],
+            "pt": [
+                "A voz da orquestra que repousa no ombro?",
+                "Quatro cordas, um arco, mas sem trastes?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Он имеет 4 струны и смычек. Способен производить звук, схожий с человеческим голосом.",
+            "uk": "Він має 4 струни та смичок. Здатний видавати звук, схожий на людський голос.",
+            "en": "It has 4 strings and a bow. It can produce a sound similar to a human voice.",
+            "es": "Tiene 4 cuerdas y un arco. Puede producir un sonido similar al de la voz humana.",
+            "pt": "Tem 4 cordas e um arco. Pode produzir um som semelhante ao de uma voz humana."
+        },
+        "qwestion": {
+            "ru": "Какой инструмент является основным в симфоническом оркестре? Требует высокой точности интонации из-за отсутствия ладов.",
+            "uk": "Який інструмент є основним у симфонічному оркестрі? Вимагає високої точності інтонації через відсутність ладів.",
+            "en": "Which instrument is a cornerstone of the symphony orchestra and requires high pitch accuracy due to the absence of frets?",
+            "es": "¿Qué instrumento es fundamental en la orquesta sinfónica y requiere alta precisión de entonación debido a la ausencia de trastes?",
+            "pt": "Qual instrumento é um pilar da orquestra sinfônica e exige alta precisão de afinação devido à ausência de trastes?"
+        },
+        "definition": {
+            "ru": "Скрипка — это струнный смычковый музыкальный инструмент высокого регистра. Скрипка является одним из самых виртуозных инструментов в классической и народной музыке.",
+            "uk": "Скрипка — це струнний смичковий музичний інструмент високого регістру. Скрипка є одним із найбільш віртуозних інструментів у класичній та народній музиці.",
+            "en": "The violin is a high-pitched string instrument played with a bow. It is one of the most virtuosic instruments in classical and folk music.",
+            "es": "El violín es un instrumento de cuerda frotada de registro alto. Es uno de los instrumentos más virtuosos en la música clásica y folclórica.",
+            "pt": "O violino é um instrumento de cordas agudo tocado com arco. É um dos instrumentos mais virtuosos na música clássica e folclórica."
+        },
+        "antipod": {
+            "ru": "Укулеле",
+            "uk": "Укулеле",
+            "en": "Ukulele",
+            "es": "Ukelele",
+            "pt": "Ukulele"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих двух инструментов имеет более широкий диапазон звучания?",
+            "uk": "Який із цих двох інструментів має ширший діапазон звучання?",
+            "en": "Which of these two instruments has a wider range of sound?",
+            "es": "¿Cuál de estos dos instrumentos tiene un rango de sonido más amplio?",
+            "pt": "Qual destes dois instrumentos tem uma gama de som mais ampla?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Violin"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Венера",
+            "uk": "Венера",
+            "en": "Venus",
+            "es": "Venus",
+            "pt": "Vênus"
+        },
+        "wrong": {
+            "ru": [
+                "Земля",
+                "Марс",
+                "Юпитер"
+            ],
+            "uk": [
+                "Земля",
+                "Марс",
+                "Юпітер"
+            ],
+            "en": [
+                "Earth",
+                "Mars",
+                "Jupiter"
+            ],
+            "es": [
+                "La Tierra",
+                "Marte",
+                "Júpiter"
+            ],
+            "pt": [
+                "A Terra",
+                "Marte",
+                "Júpiter"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Парниковый эффект.",
+                "Планета-близнец.",
+                "Утренняя звезда."
+            ],
+            "uk": [
+                "Парниковий ефект.",
+                "Планета-близнюк.",
+                "Ранкова зірка."
+            ],
+            "en": [
+                "Greenhouse effect.",
+                "Earth's twin.",
+                "Morning star."
+            ],
+            "es": [
+                "Efecto invernadero.",
+                "Gemelo de la Tierra.",
+                "Estrella de la mañana."
+            ],
+            "pt": [
+                "Efeito estufa.",
+                "Gêmeo da Terra.",
+                "Estrela da manhã."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Планета любви, красоты и гармонии",
+                "Самая горячая планета."
+            ],
+            "uk": [
+                "Планета кохання, краси та гармонії",
+                "Найгарячіша планета."
+            ],
+            "en": [
+                "The planet of love, beauty, and harmony",
+                "The hottest planet."
+            ],
+            "es": [
+                "El planeta del amor, la belleza y la armonía",
+                "El planeta más caliente."
+            ],
+            "pt": [
+                "O planeta do amor, beleza e harmonia",
+                "O planeta mais quente."
+            ]
+        },
+        "qwestion": {
+            "ru": "Какая планета в Солнечной системе является самой горячей, но не самой близкой к Солнцу?",
+            "uk": "Яка планета в Сонячній системі є найгарячішою, але не найближчою до Сонця?",
+            "en": "What planet in the Solar System is the hottest, but not the closest to the Sun?",
+            "es": "¿Qué planeta en el Sistema Solar es el más caliente, pero no el más cercano al Sol?",
+            "pt": "Qual planeta no Sistema Solar é o mais quente, mas não o mais próximo do Sol?"
+        },
+        "tooltip": {
+            "ru": "Её сутки длиннее года, и она вращается в направлении, противоположном большинству планет.",
+            "uk": "Її доба довша за рік, і вона обертається в напрямку, протилежному більшості планет.",
+            "en": "Its day is longer than its year, and it rotates opposite to most other planets.",
+            "es": "Su día es más largo que su año, y rota en dirección opuesta a la mayoría de los planetas.",
+            "pt": "Seu dia é mais longo que seu ano, e ela gira na direção oposta à maioria dos planetas."
+        },
+        "definition": {
+            "ru": "Венера — вторая планета от Солнца. Её плотная атмосфера, состоящая из углекислого газа, создает мощный парниковый эффект, что делает её самой горячей в Солнечной системе.",
+            "uk": "Венера — друга планета від Сонця. Її щільна атмосфера, що складається з вуглекислого газу, створює потужний парниковий ефект, що робить її найгарячішою в Сонячній системі.",
+            "en": "Venus is the second planet from the Sun. Its dense atmosphere, composed mainly of carbon dioxide, creates a powerful greenhouse effect, making it the hottest in the Solar System.",
+            "es": "Venus es el segundo planeta desde el Sol. Su densa atmósfera, compuesta principalmente de dióxido de carbono, crea un poderoso efecto invernadero, lo que la convierte en la más caliente del Sistema Solar.",
+            "pt": "Vênus é o segundo planeta a partir do Sol. Sua densa atmosfera, composta principalmente de dióxido de carbono, cria um poderoso efeito estufa, tornando-o o mais quente do Sistema Solar."
+        },
+        "antipod": {
+            "ru": "Меркурий",
+            "uk": "Меркурій",
+            "en": "Mercury",
+            "es": "Mercurio",
+            "pt": "Mercúrio"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих двух планет имеет более плотную атмосферу?",
+            "uk": "Яка з цих двох планет має щільнішу атмосферу?",
+            "en": "Which of these two planets has a denser atmosphere?",
+            "es": "¿Cuál de estos dos planetas tiene una atmósfera más densa?",
+            "pt": "Qual desses dois planetas tem uma atmosfera mais densa?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Venus"
+    },
+    "imgFlag": "all" 
+}

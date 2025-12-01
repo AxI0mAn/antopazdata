@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Альбатрос",
+            "uk": "Альбатрос",
+            "en": "Albatross",
+            "es": "Albatros",
+            "pt": "Albatroz"
+        },
+        "wrong": {
+            "ru": [
+                "Кондор",
+                "Орел",
+                "Сова"
+            ],
+            "uk": [
+                "Кондор",
+                "Орел",
+                "Сова"
+            ],
+            "en": [
+                "Condor",
+                "Eagle",
+                "Owl"
+            ],
+            "es": [
+                "Cóndor",
+                "Águila",
+                "Búho"
+            ],
+            "pt": [
+                "Condor",
+                "Águia",
+                "Coruja"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Море.",
+                "Крыло.",
+                "Глайдер."
+            ],
+            "uk": [
+                "Море.",
+                "Крило.",
+                "Планер."
+            ],
+            "en": [
+                "Sea.",
+                "Wing.",
+                "Glider."
+            ],
+            "es": [
+                "Mar.",
+                "Ala.",
+                "Planeador."
+            ],
+            "pt": [
+                "Mar.",
+                "Asa.",
+                "Planador."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Спит на ветру, летая над волнами.",
+                "Парит над океаном, а крылья огромны."
+            ],
+            "uk": [
+                "Спить на вітрі, літаючи над хвилями.",
+                "Ширяє над океаном, а крила величезні."
+            ],
+            "en": [
+                "It sleeps in the wind, flying over the waves.",
+                "It soars over the ocean, and its wings are enormous."
+            ],
+            "es": [
+                "Duerme con el viento, volando sobre las olas.",
+                "Se eleva sobre el océano y sus alas son enormes."
+            ],
+            "pt": [
+                "Ele dorme no vento, voando sobre as ondas.",
+                "Ele paira sobre o oceano e suas asas são enormes."
+            ]
+        },
+        "tooltip": {
+            "ru": "У него самый большой размах крыльев среди всех птиц.",
+            "uk": "У нього найбільший розмах крил серед усіх птахів.",
+            "en": "It has the largest wingspan of any bird.",
+            "es": "Tiene la envergadura más grande de todas las aves.",
+            "pt": "Tem a maior envergadura de todas as aves."
+        },
+        "qwestion": {
+            "ru": "Кто может спать прямо во время полета?",
+            "uk": "Хто може спати прямо під час польоту?",
+            "en": "What bird can sleep while flying?",
+            "es": "¿Qué ave puede dormir mientras vuela?",
+            "pt": "Qual pássaro pode dormir enquanto voa?"
+        },
+        "definition": {
+            "ru": "Альбатрос — это морская птица с самым большим размахом крыльев. Они могут оставаться в воздухе годами, пролетая тысячи километров. Они способны спать, пока парят над морем, используя динамическое парение.",
+            "uk": "Альбатрос — це морський птах з найбільшим розмахом крил. Вони можуть залишатися в повітрі роками, пролітаючи тисячі кілометрів. Вони здатні спати, поки ширяють над морем, використовуючи динамічне ширяння.",
+            "en": "The albatross is a seabird with the largest wingspan. They can stay in the air for years, flying thousands of miles. They are capable of sleeping while gliding over the sea by using dynamic soaring.",
+            "es": "El albatros es un ave marina con la mayor envergadura de alas. Pueden permanecer en el aire durante años, volando miles de kilómetros. Son capaces de dormir mientras planean sobre el mar, usando el planeo dinámico.",
+            "pt": "O albatroz é uma ave marinha com a maior envergadura de asas. Eles podem permanecer no ar por anos, voando milhares de quilômetros. São capazes de dormir enquanto planam sobre o mar, usando o voo dinâmico."
+        },
+        "antipod": {
+            "ru": "Ворон",
+            "uk": "Ворон",
+            "en": "Raven",
+            "es": "Cuervo",
+            "pt": "Corvo"
+        },
+        "hintFuiz": {
+            "ru": "Кто может спать в полёте?",
+            "uk": "Хто може спати в польоті?",
+            "en": "Who can sleep while flying?",
+            "es": "¿Quién puede dormir en pleno vuelo?",
+            "pt": "Quem pode dormir em voo?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Albatross"
+    },
+    "imgFlag": "all" 
+}

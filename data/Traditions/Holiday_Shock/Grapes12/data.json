@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "12 виноградин",
+            "uk": "12 виноградин",
+            "en": "12 Grapes",
+            "es": "12 Uvas",
+            "pt": "12 Uvas"
+        },
+        "wrong": {
+            "ru": [
+                "Сожжёная салфетка",
+                "12 оливок",
+                "12 устриц"
+            ],
+            "uk": [
+                "Спалена серветка",
+                "12 оливок",
+                "12 устриць"
+            ],
+            "en": [
+                "Burnt napkin",
+                "12 olives",
+                "12 oysters"
+            ],
+            "es": [
+                "Servilleta quemada",
+                "12 aceitunas",
+                "12 ostras"
+            ],
+            "pt": [
+                "Guardanapo queimado",
+                "12 azeitonas",
+                "12 ostras"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Испания",
+                "Полночь",
+                "Удача"
+            ],
+            "uk": [
+                "Іспанія",
+                "Опівночі",
+                "Удача"
+            ],
+            "en": [
+                "Spain",
+                "Midnight",
+                "Good luck"
+            ],
+            "es": [
+                "España",
+                "Medianoche",
+                "Suerte"
+            ],
+            "pt": [
+                "Espanha",
+                "Meia-noite",
+                "Sorte"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Двенадцать штук, по одной на каждый удар часов.",
+                "Эти ягоды нужно съесть в полночь для удачи."
+            ],
+            "uk": [
+                "Дванадцять штук, по одній на кожен удар годинника.",
+                "Ці ягоди треба з'їсти опівночі для удачі."
+            ],
+            "en": [
+                "Twelve pieces, one for each chime of the clock.",
+                "These berries must be eaten at midnight for good luck."
+            ],
+            "es": [
+                "Doce piezas, una por cada campanada del reloj.",
+                "Estas bayas deben comerse a medianoche para la buena suerte."
+            ],
+            "pt": [
+                "Doze peças, uma para cada badalada do relógio.",
+                "Estas bagas devem ser comidas à meia-noite para ter sorte."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это древняя испанская традиция",
+            "uk": "Це давня іспанська традиція",
+            "en": "This is an ancient Spanish tradition",
+            "es": "Es una antigua tradición española",
+            "pt": "É uma antiga tradição espanhola"
+        },
+        "qwestion": {
+            "ru": "Что нужно съесть под каждый бой часов в полночь, чтобы привлечь удачу на весь год?",
+            "uk": "Що потрібно з'їсти під кожен удар годинника опівночі, щоб залучити удачу на весь рік?",
+            "en": "What should you eat with each chime of the clock at midnight to attract good luck for the whole year?",
+            "es": "¿Qué se debe comer con cada campanada del reloj a medianoche para atraer la suerte para todo el año?",
+            "pt": "O que se deve comer a cada badalada do relógio à meia-noite para atrair sorte para o ano inteiro?"
+        },
+        "definition": {
+            "ru": "12 виноградин — это новогодняя традиция в Испании, когда люди съедают по одной виноградине под каждый из двенадцати ударов часов в полночь 31 декабря, чтобы обеспечить себе удачу на весь предстоящий год.",
+            "uk": "12 виноградин — це новорічна традиція в Іспанії, коли люди з'їдають по одній виноградині під кожен з дванадцяти ударів годинника опівночі 31 грудня, щоб забезпечити собі удачу на весь наступний рік.",
+            "en": "The 12 Grapes is a New Year's tradition in Spain where people eat one grape for each of the twelve chimes of the clock at midnight on December 31 to ensure good luck for the entire coming year.",
+            "es": "Las 12 Uvas es una tradición de Año Nuevo en España en la que las personas comen una uva por cada una de las doce campanadas del reloj a medianoche del 31 de diciembre para asegurarse buena suerte para todo el año siguiente.",
+            "pt": "As 12 Uvas é uma tradição de Ano Novo na Espanha em que as pessoas comem uma uva para cada uma das doze badaladas do relógio à meia-noite de 31 de dezembro para garantir boa sorte para todo o ano seguinte."
+        },
+        "antipod": {
+            "ru": "Лимон",
+            "uk": "Лимон",
+            "en": "Lemon",
+            "es": "Limón",
+            "pt": "Limão"
+        },
+        "hintFuiz": {
+            "ru": "Эти 12 ягод приносят удачу в Новом году.",
+            "uk": "Ці 12 ягід приносять удачу в Новому році.",
+            "en": "These 12 berries bring good luck in the New Year.",
+            "es": "Estas 12 bayas traen buena suerte en el Año Nuevo.",
+            "pt": "Estas 12 bagas trazem boa sorte no Ano Novo."
+        },
+        "article": "https://en.wikipedia.org/wiki/Twelve_Grapes"
+    },
+    "imgFlag": "quizfoto"
+}

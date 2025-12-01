@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Стекло",
+            "uk": "Скло",
+            "en": "Glass",
+            "es": "Vidrio",
+            "pt": "Vidro"
+        },
+        "wrong": {
+            "ru": [
+                "Мрамор",
+                "Резина",
+                "Кристалл"
+            ],
+            "uk": [
+                "Мармур",
+                "Гума",
+                "Кристал"
+            ],
+            "en": [
+                "Marble",
+                "Rubber",
+                "Crystal"
+            ],
+            "es": [
+                "Mármol",
+                "Goma",
+                "Cristal"
+            ],
+            "pt": [
+                "Mármore",
+                "Borracha",
+                "Cristal"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Окно.",
+                "Хрупкость.",
+                "Кремний."
+            ],
+            "uk": [
+                "Вікно.",
+                "Крихкість.",
+                "Кремній."
+            ],
+            "en": [
+                "Window.",
+                "Fragility.",
+                "Silicon."
+            ],
+            "es": [
+                "Ventana.",
+                "Fragilidad.",
+                "Silicio."
+            ],
+            "pt": [
+                "Janela.",
+                "Fragilidade.",
+                "Silício."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Прозрачная поверхность.",
+                "Жидкий минерал."
+            ],
+            "uk": [
+                "Прозора поверхня.",
+                "Рідкий мінерал."
+            ],
+            "en": [
+                "A transparent surface.",
+                "A liquid mineral."
+            ],
+            "es": [
+                "Una superficie transparente.",
+                "Un mineral líquido."
+            ],
+            "pt": [
+                "Uma superfície transparente.",
+                "Um mineral líquido."
+            ]
+        },
+        "tooltip": {
+            "ru": "Оно используется для создания окон и посуды.",
+            "uk": "Воно використовується для створення вікон та посуду.",
+            "en": "It's used to make windows and dishes.",
+            "es": "Se usa para hacer ventanas y vajilla.",
+            "pt": "É usado para fazer janelas e louças."
+        },
+        "qwestion": {
+            "ru": "Какое вещество, технически считается очень медленно текучей жидкостью, а не твердым телом?",
+            "uk": "Яка речовина, технічно вважається дуже повільно текучою рідиною, а не твердим тілом?",
+            "en": "What substance is technically considered a very slow-moving liquid, not a solid?",
+            "es": "¿Qué sustancia es técnicamente considerada un líquido de flujo muy lento, no un sólido?",
+            "pt": "Qual substância é tecnicamente considerada um líquido que flui muito lentamente, e não um sólido?"
+        },
+        "definition": {
+            "ru": "Стекло — аморфное твердое вещество, получаемое из расплавленного кремния, которое не имеет кристаллической структуры. Из-за этого оно иногда ошибочно считается очень медленно текучей жидкостью. Стекло — универсальный материал для окон, посуды и оптики.",
+            "uk": "Скло — аморфна тверда речовина, що отримується з розплавленого кремнію, яка не має кристалічної структури. Через це воно іноді помилково вважається дуже повільно текучою рідиною. Скло — універсальний матеріал для вікон, посуду та оптики.",
+            "en": "Glass is an amorphous solid made from melted silica, which lacks a crystalline structure. Because of this, it's sometimes mistakenly considered a very slow-flowing liquid. Glass is a versatile material used for windows, dishes, and optics.",
+            "es": "El vidrio es un sólido amorfo hecho de sílice fundida que carece de una estructura cristalina. Por eso, a veces se lo considera erróneamente un líquido que fluye muy lentamente. Es un material versátil para ventanas, vajilla y óptica.",
+            "pt": "O vidro é um sólido amorfo feito de sílica derretida, que não tem uma estrutura cristalina. Por isso, às vezes é erroneamente considerado um líquido que flui muito lentamente. O vidro é um material versátil para janelas, pratos e ótica."
+        },
+        "antipod": {
+            "ru": "Дерево",
+            "uk": "Дерево",
+            "en": "Wood",
+            "es": "Madera",
+            "pt": "Madeira"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих веществ является прозрачным и хрупким?",
+            "uk": "Яка з цих речовин є прозорою і крихкою?",
+            "en": "Which of these substances is transparent and brittle?",
+            "es": "¿Cuál de estas sustancias es transparente y frágil?",
+            "pt": "Qual dessas substâncias é transparente e frágil?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Glass"
+    },
+    "imgFlag": "all" 
+}

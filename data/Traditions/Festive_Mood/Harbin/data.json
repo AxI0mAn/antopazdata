@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Большой мир льда и снега",
+            "uk": "Великий світ льоду та снігу",
+            "en": "Harbin Ice and Snow World",
+            "es": "Gran Mundo de Hielo y Nieve",
+            "pt": "Grande Mundo de Gelo e Neve"
+        },
+        "wrong": {
+            "ru": [
+                "Чжунцю",
+                "Чжэнхэ",
+                "Циси"
+            ],
+            "uk": [
+                "Чжунцю",
+                "Чженхе",
+                "Цисі"
+            ],
+            "en": [
+                "Zhongqiu",
+                "Zheng He",
+                "Qixi"
+            ],
+            "es": [
+                "Zhongqiu",
+                "Zheng He",
+                "Qixi"
+            ],
+            "pt": [
+                "Zhongqiu",
+                "Zheng He",
+                "Qixi"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Харбин",
+                "Лед",
+                "Китай"
+            ],
+            "uk": [
+                "Харбін",
+                "Лід",
+                "Китай"
+            ],
+            "en": [
+                "Harbin",
+                "Ice",
+                "China"
+            ],
+            "es": [
+                "Harbin",
+                "Hielo",
+                "China"
+            ],
+            "pt": [
+                "Harbin",
+                "Gelo",
+                "China"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Весь мир создан изо льда.",
+                "Город из снега."
+            ],
+            "uk": [
+                "Весь світ створений з льоду.",
+                "Місто зі снігу."
+            ],
+            "en": [
+                "The whole world is made of ice.",
+                "A city of snow."
+            ],
+            "es": [
+                "El mundo entero está hecho de hielo.",
+                "Una ciudad de nieve."
+            ],
+            "pt": [
+                "O mundo inteiro é feito de gelo.",
+                "Uma cidade de neve."
+            ]
+        },
+        "tooltip": {
+            "ru": "Состоит из тысяч ледяных и снежных скульптур.",
+            "uk": "Складається з тисяч крижаних і снігових скульптур.",
+            "en": "Consists of thousands of ice and snow sculptures.",
+            "es": "Consiste en miles de esculturas de hielo y nieve.",
+            "pt": "Consiste em milhares de esculturas de gelo e neve."
+        },
+        "qwestion": {
+            "ru": "Крупнейший в мире тематический парк из льда и снега.",
+            "uk": "Найбільший у світі тематичний парк з льоду і снігу.",
+            "en": "The world's largest theme park made of ice and snow.",
+            "es": "El parque temático de hielo y nieve más grande del mundo.",
+            "pt": "O maior parque temático do mundo feito de gelo e neve."
+        },
+        "definition": {
+            "ru": "Большой мир льда и снега — это крупнейший в мире тематический парк, построенный из ледяных и снежных скульптур. Ежегодно открывается зимой в китайском городе Харбин. Он является главной частью Харбинского международного фестиваля льда и снега.",
+            "uk": "Великий світ льоду та снігу — це найбільший у світі тематичний парк, побудований з крижаних і снігових скульптур. Щорічно відкривається взимку в китайському місті Харбін. Він є головною частиною Харбінського міжнародного фестивалю льоду і снігу.",
+            "en": "Harbin Ice and Snow World is the world's largest theme park built from ice and snow sculptures. It opens annually in winter in the Chinese city of Harbin. It is the main part of the Harbin International Ice and Snow Festival.",
+            "es": "El Gran Mundo de Hielo y Nieve es el parque temático más grande del mundo construido con esculturas de hielo y nieve. Se abre anualmente en invierno en la ciudad china de Harbin. Es la parte principal del Festival Internacional de Hielo y Nieve de Harbin.",
+            "pt": "O Grande Mundo de Gelo e Neve é o maior parque temático do mundo construído com esculturas de gelo e neve. Ele abre anualmente no inverno na cidade chinesa de Harbin. É a parte principal do Festival Internacional de Gelo e Neve de Harbin."
+        },
+        "antipod": {
+            "ru": "Чжунцю",
+            "uk": "Чжунцю",
+            "en": "Zhongqiu",
+            "es": "Zhongqiu",
+            "pt": "Zhongqiu"
+        },
+        "hintFuiz": {
+            "ru": "Это главный фестиваль льда и снега в Харбине.",
+            "uk": "Це головний фестиваль льоду та снігу в Харбіні.",
+            "en": "This is the main ice and snow festival in Harbin.",
+            "es": "Este es el principal festival de hielo y nieve en Harbin.",
+            "pt": "Este é o principal festival de gelo e neve em Harbin."
+        },
+        "article": "https://en.wikipedia.org/wiki/Harbin_Ice_and_Snow_World"
+    },
+    "imgFlag": "quizfoto"
+}

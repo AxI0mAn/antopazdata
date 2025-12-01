@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Лонгйир",
+            "uk": "Лонгйір",
+            "en": "Longyearbyen",
+            "es": "Longyearbyen",
+            "pt": "Longyearbyen"
+        },
+        "wrong": {
+            "ru": [
+                "Мурманск",
+                "Тромсё",
+                "Гренландия"
+            ],
+            "uk": [
+                "Мурманськ",
+                "Тромсе",
+                "Гренландія"
+            ],
+            "en": [
+                "Murmansk",
+                "Tromsø",
+                "Greenland"
+            ],
+            "es": [
+                "Múrmansk",
+                "Tromsø",
+                "Groenlandia"
+            ],
+            "pt": [
+                "Murmansk",
+                "Tromsø",
+                "Groenlândia"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Полярная ночь.",
+                "Норвегия.",
+                "Темнота."
+            ],
+            "uk": [
+                "Полярна ніч.",
+                "Норвегія.",
+                "Темрява."
+            ],
+            "en": [
+                "Polar night.",
+                "Norway.",
+                "Darkness."
+            ],
+            "es": [
+                "Noche polar.",
+                "Noruega.",
+                "Oscuridad."
+            ],
+            "pt": [
+                "Noite polar.",
+                "Noruega.",
+                "Escuridão."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Солнце уходит на месяцы.",
+                "Где свет не приходит зимой."
+            ],
+            "uk": [
+                "Сонце заходить на місяці.",
+                "Де світло не приходить взимку."
+            ],
+            "en": [
+                "The sun disappears for months.",
+                "Where light doesn't come in winter."
+            ],
+            "es": [
+                "El sol desaparece por meses.",
+                "Donde la luz no llega en invierno."
+            ],
+            "pt": [
+                "O sol desaparece por meses.",
+                "Onde a luz não chega no inverno."
+            ]
+        },
+        "tooltip": {
+            "ru": "Солнце не поднимается над горизонтом с конца октября до середины февраля.",
+            "uk": "Сонце не піднімається над горизонтом з кінця жовтня до середини лютого.",
+            "en": "The sun doesn't rise above the horizon from late October to mid-February.",
+            "es": "El sol no se eleva sobre el horizonte desde finales de octubre hasta mediados de febrero.",
+            "pt": "O sol não se eleva acima do horizonte de fim de outubro a meados de fevereiro."
+        },
+        "qwestion": {
+            "ru": "В каком городе самая длинная ночь?",
+            "uk": "У якому місті найдовша ніч?",
+            "en": "What city has the longest night?",
+            "es": "¿Qué ciudad tiene la noche más larga?",
+            "pt": "Qual cidade tem a noite mais longa?"
+        },
+        "definition": {
+            "ru": "Лонгйир — самое северное поселение в мире с постоянным населением, расположенное в Норвегии. Известен своей полярной ночью, которая длится почти четыре месяца. Кроме того, существует закон, запрещающий умирать в пределах города из-за вечной мерзлоты.",
+            "uk": "Лонгйір — найпівнічніше поселення у світі з постійним населенням, розташоване в Норвегії. Відоме своєю полярною ніччю, що триває майже чотири місяці. Крім того, існує закон, що забороняє помирати в межах міста через вічну мерзлоту.",
+            "en": "Longyearbyen is the world's northernmost settlement with a permanent population, located in Norway. It is known for its polar night, which lasts for nearly four months. Additionally, a unique law prohibits dying within the city limits due to permafrost.",
+            "es": "Longyearbyen es el asentamiento más septentrional del mundo con población permanente, ubicado en Noruega. Es conocido por su noche polar, que dura casi cuatro meses. Además, una ley única prohíbe morir dentro de los límites de la ciudad debido al permafrost.",
+            "pt": "Longyearbyen é o assentamento mais ao norte do mundo com população permanente, localizado na Noruega. É conhecido por sua noite polar, que dura quase quatro meses. Além disso, uma lei única proíbe morrer dentro dos limites da cidade devido ao permafrost."
+        },
+        "antipod": {
+            "ru": "Уткиагвик",
+            "uk": "Уткіагвік",
+            "en": "Utqiaġvik",
+            "es": "Utqiagvik",
+            "pt": "Utqiagvik"
+        },
+        "hintFuiz": {
+            "ru": "Это город, где солнце не восходит почти четыре месяца.",
+            "uk": "Це місто, де сонце не сходить майже чотири місяці.",
+            "en": "This is a city where the sun doesn't rise for almost four months.",
+            "es": "Esta es una ciudad donde el sol no sale durante casi cuatro meses.",
+            "pt": "Esta é uma cidade onde o sol não nasce por quase quatro meses."
+        },
+        "article": "https://en.wikipedia.org/wiki/Longyearbyen"
+    },
+    "imgFlag": "quizfoto" 
+}

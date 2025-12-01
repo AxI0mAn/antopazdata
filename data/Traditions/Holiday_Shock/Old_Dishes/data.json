@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Старая посуда",
+            "uk": "Старий посуд",
+            "en": "Old Dishes",
+            "es": "Vajilla Vieja",
+            "pt": "Louça Velha"
+        },
+        "wrong": {
+            "ru": [
+                "Светильник",
+                "Телефон",
+                "Орехи"
+            ],
+            "uk": [
+                "Світильник",
+                "Телефон",
+                "Горіхи"
+            ],
+            "en": [
+                "Lamp",
+                "Phone",
+                "Nuts"
+            ],
+            "es": [
+                "Lámpara",
+                "Teléfono",
+                "Nueces"
+            ],
+            "pt": [
+                "Luminária",
+                "Telefone",
+                "Nozes"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Дания.",
+                "Разбить.",
+                "Удача."
+            ],
+            "uk": [
+                "Данія.",
+                "Розбити.",
+                "Удача."
+            ],
+            "en": [
+                "Denmark.",
+                "Smash.",
+                "Luck."
+            ],
+            "es": [
+                "Dinamarca.",
+                "Romper.",
+                "Suerte."
+            ],
+            "pt": [
+                "Dinamarca.",
+                "Quebrar.",
+                "Sorte."
+            ]
+        },
+        "tooltip": {
+            "ru": "Чем больше будет осколков, тем больше друзей и удачи ожидает жителей дома в Новом Году",
+            "uk": "Чим більше буде уламків, тим більше друзів та удачі очікує жителів будинку в Новому Році",
+            "en": "The more shards there are, the more friends and luck await the residents of the house in the New Year",
+            "es": "Cuantos más trozos haya, más amigos y suerte esperan a los habitantes de la casa en el Año Nuevo",
+            "pt": "Quanto mais cacos houver, mais amigos e sorte esperam pelos moradores da casa no Ano Novo"
+        },
+        "qwestion": {
+            "ru": "Что принято разбивать в Дании на Новый год у дверей друзей и соседей, чтобы привлечь удачу?",
+            "uk": "Що прийнято розбивати в Данії на Новий рік біля дверей друзів і сусідів, щоб залучити удачу?",
+            "en": "What is it customary to smash in Denmark on New Year's by the doors of friends and neighbors to attract luck?",
+            "es": "¿Qué se acostumbra a romper en Dinamarca en Año Nuevo en las puertas de amigos y vecinos para atraer la suerte?",
+            "pt": "O que é costume quebrar na Dinamarca no Ano Novo nas portas de amigos e vizinhos para atrair sorte?"
+        },
+        "definition": {
+            "ru": "Старая посуда — в Дании существует новогодняя традиция бить старые тарелки и стаканы о двери домов друзей и соседей. Считается, что чем больше осколков, тем больше удачи и друзей будет у хозяев в новом году.",
+            "uk": "Старий посуд — у Данії існує новорічна традиція бити старі тарілки і склянки об двері будинків друзів і сусідів. Вважається, що чим більше осколків, тим більше удачі і друзів буде у господарів в новому році.",
+            "en": "Old dishes — in Denmark, there is a New Year's tradition of smashing old plates and glasses against the doors of friends' and neighbors' homes. It is believed that the more shards there are, the more luck and friends the hosts will have in the new year.",
+            "es": "La vajilla vieja — en Dinamarca, existe la tradición de Año Nuevo de romper platos y vasos viejos contra las puertas de las casas de amigos y vecinos. Se cree que cuantos más trozos haya, más suerte y amigos tendrán los anfitriones en el nuevo año.",
+            "pt": "Louça velha — na Dinamarca, existe a tradição de Ano Novo de quebrar pratos e copos velhos nas portas das casas de amigos e vizinhos. Acredita-se que quanto mais cacos houver, mais sorte e amigos os anfitriões terão no ano novo."
+        },
+        "antipod": {
+            "ru": "Кокосы",
+            "uk": "Кокоси",
+            "en": "Coconuts",
+            "es": "Cocos",
+            "pt": "Cocos"
+        },
+        "hintFuiz": {
+            "ru": "Это бьют для привлечения удачи в Дании.",
+            "uk": "Це б'ють для залучення удачі в Данії.",
+            "en": "This is broken to attract luck in Denmark.",
+            "es": "Esto se rompe para atraer la suerte en Dinamarca.",
+            "pt": "Isso é quebrado para atrair a sorte na Dinamarca."
+        },
+        "riddle": {
+            "ru": [
+                "Я служила долго на столе.",
+                "Чем больше осколков, тем лучше."
+            ],
+            "uk": [
+                "Я служила довго на столі.",
+                "Чим більше осколків, тим краще."
+            ],
+            "en": [
+                "I have served for a long time on the table.",
+                "The more fragments, the better."
+            ],
+            "es": [
+                "He servido durante mucho tiempo en la mesa.",
+                "Cuantos más fragmentos, mejor."
+            ],
+            "pt": [
+                "Eu servi por muito tempo na mesa.",
+                "Quanto mais fragmentos, melhor."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/New_Year%27s_Day#Traditions_and_customs"
+    },
+    "imgFlag": "quizfoto"
+}

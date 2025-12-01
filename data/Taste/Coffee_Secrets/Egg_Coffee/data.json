@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Яичный кофе",
+            "uk": "Яєчна кава",
+            "en": "Egg Coffee",
+            "es": "Café de huevo",
+            "pt": "Café de ovo"
+        },
+        "wrong": {
+            "ru": [
+                "Солёный кофе",
+                "Белый кофе",
+                "Кофе с сыром"
+            ],
+            "uk": [
+                "Солона кава",
+                "Біла кава",
+                "Кава із сиром"
+            ],
+            "en": [
+                "Salted Coffee",
+                "White Coffee",
+                "Coffee with Cheese"
+            ],
+            "es": [
+                "Café salado",
+                "Café blanco",
+                "Café con queso"
+            ],
+            "pt": [
+                "Café salgado",
+                "Café branco",
+                "Café com queijo"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Вьетнам.",
+                "Яичный желток.",
+                "Капучино."
+            ],
+            "uk": [
+                "В'єтнам.",
+                "Яєчний жовток.",
+                "Капучино."
+            ],
+            "en": [
+                "Vietnam.",
+                "Egg yolk.",
+                "Cappuccino."
+            ],
+            "es": [
+                "Vietnam.",
+                "Yema de huevo.",
+                "Capuchino."
+            ],
+            "pt": [
+                "Vietnã.",
+                "Gema de ovo.",
+                "Cappuccino."
+            ]
+        },
+        "tooltip": {
+            "ru": "В нём взбитый яичный желток смешивают со сгущенным молоком и добавляют в кофе",
+            "uk": "У ньому збитий яєчний жовток змішують зі згущеним молоком і додають до кави",
+            "en": "In it, whipped egg yolk is mixed with condensed milk and added to coffee",
+            "es": "En él, la yema de huevo batida se mezcla con leche condensada y se agrega al café",
+            "pt": "Nele, a gema de ovo batida é misturada com leite condensado e adicionada ao café"
+        },
+        "qwestion": {
+            "ru": "Какой кофейный напиток можно попробовать во Вьетнаме?",
+            "uk": "Який кавовий напій можна спробувати у В'єтнамі?",
+            "en": "What coffee drink can you try in Vietnam?",
+            "es": "¿Qué bebida de café puedes probar en Vietnam?",
+            "pt": "Que bebida de café você pode experimentar no Vietnã?"
+        },
+        "definition": {
+            "ru": "Яичный кофе — это вьетнамский напиток, созданный в 1940-х годах в Ханое, когда из-за дефицита молока придумали использовать взбитый яичный желток со сгущенкой, чтобы получить кремовую пенку.",
+            "uk": "Яєчна кава — це в'єтнамський напій, створений у 1940-х роках у Ханої, коли через дефіцит молока вигадали використовувати збитий яєчний жовток зі згущенкою, щоб отримати вершкову пінку.",
+            "en": "Egg coffee is a Vietnamese drink created in the 1940s in Hanoi. Due to a milk shortage, they came up with the idea of using whipped egg yolk with condensed milk to create a creamy foam.",
+            "es": "El café de huevo es una bebida vietnamita creada en la década de 1940 en Hanói. Debido a la escasez de leche, se les ocurrió la idea de usar yema de huevo batida con leche condensada para crear una espuma cremosa.",
+            "pt": "O café de ovo é uma bebida vietnamita criada na década de 1940 em Hanói. Devido à escassez de leite, eles tiveram a ideia de usar gema de ovo batida com leite condensado para criar uma espuma cremosa."
+        },
+        "antipod": {
+            "ru": "Кофе с сыром",
+            "uk": "Кава із сиром",
+            "en": "Coffee with cheese",
+            "es": "Café con queso",
+            "pt": "Café com queijo"
+        },
+        "hintFuiz": {
+            "ru": "Этот кофейный напиток можно попробовать во Вьетнаме.",
+            "uk": "Цей кавовий напій можна спробувати у В'єтнамі.",
+            "en": "This coffee drink can be tried in Vietnam.",
+            "es": "Esta bebida de café se puede probar en Vietnam.",
+            "pt": "Esta bebida de café pode ser experimentada no Vietnã."
+        },
+        "riddle": {
+            "ru": [
+                "Сверху — крем, но не из молока.",
+                "Во Вьетнаме заменили молоко в кофе."
+            ],
+            "uk": [
+                "Зверху — крем, але не з молока.",
+                "У В'єтнамі замінили молоко в каві."
+            ],
+            "en": [
+                "On top, there is a cream, but not from milk.",
+                "In Vietnam, they replaced milk in coffee."
+            ],
+            "es": [
+                "Encima, hay una crema, pero no de leche.",
+                "En Vietnam, reemplazaron la leche en el café."
+            ],
+            "pt": [
+                "Por cima, há um creme, mas não de leite.",
+                "No Vietnã, eles substituíram o leite no café."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Egg_coffee"
+    },
+    "imgFlag": "quizfoto"
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Аполлон-11",
+            "uk": "Аполлон-11",
+            "en": "Apollo 11",
+            "es": "Apolo 11",
+            "pt": "Apollo 11"
+        },
+        "wrong": {
+            "ru": [
+                "Аполлон-13",
+                "Спутник-1",
+                "Союз-11"
+            ],
+            "uk": [
+                "Аполлон-13",
+                "Супутник-1",
+                "Союз-11"
+            ],
+            "en": [
+                "Apollo 13",
+                "Sputnik 1",
+                "Soyuz 11"
+            ],
+            "es": [
+                "Apolo 13",
+                "Sputnik 1",
+                "Soyuz 11"
+            ],
+            "pt": [
+                "Apollo 13",
+                "Sputnik 1",
+                "Soyuz 11"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Нил Армстронг.",
+                "Лунный модуль.",
+                "Первый шаг на Луну."
+            ],
+            "uk": [
+                "Ніл Армстронг.",
+                "Місячний модуль.",
+                "Перший крок на Місяць."
+            ],
+            "en": [
+                "Neil Armstrong.",
+                "Lunar module.",
+                "First step on the Moon."
+            ],
+            "es": [
+                "Neil Armstrong.",
+                "Módulo lunar.",
+                "Primer paso en la Luna."
+            ],
+            "pt": [
+                "Neil Armstrong.",
+                "Módulo lunar.",
+                "Primeiro passo na Lua."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "С какой космической миссии началась новая эра?",
+                "Какая миссия в 1969 году доставила людей на Луну?"
+            ],
+            "uk": [
+                "З якої космічної місії розпочалася нова ера?",
+                "Яка місія в 1969 році доставила людей на Місяць?"
+            ],
+            "en": [
+                "What space mission started a new era?",
+                "What 1969 mission brought humans to the Moon?"
+            ],
+            "es": [
+                "¿Qué misión espacial dio inicio a una nueva era?",
+                "¿Qué misión en 1969 llevó a los humanos a la Luna?"
+            ],
+            "pt": [
+                "Qual missão espacial iniciou uma nova era?",
+                "Qual missão em 1969 levou humanos à Lua?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Бортовой компьютер этой миссии был менее мощным, чем современный калькулятор.",
+            "uk": "Бортовий комп'ютер цієї місії був менш потужним, ніж сучасний калькулятор.",
+            "en": "The onboard computer for this mission was less powerful than a modern calculator.",
+            "es": "El ordenador de a bordo de esta misión era menos potente que una calculadora moderna.",
+            "pt": "O computador de bordo desta missão era menos poderoso que uma calculadora moderna."
+        },
+        "qwestion": {
+            "ru": "Какая космическая миссия, в 1969 году, впервые в истории доставила человека на поверхность Луны и успешно вернула его на Землю?",
+            "uk": "Яка космічна місія, запущена в 1969 році, вперше в історії доставила людину на поверхню Місяця та успішно повернула її на Землю?",
+            "en": "Which space mission, launched in 1969, was the first in history to land humans on the surface of the Moon and successfully return them to Earth?",
+            "es": "¿Qué misión espacial, lanzada en 1969, fue la primera en la historia en llevar humanos a la superficie de la Luna y traerlos de regreso a la Tierra con éxito?",
+            "pt": "Qual missão espacial, lançada em 1969, foi a primeira na história a pousar humanos na superfície da Lua e trazê-los de volta à Terra com sucesso?"
+        },
+        "definition": {
+            "ru": "Аполлон-11 — пятый пилотируемый полет по программе 'Аполлон' и первый, в ходе которого люди высадились на Луну. Нил Армстронг и Базз Олдрин стали первыми людьми, ступившими на поверхность другого небесного тела.",
+            "uk": "Аполлон-11 — п'ятий пілотований політ за програмою 'Аполлон' і перший, у ході якого люди висадилися на Місяць. Ніл Армстронг і Базз Олдрін стали першими людьми, які ступили на поверхню іншого небесного тіла.",
+            "en": "Apollo 11 was the fifth crewed mission of NASA's Apollo program and the first to land humans on the Moon. Neil Armstrong and Buzz Aldrin became the first two humans to walk on the surface of another celestial body.",
+            "es": "Apolo 11 fue la quinta misión tripulada del programa Apolo de la NASA y la primera en llevar humanos a la Luna. Neil Armstrong y Buzz Aldrin se convirtieron en los dos primeros humanos en caminar sobre la superficie de otro cuerpo celeste.",
+            "pt": "Apollo 11 foi a quinta missão tripulada do programa Apollo da NASA e a primeira a pousar humanos na Lua. Neil Armstrong e Buzz Aldrin se tornaram os dois primeiros humanos a caminhar na superfície de outro corpo celeste."
+        },
+        "antipod": {
+            "ru": "Аполлон-8",
+            "uk": "Аполлон-8",
+            "en": "Apollo 8",
+            "es": "Apolo 8",
+            "pt": "Apollo 8"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих двух миссий была первой, совершившей высадку на Луну?",
+            "uk": "Яка з цих двох місій була першою, що здійснила висадку на Місяць?",
+            "en": "Which of these two missions was the first to land on the Moon?",
+            "es": "¿Cuál de estas dos misiones fue la primera en aterrizar en la Luna?",
+            "pt": "Qual destas duas missões foi a primeira a pousar na Lua?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Apollo_11"
+    },
+    "imgFlag": "all" 
+}

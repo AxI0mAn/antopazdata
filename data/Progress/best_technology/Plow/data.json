@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Плуг",
+            "uk": "Плуг",
+            "en": "The Plow",
+            "es": "El Arado",
+            "pt": "O Arado"
+        },
+        "wrong": {
+            "ru": [
+                "Крюк",
+                "Копье",
+                "Лук (оружие)"
+            ],
+            "uk": [
+                "Гак",
+                "Спис",
+                "Лук (зброя)"
+            ],
+            "en": [
+                "The hook",
+                "The spear",
+                "The bow (weapon)"
+            ],
+            "es": [
+                "El gancho",
+                "La lanza",
+                "El arco (arma)"
+            ],
+            "pt": [
+                "O gancho",
+                "A lança",
+                "O arco (arma)"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Земледелие.",
+                "Древний.",
+                "Поле."
+            ],
+            "uk": [
+                "Землеробство.",
+                "Стародавній.",
+                "Поле."
+            ],
+            "en": [
+                "Agriculture.",
+                "Ancient.",
+                "Field."
+            ],
+            "es": [
+                "Agricultura.",
+                "Antiguo.",
+                "Campo."
+            ],
+            "pt": [
+                "Agricultura.",
+                "Antigo.",
+                "Campo."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Он переворачивает землю для нового урожая.",
+                "Инструмент, который помог перейти к оседлому образу жизни."
+            ],
+            "uk": [
+                "Він перевертає землю для нового врожаю.",
+                "Інструмент, який допоміг перейти до осілого способу життя."
+            ],
+            "en": [
+                "It turns the soil for a new harvest.",
+                "A tool that helped to transition to a settled lifestyle."
+            ],
+            "es": [
+                "Voltea la tierra para una nueva cosecha.",
+                "Una herramienta que ayudó a la transición a un estilo de vida sedentario."
+            ],
+            "pt": [
+                "Ele vira o solo para uma nova colheita.",
+                "Uma ferramenta que ajudou a transição para um estilo de vida sedentário."
+            ]
+        },
+        "tooltip": {
+            "ru": "Оно сыграло важную роль для возникновения первых цивилизаций.",
+            "uk": "Воно відіграло важливу роль для виникнення перших цивілізацій.",
+            "en": "It played an important role in the emergence of the first civilizations.",
+            "es": "Jugó un papel importante en el surgimiento de las primeras civilizaciones.",
+            "pt": "Desempenhou um papel importante no surgimento das primeiras civilizações."
+        },
+        "qwestion": {
+            "ru": "Какое изобретение, стало ключевым для развития сельского хозяйства?",
+            "uk": "Який винахід, став ключовим для розвитку сільського господарства?",
+            "en": "What invention was key to the development of agriculture?",
+            "es": "¿Qué invento fue clave para el desarrollo de la agricultura?",
+            "pt": "Qual invenção foi fundamental para o desenvolvimento da agricultura?"
+        },
+        "definition": {
+            "ru": "Плуг — это древний сельскохозяйственный инструмент, используемый для вспашки почвы. Его изобретение около 4000 г. до н. э. стало одним из главных факторов Неолитической революции. Он позволил людям обрабатывать большие участки земли, что привело к росту урожайности, развитию земледелия и возникновению первых постоянных поселений.",
+            "uk": "Плуг — це стародавній сільськогосподарський інструмент, що використовується для орання ґрунту. Його винахід близько 4000 р. до н. е. став одним з головних чинників Неолітичної революції. Він дозволив людям обробляти великі ділянки землі, що призвело до зростання врожайності, розвитку землеробства та виникнення перших постійних поселень.",
+            "en": "The plow is an ancient agricultural tool used for tilling the soil. Its invention around 4000 BCE was a key factor in the Neolithic Revolution. It allowed people to cultivate larger areas of land, leading to higher crop yields, the development of farming, and the emergence of the first permanent settlements.",
+            "es": "El arado es una antigua herramienta agrícola utilizada para labrar la tierra. Su invención alrededor del 4000 a.C. fue un factor clave en la Revolución Neolítica. Permitió a las personas cultivar áreas de tierra más grandes, lo que condujo a mayores rendimientos de los cultivos, el desarrollo de la agricultura y el surgimiento de los primeros asentamientos permanentes.",
+            "pt": "O arado é uma antiga ferramenta agrícola usada para arar o solo. Sua invenção por volta de 4000 a.C. foi um fator chave na Revolução Neolítica. Ele permitiu às pessoas cultivar áreas maiores de terra, levando a maiores rendimentos das colheitas, ao desenvolvimento da agricultura e ao surgimento dos primeiros assentamentos permanentes."
+        },
+        "antipod": {
+            "ru": "Весло",
+            "uk": "Весло",
+            "en": "The Oar",
+            "es": "El Remo",
+            "pt": "O Remo"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих изобретений связано с ручным трудом в поле?",
+            "uk": "Який із цих винаходів пов'язаний з ручною працею в полі?",
+            "en": "Which of these inventions is related to manual labor in the field?",
+            "es": "¿Cuál de estos inventos está relacionado con el trabajo manual en el campo?",
+            "pt": "Qual dessas invenções está relacionada ao trabalho manual no campo?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Plough"
+    },
+    "imgFlag": "all" 
+}

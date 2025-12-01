@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Рыба-фугу",
+            "uk": "Риба-фугу",
+            "en": "Pufferfish",
+            "es": "Pez globo",
+            "pt": "Baiacu"
+        },
+        "wrong": {
+            "ru": [
+                "Морской окунь",
+                "Тунец",
+                "Скат"
+            ],
+            "uk": [
+                "Морський окунь",
+                "Тунець",
+                "Скат"
+            ],
+            "en": [
+                "Sea bass",
+                "Tuna",
+                "Ray"
+            ],
+            "es": [
+                "Lubina",
+                "Atún",
+                "Raya"
+            ],
+            "pt": [
+                "Robalo",
+                "Atum",
+                "Arraia"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Иглы.",
+                "Яд.",
+                "Раздувание."
+            ],
+            "uk": [
+                "Голки.",
+                "Отрута.",
+                "Роздування."
+            ],
+            "en": [
+                "Spines.",
+                "Poison.",
+                "Inflation."
+            ],
+            "es": [
+                "Espinas.",
+                "Veneno.",
+                "Inflado."
+            ],
+            "pt": [
+                "Espinhas.",
+                "Veneno.",
+                "Inchaço."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Какая рыба ядовитая, но съедобная?",
+                "Какая рыба превращается в колючий шар?"
+            ],
+            "uk": [
+                "Яка риба отруйна, але їстівна?",
+                "Яка риба перетворюється на колючу кулю?"
+            ],
+            "en": [
+                "Which fish is poisonous but edible?",
+                "Which fish turns into a spiky ball?"
+            ],
+            "es": [
+                "¿Qué pez es venenoso pero comestible?",
+                "¿Qué pez se convierte en una bola con púas?"
+            ],
+            "pt": [
+                "Qual peixe é venenoso mas comestível?",
+                "Qual peixe se transforma em uma bola espinhosa?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Она одна из самых ядовитых рыб в мире.",
+            "uk": "Вона одна з найотруйніших риб у світі.",
+            "en": "It is one of the most poisonous fish in the world.",
+            "es": "Es uno de los peces más venenosos del mundo.",
+            "pt": "É um dos peixes mais venenosos do mundo."
+        },
+        "qwestion": {
+            "ru": "Какая рыба превращается в колючий шар, чтобы защититься?",
+            "uk": "Яка риба перетворюється на колючу кулю, щоб захиститися?",
+            "en": "Which fish turns into a spiky ball to protect itself?",
+            "es": "¿Qué pez se convierte en una bola con púas para protegerse?",
+            "pt": "Qual peixe se transforma em uma bola espinhosa para se proteger?"
+        },
+        "definition": {
+            "ru": "Рыба-фугу — это семейство рыб, известных своей способностью раздуваться, заполняя желудок водой или воздухом. Это создает защитный, колючий шар, который отпугивает хищников. Некоторые виды также невероятно ядовиты.",
+            "uk": "Риба-фугу — це сімейство риб, відомих своєю здатністю роздуватися, заповнюючи шлунок водою або повітрям. Це створює захисну, колючу кулю, яка відлякує хижаків. Деякі види також неймовірно отруйні.",
+            "en": "The pufferfish is a family of fish known for its ability to inflate by filling its stomach with water or air. This creates a defensive, spiky ball that deters predators. Some species are also incredibly poisonous.",
+            "es": "El pez globo es una familia de peces conocida por inflarse con agua o aire. Se convierte en una bola defensiva y espinosa para disuadir a los depredadores. Algunas especies son muy venenosas.",
+            "pt": "O baiacu é uma família de peixes que pode inflar o estômago com água ou ar. Isso cria uma bola espinhosa para defesa contra predadores. Algumas espécies são incrivelmente venenosas."
+        },
+        "antipod": {
+            "ru": "Камбала",
+            "uk": "Камбала",
+            "en": "Flounder",
+            "es": "Lenguado",
+            "pt": "Linguado"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих двух рыб способна увеличивать свой размер для защиты?",
+            "uk": "Яка з цих двох риб здатна збільшувати свій розмір для захисту?",
+            "en": "Which of these two fish is capable of increasing its size for protection?",
+            "es": "¿Cuál de estos dos peces es capaz de aumentar su tamaño para protegerse?",
+            "pt": "Qual desses dois peixes é capaz de aumentar seu tamanho para se proteger?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Pufferfish"
+    },
+    "imgFlag": "all" 
+}

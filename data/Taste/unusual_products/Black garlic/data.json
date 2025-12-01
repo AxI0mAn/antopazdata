@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Черный чеснок",
+            "uk": "Чорний часник",
+            "en": "Black garlic",
+            "es": "Ajo negro",
+            "pt": "Alho negro"
+        },
+        "wrong": {
+            "ru": [
+                "Чесночная паста",
+                "Кимчи",
+                "Соевый соус"
+            ],
+            "uk": [
+                "Часникова паста",
+                "Кімчі",
+                "Соєвий соус"
+            ],
+            "en": [
+                "Garlic paste",
+                "Kimchi",
+                "Soy sauce"
+            ],
+            "es": [
+                "Pasta de ajo",
+                "Kimchi",
+                "Salsa de soja"
+            ],
+            "pt": [
+                "Pasta de alho",
+                "Kimchi",
+                "Molho de soja"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Ферментация.",
+                "Вкус.",
+                "Умами."
+            ],
+            "uk": [
+                "Ферментація.",
+                "Смак.",
+                "Умамі."
+            ],
+            "en": [
+                "Fermentation.",
+                "Taste.",
+                "Umami."
+            ],
+            "es": [
+                "Fermentación.",
+                "Sabor.",
+                "Umami."
+            ],
+            "pt": [
+                "Fermentação.",
+                "Sabor.",
+                "Umami."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Был острым и белым, а стал сладким и чёрным.",
+                "Без огня и воды, оно меняет цвет и вкус."
+            ],
+            "uk": [
+                "Був гострим і білим, а став солодким і чорним.",
+                "Без вогню і води, воно змінює колір і смак."
+            ],
+            "en": [
+                "It was spicy and white, and became sweet and black.",
+                "Without fire or water, it changes color and taste."
+            ],
+            "es": [
+                "Era picante y blanco, y se volvió dulce y negro.",
+                "Sin fuego ni agua, cambia de color y sabor."
+            ],
+            "pt": [
+                "Era picante e branco, e se tornou doce e preto.",
+                "Sem fogo ou água, ele muda de cor e sabor."
+            ]
+        },
+        "tooltip": {
+            "ru": "Он приобретает тёмный цвет и сладкий вкус благодаря реакции Майяра в процессе ферментации.",
+            "uk": "Він набуває темного кольору і солодкого смаку завдяки реакції Маяра в процесі ферментації.",
+            "en": "It acquires its dark color and sweet taste from the Maillard reaction during fermentation.",
+            "es": "Adquiere su color oscuro y sabor dulce a través de la reacción de Maillard durante la fermentación.",
+            "pt": "Adquire sua cor escura e sabor doce através da reação de Maillard durante a fermentação."
+        },
+        "qwestion": {
+            "ru": "Какой продукт получается путем длительной ферментации чеснока?",
+            "uk": "Який продукт виходить шляхом тривалої ферментації часнику?",
+            "en": "What product is obtained by long-term garlic fermentation?",
+            "es": "¿Qué producto se obtiene mediante la fermentación prolongada del ajo?",
+            "pt": "Que produto é obtido através da fermentação prolongada do alho?"
+        },
+        "definition": {
+            "ru": "Чёрный чеснок — это продукт, полученный путем ферментации обычного чеснока при высокой температуре и влажности. В процессе он становится чёрным, мягким и приобретает сладкий вкус с нотками умами, что делает его популярным деликатесом.",
+            "uk": "Чорний часник — це продукт, отриманий шляхом ферментації звичайного часнику за високої температури і вологості. У процесі він стає чорним, м'яким і набуває солодкого смаку з нотками умамі, що робить його популярним делікатесом.",
+            "en": "Black garlic is a product obtained by fermenting regular garlic at a high temperature and humidity. During the process, it becomes black, soft, and acquires a sweet taste with umami notes, making it a popular delicacy.",
+            "es": "El ajo negro es un producto obtenido al fermentar ajo regular a alta temperatura y humedad. En el proceso, se vuelve negro, blando y adquiere un sabor dulce con notas umami, lo que lo convierte en un manjar popular.",
+            "pt": "O alho negro é um produto obtido ao fermentar alho comum em alta temperatura e umidade. No processo, ele se torna preto, macio e adquire um sabor doce com notas de umami, o que o torna uma iguaria popular."
+        },
+        "antipod": {
+            "ru": "Маринованный чеснок",
+            "uk": "Маринований часник",
+            "en": "Pickled garlic",
+            "es": "Ajo encurtido",
+            "pt": "Alho em conserva"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих двух продуктов производится путем ферментации?",
+            "uk": "Який з цих двох продуктів виробляється шляхом ферментації?",
+            "en": "Which of these two products is produced by fermentation?",
+            "es": "¿Cuál de estos dos productos se produce por fermentación?",
+            "pt": "Qual desses dois produtos é produzido por fermentação?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Black_garlic"
+    },
+    "imgFlag": "all"
+}

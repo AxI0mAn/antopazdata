@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Страус",
+            "uk": "Страус",
+            "en": "Ostrich",
+            "es": "Avestruz",
+            "pt": "Avestruz"
+        },
+        "wrong": {
+            "ru": [
+                "Эму",
+                "Казуар",
+                "Гриф"
+            ],
+            "uk": [
+                "Ему",
+                "Казуар",
+                "Гриф"
+            ],
+            "en": [
+                "Emu",
+                "Cassowary",
+                "Vulture"
+            ],
+            "es": [
+                "Emú",
+                "Casuario",
+                "Buitre"
+            ],
+            "pt": [
+                "Ema",
+                "Casuar",
+                "Abutre"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Пустыня.",
+                "Не летает.",
+                "Скорость."
+            ],
+            "uk": [
+                "Пустеля.",
+                "Не літає.",
+                "Швидкість."
+            ],
+            "en": [
+                "Desert.",
+                "Cannot fly.",
+                "Speed."
+            ],
+            "es": [
+                "Desierto.",
+                "No vuela.",
+                "Velocidad."
+            ],
+            "pt": [
+                "Deserto.",
+                "Não voa.",
+                "Velocidade."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Он быстро бегает.",
+                "Он не прячет голову в песок."
+            ],
+            "uk": [
+                "Він швидко бігає.",
+                "Він не ховає голову в пісок."
+            ],
+            "en": [
+                "It runs very fast.",
+                "It doesn't hide its head in the sand."
+            ],
+            "es": [
+                "Corre muy rápido.",
+                "No esconde la cabeza en la arena."
+            ],
+            "pt": [
+                "Ele corre muito rápido.",
+                "Não esconde a cabeça na areia."
+            ]
+        },
+        "tooltip": {
+            "ru": "Сейчас это крупнейшие птицы в мире.",
+            "uk": "Зараз це найбільші птахи у світі.",
+            "en": "They are currently the largest birds in the world.",
+            "es": "Actualmente son las aves más grandes del mundo.",
+            "pt": "Atualmente, são as maiores aves do mundo."
+        },
+        "qwestion": {
+            "ru": "Какая птица может бежать со скоростью до 70 км/ч?",
+            "uk": "Який птах може бігти зі швидкістю до 70 км/год?",
+            "en": "Which bird can run at a speed of up to 70 km/h?",
+            "es": "¿Qué ave puede correr a una velocidad de hasta 70 km/h?",
+            "pt": "Qual ave pode correr a uma velocidade de até 70 km/h?"
+        },
+        "definition": {
+            "ru": "Страус — самая крупная и тяжелая из ныне живущих птиц. Он не умеет летать, но зато может развивать огромную скорость, что делает его самым быстрым бегуном среди птиц.",
+            "uk": "Страус — найбільший і найважчий з нині живих птахів. Він не вміє літати, але може розвивати величезну швидкість, що робить його найшвидшим бігуном серед птахів.",
+            "en": "The ostrich is the largest and heaviest living bird. It is flightless but can reach great speeds, making it the fastest runner among all birds.",
+            "es": "El avestruz es el ave viva más grande y pesada. No puede volar, pero puede alcanzar grandes velocidades, lo que lo convierte en el corredor más rápido entre todas las aves.",
+            "pt": "O avestruz é a maior e mais pesada ave viva. Não voa, mas pode atingir grandes velocidades, o que a torna a corredora mais rápida entre todas as aves."
+        },
+        "antipod": {
+            "ru": "Пингвин",
+            "uk": "Пінгвін",
+            "en": "Penguin",
+            "es": "Pingüino",
+            "pt": "Pinguim"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих двух птиц может долго обходиться без воды?",
+            "uk": "Який з цих двох птахів може довго обходитися без води?",
+            "en": "Which of these two birds can go without water for a long time?",
+            "es": "¿Cuál de estas dos aves puede pasar mucho tiempo sin agua?",
+            "pt": "Qual dessas duas aves pode ficar muito tempo sem água?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Ostrich"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Зимнее солнцестояние",
+            "uk": "Зимове сонцестояння",
+            "en": "Winter Solstice",
+            "es": "Solsticio de invierno",
+            "pt": "Solstício de inverno"
+        },
+        "wrong": {
+            "ru": [
+                "Оттепель",
+                "Сбор урожая",
+                "Приход весны"
+            ],
+            "uk": [
+                "Відлига",
+                "Збір врожаю",
+                "Прихід весни"
+            ],
+            "en": [
+                "Thaw",
+                "Harvest",
+                "Arrival of spring"
+            ],
+            "es": [
+                "Deshielo",
+                "Cosecha",
+                "Llegada de la primavera"
+            ],
+            "pt": [
+                "Degelo",
+                "Colheita",
+                "Chegada da primavera"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Язычество",
+                "Короткий день",
+                "Праздник"
+            ],
+            "uk": [
+                "Язичництво",
+                "Короткий день",
+                "Свято"
+            ],
+            "en": [
+                "Paganism",
+                "Shortest day",
+                "Holiday"
+            ],
+            "es": [
+                "Paganismo",
+                "Día corto",
+                "Fiesta"
+            ],
+            "pt": [
+                "Paganismo",
+                "Dia curto",
+                "Festa"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Самый короткий день, самая длинная ночь.",
+                "Этот праздник стал основой для даты Рождества."
+            ],
+            "uk": [
+                "Найкоротший день, найдовша ніч.",
+                "Це свято стало основою для дати Різдва."
+            ],
+            "en": [
+                "The shortest day, the longest night.",
+                "This holiday became the basis for the date of Christmas."
+            ],
+            "es": [
+                "El día más corto, la noche más larga.",
+                "Esta festividad se convirtió en la base para la fecha de la Navidad."
+            ],
+            "pt": [
+                "O dia mais curto, a noite mais longa.",
+                "Este feriado se tornou a base para a data do Natal."
+            ]
+        },
+        "tooltip": {
+            "ru": "В этот день отмечали самый короткий день в году",
+            "uk": "У цей день відзначали найкоротший день у році",
+            "en": "On this day, the shortest day of the year was celebrated",
+            "es": "En este día se celebraba el día más corto del año",
+            "pt": "Neste dia, o dia mais curto do ano era celebrado"
+        },
+        "qwestion": {
+            "ru": "Какой древний языческий праздник, послужил основой для выбора 25 декабря датой Рождества?",
+            "uk": "Яке давнє язичницьке свято, послугувало основою для вибору 25 грудня датою Різдва?",
+            "en": "What ancient pagan holiday served as the basis for choosing December 25 as the date of Christmas?",
+            "es": "¿Qué antigua festividad pagana sirvió de base para elegir el 25 de diciembre como fecha de la Navidad?",
+            "pt": "Qual antigo feriado pagão serviu de base para a escolha de 25 de dezembro como data do Natal?"
+        },
+        "definition": {
+            "ru": "Зимнее солнцестояние — это астрономическое явление, когда Солнце достигает своей самой низкой точки в небе. В северном полушарии это самый короткий день и самая длинная ночь. Древние праздники, связанные с этим событием, послужили основой для даты Рождества.",
+            "uk": "Зимове сонцестояння — це астрономічне явище, коли Сонце досягає своєї найнижчої точки в небі. У північній півкулі це найкоротший день і найдовша ніч. Стародавні свята, пов'язані з цією подією, послугували основою для дати Різдва.",
+            "en": "The Winter Solstice is an astronomical phenomenon when the Sun reaches its lowest point in the sky. In the Northern Hemisphere, it is the shortest day and the longest night. Ancient holidays associated with this event served as the basis for the date of Christmas.",
+            "es": "El solsticio de invierno es un fenómeno astronómico en el que el Sol alcanza su punto más bajo en el cielo. En el hemisferio norte, es el día más corto y la noche más larga. Las antiguas festividades asociadas a este evento sirvieron de base para la fecha de la Navidad.",
+            "pt": "O solstício de inverno é um fenômeno astronômico em que o Sol atinge seu ponto mais baixo no céu. No hemisfério norte, é o dia mais curto e a noite mais longa. Antigos feriados associados a este evento serviram de base para a data do Natal."
+        },
+        "antipod": {
+            "ru": "Первый снег",
+            "uk": "Перший сніг",
+            "en": "First Snow",
+            "es": "Primera nieve",
+            "pt": "Primeira neve"
+        },
+        "hintFuiz": {
+            "ru": "Это самый короткий день в году.",
+            "uk": "Це найкоротший день у році.",
+            "en": "This is the shortest day of the year.",
+            "es": "Este es el día más corto del año.",
+            "pt": "Este é o dia mais curto do ano."
+        },
+        "article": "https://en.wikipedia.org/wiki/Winter_solstice"
+    },
+    "imgFlag": "quizfoto"
+}

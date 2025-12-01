@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Кирибати",
+            "uk": "Кірибаті",
+            "en": "Kiribati",
+            "es": "Kiribati",
+            "pt": "Kiribati"
+        },
+        "wrong": {
+            "ru": [
+                "Фиджи",
+                "Тувалу",
+                "Мальта"
+            ],
+            "uk": [
+                "Фіджі",
+                "Тувалу",
+                "Мальта"
+            ],
+            "en": [
+                "Fiji",
+                "Tuvalu",
+                "Malta"
+            ],
+            "es": [
+                "Fiyi",
+                "Tuvalu",
+                "Malta"
+            ],
+            "pt": [
+                "Fiji",
+                "Tuvalu",
+                "Malta"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Полушария.",
+                "Тихий океан.",
+                "Атолл."
+            ],
+            "uk": [
+                "Півкулі.",
+                "Тихий океан.",
+                "Атол."
+            ],
+            "en": [
+                "Hemispheres.",
+                "Pacific Ocean.",
+                "Atoll."
+            ],
+            "es": [
+                "Hemisferios.",
+                "Océano Pacífico.",
+                "Atolón."
+            ],
+            "pt": [
+                "Hemisférios.",
+                "Oceano Pacífico.",
+                "Atol."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Я пересекаю экватор и линию перемены дат.",
+                "Моя родина может исчезнуть под водой."
+            ],
+            "uk": [
+                "Я перетинаю екватор і лінію зміни дат.",
+                "Моя батьківщина може зникнути під водою."
+            ],
+            "en": [
+                "I cross the equator and the International Date Line.",
+                "My home might one day disappear under the sea."
+            ],
+            "es": [
+                "Cruzo el ecuador y la Línea Internacional de Cambio de Fecha.",
+                "Mi hogar podría un día desaparecer bajo el mar."
+            ],
+            "pt": [
+                "Eu cruzo o equador e a Linha Internacional de Data.",
+                "Minha casa pode um dia desaparecer debaixo do mar."
+            ]
+        },
+        "tooltip": {
+            "ru": "Её части находятся в Северном, Южном, Западном и Восточном полушариях.",
+            "uk": "Її частини знаходяться в Північній, Південній, Західній та Східній півкулях.",
+            "en": "Parts of it are in the Northern, Southern, Western, and Eastern hemispheres.",
+            "es": "Partes de ella están en los hemisferios Norte, Sur, Oeste y Este.",
+            "pt": "Partes dela estão nos hemisférios Norte, Sul, Oeste e Leste."
+        },
+        "qwestion": {
+            "ru": "Какая страна расположена во всех четырех полушариях Земли?",
+            "uk": "Яка країна розташована у всіх чотирьох півкулях Землі?",
+            "en": "Which country is located in all four of Earth's hemispheres?",
+            "es": "¿Qué país está ubicado en los cuatro hemisferios de la Tierra?",
+            "pt": "Qual país está localizado nos quatro hemisférios da Terra?"
+        },
+        "definition": {
+            "ru": "Кирибати — островное государство в Тихом океане, состоящее из 33 атоллов и рифовых островов, разбросанных на огромной территории. Оно является единственной страной, которая расположена во всех четырех полушариях Земли. Кирибати также первым встречает новый день, так как его восточная часть находится сразу за линией перемены дат. Государство сталкивается с серьезной угрозой из-за глобального потепления, так как его низменные атоллы крайне уязвимы к повышению уровня моря.",
+            "uk": "Кірибаті — острівна держава в Тихому океані, що складається з 33 атолів і рифових островів, розкиданих на величезній території. Вона є єдиною країною, яка розташована в усіх чотирьох півкулях Землі. Кірибаті також першою зустрічає новий день, оскільки її східна частина знаходиться відразу за лінією зміни дат. Держава стикається з серйозною загрозою через глобальне потепління, оскільки її низовинні атоли є надзвичайно вразливими до підвищення рівня моря.",
+            "en": "Kiribati is an island nation in the Pacific Ocean, comprising 33 atolls and reef islands scattered over a vast area. It is the only country located in all four of Earth's hemispheres. Kiribati is also the first to welcome the new day, as its easternmost part is just west of the International Date Line. The nation faces a severe threat from global warming, as its low-lying atolls are extremely vulnerable to rising sea levels.",
+            "es": "Kiribati es una nación insular en el Océano Pacífico, que comprende 33 atolones e islas de arrecife dispersos en una vasta área. Es el único país ubicado en los cuatro hemisferios de la Tierra. Kiribati también es el primero en dar la bienvenida al nuevo día, ya que su parte más oriental está justo al oeste de la Línea Internacional de Cambio de Fecha. La nación enfrenta una grave amenaza por el calentamiento global, ya que sus atolones de baja altitud son extremadamente vulnerables al aumento del nivel del mar.",
+            "pt": "Kiribati é uma nação insular no Oceano Pacífico, composta por 33 atóis e ilhas de recife espalhados por uma vasta área. É o único país localizado nos quatro hemisférios da Terra. Kiribati também é o primeiro a dar as boas-vindas ao novo dia, pois sua parte mais oriental fica a oeste da Linha Internacional de Data. A nação enfrenta uma grave ameaça do aquecimento global, já que seus atóis de baixa altitude são extremamente vulneráveis ao aumento do nível do mar."
+        },
+        "antipod": {
+            "ru": "Лихтенштейн",
+            "uk": "Ліхтенштейн",
+            "en": "Liechtenstein",
+            "es": "Liechtenstein",
+            "pt": "Liechtenstein"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих стран находится во всех полушариях?",
+            "uk": "Яка з цих країн знаходиться у всіх півкулях?",
+            "en": "Which of these countries is in all four hemispheres?",
+            "es": "¿Cuál de estos países está en los cuatro hemisferios?",
+            "pt": "Qual desses países está nos quatro hemisférios?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Kiribati"
+    },
+    "imgFlag": "quizfoto" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Украина",
+            "uk": "Україна",
+            "en": "Ukraine",
+            "es": "Ucrania",
+            "pt": "Ucrânia"
+        },
+        "wrong": {
+            "ru": [
+                "Россия",
+                "США",
+                "Китай"
+            ],
+            "uk": [
+                "Росія",
+                "США",
+                "Китай"
+            ],
+            "en": [
+                "Russia",
+                "USA",
+                "China"
+            ],
+            "es": [
+                "Rusia",
+                "EE. UU.",
+                "China"
+            ],
+            "pt": [
+                "Rússia",
+                "EUA",
+                "China"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Казаки.",
+                "Подсолнухи.",
+                "Борщ."
+            ],
+            "uk": [
+                "Козаки.",
+                "Соняшники.",
+                "Борщ."
+            ],
+            "en": [
+                "Cossacks.",
+                "Sunflowers.",
+                "Borscht."
+            ],
+            "es": [
+                "Cosaques.",
+                "Girasoles.",
+                "Borscht."
+            ],
+            "pt": [
+                "Cossacos.",
+                "Girassóis.",
+                "Borscht."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Страна между Европой и Азией.",
+                "Здесь был построен крупнейший в мире самолет «Мрія»."
+            ],
+            "uk": [
+                "Країна між Європою та Азією.",
+                "Тут був побудований найбільший у світі літак «Мрія»."
+            ],
+            "en": [
+                "A country between Europe and Asia.",
+                "The world's largest plane, Mriya, was built here."
+            ],
+            "es": [
+                "Un país entre Europa y Asia.",
+                "El avión más grande del mundo, Mriya, fue construido aquí."
+            ],
+            "pt": [
+                "Um país entre a Europa e a Ásia.",
+                "O maior avião do mundo, Mriya, foi construído aqui."
+            ]
+        },
+        "tooltip": {
+            "ru": "В которой построен крупнейший в мире самолет Ан-225 «Мрія».",
+            "uk": "У якій побудовано найбільший у світі літак Ан-225 «Мрія».",
+            "en": "Where the world's largest plane, An-225 'Mriya,' was built.",
+            "es": "Donde se construyó el avión más grande del mundo, el An-225 'Mriya'.",
+            "pt": "Onde o maior avião do mundo, o An-225 'Mriya', foi construído."
+        },
+        "qwestion": {
+            "ru": "В какой стране появилась первая конституция?",
+            "uk": "У якій країні з'явилася перша конституція?",
+            "en": "Which country had the first constitution?",
+            "es": "¿En qué país apareció la primera constitución?",
+            "pt": "Em qual país a primeira constituição apareceu?"
+        },
+        "definition": {
+            "ru": "Украина — крупнейшее по площади государство, полностью расположенное в Европе, известное своим богатым историческим и культурным наследием и плодородными землями. Страна имеет долгую историю борьбы за независимость, и именно здесь в 1710 году была принята Конституция Пилипа Орлика — одна из старейших конституций в Европе. Украина славится своими золотыми полями подсолнухов и пшеницы, которые символизируют ее национальные цвета. Это страна с глубокими традициями и уникальной кухней, расположенная на пересечении важных торговых путей.",
+            "uk": "Україна — найбільша за площею держава, що повністю розташована в Європі, відома своїм багатим історичним і культурним спадком і родючими землями. Країна має довгу історію боротьби за незалежність, і саме тут у 1710 році була ухвалена Конституція Пилипа Орлика — одна з найстаріших конституцій в Європі. Україна славиться своїми золотими полями соняшників та пшениці, які символізують її національні кольори. Це країна з глибокими традиціями та унікальною кухнею, розташована на перетині важливих торговельних шляхів.",
+            "en": "Ukraine is the largest country by area located entirely within Europe, known for its rich historical and cultural heritage and fertile lands. The country has a long history of struggle for independence, and it was here that the Constitution of Pylyp Orlyk, one of the oldest constitutions in Europe, was adopted in 1710. Ukraine is famous for its golden fields of sunflowers and wheat, which symbolize its national colors. It is a country with deep traditions and unique cuisine, located at the crossroads of important trade routes.",
+            "es": "Ucrania es el país más grande por área ubicado enteramente en Europa, conocido por su rico patrimonio histórico y cultural y sus tierras fértiles. El país tiene una larga historia de lucha por la independencia, y fue aquí donde se adoptó la Constitución de Pylyp Orlyk, una de las constituciones más antiguas de Europa, en 1710. Ucrania es famosa por sus campos dorados de girasoles y trigo, que simbolizan sus colores nacionales. Es un país con profundas tradiciones y una cocina única, ubicado en la encrucijada de importantes rutas comerciales.",
+            "pt": "A Ucrânia é o maior país em área localizado inteiramente na Europa, conhecido por sua rica herança histórica e cultural e terras férteis. O país tem uma longa história de luta pela independência, e foi aqui que a Constituição de Pylyp Orlyk, uma das constituições mais antigas da Europa, foi adotada em 1710. A Ucrânia é famosa por seus campos dourados de girassóis e trigo, que simbolizam suas cores nacionais. É um país com tradições profundas e culinária única, localizado na encruzilhada de importantes rotas comerciais."
+        },
+        "antipod": {
+            "ru": "США",
+            "uk": "США",
+            "en": "USA",
+            "es": "EE. UU.",
+            "pt": "EUA"
+        },
+        "hintFuiz": {
+            "ru": "Какая из стран меньшей площади?",
+            "uk": "Яка з країн меншої площі?",
+            "en": "Which country is smaller in area?",
+            "es": "¿Cuál de los países es de menor área?",
+            "pt": "Qual dos países tem menor área?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Ukraine"
+    },
+    "imgFlag": "quizfoto" 
+}

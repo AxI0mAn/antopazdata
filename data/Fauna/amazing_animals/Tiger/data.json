@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Тигр",
+            "uk": "Тигр",
+            "en": "Tiger",
+            "es": "Tigre",
+            "pt": "Tigre"
+        },
+        "wrong": {
+            "ru": [
+                "Пума",
+                "Ягуар",
+                "Рысь"
+            ],
+            "uk": [
+                "Пума",
+                "Ягуар",
+                "Рись"
+            ],
+            "en": [
+                "Puma",
+                "Jaguar",
+                "Lynx"
+            ],
+            "es": [
+                "Puma",
+                "Jaguar",
+                "Lince"
+            ],
+            "pt": [
+                "Puma",
+                "Jaguar",
+                "Lince"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Полосы.",
+                "Одиночка.",
+                "Азия."
+            ],
+            "uk": [
+                "Смуги.",
+                "Одинак.",
+                "Азія."
+            ],
+            "en": [
+                "Stripes.",
+                "Solitary.",
+                "Asia."
+            ],
+            "es": [
+                "Rayas.",
+                "Solitario.",
+                "Asia."
+            ],
+            "pt": [
+                "Listras.",
+                "Solitário.",
+                "Ásia."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Какое крупное кошачье известно своими полосами?",
+                "Кто является самым большим хищником из семейства кошачьих и охотится в одиночку?"
+            ],
+            "uk": [
+                "Яке велике котяче відоме своїми смугами?",
+                "Хто є найбільшим хижаком з родини котячих і полює поодинці?"
+            ],
+            "en": [
+                "What large feline is known for its stripes?",
+                "Who is the largest predator from the cat family and hunts alone?"
+            ],
+            "es": [
+                "¿Qué gran felino es conocido por sus rayas?",
+                "¿Quién es el depredador más grande de la familia de los felinos y caza solo?"
+            ],
+            "pt": [
+                "Que grande felino é conhecido por suas listras?",
+                "Quem é o maior predador da família dos felinos e caça sozinho?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Это хищник-одиночка, который предпочитает охотиться в одиночестве.",
+            "uk": "Це хижак-одинак, який вважає за краще полювати на самоті.",
+            "en": "It's a solitary predator that prefers to hunt alone.",
+            "es": "Es un depredador solitario que prefiere cazar solo.",
+            "pt": "É um predador solitário que prefere caçar sozinho."
+        },
+        "qwestion": {
+            "ru": "Какое крупное полосатое кошачье является самым большим в мире?",
+            "uk": "Яке велике смугасте котяче є найбільшим у світі?",
+            "en": "What large striped feline is the largest in the world?",
+            "es": "¿Qué gran felino a rayas es el más grande del mundo?",
+            "pt": "Qual grande felino listrado é o maior do mundo?"
+        },
+        "definition": {
+            "ru": "Крупный хищник из семейства кошачьих, самый большой и тяжелый из всех диких кошек, отличающийся характерными темными полосами.",
+            "uk": "Великий хижак з родини котячих, найбільший і найважчий з усіх диких котів, що вирізняється характерними темними смугами.",
+            "en": "A large predatory mammal from the cat family, the largest and heaviest of all wild cats, distinguished by its dark stripes.",
+            "es": "Un gran mamífero depredador de la familia de los felinos, el más grande y pesado de todos los gatos salvajes, distinguido por sus rayas oscuras.",
+            "pt": "Um grande mamífero predador da família dos felinos, o maior e mais pesado de todos os gatos selvagens, distinguido por suas listras escuras."
+        },
+        "antipod": {
+            "ru": "Лев",
+            "uk": "Лев",
+            "en": "Lion",
+            "es": "León",
+            "pt": "Leão"
+        },
+        "hintFuiz": {
+            "ru": "Кто крупнее: тигр или лев?",
+            "uk": "Хто більший: тигр чи лев?",
+            "en": "Who is larger: a tiger or a lion?",
+            "es": "¿Quién es más grande: tigre o león?",
+            "pt": "Quem é maior: o tigre ou o leão?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Tiger"
+    },
+    "imgFlag": "all" 
+}

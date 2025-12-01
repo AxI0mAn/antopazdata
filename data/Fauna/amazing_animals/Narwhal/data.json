@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Нарвал",
+            "uk": "Нарвал",
+            "en": "Narwhal",
+            "es": "Narval",
+            "pt": "Narval"
+        },
+        "wrong": {
+            "ru": [
+                "Касатка",
+                "Морж",
+                "Дельфин"
+            ],
+            "uk": [
+                "Косатка",
+                "Морж",
+                "Дельфін"
+            ],
+            "en": [
+                "Orca",
+                "Walrus",
+                "Dolphin"
+            ],
+            "es": [
+                "Orca",
+                "Morsa",
+                "Delfín"
+            ],
+            "pt": [
+                "Orca",
+                "Morsa",
+                "Golfinho"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Бивень.",
+                "Арктика.",
+                "Морской единорог."
+            ],
+            "uk": [
+                "Бивень.",
+                "Арктика.",
+                "Морський єдиноріг."
+            ],
+            "en": [
+                "Tusk.",
+                "Arctic.",
+                "Sea unicorn."
+            ],
+            "es": [
+                "Colmillo.",
+                "Ártico.",
+                "Unicornio de mar."
+            ],
+            "pt": [
+                "Presa.",
+                "Ártico.",
+                "Unicórnio do mar."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Арктический единорог.",
+                "Кит с рогом."
+            ],
+            "uk": [
+                "Арктичний єдиноріг.",
+                "Кит з рогом."
+            ],
+            "en": [
+                "An Arctic unicorn.",
+                "A whale with a horn."
+            ],
+            "es": [
+                "Un unicornio del Ártico.",
+                "Una ballena con un cuerno."
+            ],
+            "pt": [
+                "Um unicórnio do Ártico.",
+                "Uma baleia com um chifre."
+            ]
+        },
+        "tooltip": {
+            "ru": "Своим бивнем он может ощущать изменения температуры, давления и солености воды.",
+            "uk": "Своїм бивнем він може відчувати зміни температури, тиску та солоності води.",
+            "en": "With its tusk, it can sense changes in water temperature, pressure, and salinity.",
+            "es": "Con su colmillo, puede sentir cambios en la temperatura, presión y salinidad del agua.",
+            "pt": "Com sua presa, ele pode sentir mudanças na temperatura, pressão e salinidade da água."
+        },
+        "qwestion": {
+            "ru": "Какой кит известен своим единственным длинным бивнем, который на самом деле является зубом?",
+            "uk": "Який кит відомий своїм єдиним довгим бивнем, який насправді є зубом?",
+            "en": "What whale is known for its single long tusk, which is actually a tooth?",
+            "es": "¿Qué ballena es conocida por su único y largo colmillo, que en realidad es un diente?",
+            "pt": "Que baleia é conhecida por sua única presa longa, que na verdade é um dente?"
+        },
+        "definition": {
+            "ru": "Нарвал — это вид зубатых китов, обитающий в арктических водах. У самцов, а иногда и у самок, есть единственный бивень, который представляет собой вытянутый левый клык.",
+            "uk": "Нарвал — це вид зубастих китів, що мешкає в арктичних водах. У самців, а іноді й у самок, є єдиний бивень, що є витягнутим лівим іклом.",
+            "en": "The narwhal is a species of toothed whale native to the Arctic. Males, and occasionally females, have a single tusk, which is an elongated left canine tooth.",
+            "es": "El narval es una especie de ballena dentada nativa del Ártico. Los machos, y ocasionalmente las hembras, tienen un único colmillo, que es un canino izquierdo alargado.",
+            "pt": "O narval é uma espécie de baleia dentada nativa do Ártico. Os machos, e ocasionalmente as fêmeas, têm uma única presa, que é um canino esquerdo alongado."
+        },
+        "antipod": {
+            "ru": "Белуга",
+            "uk": "Білуга",
+            "en": "Beluga whale",
+            "es": "Beluga",
+            "pt": "Beluga"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих китов похож на единорога?",
+            "uk": "Який з цих китів схожий на єдинорога?",
+            "en": "Which of these whales looks like a unicorn?",
+            "es": "¿Cuál de estas ballenas se parece a un unicornio?",
+            "pt": "Qual dessas baleias se parece com um unicórnio?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Narwhal"
+    },
+    "imgFlag": "all" 
+}

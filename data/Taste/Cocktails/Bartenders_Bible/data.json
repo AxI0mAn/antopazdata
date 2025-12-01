@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Библия бармена",
+            "uk": "Біблія бармена",
+            "en": "The Bartender's Bible",
+            "es": "La Biblia del Barman",
+            "pt": "A Bíblia do Barman"
+        },
+        "wrong": {
+            "ru": [
+                "Книга вин",
+                "Искусство миксологии",
+                "Коктейльный справочник"
+            ],
+            "uk": [
+                "Книга вин",
+                "Мистецтво міксології",
+                "Коктейльний довідник"
+            ],
+            "en": [
+                "The Book of Wines",
+                "The Art of Mixology",
+                "The Cocktail Handbook"
+            ],
+            "es": [
+                "El Libro de los Vinos",
+                "El Arte de la Mixología",
+                "El Manual del Cóctel"
+            ],
+            "pt": [
+                "O Livro dos Vinhos",
+                "A Arte da Mixologia",
+                "O Manual do Coquetel"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Книга.",
+                "Рецепт.",
+                "Бармен."
+            ],
+            "uk": [
+                "Книга.",
+                "Рецепт.",
+                "Бармен."
+            ],
+            "en": [
+                "Book.",
+                "Recipe.",
+                "Bartender."
+            ],
+            "es": [
+                "Libro.",
+                "Receta.",
+                "Barman."
+            ],
+            "pt": [
+                "Livro.",
+                "Receita.",
+                "Barman."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Её страницы пахнут алкоголем и травами.",
+                "Лучший друг бармена."
+            ],
+            "uk": [
+                "Її сторінки пахнуть алкоголем і травами.",
+                "Найкращий друг бармена."
+            ],
+            "en": [
+                "Its pages smell of alcohol and herbs.",
+                "A bartender's best friend."
+            ],
+            "es": [
+                "Sus páginas huelen a alcohol y hierbas.",
+                "El mejor amigo de un camarero."
+            ],
+            "pt": [
+                "Suas páginas cheiram a álcool e ervas.",
+                "O melhor amigo de um barman."
+            ]
+        },
+        "tooltip": {
+            "ru": "Она содержит более 3500 рецептов, многие из которых никогда не публиковались.",
+            "uk": "Вона містить понад 3500 рецептів, багато з яких ніколи не публікувалися.",
+            "en": "It contains over 3,500 recipes, many of which have never been published.",
+            "es": "Contiene más de 3,500 recetas, muchas de las cuales nunca se han publicado.",
+            "pt": "Contém mais de 3.500 receitas, muitas das quais nunca foram publicadas."
+        },
+        "qwestion": {
+            "ru": "Какая книга считается самой полной по искусству коктейлей?",
+            "uk": "Яка книга вважається найповнішою з мистецтва коктейлів?",
+            "en": "What book is considered the most complete on the art of cocktails?",
+            "es": "¿Qué libro se considera el más completo sobre el arte de los cócteles?",
+            "pt": "Qual livro é considerado o mais completo sobre a arte dos coquetéis?"
+        },
+        "definition": {
+            "ru": "«Библия бармена» — это общее название для очень подробного и авторитетного справочника по коктейлям и барному искусству. Такие книги содержат тысячи рецептов и считаются обязательными для любого профессионального бармена, предоставляя фундаментальные знания.",
+            "uk": "«Біблія бармена» — це загальна назва для дуже детального та авторитетного довідника з коктейлів і барного мистецтва. Такі книги містять тисячі рецептів і вважаються обов'язковими для будь-якого професійного бармена, надаючи фундаментальні знання.",
+            "en": "The 'Bartender's Bible' is a common name for a highly detailed and authoritative guide to cocktails and the art of bartending. These books contain thousands of recipes and are considered essential for any professional bartender, providing foundational knowledge.",
+            "es": "La 'Biblia del Barman' es un nombre común para una guía muy detallada y autorizada sobre cócteles y el arte de la coctelería. Estos libros contienen miles de recetas y se consideran esenciales para cualquier barman profesional, proporcionando conocimientos fundamentales.",
+            "pt": "A 'Bíblia do Barman' é um nome comum para um guia altamente detalhado e autorizado sobre coquetéis e a arte de ser barman. Esses livros contêm milhares de receitas e são considerados essenciais para qualquer barman profissional, fornecendo conhecimento fundamental."
+        },
+        "antipod": {
+            "ru": "Записки бармена",
+            "uk": "Нотатки бармена",
+            "en": "The Bartender's Notes",
+            "es": "Las notas del barman",
+            "pt": "As anotações do barman"
+        },
+        "hintFuiz": {
+            "ru": "Это книга, которая очень популярна среди барменов.",
+            "uk": "Це книга, яка дуже популярна серед барменів.",
+            "en": "This is a book that is very popular among bartenders.",
+            "es": "Este es un libro que es muy popular entre los camareros.",
+            "pt": "Este é um livro que é muito popular entre os barmans."
+        },
+        "article": "https://en.wikipedia.org/wiki/Cocktail_book"
+    },
+    "imgFlag": "quizfoto" 
+}

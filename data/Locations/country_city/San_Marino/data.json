@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Сан-Марино",
+            "uk": "Сан-Марино",
+            "en": "San Marino",
+            "es": "San Marino",
+            "pt": "San Marino"
+        },
+        "wrong": {
+            "ru": [
+                "Монако",
+                "Лихтенштейн",
+                "Андорра"
+            ],
+            "uk": [
+                "Монако",
+                "Ліхтенштейн",
+                "Андорра"
+            ],
+            "en": [
+                "Monaco",
+                "Liechtenstein",
+                "Andorra"
+            ],
+            "es": [
+                "Mónaco",
+                "Liechtenstein",
+                "Andorra"
+            ],
+            "pt": [
+                "Mônaco",
+                "Liechtenstein",
+                "Andorra"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Старейшая.",
+                "Италия.",
+                "Республика."
+            ],
+            "uk": [
+                "Найстаріша.",
+                "Італія.",
+                "Республіка."
+            ],
+            "en": [
+                "Oldest.",
+                "Italy.",
+                "Republic."
+            ],
+            "es": [
+                "Más antigua.",
+                "Italia.",
+                "República."
+            ],
+            "pt": [
+                "Mais antiga.",
+                "Itália.",
+                "República."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Я самая старая республика в мире.",
+                "Я нахожусь на горе, окружённая Италией."
+            ],
+            "uk": [
+                "Я найстаріша республіка у світі.",
+                "Я знаходжуся на горі, оточена Італією."
+            ],
+            "en": [
+                "I am the world's oldest republic.",
+                "I'm on a mountain, surrounded by Italy."
+            ],
+            "es": [
+                "Soy la república más antigua del mundo.",
+                "Estoy en una montaña, rodeada por Italia."
+            ],
+            "pt": [
+                "Eu sou a república mais antiga do mundo.",
+                "Estou em uma montanha, cercada pela Itália."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это конституционное государство.",
+            "uk": "Це конституційна держава.",
+            "en": "It is a constitutional state.",
+            "es": "Es un estado constitucional.",
+            "pt": "É um estado constitucional."
+        },
+        "qwestion": {
+            "ru": "Какая страна, окруженная Италией, является старейшей суверенной республикой?",
+            "uk": "Яка країна, оточена Італією, є найстарішою суверенною республікою?",
+            "en": "What country, surrounded by Italy, is the world's oldest sovereign republic?",
+            "es": "¿Qué país, rodeado por Italia, es la república soberana más antigua?",
+            "pt": "Qual país, cercado pela Itália, é a república soberana mais antiga?"
+        },
+        "definition": {
+            "ru": "Сан-Марино — это одна из самых маленьких стран в мире, расположенная на горе Титано и полностью окруженная Италией. Считается старейшей суверенной республикой и конституционным государством в мире, основанным в 301 году нашей эры. В его центре находится исторический город с мощеными улицами, тремя крепостями и панорамными видами. Это популярное туристическое направление, известное своей богатой историей, средневековой архитектурой и живописными пейзажами.",
+            "uk": "Сан-Марино — це одна з найменших країн у світі, розташована на горі Титано і повністю оточена Італією. Вона вважається найстарішою суверенною республікою та конституційною державою у світі, заснованою в 301 році нашої ери. У її центрі знаходиться історичне місто з брукованими вулицями, трьома фортецями та панорамними краєвидами. Це популярний туристичний напрямок, відомий своєю багатою історією, середньовічною архітектурою та мальовничими пейзажами.",
+            "en": "San Marino is one of the world's smallest countries, located on Mount Titano and completely surrounded by Italy. It is considered the world's oldest sovereign state and constitutional republic, founded in 301 AD. At its heart is a historic city with cobblestone streets, three fortress towers, and panoramic views. It is a popular tourist destination known for its rich history, medieval architecture, and scenic landscapes.",
+            "es": "San Marino es uno de los países más pequeños del mundo, ubicado en el Monte Titano y completamente rodeado por Italia. Es considerado el estado soberano y la república constitucional más antiguos del mundo, fundado en el año 301 d.C. En su corazón hay una ciudad histórica con calles empedradas, tres torres de fortaleza y vistas panorámicas. Es un popular destino turístico conocido por su rica historia, arquitectura medieval y paisajes pintorescos.",
+            "pt": "San Marino é um dos menores países do mundo, localizado no Monte Titano e completamente cercado pela Itália. É considerado o estado soberano e a república constitucional mais antigos do mundo, fundado em 301 d.C. Em seu coração, há uma cidade histórica com ruas de paralelepípedos, três torres de fortaleza e vistas panorâmicas. É um destino turístico popular conhecido por sua rica história, arquitetura medieval e paisagens cênicas."
+        },
+        "antipod": {
+            "ru": "Чили",
+            "uk": "Чилі",
+            "en": "Chile",
+            "es": "Chile",
+            "pt": "Chile"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих стран полностью окружена другой страной?",
+            "uk": "Яка з цих країн повністю оточена іншою країною?",
+            "en": "Which of these countries is completely surrounded by another country?",
+            "es": "¿Cuál de estos países está completamente rodeado por otro?",
+            "pt": "Qual desses países é completamente cercado por outro país?"
+        },
+        "article": "https://en.wikipedia.org/wiki/San_Marino"
+    },
+    "imgFlag": "quizfoto" 
+}

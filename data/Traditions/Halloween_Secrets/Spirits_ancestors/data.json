@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Духи предков",
+            "uk": "Духи предків",
+            "en": "Spirits of ancestors",
+            "es": "Espíritus de los ancestros",
+            "pt": "Espíritos dos ancestrais"
+        },
+        "wrong": {
+            "ru": [
+                "Летучая мышь",
+                "Чёрная кошка",
+                "Призрак"
+            ],
+            "uk": [
+                "Кажан",
+                "Чорна кішка",
+                "Привид"
+            ],
+            "en": [
+                "Bat",
+                "Black cat",
+                "Ghost"
+            ],
+            "es": [
+                "Murciélago",
+                "Gato negro",
+                "Fantasma"
+            ],
+            "pt": [
+                "Morcego",
+                "Gato preto",
+                "Fantasma"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Паук.",
+                "Душа.",
+                "Наблюдение."
+            ],
+            "uk": [
+                "Павук.",
+                "Душа.",
+                "Спостереження."
+            ],
+            "en": [
+                "Spider.",
+                "Soul.",
+                "Watching."
+            ],
+            "es": [
+                "Araña.",
+                "Alma.",
+                "Observando."
+            ],
+            "pt": [
+                "Aranha.",
+                "Alma.",
+                "Observando."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "В ночь Хеллоуина я вижу не своими глазами.",
+                "Его появление — это не случайность, а визит старого друга."
+            ],
+            "uk": [
+                "У ніч Геловіну я бачу не своїми очима.",
+                "Його поява — це не випадковість, а візит старого друга."
+            ],
+            "en": [
+                "On Halloween night, I see not with my own eyes.",
+                "His appearance is not an accident, but a visit from an old friend."
+            ],
+            "es": [
+                "En la noche de Halloween, no veo con mis propios ojos.",
+                "Su aparición no es un accidente, sino la visita de un viejo amigo."
+            ],
+            "pt": [
+                "Na noite de Halloween, eu não vejo com meus próprios olhos.",
+                "Sua aparição não é um acidente, mas uma visita de um velho amigo."
+            ]
+        },
+        "tooltip": {
+            "ru": "Кто наблюдает за вами глазами паука?",
+            "uk": "Хто спостерігає за вами очима павука?",
+            "en": "Who is watching you with a spider's eyes?",
+            "es": "¿Quién te observa con ojos de araña?",
+            "pt": "Quem te observa com olhos de aranha?"
+        },
+        "qwestion": {
+            "ru": "Какое есть поверье о пауке, замеченном в Хеллоуин?",
+            "uk": "Яке є повір'я про павука, поміченого на Хеллоуїн?",
+            "en": "What is the belief about a spider seen on Halloween?",
+            "es": "¿Cuál es la creencia sobre una araña vista en Halloween?",
+            "pt": "Qual é a crença sobre uma aranha vista no Halloween?"
+        },
+        "definition": {
+            "ru": "Поверье о 'Духах предков' — это фольклорная традиция, согласно которой паук, увиденный в Хеллоуин, не предвещает беды, а является душой умершего члена семьи, который наблюдает за живыми. Паук служит временным 'сосудом' для души, чтобы она могла ненадолго вернуться в мир живых и проверить, как у них дела.",
+            "uk": "Повір'я про 'Духів предків' — це фольклорна традиція, згідно з якою павук, побачений на Хеллоуїн, не віщує біди, а є душею померлого члена сім'ї, який спостерігає за живими. Павук служить тимчасовою 'посудиною' для душі, щоб вона могла ненадовго повернутися у світ живих і перевірити, як у них справи.",
+            "en": "The 'Spirits of Ancestors' belief is a folklore tradition that states a spider seen on Halloween is not an omen of bad luck, but is the soul of a deceased family member watching over the living. The spider serves as a temporary 'vessel' for the soul to briefly return to the world of the living and check in on their loved ones.",
+            "es": "La creencia de los 'Espíritus de los Ancestros' es una tradición folclórica que sostiene que una araña vista en Halloween no es un presagio de mala suerte, sino el alma de un familiar fallecido que está velando por los vivos. La araña sirve como un 'recipiente' temporal para que el alma regrese brevemente al mundo de los vivos y vea cómo están sus seres queridos.",
+            "pt": "A crença dos 'Espíritos dos Ancestrais' é uma tradição folclórica que afirma que uma aranha vista no Halloween não é um presságio de má sorte, mas é a alma de um familiar falecido que está observando os vivos. A aranha serve como um 'recipiente' temporário para a alma retornar brevemente ao mundo dos vivos e ver como estão seus entes queridos."
+        },
+        "antipod": {
+            "ru": "Колдун",
+            "uk": "Чаклун",
+            "en": "Wizard",
+            "es": "Hechicero",
+            "pt": "Feiticeiro"
+        },
+        "hintFuiz": {
+            "ru": "Кто вселяется в паука в Хеллоуин?",
+            "uk": "Хто вселяється в павука на Хеллоуїн?",
+            "en": "Who inhabits a spider on Halloween?",
+            "es": "¿Quién habita una araña en Halloween?",
+            "pt": "Quem habita uma aranha no Halloween?"
+        },
+        "article": "https://www.countryliving.com/life/g25954628/halloween-folklore-superstitions/"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Манго",
+            "uk": "Манго",
+            "en": "Mango",
+            "es": "Mango",
+            "pt": "Manga"
+        },
+        "wrong": {
+            "ru": [
+                "Арбуз",
+                "Виноград",
+                "Персик"
+            ],
+            "uk": [
+                "Кавун",
+                "Виноград",
+                "Персик"
+            ],
+            "en": [
+                "Watermelon",
+                "Grapes",
+                "Peach"
+            ],
+            "es": [
+                "Sandía",
+                "Uvas",
+                "Melocotón"
+            ],
+            "pt": [
+                "Melancia",
+                "Uvas",
+                "Pêssego"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Тропики.",
+                "Король.",
+                "Косточка."
+            ],
+            "uk": [
+                "Тропіки.",
+                "Король.",
+                "Кісточка."
+            ],
+            "en": [
+                "Tropics.",
+                "King.",
+                "Pit."
+            ],
+            "es": [
+                "Trópicos.",
+                "Rey.",
+                "Hueso."
+            ],
+            "pt": [
+                "Trópicos.",
+                "Rei.",
+                "Caroço."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Жёлтый или оранжевый, с большой косточкой.",
+                "Гладкая кожица, сладкая мякоть, большая косточка."
+            ],
+            "uk": [
+                "Жовтий або помаранчевий, з великою кісточкою.",
+                "Гладка шкірка, солодка м'якоть, велика кісточка."
+            ],
+            "en": [
+                "Yellow or orange, with a large pit.",
+                "Smooth skin, sweet pulp, large pit."
+            ],
+            "es": [
+                "Amarillo o naranja, con un hueso grande.",
+                "Piel suave, pulpa dulce, hueso grande."
+            ],
+            "pt": [
+                "Amarelo ou laranja, com um grande caroço.",
+                "Pele lisa, polpa doce, caroço grande."
+            ]
+        },
+        "tooltip": {
+            "ru": "Его часто называют 'королём фруктов' за его сочный и сладкий вкус.",
+            "uk": "Його часто називають 'королем фруктів' за його соковитий і солодкий смак.",
+            "en": "It is often called the 'king of fruits' for its juicy and sweet taste.",
+            "es": "A menudo se le llama el 'rey de las frutas' por su sabor jugoso y dulce.",
+            "pt": "É frequentemente chamado de 'rei das frutas' por seu sabor suculento e doce."
+        },
+        "qwestion": {
+            "ru": "Какой фрукт, среди людей, считается самым вкусным?",
+            "uk": "Який фрукт, серед людей, вважається найсмачнішим?",
+            "en": "What fruit is considered the most delicious among people?",
+            "es": "¿Qué fruta se considera la más deliciosa entre las personas?",
+            "pt": "Que fruta é considerada a mais deliciosa entre as pessoas?"
+        },
+        "definition": {
+            "ru": "Манго — это тропический фрукт, считающийся одним из самых вкусных и популярных в мире. Он имеет сочную, сладкую мякоть и крупную косточку. Манго богато витаминами A и C, и его плоды используются в широком спектре блюд и напитков.",
+            "uk": "Манго — це тропічний фрукт, який вважається одним із найсмачніших і найпопулярніших у світі. Він має соковиту, солодку м'якоть і велику кісточку. Манго багате на вітаміни A і C, і його плоди використовуються в широкому спектрі страв і напоїв.",
+            "en": "Mango is a tropical fruit considered one of the most delicious and popular in the world. It has juicy, sweet pulp and a large stone. Mango is rich in vitamins A and C, and its fruits are used in a wide range of dishes and drinks.",
+            "es": "El mango es una fruta tropical considerada una de las más deliciosas y populares del mundo. Tiene una pulpa jugosa y dulce, y un hueso grande. El mango es rico en vitaminas A y C, y sus frutos se utilizan en una amplia gama de platos y bebidas.",
+            "pt": "A manga é uma fruta tropical considerada uma das mais deliciosas e populares do mundo. Ela tem uma polpa suculenta e doce e um grande caroço. A manga é rica em vitaminas A e C, e seus frutos são usados em uma ampla variedade de pratos e bebidas."
+        },
+        "antipod": {
+            "ru": "Клубника",
+            "uk": "Полуниця",
+            "en": "Strawberry",
+            "es": "Fresa",
+            "pt": "Morango"
+        },
+        "hintFuiz": {
+            "ru": "Какой фрукт люди считают самым вкусным?",
+            "uk": "Який фрукт люди вважають найсмачнішим?",
+            "en": "Which fruit do people consider the most delicious?",
+            "es": "¿Qué fruta la gente considera la más deliciosa?",
+            "pt": "Qual fruta as pessoas consideram a mais deliciosa?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Mango"
+    },
+    "imgFlag": "all"
+}

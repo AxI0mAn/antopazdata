@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Копи-лювак",
+            "uk": "Копі-лувак",
+            "en": "Kopi Luwak",
+            "es": "Kopi Luwak",
+            "pt": "Kopi Luwak"
+        },
+        "wrong": {
+            "ru": [
+                "Кофе робуста",
+                "Белый кофе",
+                "Зелёный кофе"
+            ],
+            "uk": [
+                "Кава робуста",
+                "Біла кава",
+                "Зелена кава"
+            ],
+            "en": [
+                "Robusta coffee",
+                "White coffee",
+                "Green coffee"
+            ],
+            "es": [
+                "Café robusta",
+                "Café blanco",
+                "Café verde"
+            ],
+            "pt": [
+                "Café robusta",
+                "Café branco",
+                "Café verde"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Циветта.",
+                "Цена.",
+                "Индонезия."
+            ],
+            "uk": [
+                "Циветта.",
+                "Ціна.",
+                "Індонезія."
+            ],
+            "en": [
+                "Civet.",
+                "Price.",
+                "Indonesia."
+            ],
+            "es": [
+                "Civeta.",
+                "Precio.",
+                "Indonesia."
+            ],
+            "pt": [
+                "Civeta.",
+                "Preço.",
+                "Indonésia."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Начинает свой путь в желудке, а заканчивает в чашке.",
+                "Не всем приятно знать, где был этот кофе."
+            ],
+            "uk": [
+                "Починає свій шлях у шлунку, а закінчує в чашці.",
+                "Не всім приємно знати, де була ця кава."
+            ],
+            "en": [
+                "It starts its journey in the stomach and ends up in a cup.",
+                "Not everyone is comfortable knowing where this coffee has been."
+            ],
+            "es": [
+                "Comienza su viaje en el estómago y termina en una taza.",
+                "No a todos les gusta saber dónde ha estado este café."
+            ],
+            "pt": [
+                "Começa sua jornada no estômago e termina em uma xícara.",
+                "Nem todos se sentem confortáveis sabendo por onde esse café passou."
+            ]
+        },
+        "tooltip": {
+            "ru": "Зёрна этого кофе собираются из экскрементов азиатской пальмовой циветты.",
+            "uk": "Зерна цієї кави збираються з екскрементів азіатської пальмової циветти.",
+            "en": "The beans of this coffee are collected from the droppings of the Asian palm civet.",
+            "es": "Los granos de este café se recogen de las heces de la civeta de palma asiática.",
+            "pt": "Os grãos deste café são coletados das fezes da civeta de palma asiática."
+        },
+        "qwestion": {
+            "ru": "Какой самый дорогой кофе в мире производится из зерен, прошедших через пищеварительную систему животного?",
+            "uk": "Яка найдорожча кава у світі виробляється із зерен, що пройшли через травну систему тварини?",
+            "en": "What is the most expensive coffee in the world made from beans that have passed through an animal's digestive system?",
+            "es": "¿Cuál es el café más caro del mundo que se produce a partir de granos que han pasado por el sistema digestivo de un animal?",
+            "pt": "Qual é o café mais caro do mundo produzido a partir de grãos que passaram pelo sistema digestivo de um animal?"
+        },
+        "definition": {
+            "ru": "Копи-лювак — это один из самых дорогих и редких видов кофе в мире. Он производится из кофейных зёрен, которые были съедены и частично переварены азиатской пальмовой циветтой, а затем собраны из её экскрементов.",
+            "uk": "Копі-лувак — це один з найдорожчих і найрідкісніших видів кави у світі. Він виробляється з кавових зерен, які були з'їдені і частково перетравлені азіатською пальмовою циветтою, а потім зібрані з її екскрементів.",
+            "en": "Kopi Luwak is one of the world's most expensive and rare types of coffee. It is produced from coffee beans that have been eaten and partially digested by the Asian palm civet and then collected from its droppings.",
+            "es": "El Kopi Luwak es uno de los tipos de café más caros y raros del mundo. Se produce a partir de granos de café que han sido comidos y parcialmente digeridos por la civeta de palma asiática y luego recogidos de sus excrementos.",
+            "pt": "O Kopi Luwak é um dos tipos de café mais caros e raros do mundo. É produzido a partir de grãos de café que foram comidos e parcialmente digeridos pela civeta de palma asiática e depois coletados de suas fezes."
+        },
+        "antipod": {
+            "ru": "Кофе арабика",
+            "uk": "Кава арабіка",
+            "en": "Arabica coffee",
+            "es": "Café arábica",
+            "pt": "Café arábica"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих двух видов кофе является самым редким и дорогим?",
+            "uk": "Яка з цих двох видів кави є найрідкіснішою і найдорожчою?",
+            "en": "Which of these two types of coffee is the rarest and most expensive?",
+            "es": "¿Cuál de estos dos tipos de café es el más raro y caro?",
+            "pt": "Qual desses dois tipos de café é o mais raro e caro?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Kopi_Luwak"
+    },
+    "imgFlag": "all"
+}

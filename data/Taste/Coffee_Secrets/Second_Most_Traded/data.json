@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Кофе",
+            "uk": "Кава",
+            "en": "Coffee",
+            "es": "Café",
+            "pt": "Café"
+        },
+        "wrong": {
+            "ru": [
+                "Сахар",
+                "Оружие",
+                "Уголь"
+            ],
+            "uk": [
+                "Цукор",
+                "Зброя",
+                "Вугілля"
+            ],
+            "en": [
+                "Sugar",
+                "Weapons",
+                "Coal"
+            ],
+            "es": [
+                "Azúcar",
+                "Armas",
+                "Carbón"
+            ],
+            "pt": [
+                "Açúcar",
+                "Armas",
+                "Carvão"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Рынок.",
+                "Торговля.",
+                "Мировая экономика."
+            ],
+            "uk": [
+                "Ринок.",
+                "Торгівля.",
+                "Світова економіка."
+            ],
+            "en": [
+                "Market.",
+                "Trade.",
+                "World economy."
+            ],
+            "es": [
+                "Mercado.",
+                "Comercio.",
+                "Economía mundial."
+            ],
+            "pt": [
+                "Mercado.",
+                "Comércio.",
+                "Economia mundial."
+            ]
+        },
+        "tooltip": {
+            "ru": "После сырой нефти - это второй по объему торговли товар",
+            "uk": "Після сирої нафти - це другий за обсягом торгівлі товар",
+            "en": "After crude oil - it is the second most traded commodity by volume",
+            "es": "Después del petróleo crudo - es el segundo producto más comercializado por volumen",
+            "pt": "Depois do petróleo bruto - é o segundo produto mais comercializado em volume"
+        },
+        "qwestion": {
+            "ru": "Какой второй по объему торговли товар в мире?",
+            "uk": "Який другий за обсягом торгівлі товар у світі?",
+            "en": "What is the second most traded commodity in the world by volume?",
+            "es": "¿Cuál es el segundo producto más comercializado en el mundo por volumen?",
+            "pt": "Qual é o segundo produto mais comercializado no mundo em volume?"
+        },
+        "definition": {
+            "ru": "Кофе — один из самых популярных напитков в мире, занимающий второе место среди всех товаров по объему международной торговли, уступая лишь сырой нефти. Его производство и продажа являются ключевыми для экономики многих стран.",
+            "uk": "Кава — один з найпопулярніших напоїв у світі, що посідає друге місце серед усіх товарів за обсягом міжнародної торгівлі, поступаючись лише сирій нафті. Його виробництво та продаж є ключовими для економіки багатьох країн.",
+            "en": "Coffee is one of the world's most popular beverages, ranking second among all commodities in terms of international trade volume, behind only crude oil. Its production and sale are key to the economies of many countries.",
+            "es": "El café es una de las bebidas más populares del mundo, ocupando el segundo lugar entre todos los productos básicos en términos de volumen de comercio internacional, solo por detrás del petróleo crudo. Su producción y venta son clave para las economías de muchos países.",
+            "pt": "O café é uma das bebidas mais populares do mundo, ocupando o segundo lugar entre todas as commodities em termos de volume de comércio internacional, atrás apenas do petróleo bruto. Sua produção e venda são cruciais para as economias de muitos países."
+        },
+        "antipod": {
+            "ru": "Чай",
+            "uk": "Чай",
+            "en": "Tea",
+            "es": "Té",
+            "pt": "Chá"
+        },
+        "hintFuiz": {
+            "ru": "Это второй по объему торговли товар в мире.",
+            "uk": "Це другий за обсягом торгівлі товар у світі.",
+            "en": "It is the second most traded commodity in the world by volume.",
+            "es": "Es el segundo producto más comercializado en el mundo por volumen.",
+            "pt": "É o segundo produto mais comercializado no mundo em volume."
+        },
+        "riddle": {
+            "ru": [
+                "Громкое имя на мировом рынке.",
+                "Это не нефть, но влияет на экономики целых стран."
+            ],
+            "uk": [
+                "Гучне ім'я на світовому ринку.",
+                "Це не нафта, але впливає на економіки цілих країн."
+            ],
+            "en": [
+                "A big name in the world market.",
+                "It's not oil, but it affects the economies of entire countries."
+            ],
+            "es": [
+                "Un gran nombre en el mercado mundial.",
+                "No es petróleo, pero afecta las economías de países enteros."
+            ],
+            "pt": [
+                "Um grande nome no mercado mundial.",
+                "Não é petróleo, mas afeta as economias de países inteiros."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Coffee_industry"
+    },
+    "imgFlag": "quizfoto"
+}

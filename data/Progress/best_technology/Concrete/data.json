@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Бетон",
+            "uk": "Бетон",
+            "en": "Concrete",
+            "es": "Hormigón",
+            "pt": "Concreto"
+        },
+        "wrong": {
+            "ru": [
+                "Кирпич",
+                "Дерево",
+                "Сталь"
+            ],
+            "uk": [
+                "Цегла",
+                "Дерево",
+                "Сталь"
+            ],
+            "en": [
+                "Brick",
+                "Wood",
+                "Steel"
+            ],
+            "es": [
+                "Ladrillo",
+                "Madera",
+                "Acero"
+            ],
+            "pt": [
+                "Tijolo",
+                "Madeira",
+                "Aço"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Рим.",
+                "Пантеон.",
+                "Прочность."
+            ],
+            "uk": [
+                "Рим.",
+                "Пантеон.",
+                "Міцність."
+            ],
+            "en": [
+                "Rome.",
+                "Pantheon.",
+                "Durability."
+            ],
+            "es": [
+                "Roma.",
+                "Panteón.",
+                "Durabilidad."
+            ],
+            "pt": [
+                "Roma.",
+                "Panteão.",
+                "Durabilidade."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Песок, вода, цемент.",
+                "Жидкий, но когда затвердеет, становится камнем."
+            ],
+            "uk": [
+                "Пісок, вода, цемент.",
+                "Рідкий, але коли затвердіє, стає каменем."
+            ],
+            "en": [
+                "Sand, water, cement.",
+                "Liquid, but becomes rock when it hardens."
+            ],
+            "es": [
+                "Arena, agua, cemento.",
+                "Líquido, pero se vuelve piedra al endurecerse."
+            ],
+            "pt": [
+                "Areia, água, cimento.",
+                "Líquido, mas se torna pedra quando endurece."
+            ]
+        },
+        "tooltip": {
+            "ru": "Эти сооружения до сих пор стоят, включая купол Пантеона!",
+            "uk": "Ці споруди досі стоять, включаючи купол Пантеону!",
+            "en": "These structures still stand, including the Pantheon's dome!",
+            "es": "Estas estructuras aún se mantienen, ¡incluyendo la cúpula del Panteón!",
+            "pt": "Estas estruturas ainda estão de pé, incluindo a cúpula do Panteão!"
+        },
+        "qwestion": {
+            "ru": "Какой строительный материал, использовался древними римлянами для создания сооружений?",
+            "uk": "Який будівельний матеріал використовувався стародавніми римлянами для створення споруд?",
+            "en": "What building material was used by the ancient Romans to create structures?",
+            "es": "¿Qué material de construcción usaban los antiguos romanos para crear estructuras?",
+            "pt": "Que material de construção era usado pelos antigos romanos para criar estruturas?"
+        },
+        "definition": {
+            "ru": "Бетон — строительный материал, смесь цемента, воды, песка и заполнителя. Древние римляне использовали его для создания прочных и долговечных конструкций, таких как Пантеон и Колизей. Его способность затвердевать под водой была революционной, что позволяло строить порты и акведуки. Римский бетон намного прочнее современного, что объясняет его долговечность.",
+            "uk": "Бетон — будівельний матеріал, суміш цементу, води, піску та заповнювача. Стародавні римляни використовували його для створення міцних і довговічних конструкцій, таких як Пантеон і Колізей. Його здатність твердіти під водою була революційною, що дозволяло будувати порти та акведуки. Римський бетон набагато міцніший за сучасний, що пояснює його довговічність.",
+            "en": "Concrete is a building material, a mixture of cement, water, sand, and aggregate. The ancient Romans used it to create strong and durable structures like the Pantheon and the Colosseum. Its ability to set underwater was revolutionary, allowing for the construction of ports and aqueducts. Roman concrete is much more durable than modern concrete, which explains its longevity.",
+            "es": "El hormigón es un material de construcción, una mezcla de cemento, agua, arena y agregado. Los antiguos romanos lo usaron para crear estructuras fuertes y duraderas como el Panteón y el Coliseo. Su capacidad de fraguar bajo el agua fue revolucionaria, permitiendo la construcción de puertos y acueductos. El hormigón romano es mucho más duradero que el moderno, lo que explica su longevidad.",
+            "pt": "O concreto é um material de construção, uma mistura de cimento, água, areia e agregado. Os antigos romanos o usaram para criar estruturas fortes e duráveis como o Panteão e o Coliseu. Sua capacidade de endurecer debaixo d'água foi revolucionária, permitindo a construção de portos e aquedutos. O concreto romano é muito mais durável que o moderno, o que explica sua longevidade."
+        },
+        "antipod": {
+            "ru": "Тефлон",
+            "uk": "Тефлон",
+            "en": "Teflon",
+            "es": "Teflón",
+            "pt": "Teflon"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих изобретений является древним строительным материалом?",
+            "uk": "Який із цих винаходів є стародавнім будівельним матеріалом?",
+            "en": "Which of these inventions is an ancient building material?",
+            "es": "¿Cuál de estos inventos es un antiguo material de construcción?",
+            "pt": "Qual dessas invenções é um material de construção antigo?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Roman_concrete"
+    },
+    "imgFlag": "all" 
+}

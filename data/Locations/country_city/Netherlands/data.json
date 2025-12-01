@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Нидерланды",
+            "uk": "Нідерланди",
+            "en": "Netherlands",
+            "es": "Países Bajos",
+            "pt": "Países Baixos"
+        },
+        "wrong": {
+            "ru": [
+                "Бельгия",
+                "Швейцария",
+                "Дания"
+            ],
+            "uk": [
+                "Бельгія",
+                "Швейцарія",
+                "Данія"
+            ],
+            "en": [
+                "Belgium",
+                "Switzerland",
+                "Denmark"
+            ],
+            "es": [
+                "Bélgica",
+                "Suiza",
+                "Dinamarca"
+            ],
+            "pt": [
+                "Bélgica",
+                "Suíça",
+                "Dinamarca"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Ветряные мельницы.",
+                "Ниже уровня моря.",
+                "Каналы."
+            ],
+            "uk": [
+                "Вітряки.",
+                "Нижче рівня моря.",
+                "Канали."
+            ],
+            "en": [
+                "Windmills.",
+                "Below sea level.",
+                "Canals."
+            ],
+            "es": [
+                "Molinos de viento.",
+                "Bajo el nivel del mar.",
+                "Canales."
+            ],
+            "pt": [
+                "Moinhos de vento.",
+                "Abaixo do nível do mar.",
+                "Canais."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Страна, построившая большую часть своей территории.",
+                "Ее столица находится ниже уровня моря."
+            ],
+            "uk": [
+                "Країна, що побудувала більшу частину своєї території.",
+                "Її столиця знаходиться нижче рівня моря."
+            ],
+            "en": [
+                "A country that built much of its own territory.",
+                "Its capital is below sea level."
+            ],
+            "es": [
+                "Un país que construyó gran parte de su propio territorio.",
+                "Su capital está por debajo del nivel del mar."
+            ],
+            "pt": [
+                "Um país que construiu grande parte de seu próprio território.",
+                "Sua capital está abaixo do nível do mar."
+            ]
+        },
+        "tooltip": {
+            "ru": "И является одним из самых густонаселенных государств.",
+            "uk": "І є однією з найбільш густонаселених держав.",
+            "en": "And is one of the most densely populated countries.",
+            "es": "Y es uno de los países más densamente poblados.",
+            "pt": "E é um dos países mais densamente povoados."
+        },
+        "qwestion": {
+            "ru": "Какая страна построила более 30% своей территории, отвоевав ее у моря?",
+            "uk": "Яка країна побудувала понад 30% своєї території, відвоювавши її у моря?",
+            "en": "Which country built over 30% of its territory by reclaiming it from the sea?",
+            "es": "¿Qué país construyó más del 30% de su territorio recuperándolo del mar?",
+            "pt": "Qual país construiu mais de 30% de seu território recuperando-o do mar?"
+        },
+        "definition": {
+            "ru": "Нидерланды — это страна в Западной Европе, известная своей уникальной географией и инженерным мастерством. Примерно 30% ее территории, включая значительную часть сельскохозяйственных земель и населенных пунктов, было отвоевано у моря с помощью дамб и польдеров. Несмотря на свои небольшие размеры, Нидерланды являются одним из самых густонаселенных государств мира. Страна славится своими ветряными мельницами, тюльпанами, каналами и обширной сетью велосипедных дорожек.",
+            "uk": "Нідерланди — це країна у Західній Європі, відома своєю унікальною географією та інженерною майстерністю. Приблизно 30% її території, включаючи значну частину сільськогосподарських земель і населених пунктів, було відвойовано у моря за допомогою дамб і польдерів. Незважаючи на свої невеликі розміри, Нідерланди є однією з найбільш густонаселених держав світу. Країна славиться своїми вітряками, тюльпанами, каналами та розгалуженою мережею велосипедних доріжок.",
+            "en": "The Netherlands is a country in Western Europe known for its unique geography and engineering prowess. Approximately 30% of its territory, including a significant portion of its farmland and populated areas, has been reclaimed from the sea using dikes and polders. Despite its small size, the Netherlands is one of the most densely populated countries in the world. The country is famous for its windmills, tulips, canals, and extensive network of cycling paths.",
+            "es": "Los Países Bajos son un país en Europa Occidental conocido por su geografía única y destreza en ingeniería. Aproximadamente el 30% de su territorio, incluida una parte significativa de sus tierras de cultivo y áreas pobladas, ha sido recuperado del mar utilizando diques y pólderes. A pesar de su pequeño tamaño, los Países Bajos son uno de los países más densamente poblados del mundo. El país es famoso por sus molinos de viento, tulipanes, canales y su extensa red de carriles para bicicletas.",
+            "pt": "Os Países Baixos são um país na Europa Ocidental conhecido por sua geografia única e proeza de engenharia. Aproximadamente 30% de seu território, incluindo uma porção significativa de suas terras agrícolas e áreas povoadas, foi recuperado do mar usando diques e polders. Apesar de seu pequeno tamanho, os Países Baixos são um dos países mais densamente povoados do mundo. O país é famoso por seus moinos de vento, tulipas, canais e sua extensa rede de ciclovias."
+        },
+        "antipod": {
+            "ru": "Монголия",
+            "uk": "Монголія",
+            "en": "Mongolia",
+            "es": "Mongolia",
+            "pt": "Mongólia"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих стран имеет большую часть территории ниже уровня моря?",
+            "uk": "Яка з цих країн має більшу частину території нижче рівня моря?",
+            "en": "Which of these countries has a large portion of its territory below sea level?",
+            "es": "¿Cuál de estos países tiene una gran parte de su territorio por debajo del nivel del mar?",
+            "pt": "Qual desses países tem uma grande parte de seu território abaixo do nível do mar?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Netherlands"
+    },
+    "imgFlag": "quizfoto" 
+}

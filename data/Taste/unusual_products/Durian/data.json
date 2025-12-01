@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Дуриан",
+            "uk": "Дуріан",
+            "en": "Durian",
+            "es": "Durian",
+            "pt": "Durian"
+        },
+        "wrong": {
+            "ru": [
+                "Манго",
+                "Маракуйя",
+                "Личи"
+            ],
+            "uk": [
+                "Манго",
+                "Маракуя",
+                "Лічі"
+            ],
+            "en": [
+                "Mango",
+                "Passion fruit",
+                "Lychee"
+            ],
+            "es": [
+                "Mango",
+                "Maracuyá",
+                "Lichi"
+            ],
+            "pt": [
+                "Manga",
+                "Maracujá",
+                "Lichia"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Король.",
+                "Юго-Восток.",
+                "Запрет."
+            ],
+            "uk": [
+                "Король.",
+                "Південний схід.",
+                "Заборона."
+            ],
+            "en": [
+                "King.",
+                "Southeast Asia.",
+                "Ban."
+            ],
+            "es": [
+                "Rey.",
+                "Sudeste asiático.",
+                "Prohibición."
+            ],
+            "pt": [
+                "Rei.",
+                "Sudeste Asiático.",
+                "Proibição."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Колючий, дурно пахнущий, но сладкий.",
+                "Внешне похож на грозное оружие."
+            ],
+            "uk": [
+                "Колючий, що неприємно пахне, але солодкий.",
+                "Зовні схожий на грізну зброю."
+            ],
+            "en": [
+                "Prickly, foul-smelling, but sweet.",
+                "Externally, it looks like a formidable weapon."
+            ],
+            "es": [
+                "Espinoso, maloliente, pero dulce.",
+                "Exteriormente, parece un arma formidable."
+            ],
+            "pt": [
+                "Espinhoso, malcheiroso, mas doce.",
+                "Externamente, parece uma arma formidável."
+            ]
+        },
+        "tooltip": {
+            "ru": "Его часто называют 'королём фруктов', несмотря на сильный и отталкивающий запах.",
+            "uk": "Його часто називають 'королем фруктів', незважаючи на сильний і відштовхуючий запах.",
+            "en": "It is often called the 'king of fruits,' despite its strong and repulsive smell.",
+            "es": "A menudo se le llama el 'rey de las frutas', a pesar de su olor fuerte y repulsivo.",
+            "pt": "É frequentemente chamado de 'rei das frutas', apesar de seu cheiro forte e repulsivo."
+        },
+        "qwestion": {
+            "ru": "Какой фрукт, обладает неприятным запахом, но сладким вкусом?",
+            "uk": "Який фрукт має неприємний запах, але солодкий смак?",
+            "en": "What fruit has an unpleasant smell but a sweet taste?",
+            "es": "¿Qué fruta tiene un olor desagradable pero un sabor dulce?",
+            "pt": "Que fruta tem um cheiro desagradável, mas um sabor doce?"
+        },
+        "definition": {
+            "ru": "Дуриан — крупный тропический фрукт, известный своим острым, колючим внешним видом и сильным, неприятным запахом. Несмотря на это, его кремовая мякоть имеет сладкий вкус, за который его прозвали 'королём фруктов'.",
+            "uk": "Дуріан — великий тропічний фрукт, відомий своїм гострим, колючим зовнішнім виглядом і сильним, неприємним запахом. Незважаючи на це, його кремова м'якоть має солодкий смак, за який його прозвали 'королем фруктів'.",
+            "en": "The durian is a large tropical fruit known for its spiky, sharp appearance and a strong, unpleasant odor. Despite this, its creamy pulp has a sweet taste, for which it has been dubbed the 'king of fruits'.",
+            "es": "El durian es una fruta tropical grande conocida por su apariencia espinosa y afilada, y su fuerte olor desagradable. A pesar de esto, su pulpa cremosa tiene un sabor dulce, por lo que ha sido apodado el 'rey de las frutas'.",
+            "pt": "O durian é uma grande fruta tropical conhecida por sua aparência espinhosa e pontiaguda e um odor forte e desagradável. Apesar disso, sua polpa cremosa tem um sabor doce, pelo qual foi apelidado de 'rei das frutas'."
+        },
+        "antipod": {
+            "ru": "Ананас",
+            "uk": "Ананас",
+            "en": "Pineapple",
+            "es": "Piña",
+            "pt": "Abacaxi"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих двух фруктов имеет самый неприятный запах?",
+            "uk": "Який з цих двох фруктів має найнеприємніший запах?",
+            "en": "Which of these two fruits has the most unpleasant smell?",
+            "es": "¿Cuál de estas dos frutas tiene el olor más desagradable?",
+            "pt": "Qual dessas duas frutas tem o cheiro mais desagradável?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Durian"
+    },
+    "imgFlag": "all"
+}

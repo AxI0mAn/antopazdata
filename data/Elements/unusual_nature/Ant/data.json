@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Муравей",
+            "uk": "Мураха",
+            "en": "Ant",
+            "es": "Hormiga",
+            "pt": "Formiga"
+        },
+        "wrong": {
+            "ru": [
+                "Бобр",
+                "Термит",
+                "Пчела"
+            ],
+            "uk": [
+                "Бобер",
+                "Терміт",
+                "Бджола"
+            ],
+            "en": [
+                "Beaver",
+                "Termite",
+                "Bee"
+            ],
+            "es": [
+                "Castor",
+                "Termita",
+                "Abeja"
+            ],
+            "pt": [
+                "Castor",
+                "Cupim",
+                "Abelha"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Колония.",
+                "Социум.",
+                "Сила."
+            ],
+            "uk": [
+                "Колонія.",
+                "Соціум.",
+                "Сила."
+            ],
+            "en": [
+                "Colony.",
+                "Society.",
+                "Strength."
+            ],
+            "es": [
+                "Colonia.",
+                "Sociedad.",
+                "Fuerza."
+            ],
+            "pt": [
+                "Colônia.",
+                "Sociedade.",
+                "Força."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Коллективно строят мосты из своих тел.",
+                "Миллионы в одном доме, а работают сообща."
+            ],
+            "uk": [
+                "Колективно будують мости зі своїх тіл.",
+                "Мільйони в одному будинку, а працюють спільно."
+            ],
+            "en": [
+                "They collectively build bridges from their bodies.",
+                "Millions in one home, and they work together."
+            ],
+            "es": [
+                "Construyen colectivamente puentes con sus cuerpos.",
+                "Millones en una casa, y trabajan juntos."
+            ],
+            "pt": [
+                "Eles constroem coletivamente pontes com seus corpos.",
+                "Milhões em uma casa, e eles trabalham juntos."
+            ]
+        },
+        "tooltip": {
+            "ru": "Чтобы перебраться через водные преграды, образуют живые мосты.",
+            "uk": "Щоб перебратися через водні перешкоди, утворюють живі мости.",
+            "en": "To cross water, they form living bridges.",
+            "es": "Para cruzar el agua, forman puentes vivientes.",
+            "pt": "Para atravessar a água, eles formam pontes vivas."
+        },
+        "qwestion": {
+            "ru": "Какое существо способно строить живые мосты из своих тел?",
+            "uk": "Яка істота здатна будувати живі мости зі своїх тіл?",
+            "en": "What creature can build living bridges out of its own body?",
+            "es": "¿Qué criatura puede construir puentes vivientes con sus propios cuerpos?",
+            "pt": "Que criatura pode construir pontes vivas com seus próprios corpos?"
+        },
+        "definition": {
+            "ru": "Муравьи — это общественные насекомые, которые живут в больших колониях. Некоторые виды способны объединяться и образовывать «живые мосты», чтобы преодолевать препятствия, такие как водные потоки или разрывы.",
+            "uk": "Мурахи — це суспільні комахи, які живуть у великих колоніях. Деякі види здатні об'єднуватися і утворювати «живі мости», щоб долати перешкоди, такі як водні потоки або розриви.",
+            "en": "Ants are social insects that live in large colonies. Some species can link together to form 'living bridges' to overcome obstacles, such as water streams or gaps.",
+            "es": "Las hormigas son insectos sociales que viven en grandes colonias. Algunas especies pueden unirse para formar 'puentes vivientes' y superar obstáculos, como arroyos o brechas.",
+            "pt": "As formigas são insetos sociais que vivem em grandes colônias. Algumas espécies podem se unir para formar 'pontes vivas' para superar obstáculos, como riachos ou lacunas."
+        },
+        "antipod": {
+            "ru": "Ёж",
+            "uk": "Їжак",
+            "en": "Hedgehog",
+            "es": "Erizo",
+            "pt": "Ouriço"
+        },
+        "hintFuiz": {
+            "ru": "Кто из них выращивает грибы для своего пропитания?",
+            "uk": "Хто з них вирощує гриби для свого харчування?",
+            "en": "Which one of them farms mushrooms for food?",
+            "es": "¿Cuál de ellos cultiva hongos para alimentarse?",
+            "pt": "Qual deles cultiva cogumelos para se alimentar?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Ant"
+    },
+    "imgFlag": "all" 
+}

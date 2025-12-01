@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Эфиопия",
+            "uk": "Ефіопія",
+            "en": "Ethiopia",
+            "es": "Etiopía",
+            "pt": "Etiópia"
+        },
+        "wrong": {
+            "ru": [
+                "Бразилия",
+                "Украина",
+                "Италия"
+            ],
+            "uk": [
+                "Бразилія",
+                "Україна",
+                "Італія"
+            ],
+            "en": [
+                "Brazil",
+                "Ukraine",
+                "Italy"
+            ],
+            "es": [
+                "Brasil",
+                "Ucrania",
+                "Italia"
+            ],
+            "pt": [
+                "Brasil",
+                "Ucrânia",
+                "Itália"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Пастух.",
+                "Козы.",
+                "Кофе."
+            ],
+            "uk": [
+                "Пастух.",
+                "Кози.",
+                "Кава."
+            ],
+            "en": [
+                "Shepherd.",
+                "Goats.",
+                "Coffee."
+            ],
+            "es": [
+                "Pastor.",
+                "Cabras.",
+                "Café."
+            ],
+            "pt": [
+                "Pastor.",
+                "Cabras.",
+                "Café."
+            ]
+        },
+        "tooltip": {
+            "ru": "Эта страна считается родиной кофе",
+            "uk": "Ця країна вважається батьківщиною кави",
+            "en": "This country is considered the birthplace of coffee",
+            "es": "Este país es considerado la cuna del café",
+            "pt": "Este país é considerado o berço do café"
+        },
+        "qwestion": {
+            "ru": "Где пастух, по легенде, заметил, что козы стали энергичными от кофейных ягод?",
+            "uk": "Де пастух, за легендою, помітив, що кози стали енергійними від кавових ягід?",
+            "en": "Where did a shepherd, according to legend, notice that goats became energetic from coffee berries?",
+            "es": "¿Dónde un pastor, según la leyenda, notó que las cabras se volvieron enérgicas por las bayas de café?",
+            "pt": "Onde um pastor, segundo a lenda, notou que as cabras ficaram enérgicas com as bagas de café?"
+        },
+        "definition": {
+            "ru": "Эфиопия — страна в Восточной Африке, которая считается исторической родиной кофе. Согласно легенде, именно здесь пастух заметил, как его козы стали активными после поедания плодов кофейного дерева.",
+            "uk": "Ефіопія — країна у Східній Африці, яка вважається історичною батьківщиною кави. Згідно з легендою, саме тут пастух помітив, як його кози стали активними після поїдання плодів кавового дерева.",
+            "en": "Ethiopia is a country in East Africa that is considered the historical birthplace of coffee. According to legend, it was here that a shepherd noticed his goats becoming active after eating the fruits of the coffee plant.",
+            "es": "Etiopía es un país de África Oriental que se considera la cuna histórica del café. Según la leyenda, fue aquí donde un pastor notó que sus cabras se volvían activas después de comer los frutos del cafeto.",
+            "pt": "A Etiópia é um país da África Oriental que é considerado o berço histórico do café. Segundo a lenda, foi aqui que um pastor notou que suas cabras ficavam ativas após comerem os frutos do cafeeiro."
+        },
+        "antipod": {
+            "ru": "Бразилия",
+            "uk": "Бразилія",
+            "en": "Brazil",
+            "es": "Brasil",
+            "pt": "Brasil"
+        },
+        "hintFuiz": {
+            "ru": "В этой стране впервые заметили эффект от кофе.",
+            "uk": "У цій країні вперше помітили ефект від кави.",
+            "en": "In this country, the effect of coffee was first noticed.",
+            "es": "En este país se notó por primera vez el efecto del café.",
+            "pt": "Neste país, o efeito do café foi notado pela primeira vez."
+        },
+        "riddle": {
+            "ru": [
+                "Родина кофе.",
+                "Колыбель напитка, который будит весь мир."
+            ],
+            "uk": [
+                "Батьківщина кави.",
+                "Колиска напою, який будить весь світ."
+            ],
+            "en": [
+                "The birthplace of coffee.",
+                "The cradle of the drink that awakens the whole world."
+            ],
+            "es": [
+                "La cuna del café.",
+                "La cuna de la bebida que despierta a todo el mundo."
+            ],
+            "pt": [
+                "O berço do café.",
+                "O berço da bebida que desperta o mundo inteiro."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/History_of_coffee#Legendary_origins"
+    },
+    "imgFlag": "quizfoto"
+}

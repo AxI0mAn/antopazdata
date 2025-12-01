@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Смерть и урожай",
+            "uk": "Смерть і врожай",
+            "en": "Death and harvest",
+            "es": "Muerte y cosecha",
+            "pt": "Morte e colheita"
+        },
+        "wrong": {
+            "ru": [
+                "Духи и страх",
+                "Магия и обман",
+                "Монстры и сладости"
+            ],
+            "uk": [
+                "Духи і страх",
+                "Магія і обман",
+                "Монстри та солодощі"
+            ],
+            "en": [
+                "Spirits and fear",
+                "Magic and deception",
+                "Monsters and sweets"
+            ],
+            "es": [
+                "Espíritus y miedo",
+                "Magia y engaño",
+                "Monstruos y dulces"
+            ],
+            "pt": [
+                "Espíritos e medo",
+                "Magia e engano",
+                "Monstros e doces"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Символика.",
+                "Смерть.",
+                "Жизнь."
+            ],
+            "uk": [
+                "Символіка.",
+                "Смерть.",
+                "Життя."
+            ],
+            "en": [
+                "Symbolism.",
+                "Death.",
+                "Life."
+            ],
+            "es": [
+                "Simbolismo.",
+                "Muerte.",
+                "Vida."
+            ],
+            "pt": [
+                "Simbolismo.",
+                "Morte.",
+                "Vida."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Цвета Хеллоуина?",
+                "Символизм Хеллоуина?"
+            ],
+            "uk": [
+                "Кольори Хеллоуїна?",
+                "Символізм Хеллоуїна?"
+            ],
+            "en": [
+                "Halloween colors?",
+                "Halloween symbolism?"
+            ],
+            "es": [
+                "¿Colores de Halloween?",
+                "¿Simbolismo de Halloween?"
+            ],
+            "pt": [
+                "Cores do Halloween?",
+                "Simbolismo do Halloween?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Чёрный и оранжевый",
+            "uk": "Чорний і помаранчевий",
+            "en": "Black and orange",
+            "es": "Negro y naranja",
+            "pt": "Preto e laranja"
+        },
+        "qwestion": {
+            "ru": "Что символизируют цвета Хеллоуина?",
+            "uk": "Що символізують кольори Хеллоуїна?",
+            "en": "What do the colors of Halloween symbolize?",
+            "es": "¿Qué simbolizan los colores de Halloween?",
+            "pt": "O que as cores do Halloween simbolizam?"
+        },
+        "definition": {
+            "ru": "Смерть и урожай - символы Хеллоуина. Чёрный символизирует смерть, тьму и конец лета. Оранжевый символизирует осенний урожай, тыквы и тёплые краски сезона.",
+            "uk": "Смерть і врожай - символи Хеллоуїна. Чорний символізує смерть, темряву та кінець літа. Помаранчевий символізує осінній урожай, гарбузи та теплі барви сезону.",
+            "en": "Death and harvest are the symbols of Halloween. Black symbolizes death, darkness, and the end of summer. Orange symbolizes the autumn harvest, pumpkins, and the warm colors of the season.",
+            "es": "La muerte y la cosecha son los símbolos de Halloween. El negro simboliza la muerte, la oscuridad y el final del verano. El naranja simboliza la cosecha de otoño, las calabazas y los cálidos colores de la temporada.",
+            "pt": "Morte e colheita são os símbolos do Halloween. O preto simboliza a morte, a escuridão e o fim do verão. O laranja simboliza a colheita de outono, as abóboras e as cores quentes da estação."
+        },
+        "antipod": {
+            "ru": "Ночь и веселье",
+            "uk": "Ніч і веселощі",
+            "en": "Night and fun",
+            "es": "Noche y diversión",
+            "pt": "Noite e diversão"
+        },
+        "hintFuiz": {
+            "ru": "Что символизируют цвета Хеллоуина?",
+            "uk": "Що символізують кольори Хеллоуїна?",
+            "en": "What do the colors of Halloween symbolize?",
+            "es": "¿Qué simbolizan los colores de Halloween?",
+            "pt": "O que as cores do Halloween simbolizam?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Halloween"
+    },
+    "imgFlag": "quizfoto" 
+}

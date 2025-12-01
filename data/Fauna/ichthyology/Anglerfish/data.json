@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Рыба-удильщик",
+            "uk": "Риба-вудильник",
+            "en": "Anglerfish",
+            "es": "Pez abisal",
+            "pt": "Peixe-pescador"
+        },
+        "wrong": {
+            "ru": [
+                "Треска",
+                "Окунь",
+                "Налим"
+            ],
+            "uk": [
+                "Тріска",
+                "Окунь",
+                "Налим"
+            ],
+            "en": [
+                "Cod",
+                "Perch",
+                "Burbot"
+            ],
+            "es": [
+                "Bacalao",
+                "Perca",
+                "Mollera"
+            ],
+            "pt": [
+                "Bacalhau",
+                "Perca",
+                "Badejo"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Глубоководный.",
+                "Биолюминесценция.",
+                "Приманка."
+            ],
+            "uk": [
+                "Глибоководна.",
+                "Біолюмінесценція.",
+                "Приманка."
+            ],
+            "en": [
+                "Deep-sea.",
+                "Bioluminescence.",
+                "Lure."
+            ],
+            "es": [
+                "Aguas profundas.",
+                "Bioluminiscencia.",
+                "Señuelo."
+            ],
+            "pt": [
+                "Águas profundas.",
+                "Bioluminescência.",
+                "Isca."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Какая рыба ловит на удочку?",
+                "Какая рыба обитает в самых темных глубинах океана?"
+            ],
+            "uk": [
+                "Яка риба ловить на вудочку?",
+                "Яка риба мешкає в найтемніших глибинах океану?"
+            ],
+            "en": [
+                "Which fish fishes with a rod?",
+                "What fish lives in the darkest depths of the ocean?"
+            ],
+            "es": [
+                "¿Qué pez pesca con una caña?",
+                "¿Qué pez vive en las profundidades más oscuras del océano?"
+            ],
+            "pt": [
+                "Qual peixe pesca com uma vara de pescar?",
+                "Qual peixe vive nas profundezas mais escuras do oceano?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Обитает в самых темных частях океана.",
+            "uk": "Мешкає в найтемніших частинах океану.",
+            "en": "It inhabits the darkest parts of the ocean.",
+            "es": "Habita en las partes más oscuras del océano.",
+            "pt": "Habita as partes mais escuras do oceano."
+        },
+        "qwestion": {
+            "ru": "Какая рыба использует светящийся вырост на голове как приманку?",
+            "uk": "Яка риба використовує світний виріст на голові як приманку?",
+            "en": "Which fish uses a glowing growth on its head as a lure?",
+            "es": "¿Qué pez usa un crecimiento luminoso en su cabeza como señuelo?",
+            "pt": "Qual peixe usa um crescimento luminoso em sua cabeça como isca?"
+        },
+        "definition": {
+            "ru": "Рыба-удильщик — это группа глубоководных рыб. Они известны своим уникальным выростом-приманкой на голове, который светится благодаря биолюминесцентным бактериям и используется для привлечения добычи.",
+            "uk": "Риба-вудильник — це група глибоководних риб. Вони відомі своїм унікальним виростом-приманкою на голові, який світиться завдяки біолюмінесцентним бактеріям і використовується для приваблення здобичі.",
+            "en": "Anglerfish are a group of deep-sea fish. They are known for their unique lure-like growth on their heads, which glows due to bioluminescent bacteria and is used to attract prey.",
+            "es": "El pez abisal es un grupo de peces de aguas profundas. Son conocidos por su singular crecimiento en forma de señuelo en la cabeza, que brilla gracias a las bacterias bioluminiscentes y se utiliza para atraer presas.",
+            "pt": "O peixe-pescador é um grupo de peixes de águas profundas. Eles são conhecidos por seu crescimento único em forma de isca na cabeça, que brilha devido a bactérias bioluminescentes e é usado para atrair presas."
+        },
+        "antipod": {
+            "ru": "Лещ",
+            "uk": "Лящ",
+            "en": "Bream",
+            "es": "Besugo",
+            "pt": "Pargo"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих двух рыб имеет светящийся орган для привлечения пищи?",
+            "uk": "Яка з цих двох риб має світний орган для залучення їжі?",
+            "en": "Which of these two fish has a glowing organ to attract food?",
+            "es": "¿Cuál de estos dos peces tiene un órgano luminoso para atraer alimento?",
+            "pt": "Qual desses dois peixes tem um órgão luminoso para atrair comida?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Anglerfish"
+    },
+    "imgFlag": "all" 
+}

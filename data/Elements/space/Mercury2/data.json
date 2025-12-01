@@ -1,0 +1,129 @@
+{
+    "data": {
+        "name": {
+            "ru": "Меркурий",
+            "uk": "Меркурій",
+            "en": "Mercury",
+            "es": "Mercurio",
+            "pt": "Mercúrio"
+        },
+        "wrong": {
+            "ru": [
+                "Венера",
+                "Марс",
+                "Церера"
+            ],
+            "uk": [
+                "Венера",
+                "Марс",
+                "Церера"
+            ],
+            "en": [
+                "Venus",
+                "Mars",
+                "Ceres"
+            ],
+            "es": [
+                "Venus",
+                "Marte",
+                "Ceres"
+            ],
+            "pt": [
+                "Vênus",
+                "Marte",
+                "Ceres"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Ближайшая к Солнцу.",
+                "Большая скорость.",
+                "Множество кратеров."
+            ],
+            "uk": [
+                "Найближча до Сонця.",
+                "Велика швидкість.",
+                "Багато кратерів."
+            ],
+            "en": [
+                "Closest to the Sun.",
+                "High speed.",
+                "Many craters."
+            ],
+            "es": [
+                "Más cercano al Sol.",
+                "Alta velocidad.",
+                "Muchos cráteres."
+            ],
+            "pt": [
+                "Mais próximo do Sol.",
+                "Alta velocidade.",
+                "Muitas crateras."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Какая планета самая быстрая в Солнечной системе?",
+                "Какая планета самая маленькая в Солнечной системе?",
+                "Какая планета ближе всех к Солнцу, но не самая горячая?"
+            ],
+            "uk": [
+                "Яка планета найшвидша в Сонячній системі?",
+                "Яка планета найменша в Сонячній системі?",
+                "Яка планета найближча до Сонця, але не найгарячіша?"
+            ],
+            "en": [
+                "What is the fastest planet in the Solar System?",
+                "What is the smallest planet in the Solar System?",
+                "What planet is closest to the Sun but not the hottest?"
+            ],
+            "es": [
+                "¿Cuál es el planeta más rápido del Sistema Solar?",
+                "¿Cuál es el planeta más pequeño del Sistema Solar?",
+                "¿Qué planeta está más cerca del Sol, pero no es el más caliente?"
+            ],
+            "pt": [
+                "Qual é o planeta mais rápido do Sistema Solar?",
+                "Qual é o menor planeta do Sistema Solar?",
+                "Que planeta está mais perto do Sol, mas não é o mais quente?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Его сутки длятся около 59 земных дней, а год — всего 88.",
+            "uk": "Його доба триває близько 59 земних днів, а рік — лише 88.",
+            "en": "Its day lasts about 59 Earth days, while its year is only 88.",
+            "es": "Su día dura aproximadamente 59 días terrestres, mientras que su año es de solo 88.",
+            "pt": "Seu dia dura cerca de 59 dias terrestres, enquanto seu ano é de apenas 88."
+        },
+        "qwestion": {
+            "ru": "Какая планета в Солнечной системе находится ближе всего к Солнцу?",
+            "uk": "Яка планета в Сонячній системі знаходиться найближче до Сонця?",
+            "en": "Which planet in the Solar System is closest to the Sun?",
+            "es": "¿Qué planeta en el Sistema Solar está más cerca del Sol?",
+            "pt": "Qual planeta no Sistema Solar está mais perto do Sol?"
+        },
+        "definition": {
+            "ru": "Меркурий — самая маленькая и ближайшая к Солнцу планета. У него почти нет атмосферы, что приводит к самым экстремальным перепадам температур между дневной и ночной сторонами среди всех планет.",
+            "uk": "Меркурій — найменша і найближча до Сонця планета. У нього майже немає атмосфери, що призводить до найекстремальніших перепадів температур між денною і нічною сторонами серед усіх планет.",
+            "en": "Mercury is the smallest and closest planet to the Sun. It has almost no atmosphere, which leads to the most extreme temperature swings between day and night of any planet.",
+            "es": "Mercurio es el planeta más pequeño y cercano al Sol. Casi no tiene atmósfera, lo que provoca las fluctuaciones de temperatura más extremas entre el día y la noche de cualquier planeta.",
+            "pt": "Mercúrio é o menor planeta e o mais próximo do Sol. Quase não tem atmosfera, o que leva às flutuações de temperatura mais extremas entre o dia e a noite de qualquer planeta."
+        },
+        "antipod": {
+            "ru": "Луна",
+            "uk": "Місяць",
+            "en": "The Moon",
+            "es": "La Luna",
+            "pt": "A Lua"
+        },
+        "hintFuiz": {
+            "ru": "На каком из этих тел самые большие перепады температур?",
+            "uk": "На якому з цих тіл найбільші перепади температур?",
+            "en": "Which of these bodies has the largest temperature swings?",
+            "es": "¿Cuál de estos cuerpos tiene las mayores fluctuaciones de temperatura?",
+            "pt": "Qual desses corpos tem as maiores flutuações de temperatura?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Mercury_(planet)"
+    },
+    "imgFlag": "all" 
+}

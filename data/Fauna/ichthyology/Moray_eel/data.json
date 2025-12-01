@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Мурена",
+            "uk": "Мурена",
+            "en": "Moray eel",
+            "es": "Morena",
+            "pt": "Moreia"
+        },
+        "wrong": {
+            "ru": [
+                "Морской окунь",
+                "Камбала",
+                "Скат"
+            ],
+            "uk": [
+                "Морський окунь",
+                "Камбала",
+                "Скат"
+            ],
+            "en": [
+                "Sea bass",
+                "Flounder",
+                "Ray"
+            ],
+            "es": [
+                "Lubina",
+                "Lenguado",
+                "Raya"
+            ],
+            "pt": [
+                "Robalo",
+                "Linguado",
+                "Arraia"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Коралловый риф.",
+                "Скрытность.",
+                "Две челюсти."
+            ],
+            "uk": [
+                "Кораловий риф.",
+                "Потаємність.",
+                "Дві щелепи."
+            ],
+            "en": [
+                "Coral reef.",
+                "Stealth.",
+                "Two sets of jaws."
+            ],
+            "es": [
+                "Arrecife de coral.",
+                "Sigilo.",
+                "Dos mandíbulas."
+            ],
+            "pt": [
+                "Recife de coral.",
+                "Discrição.",
+                "Duas mandíbulas."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "У кого два набора челюстей?",
+                "Какая рыба похожа на змею?"
+            ],
+            "uk": [
+                "У кого два набори щелеп?",
+                "Яка риба схожа на змію?"
+            ],
+            "en": [
+                "Who has two sets of jaws?",
+                "Which fish looks like a snake?"
+            ],
+            "es": [
+                "¿Quién tiene dos conjuntos de mandíbulas?",
+                "¿Qué pez parece una serpiente?"
+            ],
+            "pt": [
+                "Quem tem dois conjuntos de mandíbulas?",
+                "Qual peixe parece uma cobra?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Известна змеевидным телом и агрессивным поведением.",
+            "uk": "Відома змієподібним тілом та агресивною поведінкою.",
+            "en": "Known for its snake-like body and aggressive behavior.",
+            "es": "Conocida por su cuerpo de serpiente y comportamiento agresivo.",
+            "pt": "Conhecida por seu corpo de cobra e comportamento agressivo."
+        },
+        "qwestion": {
+            "ru": "Какая рыба выдвигает второй набор челюстей из глотки?",
+            "uk": "Яка риба висуває другий набір щелеп із глотки?",
+            "en": "Which fish extends a second set of jaws from its throat?",
+            "es": "¿Qué pez extiende un segundo conjunto de mandíbulas desde su garganta?",
+            "pt": "Qual peixe estende um segundo conjunto de mandíbulas da garganta?"
+        },
+        "definition": {
+            "ru": "Мурена — это крупная морская рыба, известная своим змеевидным телом и агрессивным поведением. Она охотится, используя второй набор челюстей в своей глотке, которые помогают захватывать и проталкивать добычу.",
+            "uk": "Мурена — це велика морська риба, відома своїм змієподібним тілом та агресивною поведінкою. Вона полює, використовуючи другий набір щелеп у своєму горлі, які допомагають захоплювати і проштовхувати здобич.",
+            "en": "The moray eel is a large marine fish known for its snake-like body and aggressive behavior. It hunts using a second set of jaws in its throat to capture and pull prey into its digestive system.",
+            "es": "La morena es un gran pez marino conocido por su cuerpo de serpiente y su comportamiento agresivo. Caza usando un segundo par de mandíbulas en su garganta que le ayudan a atrapar y empujar a su presa.",
+            "pt": "A moreia é um grande peixe marinho conhecido por seu corpo de cobra e comportamento agressivo. Caça usando um segundo conjunto de mandíbulas na garganta que a ajudam a agarrar e empurrar a presa."
+        },
+        "antipod": {
+            "ru": "Угорь",
+            "uk": "Вугор",
+            "en": "Eel",
+            "es": "Anguila",
+            "pt": "Enguia"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих двух рыб обладает дополнительными челюстями в глотке?",
+            "uk": "Яка з цих двох риб має додаткові щелепи в глотці?",
+            "en": "Which of these two fish has an extra set of jaws in its throat?",
+            "es": "¿Cuál de estos peces tiene mandíbulas adicionales en la garganta?",
+            "pt": "Qual desses peixes tem mandíbulas extras na garganta?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Moray_eel"
+    },
+    "imgFlag": "all" 
+}

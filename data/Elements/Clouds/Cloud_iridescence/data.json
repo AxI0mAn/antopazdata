@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Иризация облаков",
+            "uk": "Іризація хмар",
+            "en": "Cloud iridescence",
+            "es": "Iridiscencia de las nubes",
+            "pt": "Iridiscência das nuvens"
+        },
+        "wrong": {
+            "ru": [
+                "Гало",
+                "Вымеобразные облака",
+                "Крест на солнце"
+            ],
+            "uk": [
+                "Гало",
+                "Вименеподібні хмари",
+                "Сонце з ореолом"
+            ],
+            "en": [
+                "Halo",
+                "Mammatus clouds",
+                "Sun dog"
+            ],
+            "es": [
+                "Halo",
+                "Nubes mammatus",
+                "Parhelio"
+            ],
+            "pt": [
+                "Halo",
+                "Nuvens mammatus",
+                "Parélio"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Радуга.",
+                "Переливы.",
+                "Дифракция."
+            ],
+            "uk": [
+                "Веселка.",
+                "Переливи.",
+                "Дифракція."
+            ],
+            "en": [
+                "Rainbow.",
+                "Shimmer.",
+                "Diffraction."
+            ],
+            "es": [
+                "Arco iris.",
+                "Destellos.",
+                "Difracción."
+            ],
+            "pt": [
+                "Arco-íris.",
+                "Cintilações.",
+                "Difração."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Сияет на краю облака, как масло на воде.",
+                "Показывает все цвета, но это не радуга."
+            ],
+            "uk": [
+                "Сяє на краю хмари, як олія на воді.",
+                "Показує всі кольори, але це не веселка."
+            ],
+            "en": [
+                "It glows on the edge of a cloud, like oil on water.",
+                "It shows all the colors, but it's not a rainbow."
+            ],
+            "es": [
+                "Brilla en el borde de una nube, como aceite en el agua.",
+                "Muestra todos los colores, pero no es un arco iris."
+            ],
+            "pt": [
+                "Brilha na borda de uma nuvem, como óleo na água.",
+                "Mostra todas as cores, mas não é um arco-íris."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это яркое, радужное сияние на краях облаков.",
+            "uk": "Це яскраве, райдужне сяйво на краях хмар.",
+            "en": "It's a bright, rainbow-like glow on the edges of clouds.",
+            "es": "Es un brillo brillante, similar a un arcoíris, en los bordes de las nubes.",
+            "pt": "É um brilho vibrante, semelhante a um arco-íris, nas bordas das nuvens."
+        },
+        "qwestion": {
+            "ru": "Какое явление вызывает радужные, переливающиеся цвета в облаках из-за дифракции света?",
+            "uk": "Яке явище викликає райдужні, переливчасті кольори в хмарах через дифракцію світла?",
+            "en": "What phenomenon causes rainbow-like, shimmering colors in clouds due to light diffraction?",
+            "es": "¿Qué fenómeno causa colores iridiscentes y brillantes en las nubes debido a la difracción de la luz?",
+            "pt": "Que fenômeno causa cores iridescentes e cintilantes nas nuvens devido à difração da luz?"
+        },
+        "definition": {
+            "ru": "Иризация облаков — это атмосферное оптическое явление, при котором в облаках появляются радужные цвета. Оно возникает из-за дифракции солнечного света (реже лунного) на мельчайших частицах воды или кристаллах льда в облаке. Цвета обычно видны в виде полос или пятен и являются наиболее заметными в тонких облаках, таких как перисто-кучевые, высоко-кучевые или чечевицеобразные, когда они находятся близко к Солнцу.",
+            "uk": "Іризація хмар — це атмосферне оптичне явище, при якому в хмарах з'являються райдужні кольори. Воно виникає через дифракцію сонячного світла (рідше місячного) на найдрібніших частинках води або кристалах льоду в хмарі. Кольори зазвичай видно у вигляді смуг або плям і є найбільш помітними в тонких хмарах, таких як перисто-купчасті, високо-купчасті або сочевицеподібні, коли вони знаходяться близько до Сонця.",
+            "en": "Cloud iridescence is an atmospheric optical phenomenon where colors resembling a rainbow appear in a cloud. It is caused by the diffraction of sunlight (or moonlight) by tiny water droplets or ice crystals in the cloud. The colors are typically seen as streaks or patches and are most prominent in thin clouds, such as cirrocumulus, altocumulus, or lenticular clouds, when they are close to the Sun.",
+            "es": "La iridiscencia de las nubes es un fenómeno óptico atmosférico en el que aparecen colores que se asemejan a un arco iris en una nube. Es causada por la difracción de la luz solar (o de la luna) por las diminutas gotas de agua o cristales de hielo en la nube. Los colores se ven típicamente como rayas o parches y son más prominentes en nubes delgadas, como cirrocúmulos, altocúmulos o nubes lenticulares, cuando están cerca del Sol.",
+            "pt": "A iridiscência das nuvens é um fenômeno óptico atmosférico onde cores que se assemelham a um arco-íris aparecem em uma nuvem. É causada pela difração da luz solar (ou lunar) por minúsculas gotículas de água ou cristais de gelo na nuvem. As cores são tipicamente vistas como faixas ou manchas e são mais proeminentes em nuvens finas, como cirrocúmulos, altocúmulos ou nuvens lenticulares, quando estão perto do Sol."
+        },
+        "antipod": {
+            "ru": "Грозовой воротник",
+            "uk": "Грозовий комір",
+            "en": "Arcus cloud",
+            "es": "Nube arcus",
+            "pt": "Nuvem arcus"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих явлений связано с дифракцией солнечного света в облаках?",
+            "uk": "Яке з цих явищ пов'язано з дифракцією сонячного світла в хмарах?",
+            "en": "Which of these phenomena is related to the diffraction of sunlight in clouds?",
+            "es": "¿Cuál de estos fenómenos está relacionado con la difracción de la luz solar en las nubes?",
+            "pt": "Qual desses fenômenos está relacionado à difração da luz solar nas nuvens?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Cloud_iridescence"
+    },
+    "imgFlag": "all" 
+}

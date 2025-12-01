@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Кофеин",
+            "uk": "Кофеїн",
+            "en": "Caffeine",
+            "es": "Cafeína",
+            "pt": "Cafeína"
+        },
+        "wrong": {
+            "ru": [
+                "Лактоза",
+                "Алкоголь",
+                "Сахароза"
+            ],
+            "uk": [
+                "Лактоза",
+                "Алкоголь",
+                "Сахароза"
+            ],
+            "en": [
+                "Lactose",
+                "Alcohol",
+                "Sucrose"
+            ],
+            "es": [
+                "Lactosa",
+                "Alcohol",
+                "Sacarosa"
+            ],
+            "pt": [
+                "Lactose",
+                "Álcool",
+                "Sacarose"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Олимпиада.",
+                "Запрет.",
+                "Спорт."
+            ],
+            "uk": [
+                "Олімпіада.",
+                "Заборона.",
+                "Спорт."
+            ],
+            "en": [
+                "Olympics.",
+                "Ban.",
+                "Sport."
+            ],
+            "es": [
+                "Olimpiadas.",
+                "Prohibición.",
+                "Deporte."
+            ],
+            "pt": [
+                "Olimpíadas.",
+                "Proibição.",
+                "Esporte."
+            ]
+        },
+        "tooltip": {
+            "ru": "Связь между кофе и спортом.",
+            "uk": "Зв'язок між кавою і спортом.",
+            "en": "The connection between coffee and sports.",
+            "es": "La conexión entre el café y el deporte.",
+            "pt": "A conexão entre café e esporte."
+        },
+        "qwestion": {
+            "ru": "Что считалось допингом до 2004 года?",
+            "uk": "Що вважалося допінгом до 2004 року?",
+            "en": "What was considered doping until 2004?",
+            "es": "¿Qué se consideraba dopaje hasta 2004?",
+            "pt": "O que era considerado doping até 2004?"
+        },
+        "definition": {
+            "ru": "Кофеин — это природный алкалоид, являющийся психоактивным веществом. Временно исключен из списка запрещенных веществ Всемирным антидопинговым агентством (WADA) в 2004 году, хотя его мониторинг продолжается.",
+            "uk": "Кофеїн — це природний алкалоїд, що є психоактивною речовиною. Тимчасово виключений зі списку заборонених речовин Всесвітнім антидопінговим агентством (WADA) у 2004 році, хоча його моніторинг триває.",
+            "en": "Caffeine is a natural alkaloid that is a psychoactive substance. It was temporarily removed from the World Anti-Doping Agency's (WADA) list of banned substances in 2004, although its monitoring continues.",
+            "es": "La cafeína es un alcaloide natural que es una sustancia psicoactiva. Fue temporalmente eliminada de la lista de sustancias prohibidas de la Agencia Mundial Antidopaje (WADA) en 2004, aunque su monitoreo continúa.",
+            "pt": "A cafeína é um alcaloide natural que é uma substância psicoativa. Foi temporariamente removida da lista de substâncias proibidas da Agência Mundial Antidopagem (WADA) em 2004, embora seu monitoramento continue."
+        },
+        "antipod": {
+            "ru": "Алкоголь",
+            "uk": "Алкоголь",
+            "en": "Alcohol",
+            "es": "Alcohol",
+            "pt": "Álcool"
+        },
+        "hintFuiz": {
+            "ru": "Это было запрещено в спорте до 2004 года, как допинг.",
+            "uk": "Це було заборонено в спорті до 2004 року, як допінг.",
+            "en": "This was banned in sports until 2004, as doping.",
+            "es": "Esto fue prohibido en el deporte hasta 2004, como dopaje.",
+            "pt": "Isso foi proibido nos esportes até 2004, como doping."
+        },
+        "riddle": {
+            "ru": [
+                "Он дарит бодрость.",
+                "Был запрещён, как допинг."
+            ],
+            "uk": [
+                "Він дарує бадьорість.",
+                "Був заборонений, як допінг."
+            ],
+            "en": [
+                "It gives vigor.",
+                "It was banned as a doping agent."
+            ],
+            "es": [
+                "Da vigor.",
+                "Fue prohibido como agente dopante."
+            ],
+            "pt": [
+                "Ele dá vigor.",
+                "Foi banido como um agente de doping."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Caffeine#Performance-enhancing_effects"
+    },
+    "imgFlag": "quizfoto"
+}

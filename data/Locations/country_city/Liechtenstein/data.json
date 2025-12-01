@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Лихтенштейн",
+            "uk": "Ліхтенштейн",
+            "en": "Liechtenstein",
+            "es": "Liechtenstein",
+            "pt": "Liechtenstein"
+        },
+        "wrong": {
+            "ru": [
+                "Андорра",
+                "Сан-Марино",
+                "Монако"
+            ],
+            "uk": [
+                "Андорра",
+                "Сан-Марино",
+                "Монако"
+            ],
+            "en": [
+                "Andorra",
+                "San Marino",
+                "Monaco"
+            ],
+            "es": [
+                "Andorra",
+                "San Marino",
+                "Mónaco"
+            ],
+            "pt": [
+                "Andorra",
+                "San Marino",
+                "Mônaco"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Дважды запертая.",
+                "Княжество.",
+                "Альпы."
+            ],
+            "uk": [
+                "Двічі замкнена.",
+                "Князівство.",
+                "Альпи."
+            ],
+            "en": [
+                "Doubly landlocked.",
+                "Principality.",
+                "Alps."
+            ],
+            "es": [
+                "Doble sin salida al mar.",
+                "Principado.",
+                "Alpes."
+            ],
+            "pt": [
+                "Duplamente sem litoral.",
+                "Principado.",
+                "Alpes."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Это дважды запертое государство.",
+                "В этой стране нет ни одного аэропорта."
+            ],
+            "uk": [
+                "Це двічі замкнена держава.",
+                "У цій країні немає жодного аеропорту."
+            ],
+            "en": [
+                "It's a doubly landlocked country.",
+                "This country has no airports."
+            ],
+            "es": [
+                "Es un estado doblemente sin salida al mar.",
+                "En este país no hay aeropuertos."
+            ],
+            "pt": [
+                "É um país duplamente sem litoral.",
+                "Neste país não há aeroportos."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это единственное в мире дважды запертое государство.",
+            "uk": "Це єдина у світі двічі замкнена держава.",
+            "en": "It is the only doubly landlocked country in the world.",
+            "es": "Es el único país doblemente sin salida al mar del mundo.",
+            "pt": "É o único país duplamente sem litoral do mundo."
+        },
+        "qwestion": {
+            "ru": "Какое небольшое европейское княжество, окруженно двумя странами?",
+            "uk": "Яке невелике європейське князівство, оточене двома країнами?",
+            "en": "What small European principality is surrounded by two countries?",
+            "es": "¿Qué pequeño principado europeo está rodeado por dos países?",
+            "pt": "Qual pequeno principado europeu é cercado por dois países?"
+        },
+        "definition": {
+            "ru": "Лихтенштейн — это небольшое княжество в Центральной Европе, расположенное между Австрией и Швейцарией. Это одна из самых маленьких стран мира и единственное «дважды запертое» государство, так как оно само не имеет выхода к морю, и его соседи также не имеют. Лихтенштейн известен своими живописными альпийскими пейзажами, высоким уровнем жизни, замками и статусом финансового центра. Несмотря на свои размеры, это процветающая и независимая нация с богатой историей и уникальной культурой.",
+            "uk": "Ліхтенштейн — це невелике князівство в Центральній Європі, розташоване між Австрією та Швейцарією. Це одна з найменших країн світу і єдина «двічі замкнена» держава, оскільки вона сама не має виходу до моря, і її сусіди також не мають. Ліхтенштейн відомий своїми мальовничими альпійськими пейзажами, високим рівнем життя, замками та статусом фінансового центру. Незважаючи на свої розміри, це процвітаюча та незалежна нація з багатою історією та унікальною культурою.",
+            "en": "Liechtenstein is a small principality in Central Europe, nestled between Austria and Switzerland. It is one of the world's smallest countries and the only 'doubly landlocked' state, meaning it is landlocked and all of its bordering countries are also landlocked. Liechtenstein is known for its picturesque Alpine landscapes, high standard of living, castles, and its status as a financial hub. Despite its size, it is a prosperous and independent nation with a rich history and unique culture.",
+            "es": "Liechtenstein es un pequeño principado en Europa Central, ubicado entre Austria y Suiza. Es uno de los países más pequeños del mundo y el único estado 'doblemente sin salida al mar', lo que significa que no tiene salida al mar y todos sus países fronterizos tampoco la tienen. Liechtenstein es conocido por sus pintorescos paisajes alpinos, su alto nivel de vida, sus castillos y su estatus como centro financiero. A pesar de su tamaño, es una nación próspera e independiente con una rica historia y una cultura única.",
+            "pt": "Liechtenstein é um pequeno principado na Europa Central, aninhado entre a Áustria e a Suíça. É um dos menores países do mundo e o único estado 'duplamente sem litoral', o que significa que ele próprio não tem acesso ao mar e todos os seus países fronteiriços também não têm. Liechtenstein é conhecido por suas pitorescas paisagens alpinas, alto padrão de vida, castelos e seu status como centro financeiro. Apesar de seu tamanho, é uma nação próspera e independente com uma rica história e cultura única."
+        },
+        "antipod": {
+            "ru": "Кирибати",
+            "uk": "Кірибаті",
+            "en": "Kiribati",
+            "es": "Kiribati",
+            "pt": "Kiribati"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих стран не имеет выхода к морю?",
+            "uk": "Яка з цих країн не має виходу до моря?",
+            "en": "Which of these countries is landlocked?",
+            "es": "¿Cuál de estos países no tiene salida al mar?",
+            "pt": "Qual desses países é sem litoral?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Liechtenstein"
+    },
+    "imgFlag": "quizfoto" 
+}

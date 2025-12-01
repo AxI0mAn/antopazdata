@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Тихоходка",
+            "uk": "Тихохідка",
+            "en": "Tardigrade",
+            "es": "Tardígrado",
+            "pt": "Tardígrado"
+        },
+        "wrong": {
+            "ru": [
+                "Рыба-капля",
+                "Голый землекоп",
+                "Комар"
+            ],
+            "uk": [
+                "Риба-крапля",
+                "Голий землекоп",
+                "Комар"
+            ],
+            "en": [
+                "Blobfish",
+                "Naked mole-rat",
+                "Mosquito"
+            ],
+            "es": [
+                "Pez gota",
+                "Rata topo lampiña",
+                "Mosquito"
+            ],
+            "pt": [
+                "Peixe-bolha",
+                "Rato-toupeira-pelado",
+                "Mosquito"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Космос.",
+                "Водяной медведь.",
+                "Выживание."
+            ],
+            "uk": [
+                "Космос.",
+                "Водяний ведмідь.",
+                "Виживання."
+            ],
+            "en": [
+                "Space.",
+                "Water bear.",
+                "Survival."
+            ],
+            "es": [
+                "Espacio.",
+                "Oso de agua.",
+                "Supervivencia."
+            ],
+            "pt": [
+                "Espaço.",
+                "Urso d'água.",
+                "Sobrevivência."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Может жить вечно.",
+                "Может выжить даже без воды."
+            ],
+            "uk": [
+                "Може жити вічно.",
+                "Може вижити навіть без води."
+            ],
+            "en": [
+                "It can live forever.",
+                "It can survive even without water."
+            ],
+            "es": [
+                "Puede vivir para siempre.",
+                "Puede sobrevivir incluso sin agua."
+            ],
+            "pt": [
+                "Pode viver para sempre.",
+                "Pode sobreviver mesmo sem água."
+            ]
+        },
+        "tooltip": {
+            "ru": "Какое существо способно выжить в экстремальных условиях?",
+            "uk": "Яка істота здатна вижити в екстремальних умовах?",
+            "en": "What creature is capable of surviving in extreme conditions?",
+            "es": "¿Qué criatura es capaz de sobrevivir en condiciones extremas?",
+            "pt": "Que criatura é capaz de sobreviver em condições extremas?"
+        },
+        "qwestion": {
+            "ru": "Какое микроскопическое существо способно выживать в самых суровых условиях, от космоса до высоких температур?",
+            "uk": "Яка мікроскопічна істота здатна виживати в найсуворіших умовах, від космосу до високих температур?",
+            "en": "What microscopic creature is capable of surviving in the harshest conditions, from space to high temperatures?",
+            "es": "¿Qué criatura microscópica es capaz de sobrevivir en las condiciones más duras, desde el espacio hasta las altas temperaturas?",
+            "pt": "Que criatura microscópica é capaz de sobreviver nas condições mais adversas, do espaço a altas temperaturas?"
+        },
+        "definition": {
+            "ru": "Тихоходка, также известная как «водяной медведь», — это микроскопическое беспозвоночное, которое может выжить в самых экстремальных условиях. Оно способно впадать в состояние криптобиоза, выдерживая вакуум, экстремальные температуры (от -273°C до 150°C), высокие дозы радиации и обезвоживание. Тихоходки — единственные известные животные, способные выжить в открытом космосе.",
+            "uk": "Тихохідка, також відома як «водяний ведмідь», — це мікроскопічна безхребетна, яка може вижити в найекстремальніших умовах. Вона здатна впадати в стан криптобіозу, витримуючи вакуум, екстремальні температури (від -273°C до 150°C), високі дози радіації та зневоднення. Тихохідки — єдині відомі тварини, здатні вижити у відкритому космосі.",
+            "en": "The tardigrade, also known as a 'water bear,' is a microscopic invertebrate that can survive in the most extreme conditions. It's capable of entering a state of cryptobiosis, withstanding a vacuum, extreme temperatures (from -273°C to 150°C), high doses of radiation, and dehydration. Tardigrades are the only known animals that can survive in the vacuum of outer space.",
+            "es": "El tardígrado, también conocido como 'oso de agua', es un invertebrado microscópico que puede sobrevivir en las condiciones más extremas. Es capaz de entrar en un estado de criptobiosis, resistiendo el vacío, temperaturas extremas (de -273°C a 150°C), altas dosis de radiación y deshidratación. Los tardígrados son los únicos animales conocidos que pueden sobrevivir en el vacío del espacio exterior.",
+            "pt": "O tardígrado, também conhecido como 'urso d'água', é um invertebrado microscópico que pode sobreviver nas condições mais extremas. É capaz de entrar em um estado de criptobiose, suportando vácuo, temperaturas extremas (de -273°C a 150°C), altas doses de radiação e desidratação. Os tardígrados são os únicos animais conhecidos que podem sobreviver no vácuo do espaço sideral."
+        },
+        "antipod": {
+            "ru": "Таракан",
+            "uk": "Тарган",
+            "en": "Cockroach",
+            "es": "Cucaracha",
+            "pt": "Barata"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих двух животных может выжить в открытом космосе?",
+            "uk": "Яка з цих двох тварин може вижити у відкритому космосі?",
+            "en": "Which of these two animals can survive in outer space?",
+            "es": "¿Cuál de estos dos animales puede sobrevivir en el espacio exterior?",
+            "pt": "Qual desses dois animais pode sobreviver no espaço sideral?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Tardigrade"
+    },
+    "imgFlag": "all" 
+}

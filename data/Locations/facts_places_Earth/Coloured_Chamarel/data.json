@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Семь цветных земель Шамарель",
+            "uk": "Сім кольорових земель Шамарель",
+            "en": "Seven Coloured Earths of Chamarel",
+            "es": "Siete Tierras de Colores de Chamarel",
+            "pt": "Sete Terras Coloridas de Chamarel"
+        },
+        "wrong": {
+            "ru": [
+                "Пустыня Атакама",
+                "Пустыня Гоби",
+                "Долина Смерти"
+            ],
+            "uk": [
+                "Пустеля Атакама",
+                "Пустеля Гобі",
+                "Долина Смерті"
+            ],
+            "en": [
+                "Atacama Desert",
+                "Gobi Desert",
+                "Death Valley"
+            ],
+            "es": [
+                "Desierto de Atacama",
+                "Desierto de Gobi",
+                "Valle de la Muerte"
+            ],
+            "pt": [
+                "Deserto do Atacama",
+                "Deserto de Gobi",
+                "Vale da Morte"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Цвет.",
+                "Песок.",
+                "Маврикий."
+            ],
+            "uk": [
+                "Колір.",
+                "Пісок.",
+                "Маврикій."
+            ],
+            "en": [
+                "Color.",
+                "Sand.",
+                "Mauritius."
+            ],
+            "es": [
+                "Color.",
+                "Arena.",
+                "Mauricio."
+            ],
+            "pt": [
+                "Cor.",
+                "Areia.",
+                "Maurício."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Холм из семи разных красок, которые не смывает дождь.",
+                "Земля, которая выглядит как палитра художника."
+            ],
+            "uk": [
+                "Пагорб із семи різних фарб, які не змиває дощ.",
+                "Земля, яка виглядає як палітра художника."
+            ],
+            "en": [
+                "A hill of seven different colors that rain can't wash away.",
+                "The ground that looks like a painter's palette."
+            ],
+            "es": [
+                "Una colina de siete colores diferentes que la lluvia no puede lavar.",
+                "La tierra que parece una paleta de pintor."
+            ],
+            "pt": [
+                "Uma colina de sete cores diferentes que a chuva não consegue lavar.",
+                "A terra que parece uma paleta de pintor."
+            ]
+        },
+        "tooltip": {
+            "ru": "Эти слои не смешиваются даже после дождя.",
+            "uk": "Ці шари не змішуються навіть після дощу.",
+            "en": "These layers do not mix even after it rains.",
+            "es": "Estas capas no se mezclan incluso después de la lluvia.",
+            "pt": "Essas camadas não se misturam mesmo depois da chuva."
+        },
+        "qwestion": {
+            "ru": "Какое уникальное геологическое место на острове Маврикий состоит из семи слоев песка разных цветов?",
+            "uk": "Яке унікальне геологічне місце на острові Маврикій складається з семи шарів піску різних кольорів?",
+            "en": "What unique geological site on the island of Mauritius consists of seven layers of different colored sand?",
+            "es": "¿Qué sitio geológico único en la isla de Mauricio consiste en siete capas de arena de diferentes colores?",
+            "pt": "Qual local geológico único na ilha de Maurício consiste em sete camadas de areia de cores diferentes?"
+        },
+        "definition": {
+            "ru": "Семь цветных земель Шамарель — это небольшой участок дюн, расположенный в юго-западной части острова Маврикий. Его уникальность заключается в том, что песок на этом участке состоит из семи различных цветов (красный, коричневый, фиолетовый, зеленый, синий, пурпурный и желтый), которые естественным образом разделены на слои. Считается, что песок образовался в результате остывания вулканической лавы, которая затем выветривалась, образуя глину, богатую оксидами железа и алюминия. Различные химические составы создают эти уникальные цвета. Примечательно, что даже при перемешивании песка, он со временем снова разделяется на слои.",
+            "uk": "Сім кольорових земель Шамарель — це невелика ділянка дюн, розташована в південно-західній частині острова Маврикій. Його унікальність полягає в тому, що пісок на цій ділянці складається з семи різних кольорів (червоний, коричневий, фіолетовий, зелений, синій, пурпуровий та жовтий), які природно розділені на шари. Вважається, що пісок утворився в результаті охолодження вулканічної лави, яка потім вивітрювалася, утворюючи глину, багату оксидами заліза та алюмінію. Різні хімічні склади створюють ці унікальні кольори. Примітно, що навіть при перемішуванні піску, він з часом знову розділяється на шари.",
+            "en": "The Seven Coloured Earths of Chamarel is a small area of sand dunes located in the southwestern part of the island of Mauritius. Its uniqueness lies in the fact that the sand in this area consists of seven distinct colors (red, brown, violet, green, blue, purple, and yellow) that are naturally arranged in layers. It is believed that the sands were formed from the cooling of volcanic lava that then weathered, creating clay rich in iron and aluminum oxides. The different chemical compositions create these unique colors. Notably, even when the sand is mixed, it eventually separates back into its layers.",
+            "es": "Las Siete Tierras de Colores de Chamarel es una pequeña área de dunas de arena ubicada en la parte suroeste de la isla de Mauricio. Su singularidad radica en que la arena de esta zona consta de siete colores distintos (rojo, marrón, violeta, verde, azul, púrpura y amarillo) que están naturalmente dispuestos en capas. Se cree que las arenas se formaron a partir del enfriamiento de lava volcánica que luego se erosionó, creando arcilla rica en óxidos de hierro y aluminio. Las diferentes composiciones químicas crean estos colores únicos. Cabe destacar que incluso cuando la arena se mezcla, con el tiempo vuelve a separarse en sus capas.",
+            "pt": "As Sete Terras Coloridas de Chamarel são uma pequena área de dunas de areia localizada na parte sudoeste da ilha de Maurício. Sua singularidade reside no fato de que a areia nesta área consiste em sete cores distintas (vermelho, marrom, violeta, verde, azul, roxo e amarelo) que são naturalmente dispostas em camadas. Acredita-se que as areias foram formadas a partir do resfriamento da lava vulcânica que depois se desgastou, criando argila rica em óxidos de ferro e alumínio. As diferentes composições químicas criam essas cores únicas. Notavelmente, mesmo quando a areia é misturada, ela eventualmente se separa de volta em suas camadas."
+        },
+        "antipod": {
+            "ru": "Сахара",
+            "uk": "Сахара",
+            "en": "Sahara Desert",
+            "es": "Desierto del Sahara",
+            "pt": "Deserto do Saara"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих пустынь состоит из разноцветного песка?",
+            "uk": "Яка з цих пустель складається з різнокольорового піску?",
+            "en": "Which of these deserts consists of multicolored sand?",
+            "es": "¿Cuál de estos desiertos consiste en arena multicolor?",
+            "pt": "Qual desses desertos consiste em areia multicolorida?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Chamarel_Seven_Coloured_Earths"
+    },
+    "imgFlag": "all" 
+}

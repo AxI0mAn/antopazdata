@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Виски",
+            "uk": "Віскі",
+            "en": "Whiskey",
+            "es": "Whisky",
+            "pt": "Uísque"
+        },
+        "wrong": {
+            "ru": [
+                "Вино",
+                "Кола",
+                "Пиво"
+            ],
+            "uk": [
+                "Вино",
+                "Кола",
+                "Пиво"
+            ],
+            "en": [
+                "Wine",
+                "Cola",
+                "Beer"
+            ],
+            "es": [
+                "Vino",
+                "Cola",
+                "Cerveza"
+            ],
+            "pt": [
+                "Vinho",
+                "Cola",
+                "Cerveja"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Космос.",
+                "Алкоголь.",
+                "МКС."
+            ],
+            "uk": [
+                "Космос.",
+                "Алкоголь.",
+                "МКС."
+            ],
+            "en": [
+                "Space.",
+                "Alcohol.",
+                "ISS."
+            ],
+            "es": [
+                "Espacio.",
+                "Alcohol.",
+                "EEI."
+            ],
+            "pt": [
+                "Espaço.",
+                "Álcool.",
+                "ISS."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Какой алкогольный напиток побывал в космосе?",
+                "Его не пьют на орбите, а изучают."
+            ],
+            "uk": [
+                "Який алкогольний напій побував у космосі?",
+                "Його не п'ють на орбіті, а вивчають."
+            ],
+            "en": [
+                "What alcoholic beverage has been to space?",
+                "It is not drunk in orbit, but studied."
+            ],
+            "es": [
+                "¿Qué bebida alcohólica ha estado en el espacio?",
+                "No se bebe en órbita, sino que se estudia."
+            ],
+            "pt": [
+                "Que bebida alcoólica esteve no espaço?",
+                "Não é bebida em órbita, mas estudada."
+            ]
+        },
+        "tooltip": {
+            "ru": "Чтобы проверить, как он будет меняться в условиях невесомости.",
+            "uk": "Щоб перевірити, як він буде змінюватися в умовах невагомості.",
+            "en": "To check how it will change in zero gravity.",
+            "es": "Para comprobar cómo cambiará en gravedad cero.",
+            "pt": "Para verificar como ele mudará em gravidade zero."
+        },
+        "qwestion": {
+            "ru": "Какой напиток был отправлен в космос на МКС?",
+            "uk": "Який напій був відправлений у космос на МКС?",
+            "en": "What drink was sent into space to the ISS?",
+            "es": "¿Qué bebida fue enviada al espacio a la EEI?",
+            "pt": "Que bebida foi enviada para o espaço para a ISS?"
+        },
+        "definition": {
+            "ru": "Виски — это крепкий алкогольный напиток, дистиллированный из ферментированного зернового сусла. В 2011 году 12 бутылок виски Ardbeg, а также образцы торфяного солода были отправлены на МКС для изучения того, как они будут взаимодействовать с древесиной в условиях микрогравитации. Эксперимент продлился 1045 дней.",
+            "uk": "Віскі — це міцний алкогольний напій, дистильований із ферментованого зернового сусла. У 2011 році 12 пляшок віскі Ardbeg, а також зразки торф'яного солоду були відправлені на МКС для вивчення того, як вони будуть взаємодіяти з деревиною в умовах мікрогравітації. Експеримент тривав 1045 днів.",
+            "en": "Whiskey is a strong alcoholic beverage distilled from fermented grain mash. In 2011, 12 bottles of Ardbeg whiskey, as well as samples of peated malt, were sent to the ISS to study how they would interact with wood in microgravity conditions. The experiment lasted for 1045 days.",
+            "es": "El whisky es una bebida alcohólica fuerte destilada de mosto de grano fermentado. En 2011, 12 botellas de whisky Ardbeg, así como muestras de malta de turba, fueron enviadas a la EEI para estudiar cómo interactuarían con la madera en condiciones de microgravedad. El experimento duró 1045 días.",
+            "pt": "O uísque é uma bebida alcoólica forte destilada de mosto de grão fermentado. Em 2011, 12 garrafas de uísque Ardbeg, bem como amostras de malte turfado, foram enviadas para a ISS para estudar como interagiriam com a madeira em condições de microgravidade. O experimento durou 1045 dias."
+        },
+        "antipod": {
+            "ru": "Водка",
+            "uk": "Горілка",
+            "en": "Vodka",
+            "es": "Vodka",
+            "pt": "Vodca"
+        },
+        "hintFuiz": {
+            "ru": "Это напиток, который был отправлен в космос.",
+            "uk": "Це напій, який був відправлений у космос.",
+            "en": "This is a drink that was sent into space.",
+            "es": "Esta es una bebida que fue enviada al espacio.",
+            "pt": "Esta é uma bebida que foi enviada para o espaço."
+        },
+        "article": "https://www.ardbeg.com/en-gb/blog/ardbeg-space-experiment-1"
+    },
+    "imgFlag": "quizfoto" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Рыба-слон",
+            "uk": "Риба-слон",
+            "en": "Elephantnose fish",
+            "es": "Pez elefante",
+            "pt": "Peixe-elefante"
+        },
+        "wrong": {
+            "ru": [
+                "Сом",
+                "Угорь",
+                "Камбала"
+            ],
+            "uk": [
+                "Сом",
+                "Вугор",
+                "Камбала"
+            ],
+            "en": [
+                "Catfish",
+                "Eel",
+                "Flounder"
+            ],
+            "es": [
+                "Pez gato",
+                "Anguila",
+                "Lenguado"
+            ],
+            "pt": [
+                "Bagre",
+                "Enguia",
+                "Solha"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Мозг.",
+                "Электрорецепция.",
+                "Темнота."
+            ],
+            "uk": [
+                "Мозок.",
+                "Електрорецепція.",
+                "Темрява."
+            ],
+            "en": [
+                "Brain.",
+                "Electroreception.",
+                "Darkness."
+            ],
+            "es": [
+                "Cerebro.",
+                "Electrorrecepción.",
+                "Oscuridad."
+            ],
+            "pt": [
+                "Cérebro.",
+                "Eletro-recepção.",
+                "Escuridão."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "У него есть хобот, но он не слон.",
+                "Рыба с хоботом."
+            ],
+            "uk": [
+                "У нього є хобот, але він не слон.",
+                "Риба з хоботом."
+            ],
+            "en": [
+                "It has a trunk, but it's not an elephant.",
+                "A fish with a trunk."
+            ],
+            "es": [
+                "Tiene una trompa, pero no es un elefante.",
+                "Un pez con trompa."
+            ],
+            "pt": [
+                "Ele tem uma tromba, mas não é um elefante.",
+                "Um peixe com tromba."
+            ]
+        },
+        "tooltip": {
+            "ru": "Она использует электрические поля для общения и поиска еды.",
+            "uk": "Вона використовує електричні поля для спілкування і пошуку їжі.",
+            "en": "It uses electrical fields to communicate and find food.",
+            "es": "Utiliza campos eléctricos para comunicarse y buscar comida.",
+            "pt": "Usa campos elétricos para se comunicar e encontrar comida."
+        },
+        "qwestion": {
+            "ru": "Какая рыба имеет самый большой мозг по отношению к своему телу?",
+            "uk": "Яка риба має найбільший мозок по відношенню до свого тіла?",
+            "en": "What fish has the largest brain relative to its body?",
+            "es": "¿Qué pez tiene el cerebro más grande en relación a su cuerpo?",
+            "pt": "Que peixe tem o maior cérebro em relação ao seu corpo?"
+        },
+        "definition": {
+            "ru": "Рыба-слон — пресноводная рыба из Центральной Африки, известная своим необычным удлиненным ртом и большим мозгом, который составляет до 5% массы тела. Это позволяет ей использовать электрорецепцию для навигации в мутной воде.",
+            "uk": "Риба-слон — прісноводна риба з Центральної Африки, відома своїм незвичайним видовженим ротом і великим мозком, який становить до 5% маси тіла. Це дозволяє їй використовувати електрорецепцію для навігації в каламутній воді.",
+            "en": "The elephantnose fish is a freshwater fish from Central Africa, known for its unusual elongated mouth and large brain, which makes up to 5% of its body mass. This allows it to use electroreception to navigate in murky water.",
+            "es": "El pez elefante es un pez de agua dulce de África Central, conocido por su inusual boca alargada y gran cerebro, que representa hasta el 5% de su masa corporal. Esto le permite usar la electrorrecepción para navegar en aguas turbias.",
+            "pt": "O peixe-elefante é um peixe de água doce da África Central, conhecido por sua boca alongada e cérebro grande, que compõe até 5% de sua massa corporal. Isso lhe permite usar a eletro-recepção para navegar em águas turvas."
+        },
+        "antipod": {
+            "ru": "Осётр",
+            "uk": "Осетр",
+            "en": "Sturgeon",
+            "es": "Esturión",
+            "pt": "Esturjão"
+        },
+        "hintFuiz": {
+            "ru": "Кто использует слабые электрические поля для навигации?",
+            "uk": "Хто використовує слабкі електричні поля для навігації?",
+            "en": "Who uses weak electrical fields for navigation?",
+            "es": "¿Quién usa campos eléctricos débiles para la navegación?",
+            "pt": "Quem usa campos elétricos fracos para navegação?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Gnathonemus_petersii"
+    },
+    "imgFlag": "all" 
+}

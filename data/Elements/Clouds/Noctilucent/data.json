@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Серебристые облака",
+            "uk": "Сріблясті хмари",
+            "en": "Noctilucent clouds",
+            "es": "Nubes noctilucentes",
+            "pt": "Nuvens noctilucentes"
+        },
+        "wrong": {
+            "ru": [
+                "Слоистые облака",
+                "Кучево-дождевые облака",
+                "Перистые облака"
+            ],
+            "uk": [
+                "Шаруваті хмари",
+                "Купчасто-дощові хмари",
+                "Перисті хмари"
+            ],
+            "en": [
+                "Stratus clouds",
+                "Cumulonimbus clouds",
+                "Cirrus clouds"
+            ],
+            "es": [
+                "Nubes estratos",
+                "Nubes cumulonimbus",
+                "Nubes cirro"
+            ],
+            "pt": [
+                "Nuvens estratos",
+                "Nuvens cumulonimbus",
+                "Nuvens cirrus"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Светятся.",
+                "Сумерки.",
+                "Очень высокие."
+            ],
+            "uk": [
+                "Світяться.",
+                "Сутінки.",
+                "Дуже високі."
+            ],
+            "en": [
+                "Glowing.",
+                "Twilight.",
+                "Very high."
+            ],
+            "es": [
+                "Brillantes.",
+                "Crepúsculo.",
+                "Muy altas."
+            ],
+            "pt": [
+                "Brilhantes.",
+                "Crepúsculo.",
+                "Muito altas."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Я появляюсь, когда солнце уже село, и сияю на небе.",
+                "Я состою не из воды, а из ледяной пыли."
+            ],
+            "uk": [
+                "Я з'являюся, коли сонце вже сіло, і сяю на небі.",
+                "Я складаюся не з води, а з крижаного пилу."
+            ],
+            "en": [
+                "I appear after the sun has set and glow in the sky.",
+                "I am not made of water, but of ice dust."
+            ],
+            "es": [
+                "Aparezco después de que el sol se ha puesto y brillo en el cielo.",
+                "No estoy hecho de agua, sino de polvo de hielo."
+            ],
+            "pt": [
+                "Eu apareço depois que o sol se pôs e brilho no céu.",
+                "Não sou feito de água, mas de poeira de gelo."
+            ]
+        },
+        "tooltip": {
+            "ru": "Они видны только в глубоких сумерках и сияют серебристо-голубым светом.",
+            "uk": "Вони видно тільки в глибоких сутінках і сяють сріблясто-блакитним світлом.",
+            "en": "They are visible only in deep twilight and glow with a silvery-blue light.",
+            "es": "Son visibles solo en el crepúsculo profundo y brillan con una luz azul plateada.",
+            "pt": "São visíveis apenas no crepúsculo profundo e brilham com uma luz azul prateada."
+        },
+        "qwestion": {
+            "ru": "Какие самые высокие облака, образованны ледяными кристаллами?",
+            "uk": "Які найвищі хмари, утворені кристалами льоду?",
+            "en": "What are the highest clouds, formed by ice crystals?",
+            "es": "¿Cuáles son las nubes más altas, formadas por cristales de hielo?",
+            "pt": "Quais são as nuvens mais altas, formadas por cristais de gelo?"
+        },
+        "definition": {
+            "ru": "Серебристые облака, или мезосферные облака, — это самые высокие облака в атмосфере Земли, образующиеся на высоте 75-85 км в мезосфере. Они состоят из мельчайших кристаллов льда, которые, как предполагается, формируются вокруг метеоритной пыли. Они становятся видимыми только тогда, когда солнце находится за горизонтом, а его лучи освещают их из-под земли, в то время как более низкие слои атмосферы остаются в тени.",
+            "uk": "Сріблясті хмари, або мезосферні хмари, — це найвищі хмари в атмосфері Землі, що утворюються на висоті 75-85 км у мезосфері. Вони складаються з найдрібніших кристалів льоду, які, як припускають, формуються навколо метеоритного пилу. Вони стають видимими тільки тоді, коли сонце знаходиться за горизонтом, а його промені освітлюють їх з-під землі, в той час як нижчі шари атмосфери залишаються в тіні.",
+            "en": "Noctilucent clouds, or polar mesospheric clouds, are the highest clouds in Earth's atmosphere, forming at an altitude of 75-85 km in the mesosphere. They are composed of tiny ice crystals, which are thought to form around meteorite dust. They become visible only when the sun is below the horizon, and its rays illuminate them from below, while the lower atmosphere remains in shadow.",
+            "es": "Las nubes noctilucentes, o nubes mesosféricas polares, son las nubes más altas en la atmósfera de la Tierra, formándose a una altitud de 75-85 km en la mesosfera. Están compuestas por diminutos cristales de hielo, que se cree que se forman alrededor del polvo de meteorito. Se vuelven visibles solo cuando el sol está por debajo del horizonte, y sus rayos las iluminan desde abajo, mientras que las capas inferiores de la atmósfera permanecen en la sombra.",
+            "pt": "As nuvens noctilucentes, ou nuvens mesosféricas polares, são as nuvens mais altas na atmosfera da Terra, formando-se a uma altitude de 75-85 km na mesosfera. Elas são compostas por minúsculos cristais de gelo, que se acredita que se formam em torno da poeira de meteoritos. Tornam-se visíveis apenas quando o sol está abaixo do horizonte, e seus raios as iluminam por baixo, enquanto as camadas inferiores da atmosfera permanecem na sombra."
+        },
+        "antipod": {
+            "ru": "Кучевые облака",
+            "uk": "Купчасті хмари",
+            "en": "Cumulus clouds",
+            "es": "Nubes cúmulos",
+            "pt": "Nuvens cúmulos"
+        },
+        "hintFuiz": {
+            "ru": "Какие из этих облаков образуются на самой большой высоте и видны только ночью?",
+            "uk": "Яка з цих хмар утворюється на найбільшій висоті і видно тільки вночі?",
+            "en": "Which of these clouds forms at the highest altitude and is only visible at night?",
+            "es": "¿Cuál de estas nubes se forma a la mayor altitud y solo es visible de noche?",
+            "pt": "Qual destas nuvens se forma na maior altitude e é visível apenas à noite?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Noctilucent_cloud"
+    },
+    "imgFlag": "all" 
+}

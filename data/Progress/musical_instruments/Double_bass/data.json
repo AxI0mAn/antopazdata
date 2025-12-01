@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Контрабас",
+            "uk": "Контрабас",
+            "en": "Double bass",
+            "es": "Contrabajo",
+            "pt": "Contrabaixo"
+        },
+        "wrong": {
+            "ru": [
+                "Виолончель",
+                "Фагот",
+                "Тромбон"
+            ],
+            "uk": [
+                "Віолончель",
+                "Фагот",
+                "Тромбон"
+            ],
+            "en": [
+                "Cello",
+                "Bassoon",
+                "Trombone"
+            ],
+            "es": [
+                "Violonchelo",
+                "Fagot",
+                "Trombón"
+            ],
+            "pt": [
+                "Violoncelo",
+                "Fagote",
+                "Trombone"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Струны.",
+                "Бас.",
+                "Смычок."
+            ],
+            "uk": [
+                "Струни.",
+                "Бас.",
+                "Смичок."
+            ],
+            "en": [
+                "Strings.",
+                "Bass.",
+                "Bow."
+            ],
+            "es": [
+                "Cuerdas.",
+                "Bajo.",
+                "Arco."
+            ],
+            "pt": [
+                "Cordas.",
+                "Baixo.",
+                "Arco."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Основа струнной секции оркестра?",
+                "Ассоциируется с джазом?"
+            ],
+            "uk": [
+                "Основа струнної секції оркестру?",
+                "Асоціюється з джазом?"
+            ],
+            "en": [
+                "What is the foundation of the orchestra's string section?",
+                "What is associated with jazz?"
+            ],
+            "es": [
+                "¿Cuál es la base de la sección de cuerdas de la orquesta?",
+                "¿Qué está asociado con el jazz?"
+            ],
+            "pt": [
+                "Qual é a base da seção de cordas da orquestra?",
+                "O que está associado ao jazz?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Он обеспечивает глубокий и низкий фундамент для всего оркестрового звучания.",
+            "uk": "Він забезпечує глибокий і низький фундамент для всього оркестрового звучання.",
+            "en": "It provides a deep and low-pitched foundation for the entire orchestral sound.",
+            "es": "Proporciona una base profunda y de tono bajo para todo el sonido orquestal.",
+            "pt": "Ele fornece uma base profunda e de tom grave para todo o som da orquestra."
+        },
+        "qwestion": {
+            "ru": "Какой самый большой и низкий инструмент в симфоническом оркестре?",
+            "uk": "Який найбільший і найнижчий інструмент у симфонічному оркестрі?",
+            "en": "Which is the largest and lowest-pitched instrument in a symphony orchestra?",
+            "es": "¿Cuál es el instrumento más grande y de tono más bajo en una orquesta sinfónica?",
+            "pt": "Qual é o maior instrumento e de tom mais baixo em uma orquestra sinfônica?"
+        },
+        "definition": {
+            "ru": "Контрабас — это самый большой и низко звучащий струнный смычковый инструмент из семейства скрипок. Он является основой струнной секции оркестра, обеспечивая его гармонический и ритмический фундамент.",
+            "uk": "Контрабас — це найбільший і найнижчий струнний смичковий інструмент із сімейства скрипок. Він є основою струнної секції оркестру, забезпечуючи його гармонійний і ритмічний фундамент.",
+            "en": "The double bass is the largest and lowest-pitched string instrument of the violin family. It serves as the foundation of the orchestra’s string section, providing its harmonic and rhythmic base.",
+            "es": "El contrabajo es el instrumento de cuerda frotada más grande y de tono más bajo de la familia del violín. Sirve como la base de la sección de cuerdas, proporcionando su base armónica y rítmica.",
+            "pt": "O contrabaixo é o maior e mais grave instrumento de cordas da família do violino. Serve como a base da seção de cordas da orquestra, fornecendo seu alicerce harmônico e rítmico."
+        },
+        "antipod": {
+            "ru": "Пикколо",
+            "uk": "Піколо",
+            "en": "Piccolo",
+            "es": "Flautín",
+            "pt": "Flautim"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих инструментов создает звук путем вибрации трости?",
+            "uk": "Який з цих інструментів створює звук шляхом вібрації тростини?",
+            "en": "Which of these instruments creates sound by vibrating a reed?",
+            "es": "¿Cuál de estos instrumentos crea sonido al vibrar una caña?",
+            "pt": "Qual desses instrumentos cria som pela vibração de uma palheta?"
+        },
+        "article": "https://ru.wikipedia.org/wiki/Контрабас"
+    },
+    "imgFlag": "all" 
+}

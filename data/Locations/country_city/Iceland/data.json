@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Исландия",
+            "uk": "Ісландія",
+            "en": "Iceland",
+            "es": "Islandia",
+            "pt": "Islândia"
+        },
+        "wrong": {
+            "ru": [
+                "Норвегия",
+                "Финляндия",
+                "Канада"
+            ],
+            "uk": [
+                "Норвегія",
+                "Фінляндія",
+                "Канада"
+            ],
+            "en": [
+                "Norway",
+                "Finland",
+                "Canada"
+            ],
+            "es": [
+                "Noruega",
+                "Finlandia",
+                "Canadá"
+            ],
+            "pt": [
+                "Noruega",
+                "Finlândia",
+                "Canadá"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Вулканы.",
+                "Гейзеры.",
+                "Без комаров."
+            ],
+            "uk": [
+                "Вулкани.",
+                "Гейзери.",
+                "Без комарів."
+            ],
+            "en": [
+                "Volcanoes.",
+                "Geysers.",
+                "No mosquitoes."
+            ],
+            "es": [
+                "Volcanes.",
+                "Géiseres.",
+                "Sin mosquitos."
+            ],
+            "pt": [
+                "Vulcões.",
+                "Gêiseres.",
+                "Sem mosquitos."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "В какой стране нет комаров?",
+                "«Земля льда и огня»."
+            ],
+            "uk": [
+                "У якій країні немає комарів?",
+                "«Земля льоду і вогню»."
+            ],
+            "en": [
+                "Which country has no mosquitoes?",
+                "«The Land of Ice and Fire»."
+            ],
+            "es": [
+                "¿Qué país no tiene mosquitos?",
+                "«La Tierra del Hielo y el Fuego»."
+            ],
+            "pt": [
+                "Qual país não tem mosquitos?",
+                "«A Terra do Gelo e do Fogo»."
+            ]
+        },
+        "tooltip": {
+            "ru": "Она является единственной в мире, где нет комаров.",
+            "uk": "Вона є єдиною у світі, де немає комарів.",
+            "en": "It is the only country in the world with no mosquitoes.",
+            "es": "Es el único país del mundo donde no hay mosquitos.",
+            "pt": "É o único país do mundo onde não há mosquitos."
+        },
+        "qwestion": {
+            "ru": "Какая страна, известная как «Земля льда и огня»?",
+            "uk": "Яка країна, відома як «Земля льоду і вогню»?",
+            "en": "Which country is known as 'The Land of Ice and Fire'?",
+            "es": "¿Qué país es conocido como 'La Tierra del Hielo y el Fuego'?",
+            "pt": "Qual país é conhecido como 'A Terra do Gelo e do Fogo'?"
+        },
+        "definition": {
+            "ru": "Исландия — это островное государство в северной части Атлантического океана, известное своим уникальным природным ландшафтом, сформированным вулканами, ледниками и геотермальной активностью. Она известна как «Земля льда и огня» из-за контраста между своими ледниками и активными вулканами. Исландия также является единственной страной в мире, где полностью отсутствуют комары. Это страна с очень низкой плотностью населения, известная своими гейзерами, горячими источниками, северным сиянием и богатым наследием викингов.",
+            "uk": "Ісландія — це острівна держава в північній частині Атлантичного океану, відома своїм унікальним природним ландшафтом, сформованим вулканами, льодовиками та геотермальною активністю. Вона відома як «Земля льоду і вогню» через контраст між своїми льодовиками та активними вулканами. Ісландія також є єдиною країною у світі, де повністю відсутні комарі. Це країна з дуже низькою щільністю населення, відома своїми гейзерами, гарячими джерелами, північним сяйвом і багатою спадщиною вікінгів.",
+            "en": "Iceland is an island nation in the North Atlantic Ocean, known for its unique natural landscape shaped by volcanoes, glaciers, and geothermal activity. It is famous as 'The Land of Ice and Fire' due to the contrast between its glaciers and active volcanoes. Iceland is also the only country in the world where mosquitoes are completely absent. It is a country with a very low population density, known for its geysers, hot springs, northern lights, and rich Viking heritage.",
+            "es": "Islandia es una nación insular en el Océano Atlántico Norte, conocida por su paisaje natural único moldeado por volcanes, glaciares y actividad geotérmica. Es famosa como 'La Tierra del Hielo y el Fuego' debido al contraste entre sus glaciares y volcanes activos. Islandia también es el único país del mundo donde los mosquitos están completamente ausentes. Es un país con una densidad de población muy baja, conocido por sus géiseres, aguas termales, auroras boreales y una rica herencia vikinga.",
+            "pt": "A Islândia é uma nação insular no Atlântico Norte, conhecida por sua paisagem natural única moldada por vulcões, geleiras e atividade geotérmica. É famosa como 'A Terra do Gelo e do Fogo' devido ao contraste entre suas geleiras e vulcões ativos. A Islândia também é o único país do mundo onde os mosquitos estão completamente ausentes. É um país com uma densidade populacional muito baixa, conhecido por seus gêiseres, fontes termais, aurora boreal e uma rica herança viking."
+        },
+        "antipod": {
+            "ru": "Колумбия",
+            "uk": "Колумбія",
+            "en": "Colombia",
+            "es": "Colombia",
+            "pt": "Colômbia"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих стран не имеет комаров, в отличие от многих тропических стран?",
+            "uk": "Яка з цих країн не має комарів, на відміну від багатьох тропічних країн?",
+            "en": "Which of these countries has no mosquitoes, unlike many tropical countries?",
+            "es": "¿Cuál de estos países no tiene mosquitos, a diferencia de muchos países tropicales?",
+            "pt": "Qual desses países não tem mosquitos, ao contrário de muitos países tropicais?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Iceland"
+    },
+    "imgFlag": "quizfoto" 
+}

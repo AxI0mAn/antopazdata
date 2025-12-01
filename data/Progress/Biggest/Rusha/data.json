@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Россия",
+            "uk": "Росія",
+            "en": "Russia",
+            "es": "Rusia",
+            "pt": "Rússia"
+        },
+        "wrong": {
+            "ru": [
+                "Канада",
+                "США",
+                "Австралия"
+            ],
+            "uk": [
+                "Канада",
+                "США",
+                "Австралія"
+            ],
+            "en": [
+                "Canada",
+                "USA",
+                "Australia"
+            ],
+            "es": [
+                "Canadá",
+                "EE.UU.",
+                "Australia"
+            ],
+            "pt": [
+                "Canadá",
+                "EUA",
+                "Austrália"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Территория.",
+                "Медведи.",
+                "Матрёшки."
+            ],
+            "uk": [
+                "Територія.",
+                "Ведмеді.",
+                "Матрьошки."
+            ],
+            "en": [
+                "Territory.",
+                "Bears.",
+                "Matryoshkas."
+            ],
+            "es": [
+                "Territorio.",
+                "Osos.",
+                "Matrioskas."
+            ],
+            "pt": [
+                "Território.",
+                "Ursos.",
+                "Matryoshkas."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Страна Матрёшек, страна холодов.",
+                "Она настолько велика, что Новый год в ней празднуют 11 раз."
+            ],
+            "uk": [
+                "Країна Матрьошок, країна холодів.",
+                "Вона настільки велика, що Новий рік в ній святкують 11 разів."
+            ],
+            "en": [
+                "The country of Matryoshkas, the country of cold.",
+                "It is so large that New Year is celebrated 11 times."
+            ],
+            "es": [
+                "El país de las Matrioskas, el país del frío.",
+                "Es tan grande que el Año Nuevo se celebra 11 veces en ella."
+            ],
+            "pt": [
+                "O país das Matryoshkas, o país do frio.",
+                "É tão grande que o Ano Novo é comemorado 11 vezes nela."
+            ]
+        },
+        "tooltip": {
+            "ru": "Она охватывает 11 часовых поясов.",
+            "uk": "Вона охоплює 11 часових поясів.",
+            "en": "It spans 11 time zones.",
+            "es": "Abarca 11 zonas horarias.",
+            "pt": "Abrange 11 fusos horários."
+        },
+        "qwestion": {
+            "ru": "Какая страна является самой большой по площади?",
+            "uk": "Яка країна є найбільшою за площею?",
+            "en": "What is the largest country by area?",
+            "es": "¿Cuál es el país más grande por área?",
+            "pt": "Qual é o maior país em área?"
+        },
+        "definition": {
+            "ru": "Россия — самая большая страна в мире, охватывающая Восточную Европу и Северную Азию. Её огромная территория включает в себя разнообразные ландшафты, от арктической тундры до субтропиков.",
+            "uk": "Росія — найбільша країна у світі, що охоплює Східну Європу і Північну Азію. Її величезна територія включає різноманітні ландшафти, від арктичної тундри до субтропіків.",
+            "en": "Russia is the largest country in the world, spanning Eastern Europe and North Asia. Its vast territory includes diverse landscapes, from Arctic tundra to subtropical regions.",
+            "es": "Rusia es el país más grande del mundo, abarcando Europa del Este y el norte de Asia. Su vasto territorio incluye diversos paisajes, desde la tundra ártica hasta las regiones subtropicales.",
+            "pt": "A Rússia é o maior país do mundo, abrangendo a Europa Oriental e o norte da Ásia. Seu vasto território inclui diversas paisagens, da tundra ártica a regiões subtropicais."
+        },
+        "antipod": {
+            "ru": "Китай",
+            "uk": "Китай",
+            "en": "China",
+            "es": "China",
+            "pt": "China"
+        },
+        "hintFuiz": {
+            "ru": "Это крупнейшая страна в мире.",
+            "uk": "Це найбільша країна у світі.",
+            "en": "This is the largest country in the world.",
+            "es": "Este es el país más grande del mundo.",
+            "pt": "Este é o maior país do mundo."
+        },
+        "article": "https://en.wikipedia.org/wiki/Russia"
+    },
+    "imgFlag": "quizfoto" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Жук-бомбардир",
+            "uk": "Жук-бомбардир",
+            "en": "Bombardier beetle",
+            "es": "Escarabajo bombardero",
+            "pt": "Besouro bombardeiro"
+        },
+        "wrong": {
+            "ru": [
+                "Богомол",
+                "Божья коровка",
+                "Майский жук"
+            ],
+            "uk": [
+                "Богомол",
+                "Сонечко",
+                "Хрущ"
+            ],
+            "en": [
+                "Praying mantis",
+                "Ladybug",
+                "May beetle"
+            ],
+            "es": [
+                "Mantis religiosa",
+                "Mariquita",
+                "Escarabajo de mayo"
+            ],
+            "pt": [
+                "Louva-a-deus",
+                "Joaninha",
+                "Besouro de maio"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Защита.",
+                "Химия.",
+                "Взрыв."
+            ],
+            "uk": [
+                "Захист.",
+                "Хімія.",
+                "Вибух."
+            ],
+            "en": [
+                "Defense.",
+                "Chemistry.",
+                "Explosion."
+            ],
+            "es": [
+                "Defensa.",
+                "Química.",
+                "Explosión."
+            ],
+            "pt": [
+                "Defesa.",
+                "Química.",
+                "Explosão."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Моя защита — горячая струя.",
+                "Я — живое химическое оружие."
+            ],
+            "uk": [
+                "Мій захист — гарячий струмінь.",
+                "Я — жива хімічна зброя."
+            ],
+            "en": [
+                "My defense is a hot spray.",
+                "I am a living chemical weapon."
+            ],
+            "es": [
+                "Mi defensa es un chorro caliente.",
+                "Soy un arma química viviente."
+            ],
+            "pt": [
+                "Minha defesa é um jato quente.",
+                "Eu sou uma arma química viva."
+            ]
+        },
+        "tooltip": {
+            "ru": "При опасности он выпускает из брюшка струю кипящей жидкости, которая может быть горячее 100°C.",
+            "uk": "При небезпеці він випускає з черевця струмінь киплячої рідини, яка може бути гарячішою за 100°C.",
+            "en": "When in danger, it releases a jet of boiling liquid from its abdomen, which can be hotter than 100°C.",
+            "es": "En caso de peligro, libera un chorro de líquido hirviendo de su abdomen, que puede estar a más de 100°C.",
+            "pt": "Em perigo, ele libera um jato de líquido fervente do abdômen, que pode estar a mais de 100°C."
+        },
+        "qwestion": {
+            "ru": "Какой жук защищается, выстреливая кипятком?",
+            "uk": "Який жук захищається, вистрілюючи окропом?",
+            "en": "Which beetle defends itself by firing boiling water?",
+            "es": "¿Qué escarabajo se defiende disparando agua hirviendo?",
+            "pt": "Qual besouro se defende disparando água fervente?"
+        },
+        "definition": {
+            "ru": "Жук-бомбардир — это наземный жук, известный своим уникальным защитным механизмом. При угрозе он выпускает из своего тела горячую, зловонную струю, что является эффективным средством отпугивания хищников.",
+            "uk": "Жук-бомбардир — це наземний жук, відомий своїм унікальним захисним механізмом. При загрозі він випускає зі свого тіла гарячий, смердючий струмінь, що є ефективним засобом відлякування хижаків.",
+            "en": "The bombardier beetle is a terrestrial beetle known for its unique defense mechanism. When threatened, it releases a hot, foul-smelling spray from its body, which is an effective deterrent against predators.",
+            "es": "El escarabajo bombardero es un escarabajo terrestre conocido por su mecanismo de defensa único. Cuando se siente amenazado, libera un chorro caliente y maloliente de su cuerpo, que es un elemento disuasorio eficaz contra los depredadores.",
+            "pt": "O besouro bombardeiro é um besouro terrestre conhecido por seu mecanismo de defesa único. Quando ameaçado, ele libera um jato quente e fétido de seu corpo, que é um impedimento eficaz contra predadores."
+        },
+        "antipod": {
+            "ru": "Бабочка",
+            "uk": "Метелик",
+            "en": "Butterfly",
+            "es": "Mariposa",
+            "pt": "Borboleta"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих двух насекомых использует химию для самозащиты?",
+            "uk": "Яка з цих двох комах використовує хімію для самозахисту?",
+            "en": "Which of these two insects uses chemistry for self-defense?",
+            "es": "¿Cuál de estos dos insectos utiliza la química para su autodefensa?",
+            "pt": "Qual desses dois insetos usa a química para se defender?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Bombardier_beetle"
+    },
+    "imgFlag": "all" 
+}

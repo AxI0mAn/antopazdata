@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Ледяной бар",
+            "uk": "Крижаний бар",
+            "en": "Ice bar",
+            "es": "Bar de hielo",
+            "pt": "Bar de gelo"
+        },
+        "wrong": {
+            "ru": [
+                "Пивной бар",
+                "Винный погреб",
+                "Пляжный бар"
+            ],
+            "uk": [
+                "Пивний бар",
+                "Винний погріб",
+                "Пляжний бар"
+            ],
+            "en": [
+                "Beer bar",
+                "Wine cellar",
+                "Beach bar"
+            ],
+            "es": [
+                "Cervecería",
+                "Bodega de vino",
+                "Bar de playa"
+            ],
+            "pt": [
+                "Bar de cerveja",
+                "Adega de vinho",
+                "Bar de praia"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Коктейль.",
+                "Лед.",
+                "Холод."
+            ],
+            "uk": [
+                "Коктейль.",
+                "Лід.",
+                "Холод."
+            ],
+            "en": [
+                "Cocktail.",
+                "Ice.",
+                "Cold."
+            ],
+            "es": [
+                "Cóctel.",
+                "Hielo.",
+                "Frío."
+            ],
+            "pt": [
+                "Coquetel.",
+                "Gelo.",
+                "Frio."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Чтобы выпить, придется надеть шубу.",
+                "Самый холодный бар."
+            ],
+            "uk": [
+                "Щоб випити, доведеться надіти шубу.",
+                "Найхолодніший бар."
+            ],
+            "en": [
+                "To have a drink, you'll have to put on a fur coat.",
+                "The coldest bar."
+            ],
+            "es": [
+                "Para tomar una copa, tendrás que ponerte un abrigo de piel.",
+                "El bar más frío."
+            ],
+            "pt": [
+                "Para tomar um drinque, você terá que vestir um casaco de pele.",
+                "O bar mais frio."
+            ]
+        },
+        "tooltip": {
+            "ru": "Напитки там подают в стаканах, вырезанных изо льда.",
+            "uk": "Напої там подають у склянках, вирізаних з льоду.",
+            "en": "Drinks are served in glasses carved from ice.",
+            "es": "Las bebidas se sirven en vasos tallados en hielo.",
+            "pt": "As bebidas são servidas em copos esculpidos em gelo."
+        },
+        "qwestion": {
+            "ru": "Как называется бар, полностью сделанный изо льда?",
+            "uk": "Як називається бар, повністю зроблений з льоду?",
+            "en": "What is a bar made entirely of ice called?",
+            "es": "¿Cómo se llama un bar hecho completamente de hielo?",
+            "pt": "Como se chama um bar feito inteiramente de gelo?"
+        },
+        "definition": {
+            "ru": "Ледяной бар — это заведение, полностью или частично построенное изо льда. В таких барах изо льда сделано практически всё: стены, барная стойка, мебель и даже стаканы, в которых подают напитки. Гостям обычно выдают тёплую одежду.",
+            "uk": "Крижаний бар — це заклад, повністю або частково побудований з льоду. У таких барах з льоду зроблено практично все: стіни, барна стійка, меблі і навіть склянки, в яких подають напої. Гостям зазвичай видають теплий одяг.",
+            "en": "An ice bar is a bar that is entirely or largely constructed from ice. In these bars, almost everything is made of ice, including the walls, bar, furniture, and even the glasses in which drinks are served. Guests are typically given thermal clothing to wear inside.",
+            "es": "Un bar de hielo es un bar que está completa o mayormente construido con hielo. En estos bares, casi todo está hecho de hielo, incluyendo las paredes, la barra, los muebles e incluso los vasos en los que se sirven las bebidas. A los clientes se les suele dar ropa térmica para usar dentro.",
+            "pt": "Um bar de gelo é um bar que é inteira ou amplamente construído com gelo. Nesses bares, quase tudo é feito de gelo, incluindo as paredes, o balcão, a mobília e até mesmo os copos em que as bebidas são servidas. Os clientes geralmente recebem roupas térmicas para usar lá dentro."
+        },
+        "antipod": {
+            "ru": "Бунгало",
+            "uk": "Бунгало",
+            "en": "Bungalow",
+            "es": "Bungaló",
+            "pt": "Bangalô"
+        },
+        "hintFuiz": {
+            "ru": "Этот бар очень холодный.",
+            "uk": "Цей бар дуже холодний.",
+            "en": "This bar is very cold.",
+            "es": "Este bar es muy frío.",
+            "pt": "Este bar é muito frio."
+        },
+        "article": "https://en.wikipedia.org/wiki/Ice_hotel#Ice_bar"
+    },
+    "imgFlag": "quizfoto" 
+}

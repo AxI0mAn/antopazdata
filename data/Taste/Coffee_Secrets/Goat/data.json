@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Коза",
+            "uk": "Коза",
+            "en": "Goat",
+            "es": "Cabra",
+            "pt": "Cabra"
+        },
+        "wrong": {
+            "ru": [
+                "Верблюд",
+                "Шимпанзе",
+                "Кенгуру"
+            ],
+            "uk": [
+                "Верблюд",
+                "Шимпанзе",
+                "Кенгуру"
+            ],
+            "en": [
+                "Camel",
+                "Chimpanzee",
+                "Kangaroo"
+            ],
+            "es": [
+                "Camello",
+                "Chimpancé",
+                "Canguro"
+            ],
+            "pt": [
+                "Camelo",
+                "Chimpanzé",
+                "Canguru"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Ягоды.",
+                "Энергия.",
+                "Пастух."
+            ],
+            "uk": [
+                "Ягоди.",
+                "Енергія.",
+                "Пастух."
+            ],
+            "en": [
+                "Berries.",
+                "Energy.",
+                "Shepherd."
+            ],
+            "es": [
+                "Bayas.",
+                "Energía.",
+                "Pastor."
+            ],
+            "pt": [
+                "Bagas.",
+                "Energia.",
+                "Pastor."
+            ]
+        },
+        "tooltip": {
+            "ru": "Ягоды придавали бодрости и энергии",
+            "uk": "Ягоди надавали бадьорості та енергії",
+            "en": "The berries gave vitality and energy",
+            "es": "Las bayas daban vitalidad y energía",
+            "pt": "As bagas davam vitalidade e energia"
+        },
+        "qwestion": {
+            "ru": "Какое животное стало 'соавтором' открытия кофе?",
+            "uk": "Яка тварина стала 'співавтором' відкриття кави?",
+            "en": "Which animal became a 'co-author' of the discovery of coffee?",
+            "es": "¿Qué animal se convirtió en 'coautor' del descubrimiento del café?",
+            "pt": "Qual animal se tornou 'coautor' da descoberta do café?"
+        },
+        "definition": {
+            "ru": "Согласно легенде, именно коза стала первым существом, на котором был замечен тонизирующий эффект кофейных ягод. Пастух Калди заметил, как его козы становились гиперактивными после их поедания.",
+            "uk": "Згідно з легендою, саме коза стала першою істотою, на якій був помічений тонізуючий ефект кавових ягід. Пастух Калді помітив, як його кози ставали гіперактивними після їх поїдання.",
+            "en": "According to legend, the goat was the first creature to experience the invigorating effect of coffee berries. The shepherd Kaldi noticed how his goats became hyperactive after eating them.",
+            "es": "Según la leyenda, la cabra fue la primera criatura en experimentar el efecto vigorizante de las bayas de café. El pastor Kaldi notó cómo sus cabras se volvían hiperactivas después de comerlas.",
+            "pt": "De acordo com a lenda, a cabra foi o primeiro animal a experimentar o efeito revigorante das bagas de café. O pastor Kaldi notou como suas cabras ficavam hiperativas depois de comê-las."
+        },
+        "antipod": {
+            "ru": "Осёл",
+            "uk": "Віслюк",
+            "en": "Donkey",
+            "es": "Burro",
+            "pt": "Burro"
+        },
+        "hintFuiz": {
+            "ru": "Животное, которое первым испытало эффект кофе на себе.",
+            "uk": "Тварина, яка першою відчула ефект кави на собі.",
+            "en": "The animal that was the first to experience the effect of coffee.",
+            "es": "El animal que fue el primero en experimentar el efecto del café.",
+            "pt": "O animal que foi o primeiro a experimentar o efeito do café."
+        },
+        "riddle": {
+            "ru": [
+                "Первый дегустатор кофе.",
+                "Кто первым испытал эффект кофе на себе?"
+            ],
+            "uk": [
+                "Перший дегустатор кави.",
+                "Хто першим відчув ефект кави на собі?"
+            ],
+            "en": [
+                "The first coffee taster.",
+                "Who was the first to experience the effect of coffee?"
+            ],
+            "es": [
+                "El primer catador de café.",
+                "¿Quién fue el primero en experimentar el efecto del café?"
+            ],
+            "pt": [
+                "O primeiro provador de café.",
+                "Quem foi o primeiro a experimentar o efeito do café?"
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/History_of_coffee#Legendary_accounts"
+    },
+    "imgFlag": "all"
+}

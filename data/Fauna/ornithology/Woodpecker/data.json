@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Дятел",
+            "uk": "Дятел",
+            "en": "Woodpecker",
+            "es": "Pájaro carpintero",
+            "pt": "Pica-pau"
+        },
+        "wrong": {
+            "ru": [
+                "Кукушка",
+                "Поползень",
+                "Дрозд"
+            ],
+            "uk": [
+                "Зозуля",
+                "Повзик",
+                "Дрізд"
+            ],
+            "en": [
+                "Cuckoo",
+                "Nuthatch",
+                "Thrush"
+            ],
+            "es": [
+                "Cuco",
+                "Trepador azul",
+                "Zorzal"
+            ],
+            "pt": [
+                "Cuco",
+                "Trepadeira-azul",
+                "Tordo"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Стучит.",
+                "Дерево.",
+                "Клюв."
+            ],
+            "uk": [
+                "Стукає.",
+                "Дерево.",
+                "Дзьоб."
+            ],
+            "en": [
+                "Drums.",
+                "Tree.",
+                "Beak."
+            ],
+            "es": [
+                "Tamborilea.",
+                "Árbol.",
+                "Pico."
+            ],
+            "pt": [
+                "Tamborila.",
+                "Árvore.",
+                "Bico."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Слышит насекомых под корой дерева.",
+                "Выполняет функцию 'лесного доктора'."
+            ],
+            "uk": [
+                "Чує комах під корою дерева.",
+                "Виконує функцію 'лісового лікаря'."
+            ],
+            "en": [
+                "Hears insects under tree bark.",
+                "Performs the function of a 'forest doctor'."
+            ],
+            "es": [
+                "Escucha insectos bajo la corteza del árbol.",
+                "Cumple la función de 'doctor del bosque'."
+            ],
+            "pt": [
+                "Ouve insetos sob a casca da árvore.",
+                "Desempenha a função de 'doutor da floresta'."
+            ]
+        },
+        "tooltip": {
+            "ru": "Его язык настолько длинный, что проходит под кожей черепа и обвивает мозг.",
+            "uk": "Його язик настільки довгий, що проходить під шкірою черепа і обвиває мозок.",
+            "en": "Its tongue is so long it extends under the skull's skin and wraps around the brain.",
+            "es": "Su lengua es tan larga que se extiende bajo la piel del cráneo y envuelve el cerebro.",
+            "pt": "Sua língua é tão longa que se estende sob a pele do crânio e envolve o cérebro."
+        },
+        "qwestion": {
+            "ru": "Какая птица имеет язык, защищающий мозг от сотрясения при долблении дерева?",
+            "uk": "Який птах має язик, що захищає мозок від струсу під час довбання дерева?",
+            "en": "Which bird has a tongue that protects its brain from concussion while pecking wood?",
+            "es": "¿Qué ave tiene una lengua que protege su cerebro de las conmociones cerebrales al picotear madera?",
+            "pt": "Qual ave tem uma língua que protege seu cérebro de concussão enquanto bica a madeira?"
+        },
+        "definition": {
+            "ru": "Дятел — это птица, известная своей способностью долбить стволы деревьев, чтобы добыть насекомых. У него сильный клюв, жесткие хвостовые перья для опоры и длинный клейкий язык, чтобы ловить добычу.",
+            "uk": "Дятел — це птах, відомий своєю здатністю довбати стовбури дерев, щоб добути комах. У нього сильний дзьоб, жорстке хвостове пір'я для опори і довгий клейкий язик, щоб ловити здобич.",
+            "en": "The woodpecker is a bird known for its ability to drum on tree trunks to find insects. It has a strong beak, stiff tail feathers for support, and a long, sticky tongue to catch prey.",
+            "es": "El pájaro carpintero es un ave conocida por su capacidad de tamborilear en los troncos de los árboles para encontrar insectos. Tiene un pico fuerte, plumas rígidas en la cola para apoyarse y una lengua larga y pegajosa para atrapar presas.",
+            "pt": "O pica-pau é uma ave conhecida por sua habilidade de tamborilar em troncos de árvores para encontrar insetos. Ele tem um bico forte, penas rígidas na cauda para apoio e uma língua longa e pegajosa para capturar presas."
+        },
+        "antipod": {
+            "ru": "Клёст",
+            "uk": "Шишкар",
+            "en": "Crossbill",
+            "es": "Piquituerto",
+            "pt": "Cruza-bico"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих двух птиц использует свой язык для извлечения насекомых из-под коры?",
+            "uk": "Який з цих двох птахів використовує свій язик для вилучення комах з-під кори?",
+            "en": "Which of these two birds uses its tongue to extract insects from under the bark?",
+            "es": "¿Cuál de estas dos aves utiliza su lengua para extraer insectos de debajo de la corteza?",
+            "pt": "Qual dessas duas aves usa a língua para extrair insetos debaixo da casca?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Woodpecker"
+    },
+    "imgFlag": "all" 
+}

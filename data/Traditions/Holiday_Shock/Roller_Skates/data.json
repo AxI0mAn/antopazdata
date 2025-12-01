@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Роликовые коньки",
+            "uk": "Роликові ковзани",
+            "en": "Roller Skates",
+            "es": "Patines de Ruedas",
+            "pt": "Patins de Rodas"
+        },
+        "wrong": {
+            "ru": [
+                "Велосипед",
+                "Коза",
+                "Лыжи"
+            ],
+            "uk": [
+                "Велосипед",
+                "Коза",
+                "Лижі"
+            ],
+            "en": [
+                "Bicycle",
+                "Goat",
+                "Skis"
+            ],
+            "es": [
+                "Bicicleta",
+                "Cabra",
+                "Esquís"
+            ],
+            "pt": [
+                "Bicicleta",
+                "Cabra",
+                "Esquis"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Венесуэла.",
+                "Рождество.",
+                "Церковь."
+            ],
+            "uk": [
+                "Венесуела.",
+                "Різдво.",
+                "Церква."
+            ],
+            "en": [
+                "Venezuela.",
+                "Christmas.",
+                "Church."
+            ],
+            "es": [
+                "Venezuela.",
+                "Navidad.",
+                "Iglesia."
+            ],
+            "pt": [
+                "Venezuela.",
+                "Natal.",
+                "Igreja."
+            ]
+        },
+        "tooltip": {
+            "ru": "Для этой традиции, даже дороги перекрывают",
+            "uk": "Для цієї традиції, навіть дороги перекривають",
+            "en": "For this tradition, even roads are closed",
+            "es": "Para esta tradición, incluso las carreteras son cerradas",
+            "pt": "Para esta tradição, até as estradas são fechadas"
+        },
+        "qwestion": {
+            "ru": "На чём ездят в церковь на Рождество жители Венесуэллы?",
+            "uk": "На чому їздять до церкви на Різдво жителі Венесуели?",
+            "en": "What do people in Venezuela ride to church on Christmas?",
+            "es": "¿En qué viajan a la iglesia en Navidad los habitantes de Venezuela?",
+            "pt": "No que os moradores da Venezuela vão à igreja no Natal?"
+        },
+        "definition": {
+            "ru": "Роликовые коньки — это средство передвижения, которое используют жители Каракаса, Венесуэла, чтобы добраться до утренней рождественской мессы. Традиция очень популярна, и городские дороги перекрывают для безопасности.",
+            "uk": "Роликові ковзани — це засіб пересування, який використовують жителі Каракаса, Венесуела, щоб дістатися до ранкової різдвяної меси. Традиція дуже популярна, і міські дороги перекривають для безпеки.",
+            "en": "Roller skates are a means of transport used by people in Caracas, Venezuela, to get to morning Christmas mass. The tradition is very popular, and city roads are closed for safety.",
+            "es": "Los patines de ruedas son un medio de transporte que usan los habitantes de Caracas, Venezuela, para llegar a la misa de Navidad. La tradición es popular, y las calles de la ciudad se cierran para la seguridad.",
+            "pt": "Patins de rodas são um meio de transporte usado pelos moradores de Caracas, Venezuela, para chegar à missa de Natal. A tradição é popular, e as ruas da cidade são fechadas para segurança."
+        },
+        "antipod": {
+            "ru": "Велосипед",
+            "uk": "Велосипед",
+            "en": "Bicycle",
+            "es": "Bicicleta",
+            "pt": "Bicicleta"
+        },
+        "hintFuiz": {
+            "ru": "Это средство передвижения используют на Рождество жители Венесуэллы.",
+            "uk": "Цей засіб пересування використовують на Різдво жителі Венесуели.",
+            "en": "This mode of transport is used by Venezuelans on Christmas.",
+            "es": "Este medio de transporte es usado por los venezolanos en Navidad.",
+            "pt": "Este meio de transporte é usado pelos venezuelanos no Natal."
+        },
+        "riddle": {
+            "ru": [
+                "Летом и без льда я катаю людей.",
+                "Так они приближают зиму и праздник."
+            ],
+            "uk": [
+                "Влітку і без льоду я катаю людей.",
+                "Так вони наближають зиму і свято."
+            ],
+            "en": [
+                "In summer and without ice, I give people rides.",
+                "This is how they bring winter and the holiday closer."
+            ],
+            "es": [
+                "En verano y sin hielo, llevo a la gente a pasear.",
+                "Así es como acercan el invierno y la festividad."
+            ],
+            "pt": [
+                "No verão e sem gelo, eu dou caronas às pessoas.",
+                "É assim que eles aproximam o inverno e o feriado."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Christmas_in_Venezuela#Roller_skating_mass"
+    },
+    "imgFlag": "quizfoto"
+}

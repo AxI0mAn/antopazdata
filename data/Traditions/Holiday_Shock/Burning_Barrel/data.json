@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Горящая бочка",
+            "uk": "Палаюча бочка",
+            "en": "Burning Barrel",
+            "es": "Barril en Llamas",
+            "pt": "Barril em Chamas"
+        },
+        "wrong": {
+            "ru": [
+                "Колесо от телеги",
+                "Велосипед",
+                "Пушка"
+            ],
+            "uk": [
+                "Колесо від воза",
+                "Велосипед",
+                "Гармата"
+            ],
+            "en": [
+                "Cartwheel",
+                "Bicycle",
+                "Cannon"
+            ],
+            "es": [
+                "Rueda de Carro",
+                "Bicicleta",
+                "Cañón"
+            ],
+            "pt": [
+                "Roda de Carroça",
+                "Bicicleta",
+                "Canhão"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Шотландия.",
+                "Огонь.",
+                "Духи."
+            ],
+            "uk": [
+                "Шотландія.",
+                "Вогонь.",
+                "Духи."
+            ],
+            "en": [
+                "Scotland.",
+                "Fire.",
+                "Spirits."
+            ],
+            "es": [
+                "Escocia.",
+                "Fuego.",
+                "Espíritus."
+            ],
+            "pt": [
+                "Escócia.",
+                "Fogo.",
+                "Espíritos."
+            ]
+        },
+        "tooltip": {
+            "ru": "Так символически сжигают старый год и прокладывают дорогу новому.",
+            "uk": "Так символічно спалюють старий рік і прокладають дорогу новому.",
+            "en": "This symbolically burns the old year and paves the way for the new one.",
+            "es": "Así se quema simbólicamente el año viejo y se abre el camino para el nuevo.",
+            "pt": "Assim, o ano velho é simbolicamente queimado e um caminho é aberto para o novo."
+        },
+        "qwestion": {
+            "ru": "Что в Шотландии катят по улицам в канун Нового Года?",
+            "uk": "Що в Шотландії котять по вулицях напередодні Нового року?",
+            "en": "What is rolled through the streets of Scotland on New Year's Eve?",
+            "es": "¿Qué se rueda por las calles de Escocia en la víspera de Año Nuevo?",
+            "pt": "O que é rolado pelas ruas da Escócia na véspera de Ano Novo?"
+        },
+        "definition": {
+            "ru": "Горящая бочка — это часть шотландского фестиваля Хогманай в городе Стоунхейвен, где люди катят горящие бочки, символически сжигая старый год и очищая путь для нового.",
+            "uk": "Палаюча бочка — це частина шотландського фестивалю Хогманай у місті Стоунхейвен, де люди котять палаючі бочки, символічно спалюючи старий рік і очищаючи шлях для нового.",
+            "en": "The burning barrel is part of the Scottish Hogmanay festival in Stonehaven, where people roll burning barrels, symbolically burning the old year and clearing the way for the new.",
+            "es": "El barril en llamas es parte del festival escocés de Hogmanay en la ciudad de Stonehaven, donde la gente rueda barriles encendidos, quemando simbólicamente el año viejo y despejando el camino para el nuevo.",
+            "pt": "O barril em chamas faz parte do festival escocês de Hogmanay na cidade de Stonehaven, onde as pessoas rolam barris em chamas, queimando simbolicamente o ano velho e abrindo caminho para o novo."
+        },
+        "antipod": {
+            "ru": "Колесо от телеги",
+            "uk": "Колесо від воза",
+            "en": "Cartwheel",
+            "es": "Rueda de Carro",
+            "pt": "Roda de Carroça"
+        },
+        "hintFuiz": {
+            "ru": "В Шотландии люди катят по улицам, чтобы отпугнуть злых духов.",
+            "uk": "У Шотландії люди котять по вулицях, щоб відлякати злих духів.",
+            "en": "In Scotland, people roll it through the streets to scare away evil spirits.",
+            "es": "En Escocia, la gente lo rueda por las calles para ahuyentar a los malos espíritus.",
+            "pt": "Na Escócia, as pessoas o rolam pelas ruas para afastar os maus espíritos."
+        },
+        "riddle": {
+            "ru": [
+                "Горит, прокладывая путь.",
+                "Её катают в темноте, чтобы прогнать зло."
+            ],
+            "uk": [
+                "Горить, прокладаючи шлях.",
+                "Її катають у темряві, щоб прогнати зло."
+            ],
+            "en": [
+                "It burns, clearing the way.",
+                "It is rolled in the dark to drive away evil."
+            ],
+            "es": [
+                "Arde, despejando el camino.",
+                "Se rueda en la oscuridad para ahuyentar el mal."
+            ],
+            "pt": [
+                "Ele queima, abrindo caminho.",
+                "Ele é rolado no escuro para afastar o mal."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Stonehaven_Fireballs"
+    },
+    "imgFlag": "quizfoto"
+}

@@ -1,0 +1,102 @@
+{
+    "data": {
+        "name": {
+            "ru": "Лягушка лесная",
+            "uk": "Жаба лісова",
+            "en": "Wood Frog",
+            "es": "Rana del bosque",
+            "pt": "Rã da floresta"
+        },
+        "wrong": {
+            "ru": [
+                "Медведь",
+                "Суслик",
+                "Еж"
+            ],
+            "uk": [
+                "Ведмідь",
+                "Ховрах",
+                "Їжак"
+            ],
+            "en": [
+                "Bear",
+                "Groundhog",
+                "Hedgehog"
+            ],
+            "es": [
+                "Oso",
+                "Marmota",
+                "Erizo"
+            ],
+            "pt": [
+                "Urso",
+                "Marmota",
+                "Ouriço"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Заморозка.",
+                "Выживание.",
+                "Глюкоза."
+            ],
+            "uk": [
+                "Заморозка.",
+                "Виживання.",
+                "Глюкоза."
+            ],
+            "en": [
+                "Freezing.",
+                "Survival.",
+                "Glucose."
+            ],
+            "es": [
+                "Congelación.",
+                "Supervivencia.",
+                "Glucosa."
+            ],
+            "pt": [
+                "Congelamento.",
+                "Sobrevivência.",
+                "Glicose."
+            ]
+        },
+        "tooltip": {
+            "ru": "Ее тело вырабатывает натуральный антифриз, чтобы пережить зиму.",
+            "uk": "Її тіло виробляє натуральний антифриз, щоб пережити зиму.",
+            "en": "Its body produces a natural antifreeze to survive winter.",
+            "es": "Su cuerpo produce un anticongelante natural para sobrevivir al invierno.",
+            "pt": "Seu corpo produz um anticongelante natural para sobreviver ao inverno."
+        },
+        "qwestion": {
+            "ru": "Какое животное может заморозиться, а затем ожить после оттаивания?",
+            "uk": "Яка тварина може замерзнути, а потім ожити після відтавання?",
+            "en": "What animal can freeze and then come back to life after thawing?",
+            "es": "¿Qué animal puede congelarse y luego revivir después de descongelarse?",
+            "pt": "Que animal pode congelar e depois voltar à vida após descongelar?"
+        },
+        "definition": {
+            "ru": "Лягушка лесная - это земноводное, известное своей способностью выживать зимой. Её тело может на 65% замерзнуть, при этом сердце и дыхание останавливаются. Защитой служит глюкоза, действующая как антифриз. Весной она оттаивает и оживает.",
+            "uk": "Жаба лісова - це земноводне, відоме своєю здатністю виживати взимку. Її тіло може на 65% замерзнути, при цьому серце і дихання зупиняються. Захистом слугує глюкоза, що діє як антифриз. Навесні вона відтає і оживає.",
+            "en": "The wood frog is an amphibian known for its ability to survive winter. Its body can freeze up to 65%, stopping its heart and breathing. Glucose acts as an antifreeze, protecting its cells. In spring, it thaws and comes back to life.",
+            "es": "La rana del bosque es un anfibio conocido por su habilidad para sobrevivir al invierno. Su cuerpo puede congelarse hasta un 65%, deteniendo su corazón y respiración. La glucosa actúa como anticongelante, protegiendo sus células. En primavera, se descongela y vuelve a la vida.",
+            "pt": "A rã da floresta é um anfíbio conhecido por sua habilidade de sobreviver ao inverno. Seu corpo pode congelar até 65%, parando o coração e a respiração. A glicose age como um anticongelante, protegendo suas células. Na primavera, ela descongela e volta à vida."
+        },
+        "antipod": {
+            "ru": "Черепаха",
+            "uk": "Черепаха",
+            "en": "Turtle",
+            "es": "Tortuga",
+            "pt": "Tartaruga"
+        },
+        "hintFuiz": {
+            "ru": "Кто из них переживает замораживание тела?",
+            "uk": "Хто з них переживає заморожування тіла?",
+            "en": "Which one survives body freezing?",
+            "es": "¿Cuál sobrevive a la congelación de su cuerpo?",
+            "pt": "Qual deles sobrevive ao congelamento do corpo?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Wood_frog"
+    },
+    "imgFlag": "all" 
+}

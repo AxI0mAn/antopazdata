@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Монако",
+            "uk": "Монако",
+            "en": "Monaco",
+            "es": "Mónaco",
+            "pt": "Mônaco"
+        },
+        "wrong": {
+            "ru": [
+                "Ватикан",
+                "Сан-Марино",
+                "Мальдивы"
+            ],
+            "uk": [
+                "Ватикан",
+                "Сан-Марино",
+                "Мальдіви"
+            ],
+            "en": [
+                "Vatican City",
+                "San Marino",
+                "Maldives"
+            ],
+            "es": [
+                "Ciudad del Vaticano",
+                "San Marino",
+                "Maldivas"
+            ],
+            "pt": [
+                "Vaticano",
+                "San Marino",
+                "Maldivas"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Роскошь.",
+                "Формула-1.",
+                "Казино."
+            ],
+            "uk": [
+                "Розкіш.",
+                "Формула-1.",
+                "Казино."
+            ],
+            "en": [
+                "Luxury.",
+                "Formula 1.",
+                "Casino."
+            ],
+            "es": [
+                "Lujo.",
+                "Fórmula 1.",
+                "Casino."
+            ],
+            "pt": [
+                "Luxo.",
+                "Fórmula 1.",
+                "Cassino."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Меньше Центрального парка.",
+                "Живёт на казино и налогах."
+            ],
+            "uk": [
+                "Менша за Центральний парк.",
+                "Живе на казино і податках."
+            ],
+            "en": [
+                "Smaller than Central Park.",
+                "Lives on casinos and taxes."
+            ],
+            "es": [
+                "Más pequeño que Central Park.",
+                "Vive de casinos e impuestos."
+            ],
+            "pt": [
+                "Menor que o Central Park.",
+                "Vive de cassinos e impostos."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это самая густонаселенная страна в мире с границей всего в 5.47 км.",
+            "uk": "Це найбільш густонаселена країна у світі з кордоном лише 5.47 км.",
+            "en": "It's the most densely populated country in the world with a border of just 5.47 km.",
+            "es": "Es el país más densamente poblado del mundo con una frontera de solo 5.47 km.",
+            "pt": "É o país mais densamente povoado do mundo com uma fronteira de apenas 5.47 km."
+        },
+        "qwestion": {
+            "ru": "Какое второе по площади государство в мире, полностью окруженное Францией?",
+            "uk": "Яка друга за площею держава у світі, повністю оточена Францією?",
+            "en": "What is the second-smallest state in the world, completely surrounded by France?",
+            "es": "¿Cuál es el segundo estado más pequeño del mundo, completamente rodeado por Francia?",
+            "pt": "Qual é o segundo menor estado do mundo, completamente cercado pela França?"
+        },
+        "definition": {
+            "ru": "Монако — суверенный город-государство и княжество на Французской Ривьере. Это второе по площади и самое густонаселенное государство в мире. Несмотря на свои крошечные размеры, Монако всемирно известно как центр роскоши, азартных игр и престижных мероприятий, таких как Гран-при Монако Формулы-1 и Монте-Карло Ролекс Мастерс. Его короткая граница с Францией делает его уникальным анклавом, а мягкий климат и потрясающие виды привлекают богатых туристов и жителей со всего мира.",
+            "uk": "Монако — суверенне місто-держава і князівство на Французькій Рив'єрі. Це друга за площею і найбільш густонаселена держава у світі. Незважаючи на свої крихітні розміри, Монако всесвітньо відоме як центр розкоші, азартних ігор і престижних заходів, таких як Гран-прі Монако Формули-1 і Монте-Карло Ролекс Мастерс. Його короткий кордон із Францією робить його унікальним анклавом, а м'який клімат і приголомшливі краєвиди приваблюють заможних туристів і жителів з усього світу.",
+            "en": "Monaco is a sovereign city-state and principality on the French Riviera. It is the second-smallest and most densely populated state in the world. Despite its tiny size, Monaco is globally renowned as a hub of luxury, gambling, and prestigious events like the Formula One Monaco Grand Prix and the Monte-Carlo Rolex Masters. Its short border with France makes it a unique enclave, and its mild climate and stunning views attract wealthy tourists and residents from all over the world.",
+            "es": "Mónaco es una ciudad-estado soberana y principado en la Riviera Francesa. Es el segundo estado más pequeño y el más densamente poblado del mundo. A pesar de su diminuto tamaño, Mónaco es mundialmente conocido como un centro de lujo, juego y eventos de prestigio como el Gran Premio de Mónaco de Fórmula 1 y el Monte-Carlo Rolex Masters. Su corta frontera con Francia lo convierte en un enclave único, y su clima suave y vistas impresionantes atraen a turistas y residentes adinerados de todo el mundo.",
+            "pt": "Mônaco é uma cidade-estado soberana e principado na Riviera Francesa. É o segundo menor estado e o mais densamente povoado do mundo. Apesar de seu tamanho minúsculo, Mônaco é globalmente conhecido como um centro de luxo, jogos de azar e eventos de prestígio como o Grande Prêmio de Mônaco de Fórmula 1 e o Monte-Carlo Rolex Masters. Sua curta fronteira com a França o torna um enclave único, e seu clima ameno e vistas deslumbrantes atraem turistas e residentes ricos de todo o mundo."
+        },
+        "antipod": {
+            "ru": "Канада",
+            "uk": "Канада",
+            "en": "Canada",
+            "es": "Canadá",
+            "pt": "Canadá"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих стран самая маленькая?",
+            "uk": "Яка з цих країн найменша?",
+            "en": "Which of these countries is the smallest?",
+            "es": "¿Cuál de estos países es el más pequeño?",
+            "pt": "Qual desses países é o menor?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Monaco"
+    },
+    "imgFlag": "quizfoto" 
+}

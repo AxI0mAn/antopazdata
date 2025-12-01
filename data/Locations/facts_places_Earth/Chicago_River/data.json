@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "река Чикаго",
+            "uk": "річка Чикаго",
+            "en": "Chicago River",
+            "es": "Río Chicago",
+            "pt": "Rio Chicago"
+        },
+        "wrong": {
+            "ru": [
+                "река Нил",
+                "река Амазонка",
+                "река Миссисипи"
+            ],
+            "uk": [
+                "річка Ніл",
+                "річка Амазонка",
+                "річка Міссісіпі"
+            ],
+            "en": [
+                "Nile River",
+                "Amazon River",
+                "Mississippi River"
+            ],
+            "es": [
+                "Río Nilo",
+                "Río Amazonas",
+                "Río Misisipi"
+            ],
+            "pt": [
+                "Rio Nilo",
+                "Rio Amazonas",
+                "Rio Mississippi"
+            ]
+        },
+        "association": {
+            "ru": [
+                "США.",
+                "Зелёная река.",
+                "Ирландцы."
+            ],
+            "uk": [
+                "США.",
+                "Зелена річка.",
+                "Ірландці."
+            ],
+            "en": [
+                "USA.",
+                "Green River.",
+                "Irish."
+            ],
+            "es": [
+                "EE.UU.",
+                "Río Verde.",
+                "Irlandeses."
+            ],
+            "pt": [
+                "EUA.",
+                "Rio Verde.",
+                "Irlandeses."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "На один день в году она становится символом удачи.",
+                "Река зеленая, но не из-за водорослей."
+            ],
+            "uk": [
+                "Один день на рік вона стає символом удачі.",
+                "Річка зелена, але не через водорості."
+            ],
+            "en": [
+                "For one day a year, it becomes a symbol of luck.",
+                "The river is green, but not because of algae."
+            ],
+            "es": [
+                "Por un día al año, se convierte en un símbolo de suerte.",
+                "El río es verde, pero no a causa de las algas."
+            ],
+            "pt": [
+                "Por um dia no ano, ela se torna um símbolo de sorte.",
+                "O rio é verde, mas não por causa das algas."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это часть многолетней традиции, зародившейся в 1962 году.",
+            "uk": "Це частина багаторічної традиції, що зародилася в 1962 році.",
+            "en": "It's part of a long-standing tradition that began in 1962.",
+            "es": "Es parte de una tradición de larga data que comenzó en 1962.",
+            "pt": "É parte de uma tradição de longa data que começou em 1962."
+        },
+        "qwestion": {
+            "ru": "Какую реку окрашивают в зелёный цвет в День Святого Патрика?",
+            "uk": "Яку річку фарбують у зелений колір на День Святого Патрика?",
+            "en": "What river is dyed green on St. Patrick's Day?",
+            "es": "¿Qué río se tiñe de verde en el Día de San Patricio?",
+            "pt": "Qual rio é tingido de verde no Dia de São Patrício?"
+        },
+        "definition": {
+            "ru": "Традиция окрашивания реки Чикаго в ярко-зеленый цвет на День Святого Патрика началась в 1962 году. Изначально это был способ выявления незаконных сбросов загрязняющих веществ, но позже стал ежегодным праздником. Цвет создается с помощью экологически чистого растительного красителя, который не вредит экосистеме реки и исчезает примерно через сутки. Ежегодно тысячи людей собираются, чтобы увидеть это зрелище, которое стало одной из самых известных традиций Дня Святого Патрика в мире.",
+            "uk": "Традиція фарбування річки Чикаго в яскраво-зелений колір на День Святого Патрика почалася в 1962 році. Спочатку це був спосіб виявлення незаконних скидів забруднюючих речовин, але пізніше стало щорічним святом. Колір створюється за допомогою екологічно чистого рослинного барвника, який не шкодить екосистемі річки і зникає приблизно через добу. Щорічно тисячі людей збираються, щоб побачити це видовище, яке стало однією з найвідоміших традицій Дня Святого Патрика у світі.",
+            "en": "The tradition of dyeing the Chicago River a vibrant green for St. Patrick's Day began in 1962. It was originally a way to detect illegal dumping of pollutants but later became an annual celebration. The color is created using an eco-friendly vegetable-based dye that does not harm the river's ecosystem and disappears after about a day. Annually, thousands of people gather to witness this spectacle, which has become one of the most famous St. Patrick's Day traditions in the world.",
+            "es": "La tradición de teñir el río Chicago de un verde vibrante para el Día de San Patricio comenzó en 1962. Originalmente era una forma de detectar vertidos ilegales de contaminantes, pero más tarde se convirtió en una celebración anual. El color se crea usando un tinte ecológico a base de vegetales que no daña el ecosistema del río y desaparece después de aproximadamente un día. Anualmente, miles de personas se reúnen para presenciar este espectáculo, que se ha convertido en una de las tradiciones más famosas del Día de San Patricio en el mundo.",
+            "pt": "A tradição de tingir o Rio Chicago de um verde vibrante para o Dia de São Patrício começou em 1962. Originalmente era uma forma de detectar o despejo ilegal de poluentes, mas depois se tornou uma celebração anual. A cor é criada usando um corante vegetal ecológico que não prejudica o ecossistema do rio e desaparece após cerca de um dia. Anualmente, milhares de pessoas se reúnem para testemunhar este espetáculo, que se tornou uma das mais famosas tradições do Dia de São Patrício no mundo."
+        },
+        "antipod": {
+            "ru": "река Ганг",
+            "uk": "річка Ганг",
+            "en": "Ganges River",
+            "es": "Río Ganges",
+            "pt": "Rio Ganges"
+        },
+        "hintFuiz": {
+            "ru": "Какую реку красят каждый год в зелёный цвет?",
+            "uk": "Яку річку фарбують щороку в зелений колір?",
+            "en": "Which river is dyed green every year?",
+            "es": "¿Qué río se tiñe de verde cada año?",
+            "pt": "Qual rio é tingido de verde todos os anos?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Chicago_River"
+    },
+    "imgFlag": "all" 
+}

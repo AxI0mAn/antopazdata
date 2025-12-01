@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Барабанная установка",
+            "uk": "Барабанна установка",
+            "en": "Drum kit",
+            "es": "Batería",
+            "pt": "Bateria"
+        },
+        "wrong": {
+            "ru": [
+                "Ксилофон",
+                "Кахон",
+                "Тимпани"
+            ],
+            "uk": [
+                "Ксилофон",
+                "Кахон",
+                "Литаври"
+            ],
+            "en": [
+                "Xylophone",
+                "Cajón",
+                "Timpani"
+            ],
+            "es": [
+                "Xilófono",
+                "Cajón",
+                "Tímpano"
+            ],
+            "pt": [
+                "Xilofone",
+                "Cajón",
+                "Tímpanos"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Ритм.",
+                "Бит.",
+                "Тарелки."
+            ],
+            "uk": [
+                "Ритм.",
+                "Біт.",
+                "Тарілки."
+            ],
+            "en": [
+                "Rhythm.",
+                "Beat.",
+                "Cymbals."
+            ],
+            "es": [
+                "Ritmo.",
+                "Beat.",
+                "Platillos."
+            ],
+            "pt": [
+                "Ritmo.",
+                "Batida.",
+                "Pratos."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Что задаёт ритм в музыке?",
+                "Что имеет и тарелки и педали?"
+            ],
+            "uk": [
+                "Що задає ритм у музиці?",
+                "Що має і тарілки, і педалі?"
+            ],
+            "en": [
+                "What sets the rhythm in music?",
+                "What has both cymbals and pedals?"
+            ],
+            "es": [
+                "¿Qué marca el ritmo en la música?",
+                "¿Qué tiene platillos y pedales?"
+            ],
+            "pt": [
+                "O que define o ritmo na música?",
+                "O que tem pratos e pedais?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Этот набор считается одним цельным инструментом.",
+            "uk": "Цей набір вважається одним цілісним інструментом.",
+            "en": "This set is considered one complete instrument.",
+            "es": "Este conjunto se considera un solo instrumento completo.",
+            "pt": "Este conjunto é considerado um único instrumento completo."
+        },
+        "qwestion": {
+            "ru": "Какой музыкальный инструмент состоит из набора барабанов и тарелок?",
+            "uk": "Який музичний інструмент складається з набору барабанів та тарілок?",
+            "en": "Which musical instrument consists of a set of drums and cymbals?",
+            "es": "¿Qué instrumento musical consiste en un conjunto de tambores y platillos?",
+            "pt": "Qual instrumento musical consiste em um conjunto de tambores e pratos?"
+        },
+        "definition": {
+            "ru": "Барабанная установка — это набор ударных музыкальных инструментов, предназначенный для игры одним человеком. Обычно состоит из различных барабанов, тарелок и педалей, которые вместе создают ритмическую основу для музыки.",
+            "uk": "Барабанна установка — це набір ударних музичних інструментів, призначений для гри однією людиною. Зазвичай складається з різних барабанів, тарілок і педалей, які разом створюють ритмічну основу для музики.",
+            "en": "A drum kit is a collection of percussion instruments designed to be played by a single person. It typically includes various drums, cymbals, and pedals that work together to create the rhythmic foundation for music.",
+            "es": "Una batería es una colección de instrumentos de percusión para que una persona los toque. Suele incluir tambores, platillos y pedales que, en conjunto, crean la base rítmica de una pieza musical.",
+            "pt": "Uma bateria é uma coleção de instrumentos de percussão para ser tocada por uma pessoa. Inclui tambores, pratos e pedais que, juntos, criam a base rítmica para a música."
+        },
+        "antipod": {
+            "ru": "Оркестровые колокола",
+            "uk": "Оркестрові дзвони",
+            "en": "Tubular bells",
+            "es": "Campanas tubulares",
+            "pt": "Sinos tubulares"
+        },
+        "hintFuiz": {
+            "ru": "Что из этого чаще используется для поддержания ритма в музыке?",
+            "uk": "Що з цього частіше використовується для підтримки ритму в музиці?",
+            "en": "Which of these is more often used to keep the rhythm in music?",
+            "es": "¿Cuál de estos se usa más a menudo para mantener el ritmo en la música?",
+            "pt": "Qual desses é mais usado para manter o ritmo na música?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Drum_kit"
+    },
+    "imgFlag": "all" 
+}

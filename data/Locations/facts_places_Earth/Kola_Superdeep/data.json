@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Кольская сверхглубокая скважина",
+            "uk": "Кольська надглибока свердловина",
+            "en": "Kola Superdeep Borehole",
+            "es": "Pozo superprofundo de Kola",
+            "pt": "Poço Superprofundo de Kola"
+        },
+        "wrong": {
+            "ru": [
+                "Панамский канал",
+                "Бурдж-Халифа",
+                "Большая голубая дыра"
+            ],
+            "uk": [
+                "Панамський канал",
+                "Бурдж-Халіфа",
+                "Велика блакитна діра"
+            ],
+            "en": [
+                "Panama Canal",
+                "Burj Khalifa",
+                "Great Blue Hole"
+            ],
+            "es": [
+                "Canal de Panamá",
+                "Burj Khalifa",
+                "Gran Agujero Azul"
+            ],
+            "pt": [
+                "Canal do Panamá",
+                "Burj Khalifa",
+                "Grande Buraco Azul"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Бурение.",
+                "СССР.",
+                "Сверхглубокая."
+            ],
+            "uk": [
+                "Буріння.",
+                "СРСР.",
+                "Надглибока."
+            ],
+            "en": [
+                "Drilling.",
+                "USSR.",
+                "Superdeep."
+            ],
+            "es": [
+                "Perforación.",
+                "URSS.",
+                "Superprofundo."
+            ],
+            "pt": [
+                "Perfuração.",
+                "URSS.",
+                "Superprofundo."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Дыра в земле, которая глубже самой высокой горы.",
+                "Самый длинный путь вниз, созданный рукой человека."
+            ],
+            "uk": [
+                "Діра в землі, яка глибша за найвищу гору.",
+                "Найдовший шлях донизу, створений рукою людини."
+            ],
+            "en": [
+                "A hole in the ground deeper than the highest mountain.",
+                "The longest path down made by human hands."
+            ],
+            "es": [
+                "Un agujero en la tierra más profundo que la montaña más alta.",
+                "El camino más largo hacia abajo hecho por manos humanas."
+            ],
+            "pt": [
+                "Um buraco no chão mais fundo que a montanha mais alta.",
+                "O caminho mais longo para baixo feito por mãos humanas."
+            ]
+        },
+        "tooltip": {
+            "ru": "Её глубина более 12 км.",
+            "uk": "Її глибина понад 12 км.",
+            "en": "Its depth is more than 12 km.",
+            "es": "Su profundidad es de más de 12 km.",
+            "pt": "Sua profundidade é de mais de 12 km."
+        },
+        "qwestion": {
+            "ru": "Какая заброшенная скважина в России является самой глубокой искусственной точкой на Земле?",
+            "uk": "Яка покинута свердловина в Росії є найглибшою штучною точкою на Землі?",
+            "en": "What abandoned well in Russia is the deepest artificial point on Earth?",
+            "es": "¿Qué pozo abandonado en Rusia es el punto artificial más profundo de la Tierra?",
+            "pt": "Qual poço abandonado na Rússia é o ponto artificial mais profundo da Terra?"
+        },
+        "definition": {
+            "ru": "Кольская сверхглубокая скважина — это результат научного бурения, проводившегося в СССР. Она расположена в Мурманской области, на Кольском полуострове. Проект был запущен в 1970 году с целью изучения земной коры и мантии. В 1992 году скважина достигла рекордной глубины 12 262 метра, став самой глубокой искусственной точкой на планете. Бурение было остановлено из-за высоких температур (около 180°C), которые превышали расчетные, и технических сложностей. Проект был закрыт в 2008 году.",
+            "uk": "Кольська надглибока свердловина — це результат наукового буріння, що проводилося в СРСР. Вона розташована в Мурманській області, на Кольському півострові. Проєкт був запущений у 1970 році з метою вивчення земної кори та мантії. У 1992 році свердловина досягла рекордної глибини 12 262 метри, ставши найглибшою штучною точкою на планеті. Буріння було зупинено через високі температури (близько 180°C), які перевищували розрахункові, та технічні складнощі. Проєкт був закритий у 2008 році.",
+            "en": "The Kola Superdeep Borehole is the result of scientific drilling conducted by the USSR. It is located in the Murmansk Oblast, on the Kola Peninsula. The project was launched in 1970 with the aim of studying the Earth's crust and mantle. In 1992, the borehole reached a record depth of 12,262 meters, becoming the deepest artificial point on the planet. Drilling was stopped due to high temperatures (around 180°C), which exceeded predictions, and technical difficulties. The project was closed in 2008.",
+            "es": "El Pozo superprofundo de Kola es el resultado de una perforación científica realizada por la URSS. Se encuentra en el Óblast de Murmansk, en la península de Kola. El proyecto se lanzó en 1970 con el objetivo de estudiar la corteza terrestre y el manto. En 1992, el pozo alcanzó una profundidad récord de 12.262 metros, convirtiéndose en el punto artificial más profundo del planeta. La perforación se detuvo debido a las altas temperaturas (alrededor de 180°C), que superaron las predicciones, y a dificultades técnicas. El proyecto se cerró en 2008.",
+            "pt": "O Poço Superprofundo de Kola é o resultado de uma perfuração científica realizada pela URSS. Ele está localizado no Oblast de Murmansk, na Península de Kola. O projeto foi lançado em 1970 com o objetivo de estudar a crosta e o manto da Terra. Em 1992, o poço atingiu uma profundidade recorde de 12.262 metros, tornando-se o ponto artificial mais profundo do planeta. A perfuração foi interrompida devido às altas temperaturas (cerca de 180°C), que excederam as previsões, e a dificuldades técnicas. O projeto foi encerrado em 2008."
+        },
+        "antipod": {
+            "ru": "Марианская впадина",
+            "uk": "Маріанська западина",
+            "en": "Mariana Trench",
+            "es": "Fosa de las Marianas",
+            "pt": "Fossa das Marianas"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих мест является самой глубокой точкой, созданной человеком?",
+            "uk": "Яке з цих місць є найглибшою точкою, створеною людиною?",
+            "en": "Which of these places is the deepest man-made point?",
+            "es": "¿Cuál de estos lugares es el punto más profundo creado por el hombre?",
+            "pt": "Qual desses lugares é o ponto mais profundo feito pelo homem?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Kola_Superdeep_Borehole"
+    },
+   "imgFlag": "quizfoto" 
+}

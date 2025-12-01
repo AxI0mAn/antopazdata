@@ -1,0 +1,122 @@
+{
+    "name": {
+        "ru": "Фестиваль цветов",
+        "uk": "Фестиваль квітів",
+        "en": "Flower Festival",
+        "es": "Festival de Flores",
+        "pt": "Festival de Flores"
+    },
+    "wrong": {
+        "ru": [
+            "Фестиваль фруктов",
+            "Кинофестиваль",
+            "Военный парад"
+        ],
+        "uk": [
+            "Фестиваль фруктів",
+            "Кінофестиваль",
+            "Військовий парад"
+        ],
+        "en": [
+            "Fruit Festival",
+            "Film Festival",
+            "Military Parade"
+        ],
+        "es": [
+            "Festival de Frutas",
+            "Festival de Cine",
+            "Desfile Militar"
+        ],
+        "pt": [
+            "Festival de Frutas",
+            "Festival de Cinema",
+            "Desfile Militar"
+        ]
+    },
+    "association": {
+        "ru": [
+            "Нидерланды",
+            "Цветы",
+            "Парад"
+        ],
+        "uk": [
+            "Нідерланди",
+            "Квіти",
+            "Парад"
+        ],
+        "en": [
+            "Netherlands",
+            "Flowers",
+            "Parade"
+        ],
+        "es": [
+            "Países Bajos",
+            "Flores",
+            "Desfile"
+        ],
+        "pt": [
+            "Holanda",
+            "Flores",
+            "Parada"
+        ]
+    },
+    "riddle": {
+        "ru": [
+            "Машина в цветах.",
+            "Скульптура из цветов."
+        ],
+        "uk": [
+            "Машина в квітах.",
+            "Скульптура з квітів."
+        ],
+        "en": [
+            "A car in flowers.",
+            "A sculpture from flowers."
+        ],
+        "es": [
+            "Un coche de flores.",
+            "Una escultura de flores."
+        ],
+        "pt": [
+            "Um carro de flores.",
+            "Uma escultura de flores."
+        ]
+    },
+    "tooltip": {
+        "ru": "Гигантские скульптуры из тысяч цветов создаются добровольцами за считанные дни.",
+        "uk": "Гігантські скульптури з тисяч квітів створюються добровольцями за лічені дні.",
+        "en": "Giant sculptures made from thousands of flowers are created by volunteers in a matter of days.",
+        "es": "Esculturas gigantes hechas con miles de flores son creadas por voluntarios en cuestión de días.",
+        "pt": "Esculturas gigantes feitas com milhares de flores são criadas por voluntários em questão de dias."
+    },
+    "qwestion": {
+        "ru": "Какой яркий, красочный фестиваль в Голландии представлен огромными скульптурами из цветов?",
+        "uk": "Який яскравий, барвистий фестиваль у Голландії представлений величезними скульптурами з квітів?",
+        "en": "What is the name of the bright, colorful festival in Holland featuring huge sculptures made of flowers?",
+        "es": "¿Cuál es el nombre del brillante y colorido festival en Holanda que presenta enormes esculturas de flores?",
+        "pt": "Qual é o nome do festival brilhante e colorido na Holanda que apresenta enormes esculturas de flores?"
+    },
+    "definition": {
+        "ru": "Фестиваль цветов в Нидерландах, известный как 'Bloemencorso', — это парад цветочных платформ, которые проходят по улицам различных городов. На них представлены гигантские скульптуры и композиции, полностью покрытые тысячами живых цветов. Это масштабное мероприятие, которое демонстрирует мастерство и креативность местных сообществ.",
+        "uk": "Фестиваль квітів у Нідерландах, відомий як 'Bloemencorso', — це парад квіткових платформ, які проходять вулицями різних міст. На них представлені гігантські скульптури і композиції, повністю покриті тисячами живих квітів. Це масштабний захід, який демонструє майстерність і креативність місцевих громад.",
+        "en": "The Flower Festival in the Netherlands, known as 'Bloemencorso', is a parade of floral floats that travel through the streets of various towns. They feature giant sculptures and compositions completely covered with thousands of real flowers. It is a large-scale event that showcases the skill and creativity of local communities.",
+        "es": "El Festival de las Flores en los Países Bajos, conocido como 'Bloemencorso', es un desfile de carrozas florales que recorren las calles de varias ciudades. Presentan esculturas y composiciones gigantes completamente cubiertas de miles de flores reales. Es un evento a gran escala que muestra la habilidad y creatividad de las comunidades locales.",
+        "pt": "O Festival de Flores na Holanda, conhecido como 'Bloemencorso', é um desfile de carros alegóricos florais que percorrem as ruas de várias cidades. Eles apresentam esculturas e composições gigantes completamente cobertas com milhares de flores de verdade. É um evento em grande escala que mostra a habilidade e criatividade das comunidades locais."
+    },
+    "antipod": {
+        "ru": "Фестиваль фруктов",
+        "uk": "Фестиваль фруктів",
+        "en": "Fruit Festival",
+        "es": "Festival de Frutas",
+        "pt": "Festival de Frutas"
+    },
+    "hintFuiz": {
+        "ru": "Где используют тысячи живых цветов для украшения?",
+        "uk": "Де використовують тисячі живих квітів для прикраси?",
+        "en": "Where are thousands of real flowers used for decoration?",
+        "es": "¿Dónde se utilizan miles de flores reales para decoración?",
+        "pt": "Onde são usadas milhares de flores de verdade para decoração?"
+    },
+    "article": "https://en.wikipedia.org/wiki/Bloemencorso",
+    "imgFlag": "quizfoto" 
+}

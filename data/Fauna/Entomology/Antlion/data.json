@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Муравьиный лев",
+            "uk": "Мурашиний лев",
+            "en": "Antlion",
+            "es": "Hormiga león",
+            "pt": "Formiga-leão"
+        },
+        "wrong": {
+            "ru": [
+                "Термит",
+                "Муравей",
+                "Цикада"
+            ],
+            "uk": [
+                "Терміт",
+                "Мураха",
+                "Цикада"
+            ],
+            "en": [
+                "Termite",
+                "Ant",
+                "Cicada"
+            ],
+            "es": [
+                "Termita",
+                "Hormiga",
+                "Cigarra"
+            ],
+            "pt": [
+                "Cupim",
+                "Formiga",
+                "Cigarra"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Ловушка.",
+                "Песок.",
+                "Личинка."
+            ],
+            "uk": [
+                "Пастка.",
+                "Пісок.",
+                "Личинка."
+            ],
+            "en": [
+                "Trap.",
+                "Sand.",
+                "Larva."
+            ],
+            "es": [
+                "Trampa.",
+                "Arena.",
+                "Larva."
+            ],
+            "pt": [
+                "Armadilha.",
+                "Areia.",
+                "Larva."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Я — хищник, который сидит в засаде под землёй.",
+                "Моя ловушка похожа на воронку в песке."
+            ],
+            "uk": [
+                "Я — хижак, який сидить у засідці під землею.",
+                "Моя пастка схожа на воронку в піску."
+            ],
+            "en": [
+                "I'm a predator that ambushes prey from underground.",
+                "My trap is shaped like a funnel in the sand."
+            ],
+            "es": [
+                "Soy un depredador que embosca a su presa desde bajo tierra.",
+                "Mi trampa tiene forma de embudo en la arena."
+            ],
+            "pt": [
+                "Eu sou um predador que embosca a presa debaixo da terra.",
+                "Minha armadilha tem a forma de um funil na areia."
+            ]
+        },
+        "tooltip": {
+            "ru": "Его личинка строит в песке конусообразные ямки-ловушки, чтобы поймать муравьёв.",
+            "uk": "Його личинка будує в піску конусоподібні ямки-пастки, щоб спіймати мурах.",
+            "en": "Its larva builds cone-shaped pits in the sand to trap ants.",
+            "es": "Su larva construye trampas cónicas en la arena para atrapar hormigas.",
+            "pt": "Sua larva constrói armadilhas cônicas na areia para capturar formigas."
+        },
+        "qwestion": {
+            "ru": "Какое насекомое-хищник строит ямки-ловушки в песке?",
+            "uk": "Яка комаха-хижак будує ямки-пастки в піску?",
+            "en": "Which predatory insect builds pit traps in the sand?",
+            "es": "¿Qué insecto depredador construye trampas de pozo en la arena?",
+            "pt": "Qual inseto predador constrói armadilhas em forma de poço na areia?"
+        },
+        "definition": {
+            "ru": "Муравьиный лев — это насекомое, чья личинка известна как засадный хищник. Она роет конусообразные ямки в песке и, зарывшись на дно, ждёт, пока жертва (часто муравьи) не скатится вниз, чтобы поймать её своими мощными челюстями.",
+            "uk": "Мурашиний лев — це комаха, чия личинка відома як хижак, що сидить у засідці. Вона риє конусоподібні ямки в піску і, зарившись на дно, чекає, поки жертва (часто мурахи) не скотиться вниз, щоб спіймати її своїми потужними щелепами.",
+            "en": "The antlion is an insect whose larva is known as an ambush predator. It digs cone-shaped pits in the sand and buries itself at the bottom, waiting for prey (often ants) to slide down, at which point it captures them with its powerful jaws.",
+            "es": "La hormiga león es un insecto cuya larva es conocida como depredador de emboscada. Excava trampas cónicas en la arena y se entierra en el fondo, esperando que la presa (a menudo hormigas) se deslice para atraparla con sus poderosas mandíbulas.",
+            "pt": "A formiga-leão é um inseto cuja larva é conhecida como predadora de emboscada. Ela cava armadilhas cônicas na areia e se enterra no fundo, esperando que a presa (geralmente formigas) escorregue para capturá-la com suas mandíbulas poderosas."
+        },
+        "antipod": {
+            "ru": "Пчела",
+            "uk": "Бджола",
+            "en": "Bee",
+            "es": "Abeja",
+            "pt": "Abelha"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих двух насекомых строит ловушки в песке?",
+            "uk": "Яка з цих двох комах будує пастки в піску?",
+            "en": "Which of these two insects builds traps in the sand?",
+            "es": "¿Cuál de estos dos insectos construye trampas en la arena?",
+            "pt": "Qual desses dois insetos constrói armadilhas na areia?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Antlion"
+    },
+    "imgFlag": "all" 
+}

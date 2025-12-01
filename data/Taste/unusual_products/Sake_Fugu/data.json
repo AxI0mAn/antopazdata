@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Саке Фугу-хире",
+            "uk": "Саке Фуґу-хіре",
+            "en": "Fugu-hire sake",
+            "es": "Sake Fugu-hire",
+            "pt": "Saquê Fugu-hire"
+        },
+        "wrong": {
+            "ru": [
+                "Саке",
+                "Виски",
+                "Сётю"
+            ],
+            "uk": [
+                "Саке",
+                "Віскі",
+                "Сьотю"
+            ],
+            "en": [
+                "Sake",
+                "Whiskey",
+                "Shochu"
+            ],
+            "es": [
+                "Sake",
+                "Whisky",
+                "Shochu"
+            ],
+            "pt": [
+                "Saquê",
+                "Uísque",
+                "Shochu"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Рыба.",
+                "Саке.",
+                "Япония."
+            ],
+            "uk": [
+                "Риба.",
+                "Саке.",
+                "Японія."
+            ],
+            "en": [
+                "Fish.",
+                "Sake.",
+                "Japan."
+            ],
+            "es": [
+                "Pez.",
+                "Sake.",
+                "Japón."
+            ],
+            "pt": [
+                "Peixe.",
+                "Saquê.",
+                "Japão."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Напиток с «украшением» из рыбы.",
+                "В бутылке часть опасной рыбы."
+            ],
+            "uk": [
+                "Напій із «прикрасою» з риби.",
+                "У пляшці частина небезпечної риби."
+            ],
+            "en": [
+                "A drink with a fish 'garnish'.",
+                "A part of a dangerous fish is in the bottle."
+            ],
+            "es": [
+                "Una bebida con una 'guarnición' de pescado.",
+                "Una parte de un pez peligroso está en la botella."
+            ],
+            "pt": [
+                "Uma bebida com uma 'guarnição' de peixe.",
+                "Uma parte de um peixe perigoso está na garrafa."
+            ]
+        },
+        "tooltip": {
+            "ru": "В горячее саке добавляют плавник рыбы фугу, чтобы придать ему особый вкус.",
+            "uk": "У гаряче саке додають плавник риби фугу, щоб надати йому особливого смаку.",
+            "en": "Fugu fish fin is added to hot sake to give it a special flavor.",
+            "es": "Se añade una aleta de pez fugu al sake caliente para darle un sabor especial.",
+            "pt": "Uma barbatana de peixe fugu é adicionada ao saquê quente para dar-lhe um sabor especial."
+        },
+        "qwestion": {
+            "ru": "Какой японский напиток содержит плавник рыбы Фугу?",
+            "uk": "Який японський напій містить плавник риби Фугу?",
+            "en": "What Japanese drink contains a Fugu fish fin?",
+            "es": "¿Qué bebida japonesa contiene una aleta de pez Fugu?",
+            "pt": "Que bebida japonesa contém uma barbatana de peixe Fugu?"
+        },
+        "definition": {
+            "ru": "Фугу-хире саке — это японский алкогольный напиток, приготовленный путем настаивания горячего саке на высушенном и поджаренном плавнике рыбы фугу. Это придает саке особый дымный, слегка рыбный вкус. Напиток считается экзотическим деликатесом.",
+            "uk": "Фуґу-хіре саке — це японський алкогольний напій, приготований шляхом настоювання гарячого саке на висушеному та підсмаженому плавнику риби фуґу. Це надає саке особливого димного, злегка рибного смаку. Напій вважається екзотичним делікатесом.",
+            "en": "Fugu-hire sake is a Japanese alcoholic beverage prepared by infusing hot sake with a dried and lightly toasted fugu fish fin. This gives the sake a special smoky, slightly fishy flavor. The drink is considered an exotic delicacy.",
+            "es": "El sake Fugu-hire es una bebida alcohólica japonesa preparada infusionando sake caliente con una aleta de pez fugu seca y ligeramente tostada. Esto le da al sake un sabor especial ahumado y ligeramente a pescado. La bebida se considera un manjar exótico.",
+            "pt": "O saquê Fugu-hire é uma bebida alcoólica japonesa preparada infundindo saquê quente com uma barbatana de peixe fugu seca e levemente tostada. Isso dá ao saquê um sabor especial defumado e levemente de peixe. A bebida é considerada uma iguaria exótica."
+        },
+        "antipod": {
+            "ru": "Бурбон",
+            "uk": "Бурбон",
+            "en": "Bourbon",
+            "es": "Bourbon",
+            "pt": "Bourbon"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих двух напитков содержит плавник рыбы?",
+            "uk": "Який з цих двох напоїв містить плавник риби?",
+            "en": "Which of these two drinks contains a fish fin?",
+            "es": "¿Cuál de estas dos bebidas contiene una aleta de pez?",
+            "pt": "Qual desses dois bebidas contém uma barbatana de peixe?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Fugu-zake"
+    },
+    "imgFlag": "quizfoto"
+}

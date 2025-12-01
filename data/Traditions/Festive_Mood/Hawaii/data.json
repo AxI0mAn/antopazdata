@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Гавайи",
+            "uk": "Гаваї",
+            "en": "Hawaii",
+            "es": "Hawái",
+            "pt": "Havaí"
+        },
+        "wrong": {
+            "ru": [
+                "Чили",
+                "Португалия",
+                "Канада"
+            ],
+            "uk": [
+                "Чилі",
+                "Португалія",
+                "Канада"
+            ],
+            "en": [
+                "Chile",
+                "Portugal",
+                "Canada"
+            ],
+            "es": [
+                "Chile",
+                "Portugal",
+                "Canadá"
+            ],
+            "pt": [
+                "Chile",
+                "Portugal",
+                "Canadá"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Тихий океан",
+                "Остров",
+                "Прыжок"
+            ],
+            "uk": [
+                "Тихий океан",
+                "Острів",
+                "Стрибок"
+            ],
+            "en": [
+                "Pacific Ocean",
+                "Island",
+                "Jump"
+            ],
+            "es": [
+                "Océano Pacífico",
+                "Isla",
+                "Salto"
+            ],
+            "pt": [
+                "Oceano Pacífico",
+                "Ilha",
+                "Salto"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Искупался и нет проблем.",
+                "Все проблемы смыты в Новый год."
+            ],
+            "uk": [
+                "Викупався і немає проблем.",
+                "Усі проблеми змиті в Новий рік."
+            ],
+            "en": [
+                "Bathe yourself and no more problems.",
+                "All problems are washed away in the New Year."
+            ],
+            "es": [
+                "Te bañas y no hay problemas.",
+                "Todos los problemas se lavan en el Año Nuevo."
+            ],
+            "pt": [
+                "Se banhou e não há problemas.",
+                "Todos os problemas são lavados no Ano Novo."
+            ]
+        },
+        "tooltip": {
+            "ru": "Так они 'смывают' старые проблемы.",
+            "uk": "Так вони 'змивають' старі проблеми.",
+            "en": "This is how they 'wash away' old problems.",
+            "es": "Así es como 'lavan' los viejos problemas.",
+            "pt": "É assim que eles 'lavam' os problemas antigos."
+        },
+        "qwestion": {
+            "ru": "В каком месте люди встречают Новый год, прыгая в океан?",
+            "uk": "У якому місці люди зустрічають Новий рік, стрибаючи в океан?",
+            "en": "In what place do people celebrate the New Year by jumping into the ocean?",
+            "es": "¿En qué lugar la gente celebra el Año Nuevo saltando al océano?",
+            "pt": "Em que lugar as pessoas comemoram o Ano Novo pulando no oceano?"
+        },
+        "definition": {
+            "ru": "Гавайи — это архипелаг вулканических островов в Тихом океане. Известен своей уникальной культурой, тропическим климатом и традицией встречать Новый год прыжком в океан, символически смывая прошлые проблемы.",
+            "uk": "Гаваї — це архіпелаг вулканічних островів у Тихому океані. Відомий своєю унікальною культурою, тропічним кліматом і традицією зустрічати Новий рік стрибком в океан, символічно змиваючи минулі проблеми.",
+            "en": "Hawaii is an archipelago of volcanic islands in the Pacific Ocean. Known for its unique culture, tropical climate, and the tradition of celebrating the New Year with a jump into the ocean, symbolically washing away past problems.",
+            "es": "Hawái es un archipiélago de islas volcánicas en el Océano Pacífico. Conocido por su cultura única, clima tropical y la tradición de celebrar el Año Nuevo con un salto al océano, lavando simbólicamente los problemas pasados.",
+            "pt": "Havaí é um arquipélago de ilhas vulcânicas no Oceano Pacífico. Conhecido por sua cultura única, clima tropical e pela tradição de comemorar o Ano Novo com um salto no oceano, lavando simbolicamente os problemas passados."
+        },
+        "antipod": {
+            "ru": "Индия",
+            "uk": "Індія",
+            "en": "India",
+            "es": "India",
+            "pt": "Índia"
+        },
+        "hintFuiz": {
+            "ru": "Тут прыжок в океан — новогодняя традиция.",
+            "uk": "Тут стрибок в океан — новорічна традиція.",
+            "en": "Here, a jump into the ocean is a New Year's tradition.",
+            "es": "Aquí, un salto al océano es una tradición de Año Nuevo.",
+            "pt": "Aqui, um salto no oceano é uma tradição de Ano Novo."
+        },
+        "article": "https://en.wikipedia.org/wiki/Hawaii"
+    },
+    "imgFlag": "quizfoto"
+}

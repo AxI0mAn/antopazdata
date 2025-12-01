@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Финик",
+            "uk": "Фінік",
+            "en": "Date",
+            "es": "Dátil",
+            "pt": "Tâmara"
+        },
+        "wrong": {
+            "ru": [
+                "Виноград",
+                "Инжир",
+                "Манго"
+            ],
+            "uk": [
+                "Виноград",
+                "Інжир",
+                "Манго"
+            ],
+            "en": [
+                "Grape",
+                "Fig",
+                "Mango"
+            ],
+            "es": [
+                "Uva",
+                "Higo",
+                "Mango"
+            ],
+            "pt": [
+                "Uva",
+                "Figo",
+                "Manga"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Пустыня.",
+                "Сахар.",
+                "Пальма."
+            ],
+            "uk": [
+                "Пустеля.",
+                "Цукор.",
+                "Пальма."
+            ],
+            "en": [
+                "Desert.",
+                "Sugar.",
+                "Palm."
+            ],
+            "es": [
+                "Desierto.",
+                "Azúcar.",
+                "Palmera."
+            ],
+            "pt": [
+                "Deserto.",
+                "Açúcar.",
+                "Palmeira."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Растёт в пустыне, как оазис сладости.",
+                "Маленький, сухой и морщинистый, но чистый сахар."
+            ],
+            "uk": [
+                "Росте в пустелі, як оазис солодощі.",
+                "Маленький, сухий і зморшкуватий, але чистий цукор."
+            ],
+            "en": [
+                "It grows in the desert, like an oasis of sweetness.",
+                "Small, dry, and wrinkled, but pure sugar."
+            ],
+            "es": [
+                "Crece en el desierto, como un oasis de dulzura.",
+                "Pequeño, seco y arrugado, pero azúcar puro."
+            ],
+            "pt": [
+                "Cresce no deserto, como um oásis de doçura.",
+                "Pequeno, seco e enrugado, mas açúcar puro."
+            ]
+        },
+        "tooltip": {
+            "ru": "В нём может содержаться от 50 до 80% сахара.",
+            "uk": "У ньому може міститися від 50 до 80% цукру.",
+            "en": "It can contain from 50 to 80% sugar.",
+            "es": "Puede contener de 50 a 80% de azúcar.",
+            "pt": "Pode conter de 50 a 80% de açúcar."
+        },
+        "qwestion": {
+            "ru": "Какой фрукт часто называют самым сладким в мире?",
+            "uk": "Який фрукт часто називають найсолодшим у світі?",
+            "en": "What fruit is often called the sweetest in the world?",
+            "es": "¿Qué fruta se considera a menudo la más dulce del mundo?",
+            "pt": "Que fruta é frequentemente chamada de mais doce do mundo?"
+        },
+        "definition": {
+            "ru": "Финик — это плод финиковой пальмы, известный своей высокой концентрацией сахара, которая может достигать 80%. Благодаря этому, он является одним из самых сладких фруктов в мире и может храниться очень долго в сушеном виде.",
+            "uk": "Фінік — це плід фінікової пальми, відомий своєю високою концентрацією цукру, яка може досягати 80%. Завдяки цьому, він є одним з найсолодших фруктів у світі і може зберігатися дуже довго в сушеному вигляді.",
+            "en": "The date is the fruit of the date palm, known for its high sugar concentration, which can reach 80%. Because of this, it is one of the sweetest fruits in the world and can be stored for a very long time in a dried form.",
+            "es": "El dátil es el fruto de la palmera datilera, conocido por su alta concentración de azúcar, que puede alcanzar el 80%. Por esto, es una de las frutas más dulces del mundo y puede almacenarse por mucho tiempo en su forma seca.",
+            "pt": "A tâmara é o fruto da tamareira, conhecida por sua alta concentração de açúcar, que pode chegar a 80%. Por isso, é uma das frutas mais doces do mundo e pode ser armazenada por muito tempo em sua forma seca."
+        },
+        "antipod": {
+            "ru": "Яблоко",
+            "uk": "Яблуко",
+            "en": "Apple",
+            "es": "Manzana",
+            "pt": "Maçã"
+        },
+        "hintFuiz": {
+            "ru": "Какой фрукт более сладкий?",
+            "uk": "Який фрукт солодший?",
+            "en": "Which fruit is sweeter?",
+            "es": "¿Qué fruta es más dulce?",
+            "pt": "Qual fruta é mais doce?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Date_palm"
+    },
+    "imgFlag": "all"
+}

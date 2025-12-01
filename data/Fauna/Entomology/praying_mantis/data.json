@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Богомол",
+            "uk": "Богомол",
+            "en": "Mantis",
+            "es": "Mantis",
+            "pt": "Louva-a-deus"
+        },
+        "wrong": {
+            "ru": [
+                "Сверчок",
+                "Саранча",
+                "Палочник"
+            ],
+            "uk": [
+                "Цвіркун",
+                "Сарана",
+                "Паличник"
+            ],
+            "en": [
+                "Cricket",
+                "Locust",
+                "Stick insect"
+            ],
+            "es": [
+                "Grillo",
+                "Langosta",
+                "Insecto palo"
+            ],
+            "pt": [
+                "Grilo",
+                "Gafanhoto",
+                "Bicho-pau"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Хищник.",
+                "Молитва.",
+                "Камуфляж."
+            ],
+            "uk": [
+                "Хижак.",
+                "Молитва.",
+                "Камуфляж."
+            ],
+            "en": [
+                "Predator.",
+                "Prayer.",
+                "Camouflage."
+            ],
+            "es": [
+                "Depredador.",
+                "Rezo.",
+                "Camuflaje."
+            ],
+            "pt": [
+                "Predador.",
+                "Oração.",
+                "Camuflagem."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Какое насекомое складывает передние лапы, как в молитве?",
+                "Он является хищником и прекрасно маскируется, чтобы охотиться."
+            ],
+            "uk": [
+                "Яка комаха складає передні лапи, як у молитві?",
+                "Він є хижаком та чудово маскується, щоб полювати."
+            ],
+            "en": [
+                "What insect folds its front legs as if in prayer?",
+                "It's a predator and camouflages itself perfectly to hunt."
+            ],
+            "es": [
+                "¿Qué insecto pliega sus patas delanteras como si estuviera rezando?",
+                "Es un depredador y se camufla perfectamente para cazar."
+            ],
+            "pt": [
+                "Que inseto dobra as pernas da frente como se estivesse a rezar?",
+                "É um predador e camufla-se perfeitamente para caçar."
+            ]
+        },
+        "tooltip": {
+            "ru": "Хищное насекомое, которое ловит и держит добычу передними лапами.",
+            "uk": "Хижа комаха, яка ловить і тримає здобич передніми лапами.",
+            "en": "A predatory insect that catches and holds its prey with its forelegs.",
+            "es": "Un insecto depredador que captura y sujeta a su presa con las patas delanteras.",
+            "pt": "Um inseto predador que captura e segura a sua presa com as pernas dianteiras."
+        },
+        "qwestion": {
+            "ru": "Какое насекомое, напоминающее молящегося человека, является хищником?",
+            "uk": "Яка комаха, що нагадує людину, що молиться, є хижаком?",
+            "en": "What insect resembling a praying person is a predator?",
+            "es": "¿Qué insecto que se asemeja a una persona orando es un depredador?",
+            "pt": "Qual inseto que se assemelha a uma pessoa rezando é um predador?"
+        },
+        "definition": {
+            "ru": "Хищное насекомое с треугольной головой, большими глазами и хватательными передними конечностями, которые складываются в позе, напоминающей молитву.",
+            "uk": "Хижа комаха з трикутною головою, великими очима і хапальними передніми кінцівками, які складаються в позі, що нагадує молитву.",
+            "en": "A predatory insect with a triangular head, large eyes, and grasping forelegs that are folded in a prayer-like posture.",
+            "es": "Un insecto depredador con cabeza triangular, ojos grandes y patas delanteras prensoras que se pliegan en una postura de rezo.",
+            "pt": "Um inseto predador com cabeça triangular, olhos grandes e pernas dianteiras que se dobram em uma postura de oração."
+        },
+        "antipod": {
+            "ru": "Кузнечик",
+            "uk": "Коник-стрибунець",
+            "en": "Grasshopper",
+            "es": "Saltamontes",
+            "pt": "Gafanhoto"
+        },
+        "hintFuiz": {
+            "ru": "Кто из них хищник?",
+            "uk": "Хто з них хижак?",
+            "en": "Which of them is a predator?",
+            "es": "¿Cuál de ellos es un depredador?",
+            "pt": "Qual deles é um predador?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Mantis"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Энергетические шарики",
+            "uk": "Енергетичні кульки",
+            "en": "Energy Balls",
+            "es": "Bolas de energía",
+            "pt": "Bolas de energia"
+        },
+        "wrong": {
+            "ru": [
+                "Деньги",
+                "Украшения",
+                "Оружие"
+            ],
+            "uk": [
+                "Гроші",
+                "Прикраси",
+                "Зброя"
+            ],
+            "en": [
+                "Money",
+                "Jewelry",
+                "Weapons"
+            ],
+            "es": [
+                "Dinero",
+                "Joyas",
+                "Armas"
+            ],
+            "pt": [
+                "Dinheiro",
+                "Joias",
+                "Armas"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Кочевники.",
+                "Энергия.",
+                "Африка."
+            ],
+            "uk": [
+                "Кочівники.",
+                "Енергія.",
+                "Африка."
+            ],
+            "en": [
+                "Nomads.",
+                "Energy.",
+                "Africa."
+            ],
+            "es": [
+                "Nómadas.",
+                "Energía.",
+                "África."
+            ],
+            "pt": [
+                "Nômades.",
+                "Energia.",
+                "África."
+            ]
+        },
+        "tooltip": {
+            "ru": "До того, как кофе стали пить, его чаще употребляли в пищу",
+            "uk": "До того, як каву почали пити, її частіше вживали в їжу",
+            "en": "Before coffee was drunk, it was more often eaten as food",
+            "es": "Antes de que se bebiera café, se consumía más a menudo como alimento",
+            "pt": "Antes de que o café fosse bebido, ele era mais frequentemente consumido como alimento"
+        },
+        "qwestion": {
+            "ru": "Что делали племена в Африке, смешивая кофейные ягоды с животным жиром?",
+            "uk": "Що робили племена в Африці, змішуючи кавові ягоди з тваринним жиром?",
+            "en": "What did tribes in Africa do by mixing coffee berries with animal fat?",
+            "es": "¿Qué hacían las tribus en África al mezclar bayas de café con grasa animal?",
+            "pt": "O que as tribos na África faziam ao misturar bagas de café com gordura animal?"
+        },
+        "definition": {
+            "ru": "Энергетические шарики — один из древнейших способов употребления кофе. Кочевые африканские племена смешивали толченые кофейные ягоды с животным жиром, создавая еду, которая придавала силы и бодрость.",
+            "uk": "Енергетичні кульки — один з найдавніших способів вживання кави. Кочові африканські племена змішували товчені кавові ягоди з тваринним жиром, створюючи їжу, яка надавала сили та бадьорості.",
+            "en": "Energy balls are one of the oldest ways of consuming coffee. Nomadic African tribes mixed ground coffee berries with animal fat, creating a food that provided strength and vigor.",
+            "es": "Las bolas de energía son una de las formas más antiguas de consumir café. Las tribus nómadas africanas mezclaban bayas de café molidas con grasa animal, creando un alimento que proporcionaba fuerza y vigor.",
+            "pt": "As bolas de energia são uma das formas mais antigas de consumir café. Tribos nômades africanas misturavam bagas de café moídas com gordura animal, criando um alimento que proporcionava força e vigor."
+        },
+        "antipod": {
+            "ru": "Украшения",
+            "uk": "Прикраси",
+            "en": "Jewelry",
+            "es": "Joyas",
+            "pt": "Joias"
+        },
+        "hintFuiz": {
+            "ru": "Смесь кофейных ягод с животным жиром.",
+            "uk": "Суміш кавових ягід з тваринним жиром.",
+            "en": "A mixture of coffee berries with animal fat.",
+            "es": "Una mezcla de bayas de café con grasa animal.",
+            "pt": "Uma mistura de bagas de café com gordura animal."
+        },
+        "riddle": {
+            "ru": [
+                "Придавала силы в долгих переходах по пустыне.",
+                "Предок энергетического батончика."
+            ],
+            "uk": [
+                "Надавала сили в довгих переходах по пустелі.",
+                "Предок енергетичного батончика."
+            ],
+            "en": [
+                "It gave strength during long treks through the desert.",
+                "The ancestor of the energy bar."
+            ],
+            "es": [
+                "Daba fuerzas durante largos viajes por el desierto.",
+                "El antepasado de la barra energética."
+            ],
+            "pt": [
+                "Dava força durante longas travessias pelo deserto.",
+                "O ancestral da barra de energia."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/History_of_coffee"
+    },
+    "imgFlag": "quizfoto"
+}

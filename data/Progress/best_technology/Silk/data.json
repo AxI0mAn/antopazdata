@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Шелк",
+            "uk": "Шовк",
+            "en": "Silk",
+            "es": "Seda",
+            "pt": "Seda"
+        },
+        "wrong": {
+            "ru": [
+                "Шерсть",
+                "Хлопок",
+                "Лен"
+            ],
+            "uk": [
+                "Вовна",
+                "Бавовна",
+                "Льон"
+            ],
+            "en": [
+                "Wool",
+                "Cotton",
+                "Linen"
+            ],
+            "es": [
+                "Lana",
+                "Algodón",
+                "Lino"
+            ],
+            "pt": [
+                "Lã",
+                "Algodão",
+                "Linho"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Гусеница.",
+                "Китай.",
+                "Секрет."
+            ],
+            "uk": [
+                "Гусениця.",
+                "Китай.",
+                "Секрет."
+            ],
+            "en": [
+                "Caterpillar.",
+                "China.",
+                "Secret."
+            ],
+            "es": [
+                "Oruga.",
+                "China.",
+                "Secreto."
+            ],
+            "pt": [
+                "Lagarta.",
+                "China.",
+                "Segredo."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Тонкая нить из кокона.",
+                "Ткань королей."
+            ],
+            "uk": [
+                "Тонка нитка з кокона.",
+                "Тканина королів."
+            ],
+            "en": [
+                "A thin thread from a cocoon.",
+                "The fabric of kings."
+            ],
+            "es": [
+                "Un hilo delgado de un capullo.",
+                "La tela de los reyes."
+            ],
+            "pt": [
+                "Um fio fino de um casulo.",
+                "O tecido dos reis."
+            ]
+        },
+        "tooltip": {
+            "ru": "Он был таким ценным, что его производство в Китае держали в строжайшем секрете.",
+            "uk": "Він був таким цінним, що його виробництво в Китаї тримали в суворому секреті.",
+            "en": "It was so valuable that its production was kept a strict secret in China.",
+            "es": "Era tan valioso que su producción se mantuvo en estricto secreto en China.",
+            "pt": "Era tão valioso que sua produção era mantida em segredo estrito na China."
+        },
+        "qwestion": {
+            "ru": "Какой материал, производится гусеницами?",
+            "uk": "Який матеріал виробляється гусеницями?",
+            "en": "What material is produced by caterpillars?",
+            "es": "¿Qué material es producido por orugas?",
+            "pt": "Que material é produzido por lagartas?"
+        },
+        "definition": {
+            "ru": "Шелк — это натуральное белковое волокно, которое производят личинки тутового шелкопряда. Он высоко ценился за свой блеск и мягкость. Китайцы хранили секрет его производства более 2500 лет, делая его одним из самых дорогих товаров на Великом шелковом пути. Это изобретение стало основой для процветания торговых империй.",
+            "uk": "Шовк — це натуральне білкове волокно, яке виробляють личинки шовкопряда. Він високо цінувався за свій блиск і м'якість. Китайці зберігали секрет його виробництва понад 2500 років, роблячи його одним із найдорожчих товарів на Великому шовковому шляху. Цей винахід став основою для процвітання торгових імперій.",
+            "en": "Silk is a natural protein fiber produced by the larvae of the mulberry silkworm. It was highly prized for its luster and softness. The Chinese kept its production a secret for over 2,500 years, making it one of the most valuable commodities on the Silk Road. This invention became the foundation for the prosperity of trading empires.",
+            "es": "La seda es una fibra de proteína natural producida por las larvas del gusano de seda de morera. Era muy apreciada por su brillo y suavidad. Los chinos mantuvieron su producción en secreto durante más de 2,500 años, convirtiéndola en una de las mercancías más valiosas de la Ruta de la Seda. Este invento se convirtió en la base para la prosperidad de los imperios comerciales.",
+            "pt": "A seda é uma fibra de proteína natural produzida pelas larvas do bicho-da-seda da amoreira. Era muito valorizada por seu brilho e suavidade. Os chineses mantiveram sua produção em segredo por mais de 2.500 anos, tornando-a uma das mercadorias mais valiosas da Rota da Seda. Esta invenção se tornou a base para a prosperidade dos impérios comerciais."
+        },
+        "antipod": {
+            "ru": "Стекловолокно",
+            "uk": "Скловолокно",
+            "en": "Fiberglass",
+            "es": "Fibra de vidrio",
+            "pt": "Fibra de vidro"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих материалов является натуральным продуктом животного происхождения?",
+            "uk": "Який із цих матеріалів є натуральним продуктом тваринного походження?",
+            "en": "Which of these materials is a natural animal product?",
+            "es": "¿Cuál de estos materiales es un producto animal natural?",
+            "pt": "Qual desses materiais é um produto animal natural?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Silk"
+    },
+    "imgFlag": "all" 
+}

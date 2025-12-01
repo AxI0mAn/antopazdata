@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Эверест",
+            "uk": "Еверест",
+            "en": "Mount Everest",
+            "es": "Monte Everest",
+            "pt": "Monte Everest"
+        },
+        "wrong": {
+            "ru": [
+                "Килиманджаро",
+                "Монблан",
+                "Аконкагуа"
+            ],
+            "uk": [
+                "Кіліманджаро",
+                "Монблан",
+                "Аконкагуа"
+            ],
+            "en": [
+                "Mount Kilimanjaro",
+                "Mont Blanc",
+                "Aconcagua"
+            ],
+            "es": [
+                "Monte Kilimanjaro",
+                "Mont Blanc",
+                "Aconcagua"
+            ],
+            "pt": [
+                "Monte Kilimanjaro",
+                "Mont Blanc",
+                "Aconcagua"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Гора.",
+                "Высота.",
+                "Гималаи."
+            ],
+            "uk": [
+                "Гора.",
+                "Висота.",
+                "Гімалаї."
+            ],
+            "en": [
+                "Mountain.",
+                "Height.",
+                "Himalayas."
+            ],
+            "es": [
+                "Montaña.",
+                "Altura.",
+                "Himalaya."
+            ],
+            "pt": [
+                "Montanha.",
+                "Altura.",
+                "Himalaia."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Кто такая Джомолунгма?",
+                "Её вершина — крыша мира."
+            ],
+            "uk": [
+                "Хто така Джомолунгма?",
+                "Її вершина — дах світу."
+            ],
+            "en": [
+                "Who is Chomolungma?",
+                "Its summit is the roof of the world."
+            ],
+            "es": [
+                "¿Quién es Chomolungma?",
+                "Su cumbre es el techo del mundo."
+            ],
+            "pt": [
+                "Quem é Chomolungma?",
+                "Seu cume é o teto do mundo."
+            ]
+        },
+        "tooltip": {
+            "ru": "Ее высота составляет 8848 метров над уровнем моря.",
+            "uk": "Її висота становить 8848 метрів над рівнем моря.",
+            "en": "Its height is 8,848 meters above sea level.",
+            "es": "Su altura es de 8.848 metros sobre el nivel del mar.",
+            "pt": "Sua altura é de 8.848 metros acima do nível do mar."
+        },
+        "qwestion": {
+            "ru": "Какая самая высокая гора в мире?",
+            "uk": "Яка найвища гора в світі?",
+            "en": "What is the highest mountain in the world?",
+            "es": "¿Cuál es la montaña más alta del mundo?",
+            "pt": "Qual é a montanha mais alta do mundo?"
+        },
+        "definition": {
+            "ru": "Эверест, или Джомолунгма, — самая высокая гора на Земле, расположенная в Гималаях на границе Непала и Китая. Её высота составляет 8848,86 метра. Это одна из самых сложных и опасных вершин для восхождения.",
+            "uk": "Еверест, або Джомолунгма, — найвища гора на Землі, розташована в Гімалаях на кордоні Непалу та Китаю. Її висота становить 8848,86 метра. Це одна з найскладніших і найнебезпечніших вершин для сходження.",
+            "en": "Mount Everest, or Chomolungma, is the highest mountain on Earth, located in the Himalayas on the border of Nepal and China. Its height is 8,848.86 meters. It is one of the most challenging and dangerous peaks to climb.",
+            "es": "El Monte Everest, o Chomolungma, es la montaña más alta de la Tierra, ubicada en el Himalaya, en la frontera de Nepal y China. Su altura es de 8.848,86 metros. Es uno de los picos más desafiantes y peligrosos para escalar.",
+            "pt": "O Monte Everest, ou Chomolungma, é a montanha mais alta da Terra, localizada no Himalaia, na fronteira do Nepal e da China. Sua altura é de 8.848,86 metros. É um dos picos mais desafiadores e perigosos para escalar."
+        },
+        "antipod": {
+            "ru": "Чогори",
+            "uk": "Чогорі",
+            "en": "Chogori",
+            "es": "Chogori",
+            "pt": "Chogori"
+        },
+        "hintFuiz": {
+            "ru": "Это самая высокая точка на планете.",
+            "uk": "Це найвища точка на планеті.",
+            "en": "This is the highest point on the planet.",
+            "es": "Este es el punto más alto del planeta.",
+            "pt": "Este é o ponto mais alto do planeta."
+        },
+        "article": "https://en.wikipedia.org/wiki/Mount_Everest"
+    },
+    "imgFlag": "quizfoto" 
+}

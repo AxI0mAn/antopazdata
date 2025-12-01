@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Касу Марцу",
+            "uk": "Касу Марцу",
+            "en": "Casu Marzu",
+            "es": "Casu Marzu",
+            "pt": "Casu Marzu"
+        },
+        "wrong": {
+            "ru": [
+                "Рокфор",
+                "Стилтон",
+                "Швейцарский сыр"
+            ],
+            "uk": [
+                "Рокфор",
+                "Стілтон",
+                "Швейцарський сир"
+            ],
+            "en": [
+                "Roquefort",
+                "Stilton",
+                "Swiss cheese"
+            ],
+            "es": [
+                "Roquefort",
+                "Stilton",
+                "Queso suizo"
+            ],
+            "pt": [
+                "Roquefort",
+                "Stilton",
+                "Queijo suíço"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Сардиния.",
+                "Черви.",
+                "Опасность."
+            ],
+            "uk": [
+                "Сардинія.",
+                "Черви.",
+                "Небезпека."
+            ],
+            "en": [
+                "Sardinia.",
+                "Maggots.",
+                "Danger."
+            ],
+            "es": [
+                "Cerdeña.",
+                "Gusanos.",
+                "Peligro."
+            ],
+            "pt": [
+                "Sardenha.",
+                "Vermes.",
+                "Perigo."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Его вкус уникален, но нужны черви.",
+                "Сыр, который едят вместе с червями."
+            ],
+            "uk": [
+                "Його смак унікальний, але потрібні черви.",
+                "Сир, який їдять разом із черв'яками."
+            ],
+            "en": [
+                "Its taste is unique, but you need worms.",
+                "Cheese that is eaten along with worms."
+            ],
+            "es": [
+                "Su sabor es único, pero necesitas gusanos.",
+                "Queso que se come junto con los gusanos."
+            ],
+            "pt": [
+                "O seu sabor é único, mas você precisa de vermes.",
+                "Queijo que é comido junto com vermes."
+            ]
+        },
+        "tooltip": {
+            "ru": "Живые личинки — это часть процесса производства.",
+            "uk": "Живі личинки — це частина процесу виробництва.",
+            "en": "Living maggots are part of the production process.",
+            "es": "Las larvas vivas son parte del proceso de producción.",
+            "pt": "As larvas vivas são parte do processo de produção."
+        },
+        "qwestion": {
+            "ru": "Какой сыр содержит живых личинок, которые помогают ему ферментироваться?",
+            "uk": "Який сир містить живих личинок, які допомагають йому ферментуватися?",
+            "en": "What cheese contains live maggots that help it ferment?",
+            "es": "¿Qué queso contiene larvas vivas que lo ayudan a fermentar?",
+            "pt": "Que queijo contém larvas vivas que o ajudam a fermentar?"
+        },
+        "definition": {
+            "ru": "Касу Марцу — это традиционный сардинский сыр, известный тем, что содержит живых личинок сырной мухи. Они переваривают жиры в сыре, что делает его мягким и придает ему сильный, специфический вкус. Сыр считается деликатесом, но его продажа запрещена.",
+            "uk": "Касу Марцу — це традиційний сардинський сир, відомий тим, що містить живих личинок сирної мухи. Вони перетравлюють жири в сирі, що робить його м'яким і надає йому сильного, специфічного смаку. Сир вважається делікатесом, але його продаж заборонено.",
+            "en": "Casu Marzu is a traditional Sardinian cheese known for containing live cheese fly maggots. They digest the fats in the cheese, making it soft and giving it a strong, specific flavor. The cheese is considered a delicacy, but its sale is banned.",
+            "es": "El Casu Marzu es un queso sardo tradicional conocido por contener larvas vivas de la mosca del queso. Estas digieren las grasas del queso, haciéndolo suave y dándole un sabor fuerte y específico. El queso se considera un manjar, pero su venta está prohibida.",
+            "pt": "O Casu Marzu é um queijo sardo tradicional conhecido por conter larvas vivas da mosca do queijo. Elas digerem as gorduras do queijo, tornando-o macio e dando-lhe um sabor forte e específico. O queijo é considerado uma iguaria, mas sua venda é proibida."
+        },
+        "antipod": {
+            "ru": "Пармезан",
+            "uk": "Пармезан",
+            "en": "Parmesan",
+            "es": "Parmesano",
+            "pt": "Parmesão"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих двух сыров содержит живых насекомых?",
+            "uk": "Який з цих двох сирів містить живих комах?",
+            "en": "Which of these two cheeses contains live insects?",
+            "es": "¿Cuál de estos dos quesos contiene insectos vivos?",
+            "pt": "Qual desses dois queijos contém insetos vivos?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Casu_marzu"
+    },
+    "imgFlag": "all"
+}

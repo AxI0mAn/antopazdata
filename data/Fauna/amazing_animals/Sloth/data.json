@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Ленивец",
+            "uk": "Лінивець",
+            "en": "Sloth",
+            "es": "Perezoso",
+            "pt": "Preguiça"
+        },
+        "wrong": {
+            "ru": [
+                "Коала",
+                "Лори",
+                "Опоссум"
+            ],
+            "uk": [
+                "Коала",
+                "Лорі",
+                "Опосум"
+            ],
+            "en": [
+                "Koala",
+                "Loris",
+                "Opossum"
+            ],
+            "es": [
+                "Koala",
+                "Loris",
+                "Zarigüeya"
+            ],
+            "pt": [
+                "Coala",
+                "Lóris",
+                "Gambá"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Медленный.",
+                "Мох.",
+                "Деревья."
+            ],
+            "uk": [
+                "Повільний.",
+                "Мох.",
+                "Дерева."
+            ],
+            "en": [
+                "Slow.",
+                "Moss.",
+                "Trees."
+            ],
+            "es": [
+                "Lento.",
+                "Musgo.",
+                "Árboles."
+            ],
+            "pt": [
+                "Lento.",
+                "Musgo.",
+                "Árvores."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Животное, которое поворачивает голову на 300 градусов.",
+                "Животное, которое проводит почти всю жизнь вверх ногами."
+            ],
+            "uk": [
+                "Тварина, яка повертає голову на 300 градусів.",
+                "Тварина, яка проводить майже все життя догори ногами."
+            ],
+            "en": [
+                "An animal that can turn its head 300 degrees.",
+                "An animal that spends almost its entire life upside down."
+            ],
+            "es": [
+                "Un animal que puede girar la cabeza 300 grados.",
+                "Un animal que pasa casi toda su vida boca abajo."
+            ],
+            "pt": [
+                "Um animal que pode girar a cabeça 300 graus.",
+                "Um animal que passa quase a vida toda de cabeça para baixo."
+            ]
+        },
+        "tooltip": {
+            "ru": "У него такие длинные когти, что он не может ходить по земле.",
+            "uk": "У нього такі довгі кігті, що він не може ходити по землі.",
+            "en": "It has such long claws that it can't walk on the ground.",
+            "es": "Tiene garras tan largas que no puede caminar por el suelo.",
+            "pt": "Tem garras tão longas que não consegue andar no chão."
+        },
+        "qwestion": {
+            "ru": "Какое млекопитающее настолько медленное, что на его шерсти может расти мох?",
+            "uk": "Який ссавець настільки повільний, що на його шерсті може рости мох?",
+            "en": "What mammal is so slow that moss can grow on its fur?",
+            "es": "¿Qué mamífero es tan lento que el musgo puede crecer en su pelaje?",
+            "pt": "Que mamífero é tão lento que musgo pode crescer em sua pelagem?"
+        },
+        "definition": {
+            "ru": "Ленивец — это древесное млекопитающее из Центральной и Южной Америки. Он известен своей чрезвычайно низкой скоростью передвижения и медленным метаболизмом. Питается листьями, побегами и бутонами.",
+            "uk": "Лінивець — це деревний ссавець із Центральної та Південної Америки. Він відомий своєю надзвичайно низькою швидкістю пересування та повільним метаболізмом. Харчується листям, пагонами та бутонами.",
+            "en": "The sloth is an arboreal mammal native to Central and South America. It is known for its extremely slow movements and sluggish metabolism. It feeds on leaves, shoots, and buds.",
+            "es": "El perezoso es un mamífero arbóreo nativo de América Central y del Sur. Es conocido por sus movimientos extremadamente lentos y su metabolismo lento. Se alimenta de hojas, brotes y brotes.",
+            "pt": "A preguiça é um mamífero arborícola nativo da América Central e do Sul. É conhecida por seus movimentos extremamente lentos e metabolismo lento. Alimenta-se de folhas, brotos e botões."
+        },
+        "antipod": {
+            "ru": "Гепард",
+            "uk": "Гепард",
+            "en": "Cheetah",
+            "es": "Guepardo",
+            "pt": "Guepardo"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих животных знаменито своей медлительностью?",
+            "uk": "Яка з цих тварин відома своєю повільністю?",
+            "en": "Which of these animals is famous for its slowness?",
+            "es": "¿Cuál de estos animales es famoso por su lentitud?",
+            "pt": "Qual desses animais é famoso por sua lentidão?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Sloth"
+    },
+    "imgFlag": "all" 
+}

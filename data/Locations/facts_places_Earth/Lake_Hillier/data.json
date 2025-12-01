@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Озеро Хиллер",
+            "uk": "Озеро Гіллер",
+            "en": "Lake Hillier",
+            "es": "Lago Hillier",
+            "pt": "Lago Hillier"
+        },
+        "wrong": {
+            "ru": [
+                "Озеро Байкал",
+                "Озеро Комо",
+                "Мертвое море"
+            ],
+            "uk": [
+                "Озеро Байкал",
+                "Озеро Комо",
+                "Мертве море"
+            ],
+            "en": [
+                "Lake Baikal",
+                "Lake Como",
+                "Dead Sea"
+            ],
+            "es": [
+                "Lago Baikal",
+                "Lago de Como",
+                "Mar Muerto"
+            ],
+            "pt": [
+                "Lago Baikal",
+                "Lago de Como",
+                "Mar Morto"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Розовый.",
+                "Австралия.",
+                "Загадка."
+            ],
+            "uk": [
+                "Рожевий.",
+                "Австралія.",
+                "Загадка."
+            ],
+            "en": [
+                "Pink.",
+                "Australia.",
+                "Mystery."
+            ],
+            "es": [
+                "Rosa.",
+                "Australia.",
+                "Misterio."
+            ],
+            "pt": [
+                "Rosa.",
+                "Austrália.",
+                "Mistério."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Водоем, который выглядит как клубничный молочный коктейль.",
+                "Розовое пятно в зеленом лесу, у берегов океана."
+            ],
+            "uk": [
+                "Водойма, яка виглядає як полуничний молочний коктейль.",
+                "Рожева пляма в зеленому лісі, біля берегів океану."
+            ],
+            "en": [
+                "A body of water that looks like a strawberry milkshake.",
+                "A pink stain in a green forest, by the ocean's edge."
+            ],
+            "es": [
+                "Un cuerpo de agua que parece un batido de fresa.",
+                "Una mancha rosa en un bosque verde, a orillas del océano."
+            ],
+            "pt": [
+                "Um corpo de água que parece um milkshake de morango.",
+                "Uma mancha rosa em uma floresta verde, à beira do oceano."
+            ]
+        },
+        "tooltip": {
+            "ru": "Причина этого цвета до сих пор остается загадкой.",
+            "uk": "Причина цього кольору досі залишається загадкою.",
+            "en": "The reason for this color remains a mystery.",
+            "es": "La razón de este color sigue siendo un misterio.",
+            "pt": "A razão para esta cor ainda é um mistério."
+        },
+        "qwestion": {
+            "ru": "Какое озеро в Австралии имеет ярко-розовый цвет?",
+            "uk": "Яке озеро в Австралії має яскраво-рожевий колір?",
+            "en": "What lake in Australia has a bright pink color?",
+            "es": "¿Qué lago en Australia tiene un color rosa brillante?",
+            "pt": "Qual lago na Austrália tem uma cor rosa brilhante?"
+        },
+        "definition": {
+            "ru": "Озеро Хиллер — это ярко-розовое озеро, расположенное на Среднем острове, у побережья Западной Австралии. Озеро имеет постоянный цвет, который не меняется даже при наборе воды в емкость. Хотя точная причина его цвета остается загадкой, ученые предполагают, что он может быть вызван микроводорослями Dunaliella salina, а также соляными бактериями и археями, которые обитают в солевой корке озера. Озеро Хиллер имеет высокий уровень соли и отделено от океана узкой полосой дюн.",
+            "uk": "Озеро Гіллер — це яскраво-рожеве озеро, розташоване на Середньому острові, біля узбережжя Західної Австралії. Озеро має постійний колір, який не змінюється навіть при наборі води в ємність. Хоча точна причина його кольору залишається загадкою, вчені припускають, що він може бути викликаний мікроводоростями Dunaliella salina, а також соляними бактеріями та археями, що мешкають у сольовій кірці озера. Озеро Гіллер має високий рівень солі та відокремлене від океану вузькою смугою дюн.",
+            "en": "Lake Hillier is a bright pink lake located on Middle Island, off the coast of Western Australia. The lake's color is permanent and does not change even when the water is collected in a container. Although the exact cause of its color remains a mystery, scientists hypothesize it may be caused by the microalgae Dunaliella salina, as well as halophilic bacteria and archaea that thrive in the lake's salt crust. Lake Hillier has a high salt level and is separated from the ocean by a narrow strip of dunes.",
+            "es": "El Lago Hillier es un lago de color rosa brillante ubicado en Middle Island, frente a la costa de Australia Occidental. El color del lago es permanente y no cambia incluso cuando el agua se recoge en un recipiente. Aunque la causa exacta de su color sigue siendo un misterio, los científicos hipotetizan que podría ser causada por la microalga Dunaliella salina, así como por bacterias y arqueas halófilas que prosperan en la corteza de sal del lago. El Lago Hillier tiene un alto nivel de sal y está separado del océano por una estrecha franja de dunas.",
+            "pt": "O Lago Hillier é um lago de cor rosa brilhante localizado na Ilha Média, na costa da Austrália Ocidental. A cor do lago é permanente e não muda mesmo quando a água é coletada em um recipiente. Embora a causa exata de sua cor permaneça um mistério, os cientistas hipotetizam que ela pode ser causada pela microalga Dunaliella salina, bem como por bactérias e arqueias halófilas que prosperam na crosta de sal do lago. O Lago Hillier tem um alto nível de sal e é separado do oceano por uma estreita faixa de dunas."
+        },
+        "antipod": {
+            "ru": "Большое Солёное озеро",
+            "uk": "Велике Солоне озеро",
+            "en": "Great Salt Lake",
+            "es": "Gran Lago Salado",
+            "pt": "Grande Lago Salgado"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих озер находится в Австралии?",
+            "uk": "Яке з цих озер знаходиться в Австралії?",
+            "en": "Which of these lakes is located in Australia?",
+            "es": "¿Cuál de estos lagos se encuentra en Australia?",
+            "pt": "Qual desses lagos está localizado na Austrália?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Lake_Hillier"
+    },
+    "imgFlag": "all" 
+}

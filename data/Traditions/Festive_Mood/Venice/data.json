@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Венеция",
+            "uk": "Венеція",
+            "en": "Venice",
+            "es": "Venecia",
+            "pt": "Veneza"
+        },
+        "wrong": {
+            "ru": [
+                "Клагенфурт",
+                "Сидней",
+                "Майями"
+            ],
+            "uk": [
+                "Клагенфурт",
+                "Сідней",
+                "Майямі"
+            ],
+            "en": [
+                "Klagenfurt",
+                "Sydney",
+                "Miami"
+            ],
+            "es": [
+                "Klagenfurt",
+                "Sídney",
+                "Miami"
+            ],
+            "pt": [
+                "Klagenfurt",
+                "Sydney",
+                "Miami"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Маски",
+                "Карнавал",
+                "Анонимность"
+            ],
+            "uk": [
+                "Маски",
+                "Карнавал",
+                "Анонімність"
+            ],
+            "en": [
+                "Masks",
+                "Carnival",
+                "Anonymity"
+            ],
+            "es": [
+                "Máscaras",
+                "Carnaval",
+                "Anonimato"
+            ],
+            "pt": [
+                "Máscaras",
+                "Carnaval",
+                "Anonimato"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Карнавал масок.",
+                "Праздник в городе на воде."
+            ],
+            "uk": [
+                "Карнавал масок.",
+                "Свято в місті на воді."
+            ],
+            "en": [
+                "The carnival of masks.",
+                "A festival in the city on water."
+            ],
+            "es": [
+                "El carnaval de máscaras.",
+                "Una fiesta en la ciudad sobre el agua."
+            ],
+            "pt": [
+                "O carnaval de máscaras.",
+                "Um festival na cidade sobre a água."
+            ]
+        },
+        "tooltip": {
+            "ru": "Маска помогает участникам сохранить анонимность.",
+            "uk": "Маска допомагає учасникам зберегти анонімність.",
+            "en": "A mask helps participants maintain anonymity.",
+            "es": "Una máscara ayuda a los participantes a mantener el anonimato.",
+            "pt": "Uma máscara ajuda os participantes a manter o anonimato."
+        },
+        "qwestion": {
+            "ru": "В каком городе проходит карнавал с обязательным ношением масок?",
+            "uk": "У якому місті проходить карнавал з обов'язковим носінням масок?",
+            "en": "In which city does a carnival take place with the obligatory wearing of masks?",
+            "es": "¿En qué ciudad se celebra un carnaval con el uso obligatorio de máscaras?",
+            "pt": "Em qual cidade acontece um carnaval com o uso obrigatório de máscaras?"
+        },
+        "definition": {
+            "ru": "Венеция — это город-музей в Италии, знаменитый своими каналами, гондолами и, конечно, ежегодным карнавалом. Венецианский карнавал известен на весь мир своими изысканными масками и костюмами, которые позволяют участникам скрывать свою личность и свободно общаться, независимо от социального статуса.",
+            "uk": "Венеція — це місто-музей в Італії, знамените своїми каналами, гондолами і, звичайно, щорічним карнавалом. Венеціанський карнавал відомий на весь світ своїми вишуканими масками і костюмами, які дозволяють учасникам приховувати свою особу і вільно спілкуватися, незалежно від соціального статусу.",
+            "en": "Venice is a museum-city in Italy, famous for its canals, gondolas, and, of course, its annual carnival. The Venetian Carnival is known worldwide for its exquisite masks and costumes, which allow participants to conceal their identity and interact freely, regardless of social status.",
+            "es": "Venecia es una ciudad-museo en Italia, famosa por sus canales, góndolas y, por supuesto, su carnaval anual. El Carnaval de Venecia es conocido en todo el mundo por sus exquisitas máscaras y trajes, que permiten a los participantes ocultar su identidad e interactuar libremente, sin importar su estatus social.",
+            "pt": "Veneza é uma cidade-museu na Itália, famosa por seus canais, gôndolas e, claro, seu carnaval anual. O Carnaval de Veneza é conhecido mundialmente por suas máscaras e trajes requintados, que permitem aos participantes ocultar sua identidade e interagir livremente, independentemente do status social."
+        },
+        "antipod": {
+            "ru": "Кейптаун",
+            "uk": "Кейптаун",
+            "en": "Cape Town",
+            "es": "Ciudad del Cabo",
+            "pt": "Cidade do Cabo"
+        },
+        "hintFuiz": {
+            "ru": "Карнавальная маска скрывает лицо в городе на воде.",
+            "uk": "Карнавальна маска приховує обличчя в місті на воді.",
+            "en": "A carnival mask conceals the face in the city on water.",
+            "es": "Una máscara de carnaval oculta el rostro en la ciudad sobre el agua.",
+            "pt": "Uma máscara de carnaval esconde o rosto na cidade sobre a água."
+        },
+        "article": "https://en.wikipedia.org/wiki/Carnival_of_Venice"
+    },
+    "imgFlag": "quizfoto"
+}

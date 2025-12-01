@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Окапи",
+            "uk": "Окапі",
+            "en": "Okapi",
+            "es": "Okapi",
+            "pt": "Ocapi"
+        },
+        "wrong": {
+            "ru": [
+                "Антилопа",
+                "Импала",
+                "Гну"
+            ],
+            "uk": [
+                "Антилопа",
+                "Імпала",
+                "Гну"
+            ],
+            "en": [
+                "Antelope",
+                "Impala",
+                "Wildebeest"
+            ],
+            "es": [
+                "Antílope",
+                "Impala",
+                "Ñu"
+            ],
+            "pt": [
+                "Antílope",
+                "Impala",
+                "Gnu"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Полосы.",
+                "Длинный язык.",
+                "Конго."
+            ],
+            "uk": [
+                "Смуги.",
+                "Довгий язик.",
+                "Конго."
+            ],
+            "en": [
+                "Stripes.",
+                "Long tongue.",
+                "Congo."
+            ],
+            "es": [
+                "Rayas.",
+                "Lengua larga.",
+                "Congo."
+            ],
+            "pt": [
+                "Listras.",
+                "Língua longa.",
+                "Congo."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Ближайший родственник жирафа, но не имеет длинной шеи.",
+                "С ногами зебры и головой жирафа."
+            ],
+            "uk": [
+                "Найближчий родич жирафа, але не має довгої шиї.",
+                "З ногами зебри та головою жирафа."
+            ],
+            "en": [
+                "The closest relative of the giraffe, but without a long neck.",
+                "With the legs of a zebra and the head of a giraffe."
+            ],
+            "es": [
+                "El pariente más cercano de la jirafa, pero sin cuello largo.",
+                "Con las patas de una cebra y la cabeza de una jirafa."
+            ],
+            "pt": [
+                "O parente mais próximo da girafa, mas sem pescoço longo.",
+                "Com as pernas de uma zebra e a cabeça de uma girafa."
+            ]
+        },
+        "tooltip": {
+            "ru": "Их язык настолько длинный, что они могут им чистить свои уши.",
+            "uk": "Їх язик настільки довгий, що вони можуть ним чистити свої вуха.",
+            "en": "Their tongue is so long that they can clean their own ears with it.",
+            "es": "Su lengua es tan larga que pueden usarla para limpiarse las orejas.",
+            "pt": "A língua deles é tão longa que eles podem usá-la para limpar as próprias orelhas."
+        },
+        "qwestion": {
+            "ru": "Его называют 'Лесным жирафом' и он имеет очень длинный синий язык?",
+            "uk": "Його називають 'Лісовим жирафом' і він має дуже довгий синій язик?",
+            "en": "It's called the 'Forest Giraffe' and has a very long blue tongue?",
+            "es": "¿Se le llama 'Jirafa del Bosque' y tiene una lengua azul muy larga?",
+            "pt": "É chamado de 'Girafa da Floresta' e tem uma língua azul muito longa?"
+        },
+        "definition": {
+            "ru": "Окапи — это млекопитающее, обитающее в тропических лесах Конго. Несмотря на полосатые ноги, он является единственным живым родственником жирафа. У него длинный сине-черный язык, которым он срывает листья с деревьев.",
+            "uk": "Окапі — це ссавець, що мешкає в тропічних лісах Конго. Незважаючи на смугасті ноги, він є єдиним живим родичем жирафа. У нього довгий синьо-чорний язик, яким він зриває листя з дерев.",
+            "en": "The okapi is a mammal native to the tropical rainforests of the Congo. Despite its striped legs, it is the only living relative of the giraffe. It has a long, blue-black tongue it uses to strip leaves from trees.",
+            "es": "El okapi es un mamífero nativo de las selvas tropicales del Congo. A pesar de sus patas a rayas, es el único pariente vivo de la jirafa. Tiene una larga lengua azul-negra que usa para arrancar hojas de los árboles.",
+            "pt": "O ocapi é um mamífero nativo das florestas tropicais do Congo. Apesar de suas pernas listradas, ele é o único parente vivo da girafa. Ele tem uma língua longa e azul-escura que usa para arrancar folhas das árvores."
+        },
+        "antipod": {
+            "ru": "Зебра",
+            "uk": "Зебра",
+            "en": "Zebra",
+            "es": "Cebra",
+            "pt": "Zebra"
+        },
+        "hintFuiz": {
+            "ru": "Кто из них имеет длинный язык, как у жирафа?",
+            "uk": "Хто з них має довгий язик, як у жирафа?",
+            "en": "Which of them has a long tongue, like a giraffe?",
+            "es": "¿Cuál de ellos tiene una lengua larga, como una jirafa?",
+            "pt": "Qual deles tem uma língua longa, como uma girafa?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Okapi"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Медоносная пчела",
+            "uk": "Медоносна бджола",
+            "en": "Honey bee",
+            "es": "Abeja de la miel",
+            "pt": "Abelha de mel"
+        },
+        "wrong": {
+            "ru": [
+                "Оса",
+                "Шмель",
+                "Термит"
+            ],
+            "uk": [
+                "Оса",
+                "Джміль",
+                "Терміт"
+            ],
+            "en": [
+                "Wasp",
+                "Bumblebee",
+                "Termite"
+            ],
+            "es": [
+                "Avispa",
+                "Abejorro",
+                "Termita"
+            ],
+            "pt": [
+                "Vespa",
+                "Mamangaba",
+                "Cupim"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Улей.",
+                "Танец.",
+                "Мед."
+            ],
+            "uk": [
+                "Вулик.",
+                "Танець.",
+                "Мед."
+            ],
+            "en": [
+                "Hive.",
+                "Dance.",
+                "Honey."
+            ],
+            "es": [
+                "Colmena.",
+                "Danza.",
+                "Miel."
+            ],
+            "pt": [
+                "Colmeia.",
+                "Dança.",
+                "Mel."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Танцует, чтобы показать друзьям, где еда.",
+                "Живет в большой семье и приносит сладкий нектар."
+            ],
+            "uk": [
+                "Танцює, щоб показати друзям, де їжа.",
+                "Живе у великій родині і приносить солодкий нектар."
+            ],
+            "en": [
+                "It dances to show friends where food is.",
+                "It lives in a big family and brings sweet nectar."
+            ],
+            "es": [
+                "Baila para mostrar a sus amigos dónde está la comida.",
+                "Vive en una gran familia y trae néctar dulce."
+            ],
+            "pt": [
+                "Ela dança para mostrar aos amigos onde está a comida.",
+                "Ela vive em uma grande família e traz néctar doce."
+            ]
+        },
+        "tooltip": {
+            "ru": "Её «танец» указывает на расстояние и направление источника пищи.",
+            "uk": "Її «танець» вказує на відстань та напрямок джерела їжі.",
+            "en": "Its 'dance' indicates the distance and direction of a food source.",
+            "es": "Su 'danza' indica la distancia y dirección de una fuente de alimento.",
+            "pt": "Sua 'dança' indica a distância e a direção de uma fonte de alimento."
+        },
+        "qwestion": {
+            "ru": "Какое насекомое общается с сородичами с помощью сложного «танца»?",
+            "uk": "Яка комаха спілкується з родичами за допомогою складного «танцю»?",
+            "en": "What insect communicates with its kin using a complex 'dance'?",
+            "es": "¿Qué insecto se comunica con sus parientes a través de una compleja 'danza'?",
+            "pt": "Qual inseto se comunica com seus parentes usando uma complexa 'dança'?"
+        },
+        "definition": {
+            "ru": "Медоносная пчела — это общественное летающее насекомое, известное своей ролью в опылении и производстве меда. Пчелы живут в колониях. Для общения они используют сложный «танец», чтобы указать на расположение пищи.",
+            "uk": "Медоносна бджола — це суспільна літаюча комаха, відома своєю роллю в запиленні та виробництві меду. Бджоли живуть у колоніях. Для спілкування вони використовують складний «танець», щоб вказати на розташування їжі.",
+            "en": "A honey bee is a social flying insect known for its role in pollination and honey production. Bees live in colonies. They use a complex 'dance' to communicate the location of food sources to other bees.",
+            "es": "La abeja de la miel es un insecto volador social conocido por su papel en la polinización y la producción de miel. Las abejas viven en colonias. Usan una 'danza' compleja para comunicar la ubicación de las fuentes de alimento a otras abejas.",
+            "pt": "A abelha de mel é um inseto voador social conhecido por seu papel na polinização e na produção de mel. As abelhas vivem em colônias. Elas usam uma 'dança' complexa para comunicar a localização de fontes de alimento para outras abelhas."
+        },
+        "antipod": {
+            "ru": "Муравей",
+            "uk": "Мураха",
+            "en": "Ant",
+            "es": "Hormiga",
+            "pt": "Formiga"
+        },
+        "hintFuiz": {
+            "ru": "Кто из них общается с помощью танца?",
+            "uk": "Хто з них спілкується за допомогою танцю?",
+            "en": "Which one communicates with a dance?",
+            "es": "¿Cuál de ellos se comunica con una danza?",
+            "pt": "Qual deles se comunica com uma dança?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Honey_bee"
+    },
+    "imgFlag": "all" 
+}

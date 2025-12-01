@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Столетнее яйцо",
+            "uk": "Столітнє яйце",
+            "en": "Century egg",
+            "es": "Huevo centenario",
+            "pt": "Ovo de século"
+        },
+        "wrong": {
+            "ru": [
+                "Яйцо Бенедикт",
+                "Яичница",
+                "Омлет"
+            ],
+            "uk": [
+                "Яйце Бенедикт",
+                "Яєчня",
+                "Омлет"
+            ],
+            "en": [
+                "Eggs Benedict",
+                "Scrambled eggs",
+                "Omelette"
+            ],
+            "es": [
+                "Huevos Benedictinos",
+                "Huevos revueltos",
+                "Tortilla"
+            ],
+            "pt": [
+                "Ovos Benedict",
+                "Ovos mexidos",
+                "Omelete"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Китай.",
+                "Консервация.",
+                "Странный вкус."
+            ],
+            "uk": [
+                "Китай.",
+                "Консервація.",
+                "Дивний смак."
+            ],
+            "en": [
+                "China.",
+                "Preservation.",
+                "Strange taste."
+            ],
+            "es": [
+                "China.",
+                "Conservación.",
+                "Sabor extraño."
+            ],
+            "pt": [
+                "China.",
+                "Preservação.",
+                "Sabor estranho."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Оно не стареет в бочке, а становится чёрным и желатиновым.",
+                "Деликатес, который выглядит как камень, но тает во рту."
+            ],
+            "uk": [
+                "Воно не старіє в бочці, а стає чорним і желатиновим.",
+                "Делікатес, який виглядає як камінь, але тане в роті."
+            ],
+            "en": [
+                "It doesn't age in a barrel, but turns black and gelatinous.",
+                "A delicacy that looks like a stone but melts in your mouth."
+            ],
+            "es": [
+                "No envejece en un barril, pero se vuelve negro y gelatinoso.",
+                "Un manjar que parece una piedra pero se derrite en la boca."
+            ],
+            "pt": [
+                "Não envelhece em um barril, mas se torna preto e gelatinoso.",
+                "Uma iguaria que parece uma pedra, mas derrete na boca."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это консервированное утиное яйцо.",
+            "uk": "Це консервоване качине яйце.",
+            "en": "This is a preserved duck egg.",
+            "es": "Este es un huevo de pato conservado.",
+            "pt": "Este é um ovo de pato preservado."
+        },
+        "qwestion": {
+            "ru": "Какое азиатское блюдо называют «столетним яйцом»?",
+            "uk": "Яку азіатську страву називають «столітнім яйцем»?",
+            "en": "What Asian dish is called a 'century egg'?",
+            "es": "¿Qué plato asiático se llama 'huevo de siglo'?",
+            "pt": "Que prato asiático é chamado de 'ovo de século'?"
+        },
+        "definition": {
+            "ru": "Столетнее яйцо — это китайский деликатес, приготовленный из утиных, куриных или перепелиных яиц, выдержанных в смеси глины, золы, извести и рисовой шелухи. В результате белок становится тёмным и желеобразным, а желток — кремообразным, тёмно-зелёным.",
+            "uk": "Столітнє яйце — це китайський делікатес, приготований з качиних, курячих або перепелиних яєць, витриманих у суміші глини, золи, вапна і рисового лушпиння. В результаті білок стає темним і желеподібним, а жовток — кремоподібним, темно-зеленим.",
+            "en": "The century egg is a Chinese delicacy made from duck, chicken, or quail eggs preserved in a mixture of clay, ash, lime, and rice hulls. As a result, the egg white becomes dark and gelatinous, while the yolk becomes creamy and dark green.",
+            "es": "El huevo centenario es un manjar chino hecho de huevos de pato, gallina o codorniz conservados en una mezcla de arcilla, ceniza, cal y cáscaras de arroz. Como resultado, la clara se vuelve oscura y gelatinosa, mientras que la yema se vuelve cremosa y de color verde oscuro.",
+            "pt": "O ovo de século é uma iguaria chinesa feita de ovos de pato, galinha ou codorna preservados em uma mistura de argila, cinzas, cal e cascas de arroz. Como resultado, a clara do ovo se torna escura e gelatinosa, enquanto a gema se torna cremosa e verde escura."
+        },
+        "antipod": {
+            "ru": "Яйцо пашот",
+            "uk": "Яйце пашот",
+            "en": "Poached egg",
+            "es": "Huevo escalfado",
+            "pt": "Ovo pochê"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих двух яиц готовится путем длительного консервирования?",
+            "uk": "Яке з цих двох яєць готується шляхом тривалого консервування?",
+            "en": "Which of these two eggs is prepared by long-term preservation?",
+            "es": "¿Cuál de estos dos huevos se prepara mediante una larga conservación?",
+            "pt": "Qual desses dois ovos é preparado por preservação a longo prazo?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Century_egg"
+    },
+    "imgFlag": "all"
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Кларнет",
+            "uk": "Кларнет",
+            "en": "Clarinet",
+            "es": "Clarinete",
+            "pt": "Clarinete"
+        },
+        "wrong": {
+            "ru": [
+                "Гобой",
+                "Фагот",
+                "Саксофон"
+            ],
+            "uk": [
+                "Гобой",
+                "Фагот",
+                "Саксофон"
+            ],
+            "en": [
+                "Oboe",
+                "Bassoon",
+                "Saxophone"
+            ],
+            "es": [
+                "Oboe",
+                "Fagot",
+                "Saxofón"
+            ],
+            "pt": [
+                "Oboé",
+                "Fagote",
+                "Saxofone"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Деревянный.",
+                "Трость.",
+                "Оркестр."
+            ],
+            "uk": [
+                "Дерев'яний.",
+                "Тростина.",
+                "Оркестр."
+            ],
+            "en": [
+                "Woodwind.",
+                "Reed.",
+                "Orchestra."
+            ],
+            "es": [
+                "Madera.",
+                "Caña.",
+                "Orquesta."
+            ],
+            "pt": [
+                "Madeira.",
+                "Palheta.",
+                "Orquestra."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Что означает 'маленькая труба'?",
+                "Что имеет одну трость?"
+            ],
+            "uk": [
+                "Що означає 'маленька труба'?",
+                "Що має одну тростину?"
+            ],
+            "en": [
+                "My name means 'little trumpet'.",
+                "I have a single reed."
+            ],
+            "es": [
+                "Mi nombre significa 'trompeta pequeña'.",
+                "Tengo una sola caña."
+            ],
+            "pt": [
+                "Meu nome significa 'trompete pequeno'.",
+                "Eu tenho uma única palheta."
+            ]
+        },
+        "tooltip": {
+            "ru": "Он используется во многих музыкальных жанрах, от классической музыки и джаза до народной.",
+            "uk": "Він використовується в багатьох музичних жанрах: від класичної музики і джазу до народної.",
+            "en": "It is used in many musical genres, from classical music and jazz to folk.",
+            "es": "Es usado en muchos géneros musicales, desde música clásica y jazz hasta folclórica.",
+            "pt": "É usado em muitos gêneros musicais, da música clássica e do jazz à música folclórica."
+        },
+        "qwestion": {
+            "ru": "Какой деревянный духовой имеет самый широкий диапазон?",
+            "uk": "Який дерев'яний духовий має найширший діапазон?",
+            "en": "Which woodwind instrument has the widest range?",
+            "es": "¿Qué instrumento de viento-madera tiene el rango más amplio?",
+            "pt": "Qual instrumento de madeira tem a maior extensão?"
+        },
+        "definition": {
+            "ru": "Кларнет — это деревянный духовой инструмент с одинарной тростью. Он известен своим широким диапазоном, охватывающим более трех октав, и разнообразным тембром, что делает его очень универсальным.",
+            "uk": "Кларнет — це дерев'яний духовий інструмент з одинарною тростиною. Він відомий своїм широким діапазоном, що охоплює понад три октави, і різноманітним тембром, що робить його дуже універсальним.",
+            "en": "The clarinet is a single-reed woodwind instrument. It is known for its wide range, spanning over three octaves, and its diverse tone, which makes it highly versatile.",
+            "es": "El clarinete es un instrumento de viento-madera de una sola caña. Es conocido por su amplio rango, que abarca más de tres octavas, y por su diverso timbre, lo que lo hace muy versátil.",
+            "pt": "O clarinete é um instrumento de sopro de madeira com uma única palheta. É conhecido por sua ampla extensão, que abrange mais de três oitavas, e por seu timbre diversificado, o que o torna muito versátil."
+        },
+        "antipod": {
+            "ru": "Флейта",
+            "uk": "Флейта",
+            "en": "Flute",
+            "es": "Flauta",
+            "pt": "Flauta"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих двух инструментов имеет больший вес?",
+            "uk": "Який із цих двох інструментів має більшу вагу?",
+            "en": "Which of these two instruments is heavier?",
+            "es": "¿Cuál de estos dos instrumentos tiene un peso mayor?",
+            "pt": "Qual desses dois instrumentos tem um peso maior?"
+        },
+        "article": "https://ru.wikipedia.org/wiki/Кларнет"
+    },
+    "imgFlag": "all" 
+}

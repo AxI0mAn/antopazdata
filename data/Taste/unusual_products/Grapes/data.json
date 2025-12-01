@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Виноград",
+            "uk": "Виноград",
+            "en": "Grapes",
+            "es": "Uvas",
+            "pt": "Uvas"
+        },
+        "wrong": {
+            "ru": [
+                "Изюм",
+                "Слива",
+                "Малина"
+            ],
+            "uk": [
+                "Ізюм",
+                "Слива",
+                "Малина"
+            ],
+            "en": [
+                "Raisins",
+                "Plum",
+                "Raspberry"
+            ],
+            "es": [
+                "Pasas",
+                "Ciruela",
+                "Frambuesa"
+            ],
+            "pt": [
+                "Passas",
+                "Ameixa",
+                "Framboesa"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Вино.",
+                "Ягоды.",
+                "Лоза."
+            ],
+            "uk": [
+                "Вино.",
+                "Ягоди.",
+                "Лоза."
+            ],
+            "en": [
+                "Wine.",
+                "Berries.",
+                "Vine."
+            ],
+            "es": [
+                "Vino.",
+                "Bayas.",
+                "Vid."
+            ],
+            "pt": [
+                "Vinho.",
+                "Bagas.",
+                "Videira."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Из него делают вино.",
+                "Множество сочных шариков, растущих на одной ветке."
+            ],
+            "uk": [
+                "З нього роблять вино.",
+                "Безліч соковитих кульок, що ростуть на одній гілці."
+            ],
+            "en": [
+                "Wine is made from it.",
+                "Many juicy balls growing on one branch."
+            ],
+            "es": [
+                "El vino se hace de él.",
+                "Muchas bolitas jugosas que crecen en una rama."
+            ],
+            "pt": [
+                "O vinho é feito dele.",
+                "Muitas bolinhas suculentas crescendo em um galho."
+            ]
+        },
+        "tooltip": {
+            "ru": "Растёт на лозе, но ягода, а не фрукт.",
+            "uk": "Росте на лозі, але ягода, а не фрукт.",
+            "en": "Grows on a vine, but is a berry, not a fruit.",
+            "es": "Crece en una vid, pero es una baya, no una fruta.",
+            "pt": "Cresce em uma videira, mas é uma baga, não uma fruta."
+        },
+        "qwestion": {
+            "ru": "Куст, плоды которого едят и в сыром виде и в сушёном и в жидком?",
+            "uk": "Кущ, плоди якого їдять і в сирому вигляді, і в сушеному, і в рідкому?",
+            "en": "A bush whose fruits are eaten raw, dried, and in liquid form?",
+            "es": "¿Un arbusto cuyos frutos se comen crudos, secos y en forma líquida?",
+            "pt": "Um arbusto cujos frutos são comidos crus, secos e na forma líquida?"
+        },
+        "definition": {
+            "ru": "Виноград — это ягода, растущая на лозе в виде гроздьев. Его употребляют в свежем, сушёном виде (изюм), а также производят сок и вино. Это один из древнейших культурных продуктов.",
+            "uk": "Виноград — це ягода, що росте на лозі у вигляді грон. Його вживають у свіжому, сушеному вигляді (ізюм), а також виробляють сік і вино. Це один з найдавніших культурних продуктів.",
+            "en": "Grapes are a berry that grows in clusters on a vine. They are consumed fresh, dried (raisins), and are also used to make juice and wine. It is one of the oldest cultivated products.",
+            "es": "Las uvas son una baya que crece en racimos en una vid. Se consumen frescas, secas (pasas), y también se utilizan para hacer jugo y vino. Es uno de los productos cultivados más antiguos.",
+            "pt": "As uvas são uma baga que cresce em cachos em uma videira. São consumidas frescas, secas (passas), e também são usadas para fazer suco e vinho. É um dos produtos cultivados mais antigos."
+        },
+        "antipod": {
+            "ru": "Пшеница",
+            "uk": "Пшениця",
+            "en": "Wheat",
+            "es": "Trigo",
+            "pt": "Trigo"
+        },
+        "hintFuiz": {
+            "ru": "Что изучает наука Ампелография?",
+            "uk": "Що вивчає наука Ампелографія?",
+            "en": "What does the science of Ampelography study?",
+            "es": "¿Qué estudia la ciencia de la Ampelografía?",
+            "pt": "O que a ciência da Ampelografia estuda?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Grape"
+    },
+    "imgFlag": "all"
+}

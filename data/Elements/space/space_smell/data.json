@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "жареный стейк",
+            "uk": "смажений стейк",
+            "en": "fried steak",
+            "es": "filete frito",
+            "pt": "bife frito"
+        },
+        "wrong": {
+            "ru": [
+                "Запах озона",
+                "Запах пороха",
+                "Запах паяльного дыма"
+            ],
+            "uk": [
+                "Запах озону",
+                "Запах пороху",
+                "Запах паяльного диму"
+            ],
+            "en": [
+                "Ozone smell",
+                "Gunpowder smell",
+                "Soldering smoke smell"
+            ],
+            "es": [
+                "Olor a ozono",
+                "Olor a pólvora",
+                "Olor a humo de soldadura"
+            ],
+            "pt": [
+                "Cheiro de ozônio",
+                "Cheiro de pólvora",
+                "Cheiro de fumaça de solda"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Запах космоса.",
+                "МКС.",
+                "Скафандр."
+            ],
+            "uk": [
+                "Запах космосу.",
+                "МКС.",
+                "Скафандр."
+            ],
+            "en": [
+                "Smell of space.",
+                "ISS.",
+                "Spacewalk."
+            ],
+            "es": [
+                "Olor a espacio.",
+                "Estación Espacial.",
+                "Traje espacial."
+            ],
+            "pt": [
+                "Cheiro de espaço.",
+                "Estação Espacial.",
+                "Caminhada espacial."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Чем пахнет космос?",
+                "Чем пахнет космос?"
+            ],
+            "uk": [
+                "Чим пахне космос?",
+                "Чим пахне космос?"
+            ],
+            "en": [
+                "What does space smell like?",
+                "What does space smell like?"
+            ],
+            "es": [
+                "¿A qué huele el espacio?",
+                "¿A qué huele el espacio?"
+            ],
+            "pt": [
+                "Qual é o cheiro do espaço?",
+                "Qual é o cheiro do espaço?"
+            ]
+        },
+        "qwestion": {
+            "ru": "Какой запах, по словам космонавтов, имеет космос?",
+            "uk": "Який запах, за словами космонавтів, має космос?",
+            "en": "What smell, according to astronauts, does space have?",
+            "es": "¿Qué olor, según los astronautas, tiene el espacio?",
+            "pt": "Que cheiro, segundo os astronautas, o espaço tem?"
+        },
+        "tooltip": {
+            "ru": "Этот запах появляется, когда атомы, принесенные космическим излучением, реагируют с воздухом внутри космического корабля.",
+            "uk": "Цей запах з'являється, коли атоми, принесені космічним випромінюванням, реагують з повітрям всередині космічного корабля.",
+            "en": "This smell appears when atoms, carried by cosmic radiation, react with the air inside the spacecraft.",
+            "es": "Este olor aparece cuando los átomos, transportados por la radiación cósmica, reaccionan con el aire dentro de la nave espacial.",
+            "pt": "Este cheiro aparece quando átomos, transportados pela radiação cósmica, reagem com o ar dentro da espaçonave."
+        },
+        "definition": {
+            "ru": "Запах жареного стейка — это один из наиболее распространенных запахов, которые описывают космонавты после выхода в открытый космос. Предполагается, что его вызывают высокоэнергетические ионы и частицы, которые прилипают к скафандрам.",
+            "uk": "Запах смаженого стейка — це один із найпоширеніших запахів, які описують космонавти після виходу у відкритий космос. Припускається, що його викликають високоенергетичні іони та частинки, які прилипають до скафандрів.",
+            "en": "The smell of fried steak is one of the most common smells astronauts report after spacewalks. It's thought to be caused by high-energy ions and particles that stick to their suits.",
+            "es": "El olor a filete frito es uno de los olores más comunes que los astronautas describen después de las caminatas espaciales. Se cree que es causado por iones y partículas de alta energía que se adhieren a sus trajes espaciales.",
+            "pt": "O cheiro de bife frito é um dos cheiros mais comuns que os astronautas descrevem após las caminadas espaciales. Acredita-se que seja causado por íons e partículas de alta energia que se aderem aos seus trajes espaciales."
+        },
+        "antipod": {
+            "ru": "жжёные бисквиты",
+            "uk": "палені бісквіти",
+            "en": "burnt biscuits",
+            "es": "galletas quemadas",
+            "pt": "biscoitos queimados"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих запахов космоса упоминается чаще?",
+            "uk": "Який з цих запахів космосу згадується частіше?",
+            "en": "Which of these space smells is mentioned more often?",
+            "es": "¿Cuál de estos olores del espacio se menciona más a menudo?",
+            "pt": "Qual desses cheiros do espaço é mencionado com mais frequência?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Odor_of_outer_space"
+    },
+    "imgFlag": "quiz"
+}

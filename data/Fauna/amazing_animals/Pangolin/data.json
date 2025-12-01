@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Панголин",
+            "uk": "Панголін",
+            "en": "Pangolin",
+            "es": "Pangolín",
+            "pt": "Pangolim"
+        },
+        "wrong": {
+            "ru": [
+                "Ёж",
+                "Дикобраз",
+                "Ехидна"
+            ],
+            "uk": [
+                "Їжак",
+                "Дикобраз",
+                "Єхидна"
+            ],
+            "en": [
+                "Hedgehog",
+                "Porcupine",
+                "Echidna"
+            ],
+            "es": [
+                "Erizo",
+                "Puercoespín",
+                "Equidna"
+            ],
+            "pt": [
+                "Ouriço",
+                "Porco-espinho",
+                "Equidna"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Чешуя.",
+                "Сворачивается.",
+                "Муравьед."
+            ],
+            "uk": [
+                "Луска.",
+                "Згортається.",
+                "Мурахоїд."
+            ],
+            "en": [
+                "Scales.",
+                "Rolls up.",
+                "Anteater."
+            ],
+            "es": [
+                "Escamas.",
+                "Se enrolla.",
+                "Oso hormiguero."
+            ],
+            "pt": [
+                "Escamas.",
+                "Se enrola.",
+                "Tamanduá."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "У кого нет волос, а только чешуя, но он не рыба?",
+                "Бронированный зверь, который прячется от хищников, как шар."
+            ],
+            "uk": [
+                "У кого немає волосся, а тільки луска, але він не риба?",
+                "Броньований звір, який ховається від хижаків, як куля."
+            ],
+            "en": [
+                "Who has no hair, only scales, but isn't a fish?",
+                "An armored beast that hides from predators by becoming a ball."
+            ],
+            "es": [
+                "¿Quién no tiene pelo, solo escamas, pero no es un pez?",
+                "Una bestia blindada que se esconde de los depredadores haciéndose una bola."
+            ],
+            "pt": [
+                "Quem não tem pelo, só escamas, mas não é um peixe?",
+                "Uma besta blindada que se esconde de predadores virando uma bola."
+            ]
+        },
+        "tooltip": {
+            "ru": "Сворачивается в шар, чтобы защититься.",
+            "uk": "Згортається в кулю, щоб захиститися.",
+            "en": "It rolls into a ball to protect itself.",
+            "es": "Se enrolla en una bola para protegerse.",
+            "pt": "Ele se enrola em uma bola para se proteger."
+        },
+        "qwestion": {
+            "ru": "Какое млекопитающее полностью покрыто кератиновыми чешуйками?",
+            "uk": "Який ссавець повністю вкритий кератиновими лусочками?",
+            "en": "What mammal is completely covered in keratin scales?",
+            "es": "¿Qué mamífero está completamente cubierto de escamas de queratina?",
+            "pt": "Que mamífero é completamente coberto por escamas de queratina?"
+        },
+        "definition": {
+            "ru": "Панголин — это ночное млекопитающее, обитающее в Африке и Азии, которое является единственным представителем отряда чешуйчатых. Он питается муравьями и термитами, используя свой длинный клейкий язык, и имеет уникальный защитный механизм, сворачиваясь в шар.",
+            "uk": "Панголін — це нічний ссавець, що мешкає в Африці та Азії, який є єдиним представником ряду лускатих. Він харчується мурахами та термітами, використовуючи свій довгий клейкий язик, і має унікальний захисний механізм, згортаючись у кулю.",
+            "en": "The pangolin is a nocturnal mammal found in Africa and Asia, and it is the only member of the order Pholidota. It feeds on ants and termites using its long, sticky tongue and has a unique defense mechanism of rolling into a ball.",
+            "es": "El pangolín es un mamífero nocturno que se encuentra en África y Asia, y es el único miembro del orden de los folidotos. Se alimenta de hormigas y termitas usando su larga y pegajosa lengua y tiene un mecanismo de defensa único, que es enrollarse en una bola.",
+            "pt": "O pangolim é um mamífero noturno encontrado na África e na Ásia, e é o único membro da ordem Pholidota. Ele se alimenta de formigas e cupins usando sua língua longa e pegajosa e tem um mecanismo de defesa único, que é se enrolar em uma bola."
+        },
+        "antipod": {
+            "ru": "Броненосец",
+            "uk": "Броненосець",
+            "en": "Armadillo",
+            "es": "Armadillo",
+            "pt": "Tatu"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих животных покрыто чешуёй, а не костяным панцирем?",
+            "uk": "Яка з цих тварин вкрита лускою, а не кістяним панциром?",
+            "en": "Which of these animals is covered in scales, not a bony shell?",
+            "es": "¿Cuál de estos animales está cubierto de escamas, no de un caparazón óseo?",
+            "pt": "Qual desses animais é coberto por escamas, e não por uma concha óssea?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Pangolin"
+    },
+    "imgFlag": "all" 
+}

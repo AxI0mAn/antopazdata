@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Порох",
+            "uk": "Порох",
+            "en": "Gunpowder",
+            "es": "Pólvora",
+            "pt": "Pólvora"
+        },
+        "wrong": {
+            "ru": [
+                "Бумага",
+                "Компас",
+                "Шелк"
+            ],
+            "uk": [
+                "Папір",
+                "Компас",
+                "Шовк"
+            ],
+            "en": [
+                "Paper",
+                "Compass",
+                "Silk"
+            ],
+            "es": [
+                "Papel",
+                "Brújula",
+                "Seda"
+            ],
+            "pt": [
+                "Papel",
+                "Bússola",
+                "Seda"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Китай.",
+                "Алхимия.",
+                "Взрыв."
+            ],
+            "uk": [
+                "Китай.",
+                "Алхімія.",
+                "Вибух."
+            ],
+            "en": [
+                "China.",
+                "Alchemy.",
+                "Explosion."
+            ],
+            "es": [
+                "China.",
+                "Alquimia.",
+                "Explosión."
+            ],
+            "pt": [
+                "China.",
+                "Alquimia.",
+                "Explosão."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Черный порошок, который издает громкий 'бум'.",
+                "Создан случайно, но изменил ход войны."
+            ],
+            "uk": [
+                "Чорний порошок, який видає гучний 'бум'.",
+                "Створений випадково, але змінив хід війни."
+            ],
+            "en": [
+                "A black powder that makes a loud 'boom'.",
+                "Created by accident, but changed the course of war."
+            ],
+            "es": [
+                "Un polvo negro que hace un fuerte 'bum'.",
+                "Creado por accidente, pero cambió el curso de la guerra."
+            ],
+            "pt": [
+                "Um pó preto que faz um 'bum' alto.",
+                "Criado por acidente, mas mudou o curso da guerra."
+            ]
+        },
+        "tooltip": {
+            "ru": "Они пытались создать эликсир бессмертия.",
+            "uk": "Вони намагалися створити еліксир безсмертя.",
+            "en": "They were trying to create an elixir of immortality.",
+            "es": "Intentaban crear un elixir de la inmortalidad.",
+            "pt": "Eles estavam tentando criar um elixir da imortalidade."
+        },
+        "qwestion": {
+            "ru": "Какое взрывчатое вещество было случайно изобретено китайскими алхимиками?",
+            "uk": "Яка вибухова речовина була випадково винайдена китайськими алхіміками?",
+            "en": "What explosive substance was accidentally invented by Chinese alchemists?",
+            "es": "¿Qué sustancia explosiva fue inventada accidentalmente por alquimistas chinos?",
+            "pt": "Que substância explosiva foi acidentalmente inventada por alquimistas chineses?"
+        },
+        "definition": {
+            "ru": "Порох — смесь серы, угля и селитры. Он был случайно изобретен китайскими алхимиками в 9 веке в поисках эликсира бессмертия. Хотя его изначально использовали в фейерверках, его военное применение быстро сделало его одним из самых важных изобретений в истории, изменив ход войн и геополитики.",
+            "uk": "Порох — суміш сірки, вугілля і селітри. Він був випадково винайдений китайськими алхіміками у 9 столітті в пошуках еліксиру безсмертя. Хоча його спочатку використовували у феєрверках, його військове застосування швидко зробило його одним із найважливіших винаходів в історії, змінивши хід воєн і геополітики.",
+            "en": "Gunpowder is a mixture of sulfur, charcoal, and saltpeter. It was accidentally invented by Chinese alchemists in the 9th century while searching for an elixir of immortality. Although initially used in fireworks, its military application quickly made it one of the most important inventions in history, changing the course of warfare and geopolitics.",
+            "es": "La pólvora es una mezcla de azufre, carbón y salitre. Fue inventada accidentalmente por alquimistas chinos en el siglo IX mientras buscaban un elixir de la inmortalidad. Aunque se usó inicialmente en fuegos artificiales, su aplicación militar rápidamente la convirtió en uno de los inventos más importantes de la historia, cambiando el curso de las guerras y la geopolítica.",
+            "pt": "A pólvora é uma mistura de enxofre, carvão e salitre. Foi inventada acidentalmente por alquimistas chineses no século IX enquanto procuravam um elixir da imortalidade. Embora usada inicialmente em fogos de artifício, sua aplicação militar rapidamente a tornou uma das invenções mais importantes da história, mudando o curso das guerras e da geopolítica."
+        },
+        "antipod": {
+            "ru": "Вата",
+            "uk": "Вата",
+            "en": "Cotton wool",
+            "es": "Algodón",
+            "pt": "Algodão"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих изобретений было создано для разрушения?",
+            "uk": "Який із цих винаходів був створений для руйнування?",
+            "en": "Which of these inventions was created for destruction?",
+            "es": "¿Cuál de estos inventos fue creado para la destrucción?",
+            "pt": "Qual dessas invenções foi criada para a destruição?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Gunpowder"
+    },
+    "imgFlag": "quizfoto" 
+}

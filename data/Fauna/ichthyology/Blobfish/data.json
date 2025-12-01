@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Рыба-капля",
+            "uk": "Риба-крапля",
+            "en": "Blobfish",
+            "es": "Pez borrón",
+            "pt": "Peixe-bolha"
+        },
+        "wrong": {
+            "ru": [
+                "Кальмар-вампир",
+                "Камбала",
+                "Удильщик"
+            ],
+            "uk": [
+                "Кальмар-вампір",
+                "Камбала",
+                "Вудильник"
+            ],
+            "en": [
+                "Vampire squid",
+                "Flounder",
+                "Anglerfish"
+            ],
+            "es": [
+                "Calamar vampiro",
+                "Lenguado",
+                "Pez pescador"
+            ],
+            "pt": [
+                "Lula-vampiro",
+                "Linguado",
+                "Peixe-diabo"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Глубоководный.",
+                "Желе.",
+                "Самая уродливая рыба."
+            ],
+            "uk": [
+                "Глибоководна.",
+                "Желе.",
+                "Найпотворніша риба."
+            ],
+            "en": [
+                "Deep-sea.",
+                "Gelatinous.",
+                "Ugliest fish."
+            ],
+            "es": [
+                "Aguas profundas.",
+                "Gelatinoso.",
+                "El pez más feo."
+            ],
+            "pt": [
+                "Águas profundas.",
+                "Gelatinoso.",
+                "O peixe mais feio."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Какая рыба как желе?",
+                "Какая рыба получила звание самой уродливой в мире?"
+            ],
+            "uk": [
+                "Яка риба як желе?",
+                "Яка риба отримала звання найпотворнішої у світі?"
+            ],
+            "en": [
+                "Which fish is like jelly?",
+                "Which fish was named the world's ugliest?"
+            ],
+            "es": [
+                "¿Qué pez es como gelatina?",
+                "¿Qué pez fue nombrado el más feo del mundo?"
+            ],
+            "pt": [
+                "Qual peixe é como gelatina?",
+                "Qual peixe foi nomeado o mais feio do mundo?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Из-за потери давления на поверхности, её тело становится желеобразным и бесформенным.",
+            "uk": "Через втрату тиску на поверхні, її тіло стає желеподібним і безформним.",
+            "en": "Due to pressure loss on the surface, its body becomes gelatinous and shapeless.",
+            "es": "Debido a la pérdida de presión en la superficie, su cuerpo se vuelve gelatinoso y sin forma.",
+            "pt": "Devido à perda de pressão na superfície, seu corpo se torna gelatinoso e sem forma."
+        },
+        "qwestion": {
+            "ru": "Какая рыба имеет желеобразное тело, чтобы жить в глубине?",
+            "uk": "Яка риба має желеподібне тіло, щоб жити на глибині?",
+            "en": "Which fish has a gelatinous body to live in the deep sea?",
+            "es": "¿Qué pez tiene un cuerpo gelatinoso para vivir en las profundidades?",
+            "pt": "Qual peixe tem um corpo gelatinoso para viver nas profundezas?"
+        },
+        "definition": {
+            "ru": "Рыба-капля — глубоководная рыба, обитающая у побережья Австралии и Тасмании. Её желеобразное тело позволяет ей выдерживать огромное давление на глубинах до 1200 метров, где она пассивно питается, не тратя энергию.",
+            "uk": "Риба-крапля — глибоководна риба, що мешкає біля узбережжя Австралії та Тасманії. Її желеподібне тіло дозволяє їй витримувати величезний тиск на глибинах до 1200 метрів, де вона пасивно харчується, не витрачаючи енергію.",
+            "en": "The blobfish is a deep-sea fish that lives off the coasts of Australia and Tasmania. Its gelatinous body allows it to withstand immense pressure at depths up to 1200 meters, where it feeds passively without expending energy.",
+            "es": "El pez borrón es un pez de aguas profundas que vive frente a las costas de Australia y Tasmania. Su cuerpo gelatinoso le permite soportar una inmensa presión a profundidades de hasta 1200 metros, donde se alimenta pasivamente sin gastar energía.",
+            "pt": "O peixe-bolha é um peixe de águas profundas que vive na costa da Austrália e Tasmânia. Seu corpo gelatinoso permite que ele suporte uma pressão imensa em profundidades de até 1200 metros, onde se alimenta passivamente sem gastar energia."
+        },
+        "antipod": {
+            "ru": "Морской конек",
+            "uk": "Морський коник",
+            "en": "Seahorse",
+            "es": "Caballito de mar",
+            "pt": "Cavalo-marinho"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих двух рыб является обитателем самых больших глубин?",
+            "uk": "Яка з цих двох риб є мешканцем найбільших глибин?",
+            "en": "Which of these two fish is an inhabitant of the greatest depths?",
+            "es": "¿Cuál de estos dos peces habita en las mayores profundidades?",
+            "pt": "Qual desses dois peixes habita as maiores profundidades?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Blobfish"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Морская звезда",
+            "uk": "Морська зірка",
+            "en": "Starfish",
+            "es": "Estrella de mar",
+            "pt": "Estrela-do-mar"
+        },
+        "wrong": {
+            "ru": [
+                "Морской огурец",
+                "Трепанг",
+                "Морская лилия"
+            ],
+            "uk": [
+                "Морський огірок",
+                "Трепанг",
+                "Морська лілія"
+            ],
+            "en": [
+                "Sea cucumber",
+                "Trepang",
+                "Sea lily"
+            ],
+            "es": [
+                "Pepino de mar",
+                "Trepang",
+                "Lirio de mar"
+            ],
+            "pt": [
+                "Pepino-do-mar",
+                "Trepangue",
+                "Lírio-do-mar"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Лучи.",
+                "Регенерация.",
+                "Присоски."
+            ],
+            "uk": [
+                "Промені.",
+                "Регенерація.",
+                "Присоски."
+            ],
+            "en": [
+                "Arms.",
+                "Regeneration.",
+                "Suction cups."
+            ],
+            "es": [
+                "Brazos.",
+                "Regeneración.",
+                "Ventosas."
+            ],
+            "pt": [
+                "Braços.",
+                "Regeneração.",
+                "Ventosas."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Звезда на дне, но не светит?",
+                "У нее нет мозга, но она может вырастить новую руку."
+            ],
+            "uk": [
+                "Зірка на дні, але не світиться?",
+                "Вона не має мозку, але може виростити нову руку."
+            ],
+            "en": [
+                "A star on the bottom, but it doesn't shine?",
+                "It has no brain, but it can regrow a new arm."
+            ],
+            "es": [
+                "¿Una estrella en el fondo, pero no brilla?",
+                "No tiene cerebro, pero puede regenerar un brazo nuevo."
+            ],
+            "pt": [
+                "Uma estrela no fundo, mas não brilha?",
+                "Não tem cérebro, mas pode regenerar um braço novo."
+            ]
+        },
+        "tooltip": {
+            "ru": "Существует более 2000 видов, отличающихся по цвету, размеру и количеству лучей.",
+            "uk": "Існує понад 2000 видів, що відрізняються за кольором, розміром і кількістю променів.",
+            "en": "There are over 2,000 species, which vary in color, size, and the number of arms.",
+            "es": "Existen más de 2,000 especies, que varían en color, tamaño y número de brazos.",
+            "pt": "Existem mais de 2.000 espécies, que variam em cor, tamanho e número de braços."
+        },
+        "qwestion": {
+            "ru": "Какое морское животное может выворачивать свой желудок, чтобы съесть добычу?",
+            "uk": "Яка морська тварина може вивертати свій шлунок назовні, щоб з'їсти здобич?",
+            "en": "What marine animal can push its stomach out of its mouth to eat its prey?",
+            "es": "¿Qué animal marino puede sacar su estómago por la boca para comer a su presa?",
+            "pt": "Que animal marinho pode ejetar seu estômago pela boca para comer sua presa?"
+        },
+        "definition": {
+            "ru": "Морская звезда — это морское беспозвоночное животное, которое имеет лучи, расходящиеся от центрального диска. Известна своей уникальной способностью к регенерации и необычным способом питания.",
+            "uk": "Морська зірка — це морська безхребетна тварина, яка має промені, що розходяться від центрального диска. Відома своєю унікальною здатністю до регенерації та незвичайним способом живлення.",
+            "en": "A starfish is a marine invertebrate with arms radiating from a central disk. It is known for its unique ability to regenerate lost limbs and its unusual feeding method.",
+            "es": "La estrella de mar es un invertebrado marino con brazos que se extienden desde un disco central. Es conocida por su habilidad única para regenerar miembros perdidos y su inusual método de alimentación.",
+            "pt": "A estrela-do-mar é um invertebrado marinho com braços que irradiam de um disco central. É conhecida por sua capacidade única de regenerar membros perdidos e seu método de alimentação incomum."
+        },
+        "antipod": {
+            "ru": "Морской ёж",
+            "uk": "Морський їжак",
+            "en": "Sea urchin",
+            "es": "Erizo de mar",
+            "pt": "Ouriço-do-mar"
+        },
+        "hintFuiz": {
+            "ru": "Кто из них может восстановить тело из одного луча?",
+            "uk": "Хто з них може відновити тіло з одного променя?",
+            "en": "Which of them can regrow a body from a single arm?",
+            "es": "¿Cuál de ellos puede regenerar un cuerpo a partir de un solo brazo?",
+            "pt": "Qual deles pode regenerar um corpo a partir de um único braço?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Starfish"
+    },
+    "imgFlag": "all" 
+}

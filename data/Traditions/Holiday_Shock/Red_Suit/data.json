@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Красный костюм",
+            "uk": "Червоний костюм",
+            "en": "Red Suit",
+            "es": "Traje Rojo",
+            "pt": "Traje Vermelho"
+        },
+        "wrong": {
+            "ru": [
+                "Сапоги",
+                "Сани",
+                "Мешок"
+            ],
+            "uk": [
+                "Чоботи",
+                "Сани",
+                "Мішок"
+            ],
+            "en": [
+                "Boots",
+                "Sleigh",
+                "Sack"
+            ],
+            "es": [
+                "Botas",
+                "Trineo",
+                "Saco"
+            ],
+            "pt": [
+                "Botas",
+                "Trenó",
+                "Saco"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Санта.",
+                "Маркетинг.",
+                "Цвет."
+            ],
+            "uk": [
+                "Санта.",
+                "Маркетинг.",
+                "Колір."
+            ],
+            "en": [
+                "Santa.",
+                "Marketing.",
+                "Color."
+            ],
+            "es": [
+                "Papá Noel.",
+                "Marketing.",
+                "Color."
+            ],
+            "pt": [
+                "Papai Noel.",
+                "Marketing.",
+                "Cor."
+            ]
+        },
+        "tooltip": {
+            "ru": "До этого Санта носил зеленый или коричневый костюм",
+            "uk": "До цього Санта носив зелений або коричневий костюм",
+            "en": "Before this, Santa wore a green or brown suit",
+            "es": "Antes de esto, Papá Noel usaba un traje verde o marrón",
+            "pt": "Antes disso, o Papai Noel usava um terno verde ou marrom"
+        },
+        "qwestion": {
+            "ru": "Во что переоделся Санта в 1930-х годах?",
+            "uk": "У що переодягнувся Санта в 1930-х роках?",
+            "en": "What did Santa change into in the 1930s?",
+            "es": "¿En qué se vistió Papá Noel en la década de 1930?",
+            "pt": "Para que o Papai Noel se vestiu nos anos 1930?"
+        },
+        "definition": {
+            "ru": "Красный костюм - это узнаваемый наряд Санта-Клауса, который был популяризирован в 1930-х годах благодаря рекламной кампании Coca-Cola, став его традиционным образом.",
+            "uk": "Червоний костюм — це впізнаваний наряд Санта-Клауса, який був популяризований у 1930-х роках завдяки рекламній кампанії Coca-Cola, ставши його традиційним образом.",
+            "en": "The red suit is the recognizable attire of Santa Claus, popularized in the 1930s by a Coca-Cola advertising campaign, making it his traditional image.",
+            "es": "El traje rojo es la vestimenta reconocible de Papá Noel, popularizada en la década de 1930 por una campaña publicitaria de Coca-Cola, convirtiéndose en su imagen tradicional.",
+            "pt": "O traje vermelho é a vestimenta reconhecível do Papai Noel, popularizada na década de 1930 por uma campanha publicitária da Coca-Cola, tornando-se sua imagem tradicional."
+        },
+        "antipod": {
+            "ru": "Зеленый костюм",
+            "uk": "Зелений костюм",
+            "en": "Green Suit",
+            "es": "Traje Verde",
+            "pt": "Traje Verde"
+        },
+        "hintFuiz": {
+            "ru": "Этот фирменный наряд Санты, был придуман производителем напитков.",
+            "uk": "Цей фірмовий наряд Санти, був придуманий виробником напоїв.",
+            "en": "This signature Santa suit was created by a beverage maker.",
+            "es": "Este traje distintivo de Papá Noel fue creado por un fabricante de bebidas.",
+            "pt": "Este traje característico do Papai Noel foi criado por um fabricante de bebidas."
+        },
+        "riddle": {
+            "ru": [
+                "Наряд, который популяризовала известная газировка.",
+                "Яркая одежда, которая помогла Санте стать звездой."
+            ],
+            "uk": [
+                "Вбрання, яке популяризувала відома газировка.",
+                "Яскравий одяг, який допоміг Санті стати зіркою."
+            ],
+            "en": [
+                "An outfit popularized by a famous soda.",
+                "Bright clothing that helped Santa become a star."
+            ],
+            "es": [
+                "Un atuendo popularizado por un refresco famoso.",
+                "Una vestimenta brillante que ayudó a Papá Noel a convertirse en una estrella."
+            ],
+            "pt": [
+                "Uma roupa popularizada por um refrigerante famoso.",
+                "Uma vestimenta brilhante que ajudou o Papai Noel a se tornar uma estrela."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Santa_Claus#Appearance"
+    },
+    "imgFlag": "quizfoto"
+}

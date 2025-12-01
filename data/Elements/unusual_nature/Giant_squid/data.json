@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Гигантский кальмар",
+            "uk": "Гігантський кальмар",
+            "en": "Giant squid",
+            "es": "Calamar gigante",
+            "pt": "Lula gigante"
+        },
+        "wrong": {
+            "ru": [
+                "Кашалот",
+                "Косатка",
+                "Колибри"
+            ],
+            "uk": [
+                "Кашалот",
+                "Косатка",
+                "Колібрі"
+            ],
+            "en": [
+                "Cachalot",
+                "Orca",
+                "Hummingbird"
+            ],
+            "es": [
+                "Cachalote",
+                "Orca",
+                "Colibrí"
+            ],
+            "pt": [
+                "Cachalote",
+                "Orca",
+                "Beija-flor"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Глубина.",
+                "Глаза.",
+                "Неуловимость."
+            ],
+            "uk": [
+                "Глибина.",
+                "Очі.",
+                "Невловимість."
+            ],
+            "en": [
+                "Depth.",
+                "Eyes.",
+                "Elusiveness."
+            ],
+            "es": [
+                "Profundidad.",
+                "Ojos.",
+                "Invisibilidad."
+            ],
+            "pt": [
+                "Profundidade.",
+                "Olhos.",
+                "Invisibilidade."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Его глаза размером с тарелку.",
+                "Живет в темных глубинах океана."
+            ],
+            "uk": [
+                "Його очі розміром з тарілку.",
+                "Живе в темних глибинах океану."
+            ],
+            "en": [
+                "Its eyes are the size of a plate.",
+                "Lives in the dark depths of the ocean."
+            ],
+            "es": [
+                "Sus ojos son del tamaño de un plato.",
+                "Vive en las oscuras profundidades del océano."
+            ],
+            "pt": [
+                "Seus olhos são do tamanho de um prato.",
+                "Vive nas escuras profundezas do oceano."
+            ]
+        },
+        "tooltip": {
+            "ru": "Его глаза - до 27 см в диаметре.",
+            "uk": "Його очі - до 27 см в діаметрі.",
+            "en": "Its eyes are up to 27 cm in diameter.",
+            "es": "Sus ojos miden hasta 27 cm de diámetro.",
+            "pt": "Seus olhos medem até 27 cm de diâmetro."
+        },
+        "qwestion": {
+            "ru": "Какое существо имеет самые большие глаза на планете?",
+            "uk": "Яка істота має найбільші очі на планеті?",
+            "en": "What creature has the largest eyes on the planet?",
+            "es": "¿Qué criatura tiene los ojos más grandes del planeta?",
+            "pt": "Que criatura tem os olhos mais grandes do planeta?"
+        },
+        "definition": {
+            "ru": "Гигантский кальмар - это глубоководный моллюск, считающийся крупнейшим беспозвоночным. Его гигантские глаза позволяют улавливать даже слабый свет. Они являются самыми большими глазами в животном царстве.",
+            "uk": "Гігантський кальмар - це глибоководний молюск, що вважається найбільшим безхребетним. Його гігантські очі дозволяють вловлювати навіть слабке світло. Вони є найбільшими очима в тваринному царстві.",
+            "en": "The giant squid is a deep-sea mollusk considered the largest invertebrate. Its gigantic eyes allow it to detect even faint light. They are the largest eyes in the animal kingdom.",
+            "es": "El calamar gigante es un molusco de aguas profundas considerado el invertebrado más grande. Sus ojos gigantes le permiten detectar incluso la luz tenue. Son los ojos más grandes del reino animal.",
+            "pt": "A lula gigante é um molusco de águas profundas considerado o maior invertebrado. Seus olhos gigantes permitem que ela detecte até mesmo a luz fraca. São os maiores olhos do reino animal."
+        },
+        "antipod": {
+            "ru": "Синий кит",
+            "uk": "Синій кит",
+            "en": "Blue whale",
+            "es": "Ballena azul",
+            "pt": "Baleia-azul"
+        },
+        "hintFuiz": {
+            "ru": "У кого из них самые большие глаза?",
+            "uk": "У кого з них найбільші очі?",
+            "en": "Which one has the largest eyes?",
+            "es": "¿Cuál de ellos tiene los ojos más grandes?",
+            "pt": "Qual deles tem os olhos maiores?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Giant_squid"
+    },
+    "imgFlag": "all" 
+}

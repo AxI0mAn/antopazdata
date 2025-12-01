@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Медоед",
+            "uk": "Медоїд",
+            "en": "Honey Badger",
+            "es": "Tejón de la miel",
+            "pt": "Texugo-do-mel"
+        },
+        "wrong": {
+            "ru": [
+                "Барсук",
+                "Росомаха",
+                "Скунс"
+            ],
+            "uk": [
+                "Борсук",
+                "Росомаха",
+                "Скунс"
+            ],
+            "en": [
+                "Badger",
+                "Wolverine",
+                "Skunk"
+            ],
+            "es": [
+                "Tejón",
+                "Glotón",
+                "Mofeta"
+            ],
+            "pt": [
+                "Texugo",
+                "Carcaju",
+                "Gambá"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Бесстрашный.",
+                "Мед.",
+                "Выносливый."
+            ],
+            "uk": [
+                "Безстрашний.",
+                "Мед.",
+                "Витривалий."
+            ],
+            "en": [
+                "Fearless.",
+                "Honey.",
+                "Resilient."
+            ],
+            "es": [
+                "Audaz.",
+                "Miel.",
+                "Resistente."
+            ],
+            "pt": [
+                "Destemido.",
+                "Mel.",
+                "Resiliente."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Животное, которое любит мед, но имеет репутацию очень злого.",
+                "Чёрно-белый зверь, способный отпугнуть льва."
+            ],
+            "uk": [
+                "Тварина, яка любить мед, але має репутацію дуже злої.",
+                "Чорно-білий звір, здатний відлякати лева."
+            ],
+            "en": [
+                "An animal that loves honey but has a very bad temper.",
+                "A black-and-white beast that can scare away a lion."
+            ],
+            "es": [
+                "¿Un animal que le encanta la miel pero tiene muy mal genio?",
+                "Una bestia en blanco y negro capaz de ahuyentar a un león."
+            ],
+            "pt": [
+                "Um animal que adora mel, mas tem um temperamento muito ruim?",
+                "Uma besta preta e branca capaz de afugentar um leão."
+            ]
+        },
+        "tooltip": {
+            "ru": "Выдерживает укусы льва и устойчив к змеиному яду!",
+            "uk": "Витримує укуси лева та стійкий до зміїної отрути!",
+            "en": "It can withstand lion bites and is resistant to snake venom!",
+            "es": "¡Soporta las mordeduras de leones y es resistente al veneno de serpiente!",
+            "pt": "Ele resiste a mordidas de leões e é resistente ao veneno de cobra!"
+        },
+        "qwestion": {
+            "ru": "Какое животное, обитающее в Африке и Азии, известно своей бесстрашностью и агрессивностью?",
+            "uk": "Яка тварина, що мешкає в Африці та Азії, відома своєю безстрашністю та агресивністю?",
+            "en": "What animal, found in Africa and Asia, is known for its fearlessness and aggression?",
+            "es": "¿Qué animal, que vive en África y Asia, es conocido por su audacia y agresividad?",
+            "pt": "Que animal, encontrado na África e na Ásia, é conhecido por sua audácia e agressividade?"
+        },
+        "definition": {
+            "ru": "Медоед — это мускулистое млекопитающее из семейства куньих. Он известен своей толстой кожей и бесстрашием, нападая на животных гораздо крупнее себя. Его рацион включает в себя мед, а также мелких млекопитающих и змей.",
+            "uk": "Медоїд — це мускулистий ссавець із сімейства куницевих. Він відомий своєю товстою шкірою та безстрашністю, нападаючи на тварин, значно більших за себе. Його раціон включає мед, а також дрібних ссавців та змій.",
+            "en": "The honey badger is a muscular mammal from the weasel family. It is known for its thick skin and fearlessness, often attacking animals much larger than itself. Its diet includes honey, as well as small mammals and snakes.",
+            "es": "El tejón de la miel es un mamífero musculoso de la familia de los mustélidos. Es conocido por su piel gruesa y su audacia, atacando a animales mucho más grandes que él. Su dieta incluye miel, así como pequeños mamíferos y serpientes.",
+            "pt": "O tejón de la miel es un mamífero musculoso de la familia de los mustélidos. Es conocido por su piel gruesa y su audacia, atacando a animales mucho más grandes que él. Su dieta incluye miel, así como pequeños mamíferos y serpientes."
+        },
+        "antipod": {
+            "ru": "Енот",
+            "uk": "Єнот",
+            "en": "Raccoon",
+            "es": "Mapache",
+            "pt": "Guaxinim"
+        },
+        "hintFuiz": {
+            "ru": "Кто из них самый бесстрашный в мире?",
+            "uk": "Хто з них найбезстрашніший у світі?",
+            "en": "Which of them is the most fearless in the world?",
+            "es": "¿Cuál de ellos es el más intrépido del mundo?",
+            "pt": "Qual deles é o mais destemido do mundo?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Honey_badger"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Перистые облака",
+            "uk": "Перисті хмари",
+            "en": "Cirrus clouds",
+            "es": "Nubes cirros",
+            "pt": "Nuvens cirrus"
+        },
+        "wrong": {
+            "ru": [
+                "Кучевые облака",
+                "Слоистые облака",
+                "Слоисто-дождевые облака"
+            ],
+            "uk": [
+                "Купчасті хмари",
+                "Шаруваті хмари",
+                "Шарувато-дощові хмари"
+            ],
+            "en": [
+                "Cumulus clouds",
+                "Stratus clouds",
+                "Nimbostratus clouds"
+            ],
+            "es": [
+                "Nubes cúmulos",
+                "Nubes estratos",
+                "Nubes nimboestratos"
+            ],
+            "pt": [
+                "Nuvens cúmulos",
+                "Nuvens estratos",
+                "Nuvens nimbostratos"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Перо.",
+                "Лед.",
+                "Высоко."
+            ],
+            "uk": [
+                "Перо.",
+                "Лід.",
+                "Високо."
+            ],
+            "en": [
+                "Feather.",
+                "Ice.",
+                "High."
+            ],
+            "es": [
+                "Pluma.",
+                "Hielo.",
+                "Alto."
+            ],
+            "pt": [
+                "Pena.",
+                "Gelo.",
+                "Alto."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Висят высоко, как тонкие нити.",
+                "Состоят из льда, но не приносят холода."
+            ],
+            "uk": [
+                "Висять високо, як тонкі нитки.",
+                "Складаються з льоду, але не приносять холоду."
+            ],
+            "en": [
+                "They hang high like thin strands.",
+                "Made of ice, but they bring no cold."
+            ],
+            "es": [
+                "Cuelgan alto como hilos finos.",
+                "Hechas de hielo, pero no traen frío."
+            ],
+            "pt": [
+                "Eles pendem alto como fios finos.",
+                "Feitas de gelo, mas não trazem frio."
+            ]
+        },
+        "tooltip": {
+            "ru": "Они похожи на тонкие нити или перья.",
+            "uk": "Вони схожі на тонкі нитки або пір'я.",
+            "en": "They look like thin wisps or feathers.",
+            "es": "Se parecen a hilos o plumas finas.",
+            "pt": "Elas se parecem com fios finos ou penas."
+        },
+        "qwestion": {
+            "ru": "Какие самые высокие облака состоят исключительно из кристаллов льда?",
+            "uk": "Які найвищі хмари складаються виключно з кристалів льоду?",
+            "en": "Which are the highest clouds, composed entirely of ice crystals?",
+            "es": "¿Cuáles son las nubes más altas, compuestas enteramente de cristales de hielo?",
+            "pt": "Quais são as nuvens mais altas, compostas inteiramente de cristais de gelo?"
+        },
+        "definition": {
+            "ru": "Перистые облака — это высокие, тонкие и перистые облака, состоящие исключительно из ледяных кристаллов. Они формируются на высоте более 6000 метров (20 000 футов) в верхней тропосфере. Их вид часто напоминает тонкие полосы или перья. Перистые облака являются признаком приближающегося тёплого фронта и обычно не дают осадков на поверхности земли.",
+            "uk": "Перисті хмари — це високі, тонкі та перисті хмари, що складаються виключно з крижаних кристалів. Вони формуються на висоті понад 6000 метрів (20 000 футів) у верхній тропосфері. Їх вигляд часто нагадує тонкі смуги або пір'я. Перисті хмари є ознакою наближення теплого фронту і зазвичай не дають опадів на поверхні землі.",
+            "en": "Cirrus clouds are high-altitude, thin, and wispy clouds composed exclusively of ice crystals. They form at altitudes of over 6,000 meters (20,000 feet) in the upper troposphere. Their appearance often resembles fine streaks or feathered plumes. Cirrus clouds are a sign of an approaching warm front and typically do not produce precipitation that reaches the ground.",
+            "es": "Las nubes cirros son nubes de gran altitud, delgadas y tenues, compuestas exclusivamente de cristales de hielo. Se forman a altitudes de más de 6,000 metros (20,000 pies) en la troposfera superior. Su apariencia a menudo se asemeja a finas rayas o penachos emplumados. Las nubes cirros son un signo de un frente cálido que se aproxima y, por lo general, no producen precipitación que llegue al suelo.",
+            "pt": "As nuvens cirrus são nuvens de alta altitude, finas e esfarrapadas, compostas exclusivamente de cristais de gelo. Elas se formam em altitudes de mais de 6.000 metros (20.000 pés) na troposfera superior. Sua aparência muitas vezes se assemelha a finas faixas ou plumas emplumadas. As nuvens cirrus são um sinal de uma frente quente que se aproxima e, tipicamente, não produzem precipitação que atinge o solo."
+        },
+        "antipod": {
+            "ru": "Слоисто-кучевые облака",
+            "uk": "Шарувато-купчасті хмари",
+            "en": "Stratocumulus clouds",
+            "es": "Nubes estratocúmulos",
+            "pt": "Nuvens estratocúmulos"
+        },
+        "hintFuiz": {
+            "ru": "Какие из этих облаков находятся на самой большой высоте?",
+            "uk": "Яка з цих хмар знаходиться на найбільшій висоті?",
+            "en": "Which of these clouds are found at the highest altitude?",
+            "es": "¿Cuál de estas nubes se encuentra a la mayor altitud?",
+            "pt": "Qual dessas nuvens é encontrada na maior altitude?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Cirrus_cloud"
+    },
+    "imgFlag": "all" 
+}

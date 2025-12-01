@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Солончак Уюни",
+            "uk": "Солончак Уюні",
+            "en": "Salar de Uyuni",
+            "es": "Salar de Uyuni",
+            "pt": "Salar de Uyuni"
+        },
+        "wrong": {
+            "ru": [
+                "Мертвое море",
+                "Долина Смерти",
+                "Озеро Байкал"
+            ],
+            "uk": [
+                "Мертве море",
+                "Долина Смерті",
+                "Озеро Байкал"
+            ],
+            "en": [
+                "Dead Sea",
+                "Death Valley",
+                "Lake Baikal"
+            ],
+            "es": [
+                "Mar Muerto",
+                "Valle de la Muerte",
+                "Lago Baikal"
+            ],
+            "pt": [
+                "Mar Morto",
+                "Vale da Morte",
+                "Lago Baikal"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Зеркало.",
+                "Соль.",
+                "Боливия."
+            ],
+            "uk": [
+                "Дзеркало.",
+                "Сіль.",
+                "Болівія."
+            ],
+            "en": [
+                "Mirror.",
+                "Salt.",
+                "Bolivia."
+            ],
+            "es": [
+                "Espejo.",
+                "Sal.",
+                "Bolivia."
+            ],
+            "pt": [
+                "Espelho.",
+                "Sal.",
+                "Bolívia."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "После дождя превращается в огромное зеркало.",
+                "Хранит под собой много лития."
+            ],
+            "uk": [
+                "Після дощу перетворюється на величезне дзеркало.",
+                "Зберігає під собою багато літію."
+            ],
+            "en": [
+                "After rainfall, it becomes a giant mirror.",
+                "Holds a lot of lithium beneath its surface."
+            ],
+            "es": [
+                "Después de la lluvia, se convierte en un espejo gigante.",
+                "Contiene mucho litio bajo su superficie."
+            ],
+            "pt": [
+                "Após a chuva, transforma-se em um espelho gigante.",
+                "Contém muito lítio sob sua superfície."
+            ]
+        },
+        "tooltip": {
+            "ru": "Оно превращается в огромное зеркало после дождя.",
+            "uk": "Воно перетворюється на величезне дзеркало після дощу.",
+            "en": "It turns into a giant mirror after rainfall.",
+            "es": "Se convierte en un espejo gigante después de la lluvia.",
+            "pt": "Ele se transforma em um espelho gigante após a chuva."
+        },
+        "qwestion": {
+            "ru": "Какое место в Боливии является крупнейшим в мире солончаком?",
+            "uk": "Яке місце в Болівії є найбільшим у світі солончаком?",
+            "en": "What place in Bolivia is the world's largest salt flat?",
+            "es": "¿Qué lugar en Bolivia es el salar más grande del mundo?",
+            "pt": "Qual lugar na Bolívia é o maior deserto de sal do mundo?"
+        },
+        "definition": {
+            "ru": "Солончак Уюни — это крупнейший в мире солончак, расположенный на юго-западе Боливии, в департаменте Потоси. Он занимает площадь более 10 000 квадратных километров. Солончак образовался в результате высыхания доисторического озера и является одним из крупнейших в мире источников лития. В сезон дождей тонкий слой воды покрывает поверхность, превращая солончак в самое большое природное зеркало на планете, которое используется для калибровки спутников.",
+            "uk": "Солончак Уюні — це найбільший у світі солончак, розташований на південному заході Болівії, в департаменті Потосі. Він займає площу понад 10 000 квадратних кілометрів. Солончак утворився в результаті висихання доісторичного озера і є одним з найбільших у світі джерел літію. У сезон дощів тонкий шар води покриває поверхню, перетворюючи солончак на найбільше природне дзеркало на планеті, яке використовується для калібрування супутників.",
+            "en": "The Salar de Uyuni is the world's largest salt flat, located in the Potosí Department of southwest Bolivia. It covers an area of over 10,000 square kilometers. The salt flat was formed as a result of a prehistoric lake drying up and is one of the world's largest sources of lithium. During the rainy season, a thin layer of water covers the surface, transforming the salt flat into the largest natural mirror on the planet, which is used for calibrating satellites.",
+            "es": "El Salar de Uyuni es el salar más grande del mundo, ubicado en el Departamento de Potosí, en el suroeste de Bolivia. Cubre un área de más de 10.000 kilómetros cuadrados. El salar se formó como resultado del secado de un lago prehistórico y es una de las mayores fuentes de litio del mundo. Durante la temporada de lluvias, una fina capa de agua cubre la superficie, transformando el salar en el espejo natural más grande del planeta, que se utiliza para calibrar satélites.",
+            "pt": "O Salar de Uyuni é o maior deserto de sal do mundo, localizado no Departamento de Potosí, no sudoeste da Bolívia. Ele cobre uma área de mais de 10.000 quilômetros quadrados. O deserto de sal foi formado como resultado da secagem de um lago pré-histórico e é uma das maiores fontes de lítio do mundo. Durante a estação chuvosa, uma fina camada de água cobre a superfície, transformando o salar no maior espelho natural do planeta, que é usado para calibrar satélites."
+        },
+        "antipod": {
+            "ru": "Озеро Байкал",
+            "uk": "Озеро Байкал",
+            "en": "Lake Baikal",
+            "es": "Lago Baikal",
+            "pt": "Lago Baikal"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих мест является крупнейшим солончаком?",
+            "uk": "Яке з цих місць є найбільшим солончаком?",
+            "en": "Which of these places is the largest salt flat?",
+            "es": "¿Cuál de estos lugares es el salar más grande?",
+            "pt": "Qual desses lugares é o maior deserto de sal?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Salar_de_Uyuni"
+    },
+    "imgFlag": "quizfoto" 
+}

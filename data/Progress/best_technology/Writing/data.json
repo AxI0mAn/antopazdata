@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Письменность",
+            "uk": "Писемність",
+            "en": "Writing",
+            "es": "La escritura",
+            "pt": "A escrita"
+        },
+        "wrong": {
+            "ru": [
+                "Печать",
+                "Телефон",
+                "Компьютер"
+            ],
+            "uk": [
+                "Друк",
+                "Телефон",
+                "Комп'ютер"
+            ],
+            "en": [
+                "Printing",
+                "Telephone",
+                "Computer"
+            ],
+            "es": [
+                "La imprenta",
+                "El teléfono",
+                "La computadora"
+            ],
+            "pt": [
+                "A impressão",
+                "O telefone",
+                "O computador"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Шумеры.",
+                "Клинопись.",
+                "История."
+            ],
+            "uk": [
+                "Шумери.",
+                "Клинопис.",
+                "Історія."
+            ],
+            "en": [
+                "Sumerians.",
+                "Cuneiform.",
+                "History."
+            ],
+            "es": [
+                "Sumerios.",
+                "Cuneiforme.",
+                "Historia."
+            ],
+            "pt": [
+                "Sumérios.",
+                "Cuneiforme.",
+                "História."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Способ передачи информации.",
+                "Способ общения."
+            ],
+            "uk": [
+                "Спосіб передачі інформації.",
+                "Спосіб спілкування."
+            ],
+            "en": [
+                "A way to transmit information.",
+                "A method of communication."
+            ],
+            "es": [
+                "Una forma de transmitir información.",
+                "Un método de comunicación."
+            ],
+            "pt": [
+                "Uma forma de transmitir informação.",
+                "Um método de comunicação."
+            ]
+        },
+        "tooltip": {
+            "ru": "Придумано шумерами и стало основой для нашей цивилизации.",
+            "uk": "Придумано шумерами і стало основою для нашої цивілізації.",
+            "en": "Invented by the Sumerians and became the basis for our civilization.",
+            "es": "Inventado por los sumerios y se convirtió en la base de nuestra civilización.",
+            "pt": "Inventado pelos sumérios e se tornou a base da nossa civilização."
+        },
+        "qwestion": {
+            "ru": "Какое изобретение, изначально использовалось для ведения учета зерна и скота?",
+            "uk": "Який винахід, спочатку використовувався для ведення обліку зерна і худоби?",
+            "en": "What invention was originally used to keep track of grain and livestock?",
+            "es": "¿Qué invento se usó originalmente para llevar la cuenta de grano y ganado?",
+            "pt": "Qual invenção foi originalmente usada para manter o controle de grãos e gado?"
+        },
+        "definition": {
+            "ru": "Письменность — это система символов для записи языка. Она возникла в Шумере около 3400 года до н.э. с клинописи, которая изначально служила для ведения хозяйственного учета. Это изобретение стало основой для развития цивилизации, позволяя сохранять знания и передавать их следующим поколениям, а не только устно.",
+            "uk": "Писемність — це система символів для запису мови. Вона виникла в Шумері близько 3400 року до н.е. з клинопису, який спочатку служив для ведення господарського обліку. Цей винахід став основою для розвитку цивілізації, дозволяючи зберігати знання і передавати їх наступним поколінням, а не лише усно.",
+            "en": "Writing is a system of symbols for recording language. It emerged in Sumer around 3400 BCE with cuneiform, which was initially used for administrative records. This invention became the foundation for the development of civilization, allowing knowledge to be preserved and passed down to future generations, not just orally.",
+            "es": "La escritura es un sistema de símbolos para registrar el lenguaje. Surgió en Sumer alrededor del 3400 a.C. con la escritura cuneiforme, que inicialmente se usó para llevar registros administrativos. Este invento se convirtió en la base para el desarrollo de la civilización, permitiendo que el conocimiento se conservara y se transmitiera a las generaciones futuras, no solo oralmente.",
+            "pt": "A escrita é um sistema de símbolos para registrar a linguagem. Surgiu na Suméria por volta de 3400 a.C. com a escrita cuneiforme, que inicialmente era usada para registros administrativos. Esta invenção se tornou a base para o desenvolvimento da civilização, permitindo que o conhecimento fosse preservado e transmitido às futuras gerações, não apenas oralmente."
+        },
+        "antipod": {
+            "ru": "Телефон",
+            "uk": "Телефон",
+            "en": "Telephone",
+            "es": "Teléfono",
+            "pt": "Telefone"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих изобретений является древнейшим способом передачи информации?",
+            "uk": "Який із цих винаходів є найдавнішим способом передачі інформації?",
+            "en": "Which of these inventions is the most ancient method of transmitting information?",
+            "es": "¿Cuál de estos inventos es el método más antiguo de transmitir información?",
+            "pt": "Qual dessas invenções é o método mais antigo de transmitir informação?"
+        },
+        "article": "https://en.wikipedia.org/wiki/History_of_writing"
+    },
+    "imgFlag": "all" 
+}

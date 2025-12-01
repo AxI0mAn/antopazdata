@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Sourtoe Cocktail",
+            "uk": "Sourtoe Cocktail",
+            "en": "Sourtoe Cocktail",
+            "es": "Sourtoe Cocktail",
+            "pt": "Sourtoe Cocktail"
+        },
+        "wrong": {
+            "ru": [
+                "Космополитен",
+                "Кровавая Мэри",
+                "Мохито"
+            ],
+            "uk": [
+                "Космополітен",
+                "Кривава Мері",
+                "Мохіто"
+            ],
+            "en": [
+                "Cosmopolitan",
+                "Bloody Mary",
+                "Mojito"
+            ],
+            "es": [
+                "Cosmopolitan",
+                "Bloody Mary",
+                "Mojito"
+            ],
+            "pt": [
+                "Cosmopolitan",
+                "Bloody Mary",
+                "Mojito"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Палец.",
+                "Канада.",
+                "Ритуал."
+            ],
+            "uk": [
+                "Палець.",
+                "Канада.",
+                "Ритуал."
+            ],
+            "en": [
+                "Toe.",
+                "Canada.",
+                "Ritual."
+            ],
+            "es": [
+                "Dedo.",
+                "Canadá.",
+                "Ritual."
+            ],
+            "pt": [
+                "Dedo do pé.",
+                "Canadá.",
+                "Ritual."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Коктейль с пальцем.",
+                "Коктейль для клятвы."
+            ],
+            "uk": [
+                "Коктейль з пальцем.",
+                "Коктейль для клятви."
+            ],
+            "en": [
+                "A cocktail with a finger.",
+                "A cocktail for an oath."
+            ],
+            "es": [
+                "Un cóctel con un dedo.",
+                "Un cóctel para un juramento."
+            ],
+            "pt": [
+                "Um coquetel com um dedo.",
+                "Um coquetel para um juramento."
+            ]
+        },
+        "tooltip": {
+            "ru": "Мумифицированный человеческий палец, нужно обязательно коснуться губами.",
+            "uk": "Муміфікований людський палець, потрібно обов'язково торкнутися губами.",
+            "en": "A mummified human toe, you must touch it with your lips.",
+            "es": "Un dedo del pie humano momificado, debes tocarlo con los labios.",
+            "pt": "Um dedo do pé humano mumificado, você deve tocá-lo com os lábios."
+        },
+        "qwestion": {
+            "ru": "Как называется коктейль с настоящей частью тела?",
+            "uk": "Як називається коктейль зі справжньою частиною тіла?",
+            "en": "What is the name of the cocktail with a real body part?",
+            "es": "¿Cuál es el nombre del cóctel con una parte del cuerpo real?",
+            "pt": "Qual é o nome do coquetel com uma parte real do corpo?"
+        },
+        "definition": {
+            "ru": "Sourtoe Cocktail — это напиток, который подают в Доусон-Сити, Канада, содержащий настоящий мумифицированный человеческий палец. Чтобы получить сертификат, необходимо, чтобы палец коснулся губ во время питья. Это уникальный, но жуткий местный ритуал.",
+            "uk": "Sourtoe Cocktail — це напій, який подають у Доусон-Сіті, Канада, що містить справжній муміфікований людський палець. Щоб отримати сертифікат, необхідно, щоб палець торкнувся губ під час пиття. Це унікальний, але моторошний місцевий ритуал.",
+            "en": "The Sourtoe Cocktail is a drink served in Dawson City, Canada, that contains a real mummified human toe. To receive a certificate, the toe must touch your lips as you drink. It's a unique but macabre local ritual.",
+            "es": "El Sourtoe Cocktail es una bebida servida en Dawson City, Canadá, que contiene un dedo del pie humano momificado real. Para recibir un certificado, el dedo debe tocar tus labios mientras bebes. Es un ritual local único pero macabro.",
+            "pt": "O Sourtoe Cocktail é uma bebida servida em Dawson City, Canadá, que contém um dedo do pé humano mumificado de verdade. Para receber um certificado, o dedo deve tocar seus lábios enquanto você bebe. É um ritual local único, mas macabro."
+        },
+        "antipod": {
+            "ru": "Finger Fresh",
+            "uk": "Finger Fresh",
+            "en": "Finger Fresh",
+            "es": "Finger Fresh",
+            "pt": "Finger Fresh"
+        },
+        "hintFuiz": {
+            "ru": "Это коктейль, который очень сложно выпить.",
+            "uk": "Це коктейль, який дуже важко випити.",
+            "en": "This is a cocktail that is very difficult to drink.",
+            "es": "Este es un cóctel que es muy difícil de beber.",
+            "pt": "Este é um coquetel que é muito difícil de beber."
+        },
+        "article": "https://en.wikipedia.org/wiki/Sourtoe_Cocktail"
+    },
+    "imgFlag": "quizfoto" 
+}

@@ -1,0 +1,129 @@
+{
+    "data": {
+        "name": {
+            "ru": "Кучево-дождевые облака",
+            "uk": "Купчасто-дощові хмари",
+            "en": "Cumulonimbus clouds",
+            "es": "Nubes cumulonimbus",
+            "pt": "Nuvens cumulonimbus"
+        },
+        "wrong": {
+            "ru": [
+                "Кучевые облака",
+                "Слоистые облака",
+                "Перисто-слоистые облака"
+            ],
+            "uk": [
+                "Купчасті хмари",
+                "Шаруваті хмари",
+                "Перисто-шаруваті хмари"
+            ],
+            "en": [
+                "Cumulus clouds",
+                "Stratus clouds",
+                "Cirrostratus clouds"
+            ],
+            "es": [
+                "Nubes cúmulos",
+                "Nubes estratos",
+                "Nubes cirroestratos"
+            ],
+            "pt": [
+                "Nuvens cúmulos",
+                "Nuvens estratos",
+                "Nuvens cirrostratus"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Грозовая туча.",
+                "Вертикальный рост.",
+                "Молния.",
+                "Наковальня."
+            ],
+            "uk": [
+                "Грозова хмара.",
+                "Вертикальне зростання.",
+                "Блискавка.",
+                "Ковадло."
+            ],
+            "en": [
+                "Thunderstorm cloud.",
+                "Vertical growth.",
+                "Lightning.",
+                "Anvil."
+            ],
+            "es": [
+                "Nube de tormenta.",
+                "Crecimiento vertical.",
+                "Rayo.",
+                "Yunque."
+            ],
+            "pt": [
+                "Nuvem de tempestade.",
+                "Crescimento vertical.",
+                "Raio.",
+                "Bigorna."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Я могу вырасти в огромную гору.",
+                "Я предвещаю грозу и сильный дождь."
+            ],
+            "uk": [
+                "Я можу вирости у величезну гору.",
+                "Я віщує грозу і сильний дощ."
+            ],
+            "en": [
+                "I can grow into a massive mountain.",
+                "I am a sign of a coming storm and heavy rain."
+            ],
+            "es": [
+                "Puedo crecer hasta convertirme en una montaña masiva.",
+                "Soy un signo de una tormenta y lluvia intensa."
+            ],
+            "pt": [
+                "Eu posso crescer e me tornar uma montanha enorme.",
+                "Eu sou um sinal de uma tempestade e chuva forte."
+            ]
+        },
+        "tooltip": {
+            "ru": "Оно является источником молний, града и сильных ливней.",
+            "uk": "Вона є джерелом блискавок, граду та сильних злив.",
+            "en": "It is the source of lightning, hail, and heavy downpours.",
+            "es": "Es la fuente de rayos, granizo y fuertes aguaceros.",
+            "pt": "É a fonte de raios, granizo e chuvas fortes."
+        },
+        "qwestion": {
+            "ru": "Какое облако может подниматься на высоту до 20 км, пробивая стратосферу?",
+            "uk": "Яка хмара може підніматися на висоту до 20 км, пробиваючи стратосферу?",
+            "en": "Which cloud can rise to an altitude of up to 20 km, breaking through the stratosphere?",
+            "es": "¿Qué nube puede elevarse hasta una altitud de 20 km, rompiendo la estratosfera?",
+            "pt": "Qual nuvem pode subir a uma altitude de até 20 km, rompendo a estratosfera?"
+        },
+        "definition": {
+            "ru": "Кучево-дождевые облака — это плотные, мощные облака, достигающие огромной высоты. Они образуются из кучевых облаков при наличии нестабильности в атмосфере и являются главным источником гроз, молний, сильных осадков и даже торнадо. Вершина этих облаков часто имеет характерную форму наковальни из-за сильных ветров на больших высотах.",
+            "uk": "Купчасто-дощові хмари — це щільні, потужні хмари, що досягають величезної висоти. Вони утворюються з купчастих хмар за наявності нестабільності в атмосфері і є головним джерелом гроз, блискавок, сильних опадів і навіть торнадо. Вершина цих хмар часто має характерну форму ковадла через сильні вітри на великих висотах.",
+            "en": "Cumulonimbus clouds are dense, towering clouds that reach immense altitudes. They form from cumulus clouds in the presence of atmospheric instability and are the main source of thunderstorms, lightning, heavy precipitation, and even tornadoes. The top of these clouds often has a characteristic anvil shape due to strong winds at high altitudes.",
+            "es": "Las nubes cumulonimbus son nubes densas y elevadas que alcanzan altitudes inmensas. Se forman a partir de nubes cúmulos en presencia de inestabilidad atmosférica y son la principal fuente de tormentas eléctricas, rayos, fuertes precipitaciones e incluso tornados. La cima de estas nubes a menudo tiene una forma de yunque característica debido a los fuertes vientos a grandes altitudes.",
+            "pt": "As nuvens cumulonimbus são nuvens densas e imponentes que atingem altitudes imensas. Elas se formam a partir de nuvens cúmulos na presença de instabilidade atmosférica e são a principal fonte de tempestades, raios, precipitação forte e até tornados. O topo dessas nuvens muitas vezes tem uma forma de bigorna característica devido aos ventos fortes em grandes altitudes."
+        },
+        "antipod": {
+            "ru": "Перистые облака",
+            "uk": "Перисті хмари",
+            "en": "Cirrus clouds",
+            "es": "Nubes cirro",
+            "pt": "Nuvens cirrus"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих облаков не является признаком хорошей погоды?",
+            "uk": "Яка з цих хмар не є ознакою хорошої погоди?",
+            "en": "Which of these clouds is not a sign of good weather?",
+            "es": "¿Cuál de estas nubes no es un signo de buen tiempo?",
+            "pt": "Qual destas nuvens não é um sinal de bom tempo?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Cumulonimbus_cloud"
+    },
+    "imgFlag": "all" 
+}

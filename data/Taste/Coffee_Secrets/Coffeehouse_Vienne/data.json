@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Кофейня",
+            "uk": "Кав'ярня",
+            "en": "Coffeehouse",
+            "es": "Cafetería",
+            "pt": "Cafeteria"
+        },
+        "wrong": {
+            "ru": [
+                "Трактир",
+                "Булочная",
+                "Тайная община"
+            ],
+            "uk": [
+                "Трактир",
+                "Булочна",
+                "Таємна спільнота"
+            ],
+            "en": [
+                "Tavern",
+                "Bakery",
+                "Secret society"
+            ],
+            "es": [
+                "Taberna",
+                "Panadería",
+                "Sociedad secreta"
+            ],
+            "pt": [
+                "Taberna",
+                "Padaria",
+                "Sociedade secreta"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Вена.",
+                "Трофей.",
+                "Казак."
+            ],
+            "uk": [
+                "Відень.",
+                "Трофей.",
+                "Козак."
+            ],
+            "en": [
+                "Vienna.",
+                "Trophy.",
+                "Cossack."
+            ],
+            "es": [
+                "Viena.",
+                "Trofeo.",
+                "Cosaco."
+            ],
+            "pt": [
+                "Viena.",
+                "Troféu.",
+                "Cossaco."
+            ]
+        },
+        "tooltip": {
+            "ru": "Её открыл в Вене украинский купец и разведчик Юрий Франц Кульчицкий?",
+            "uk": "Її відкрив у Відні український купець і розвідник Юрій Франц Кульчицький?",
+            "en": "It was opened in Vienna by the Ukrainian merchant and scout Yuriy Franz Kulchytsky?",
+            "es": "Fue abierta en Viena por el comerciante y explorador ucraniano Yuriy Franz Kulchytsky?",
+            "pt": "Foi aberta em Viena pelo comerciante e explorador ucraniano Yuriy Franz Kulchytsky?"
+        },
+        "qwestion": {
+            "ru": "Что, по легенде, открылось в Вене после осады города турками?",
+            "uk": "Що, за легендою, відкрилося у Відні після облоги міста турками?",
+            "en": "What, according to legend, opened in Vienna after the city was besieged by the Turks?",
+            "es": "¿Qué, según la leyenda, se abrió en Viena después de que la ciudad fuera asediada por los turcos?",
+            "pt": "O que, segundo a lenda, foi aberto em Viena após a cidade ser sitiada pelos turcos?"
+        },
+        "definition": {
+            "ru": "После снятия осады Вены в 1683 году, украинский купец Юрий Франц Кульчицкий получил в качестве трофея мешки с кофейными зернами. Он использовал их, чтобы открыть первую в городе кофейню, ставшую символом венской культуры.",
+            "uk": "Після зняття облоги Відня 1683 року, український купець Юрій Франц Кульчицький отримав як трофей мішки з кавовими зернами. Він використав їх, щоб відкрити першу в місті кав'ярню, що стала символом віденської культури.",
+            "en": "After the Siege of Vienna was lifted in 1683, the Ukrainian merchant Yuriy Franz Kulchytsky received bags of coffee beans as a trophy. He used them to open the city's first coffeehouse, which became a symbol of Viennese culture.",
+            "es": "Después de que se levantara el sitio de Viena en 1683, el comerciante ucraniano Yuriy Franz Kulchytsky recibió bolsas de granos de café como trofeo. Los utilizó para abrir la primera cafetería de la ciudad, que se convirtió en un símbolo de la cultura vienesa.",
+            "pt": "Após o cerco de Viena em 1683, o comerciante ucraniano Yuriy Franz Kulchytsky recebeu sacos de grãos de café como troféu. Ele os usou para abrir a primeira cafeteria da cidade, que se tornou um símbolo da cultura vienense."
+        },
+        "antipod": {
+            "ru": "Шоколадная фабрика",
+            "uk": "Шоколадна фабрика",
+            "en": "Chocolate factory",
+            "es": "Fábrica de chocolate",
+            "pt": "Fábrica de chocolate"
+        },
+        "hintFuiz": {
+            "ru": "Для этого, были использованы мешки с кофейными зернами полученные в качестве трофея.",
+            "uk": "Для цього, були використані мішки з кавовими зернами отримані як трофей.",
+            "en": "For this, bags of coffee beans obtained as a trophy were used.",
+            "es": "Para ello, se usaron bolsas de granos de café obtenidas como trofeo.",
+            "pt": "Para isso, foram usados sacos de grãos de café obtidos como troféu."
+        },
+        "riddle": {
+            "ru": [
+                "Научил Европу пить кофе.",
+                "Что объединяет украинского козака и Вену 1683 года?"
+            ],
+            "uk": [
+                "Навчив Європу пити каву.",
+                "Що об'єднує українського козака і Відень 1683 року?"
+            ],
+            "en": [
+                "He taught Europe how to drink coffee.",
+                "What unites a Ukrainian Cossack and Vienna in 1683?"
+            ],
+            "es": [
+                "Él le enseñó a Europa a beber café.",
+                "¿Qué une a un cosaco ucraniano y a Viena en 1683?"
+            ],
+            "pt": [
+                "Ele ensinou a Europa a beber café.",
+                "O que une um cossaco ucraniano e Viena em 1683?"
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Jerzy_Franciszek_Kulczycki"
+    },
+    "imgFlag": "quizfoto"
+}

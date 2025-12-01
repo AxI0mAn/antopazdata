@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Часы",
+            "uk": "Годинник",
+            "en": "Clock",
+            "es": "Reloj",
+            "pt": "Relógio"
+        },
+        "wrong": {
+            "ru": [
+                "Телефон",
+                "Водопровод",
+                "Электричество"
+            ],
+            "uk": [
+                "Телефон",
+                "Водопровід",
+                "Електрика"
+            ],
+            "en": [
+                "Telephone",
+                "Plumbing",
+                "Electricity"
+            ],
+            "es": [
+                "Teléfono",
+                "Plomería",
+                "Electricidad"
+            ],
+            "pt": [
+                "Telefone",
+                "Encanamento",
+                "Eletricidade"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Время.",
+                "Шестеренки.",
+                "Точность."
+            ],
+            "uk": [
+                "Час.",
+                "Шестерні.",
+                "Точність."
+            ],
+            "en": [
+                "Time.",
+                "Gears.",
+                "Precision."
+            ],
+            "es": [
+                "Tiempo.",
+                "Engranajes.",
+                "Precisión."
+            ],
+            "pt": [
+                "Tempo.",
+                "Engrenagens.",
+                "Precisão."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Мерило времени.",
+                "Синхронизатор времени."
+            ],
+            "uk": [
+                "Мірило часу.",
+                "Синхронізатор часу."
+            ],
+            "en": [
+                "A measure of time.",
+                "A time synchronizer."
+            ],
+            "es": [
+                "Una medida del tiempo.",
+                "Un sincronizador de tiempo."
+            ],
+            "pt": [
+                "Uma medida de tempo.",
+                "Um sincronizador de tempo."
+            ]
+        },
+        "tooltip": {
+            "ru": "Они сделали время универсальным и стандартизированным.",
+            "uk": "Вони зробили час універсальним і стандартизованим.",
+            "en": "They made time universal and standardized.",
+            "es": "Hicieron que el tiempo fuera universal y estandarizado.",
+            "pt": "Eles tornaram o tempo universal e padronizado."
+        },
+        "qwestion": {
+            "ru": "Какое изобретение стало необходимым для координации жизни в городах и на железных дорогах?",
+            "uk": "Який винахід став необхідним для координації життя в містах і на залізницях?",
+            "en": "What invention became necessary for coordinating life in cities and on railroads?",
+            "es": "¿Qué invento se volvió necesario para coordinar la vida en las ciudades y en los ferrocarriles?",
+            "pt": "Que invenção se tornou necessária para coordenar a vida nas cidades e nas ferrovias?"
+        },
+        "definition": {
+            "ru": "Часы — это устройство для измерения времени. Их развитие от солнечных и водяных до механических устройств в средневековой Европе позволило стандартизировать время. Это стало критически важным для расписаний поездов, промышленных смен и городской жизни, сделав их одним из фундаментальных изобретений, которые упорядочили современное общество.",
+            "uk": "Годинник — це пристрій для вимірювання часу. Його розвиток від сонячних і водяних до механічних пристроїв у середньовічній Європі дозволив стандартизувати час. Це стало критично важливим для розкладу поїздів, промислових змін та міського життя, зробивши його одним з фундаментальних винаходів, які впорядкували сучасне суспільство.",
+            "en": "A clock is a device for measuring time. Its development from sundials and water clocks to mechanical devices in medieval Europe allowed for the standardization of time. This became critical for train schedules, industrial shifts, and city life, making it one of the fundamental inventions that ordered modern society.",
+            "es": "El reloj es un dispositivo para medir el tiempo. Su desarrollo desde los relojes de sol y de agua hasta los dispositivos mecánicos en la Europa medieval permitió la estandarización del tiempo. Esto se volvió crítico para los horarios de los trenes, los turnos industriales y la vida urbana, convirtiéndolo en uno de los inventos fundamentales que ordenaron la sociedad moderna.",
+            "pt": "O relógio é um dispositivo para medir o tempo. Seu desenvolvimento de relógios de sol e de água para dispositivos mecânicos na Europa medieval permitiu a padronização do tempo. Isso se tornou crucial para horários de trens, turnos industriais e vida urbana, tornando-o uma das invenções fundamentais que organizaram a sociedade moderna."
+        },
+        "antipod": {
+            "ru": "Электричество",
+            "uk": "Електрика",
+            "en": "Electricity",
+            "es": "Electricidad",
+            "pt": "Eletricidade"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих изобретений помогло синхронизировать жизнь в городах?",
+            "uk": "Який із цих винаходів допоміг синхронізувати життя в містах?",
+            "en": "Which of these inventions helped to synchronize life in cities?",
+            "es": "¿Cuál de estos inventos ayudó a sincronizar la vida en las ciudades?",
+            "pt": "Qual dessas invenções ajudou a sincronizar a vida nas cidades?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Clock"
+    },
+    "imgFlag": "all" 
+}

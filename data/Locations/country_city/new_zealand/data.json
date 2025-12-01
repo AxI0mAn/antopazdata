@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Новая Зеландия",
+            "uk": "Нова Зеландія",
+            "en": "New Zealand",
+            "es": "Nueva Zelanda",
+            "pt": "Nova Zelândia"
+        },
+        "wrong": {
+            "ru": [
+                "Австралия",
+                "Япония",
+                "Великобритания"
+            ],
+            "uk": [
+                "Австралія",
+                "Японія",
+                "Велика Британія"
+            ],
+            "en": [
+                "Australia",
+                "Japan",
+                "United Kingdom"
+            ],
+            "es": [
+                "Australia",
+                "Japón",
+                "Reino Unido"
+            ],
+            "pt": [
+                "Austrália",
+                "Japão",
+                "Reino Unido"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Киви.",
+                "Маори.",
+                "Горы."
+            ],
+            "uk": [
+                "Ківі.",
+                "Маорі.",
+                "Гори."
+            ],
+            "en": [
+                "Kiwi.",
+                "Maori.",
+                "Mountains."
+            ],
+            "es": [
+                "Kiwi.",
+                "Maorí.",
+                "Montañas."
+            ],
+            "pt": [
+                "Kiwi.",
+                "Maori.",
+                "Montanhas."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Где впервые в мире предоставили женщинам избирательное право?",
+                "Где находится родина хоббитов из Властелина колец?"
+            ],
+            "uk": [
+                "Де вперше у світі надали жінкам виборче право?",
+                "Де знаходиться батьківщина гобітів з Володаря кілець?"
+            ],
+            "en": [
+                "Where in the world were women first granted the right to vote?",
+                "Where is the homeland of the hobbits from The Lord of the Rings?"
+            ],
+            "es": [
+                "¿Dónde se concedió por primera vez en el mundo el derecho al voto a las mujeres?",
+                "¿Dónde se encuentra la tierra natal de los hobbits de El Señor de los Anillos?"
+            ],
+            "pt": [
+                "Onde no mundo as mulheres receberam o direito de voto pela primeira vez?",
+                "Onde fica a terra natal dos hobbits de O Senhor dos Anéis?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Это родина птицы киви, уникальных видов животных и древней культуры маори.",
+            "uk": "Це батьківщина птаха ківі, унікальних видів тварин і стародавньої культури маорі.",
+            "en": "It is the home of the kiwi bird, unique animal species, and the ancient Maori culture.",
+            "es": "Es el hogar del ave kiwi, de especies animales únicas y de la antigua cultura maorí.",
+            "pt": "É a terra natal do pássaro kiwi, de espécies animais únicas e da antiga cultura maori."
+        },
+        "qwestion": {
+            "ru": "Какая страна состоит из двух основных островов, Северного и Южного?",
+            "uk": "Яка країна складається з двох основних островів, Північного та Південного?",
+            "en": "Which country is made up of two main islands, the North Island and the South Island?",
+            "es": "¿Qué país está formado por dos islas principales, la Isla Norte y la Isla Sur?",
+            "pt": "Qual país é formado por duas ilhas principais, a Ilha do Norte e a Ilha do Sul?"
+        },
+        "definition": {
+            "ru": "Островное государство в юго-западной части Тихого океана, состоящее из двух основных островов и множества более мелких. Известно уникальной природой.",
+            "uk": "Острівна держава в південно-західній частині Тихого океану, що складається з двох основних островів і безлічі дрібніших. Відома унікальною природою.",
+            "en": "An island country in the southwestern Pacific Ocean, consisting of two main islands and numerous smaller ones. It is known for its unique natural environment.",
+            "es": "Un país insular en el suroeste del Océano Pacífico, que consta de dos islas principales y muchas más pequeñas. Es conocido por su naturaleza única.",
+            "pt": "Um país insular no sudoeste do Oceano Pacífico, que consiste em duas ilhas principais e inúmeras menores. É conhecido por seu ambiente natural único."
+        },
+        "antipod": {
+            "ru": "Испания",
+            "uk": "Іспанія",
+            "en": "Spain",
+            "es": "España",
+            "pt": "Espanha"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих стран состоит из двух основных островов?",
+            "uk": "Яка з цих країн складається з двох основних островів?",
+            "en": "Which of these countries is made up of two main islands?",
+            "es": "¿Cuál de estos países está formado por dos islas principales?",
+            "pt": "Qual desses países é formado por duas ilhas principais?"
+        },
+        "article": "https://en.wikipedia.org/wiki/New_Zealand"
+    },
+    "imgFlag": "quizfoto" 
+}

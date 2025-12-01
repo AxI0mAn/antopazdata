@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Озеро Байкал",
+            "uk": "Озеро Байкал",
+            "en": "Lake Baikal",
+            "es": "Lago Baikal",
+            "pt": "Lago Baikal"
+        },
+        "wrong": {
+            "ru": [
+                "Озеро Верхнее",
+                "Озеро Виктория",
+                "Каспийское море"
+            ],
+            "uk": [
+                "Озеро Верхнє",
+                "Озеро Вікторія",
+                "Каспійське море"
+            ],
+            "en": [
+                "Lake Superior",
+                "Lake Victoria",
+                "Caspian Sea"
+            ],
+            "es": [
+                "Lago Superior",
+                "Lago Victoria",
+                "Mar Caspio"
+            ],
+            "pt": [
+                "Lago Superior",
+                "Lago Vitória",
+                "Mar Cáspio"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Сибирь.",
+                "Самое глубокое.",
+                "Пресноводное."
+            ],
+            "uk": [
+                "Сибір.",
+                "Найглибше.",
+                "Прісноводне."
+            ],
+            "en": [
+                "Siberia.",
+                "Deepest.",
+                "Freshwater."
+            ],
+            "es": [
+                "Siberia.",
+                "El más profundo.",
+                "Agua dulce."
+            ],
+            "pt": [
+                "Sibéria.",
+                "Mais profundo.",
+                "Água doce."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Самый большой объем пресной воды.",
+                "Мои глубины - самые старые на Земле."
+            ],
+            "uk": [
+                "Найбільший об'єм прісної води.",
+                "Мої глибини — найстаріші на Землі."
+            ],
+            "en": [
+                "The largest volume of freshwater.",
+                "My depths are the oldest on Earth."
+            ],
+            "es": [
+                "El mayor volumen de agua dulce.",
+                "Mis profundidades son las más antiguas de la Tierra."
+            ],
+            "pt": [
+                "O maior volume de água doce.",
+                "Minhas profundezas são as mais antigas da Terra."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это самое большое пресноводное озеро по объему воды.",
+            "uk": "Це найбільше прісноводне озеро за об'ємом води.",
+            "en": "It is the largest freshwater lake by volume.",
+            "es": "Es el lago de agua dulce más grande por volumen.",
+            "pt": "É o maior lago de água doce por volume."
+        },
+        "qwestion": {
+            "ru": "Какое озеро в Сибири является самым глубоким?",
+            "uk": "Яке озеро в Сибіру є найглибшим?",
+            "en": "What lake in Siberia is the deepest?",
+            "es": "¿Qué lago en Siberia es el más profundo?",
+            "pt": "Qual lago na Sibéria é o mais profundo?"
+        },
+        "definition": {
+            "ru": "Озеро Байкал — это древнее, огромное озеро в Сибири, Россия. Это самое глубокое пресноводное озеро в мире, содержащее более 20% всей жидкой пресной воды на планете. Его возраст оценивается в 25-30 миллионов лет, что делает его старейшим озером в истории Земли. Озеро является домом для тысяч видов растений и животных, многие из которых являются эндемиками. Его вода считается одной из самых чистых и прозрачных в мире.",
+            "uk": "Озеро Байкал — це стародавнє, величезне озеро в Сибіру, Росія. Це найглибше прісноводне озеро у світі, що містить понад 20% усієї рідкої прісної води на планеті. Його вік оцінюється в 25-30 мільйонів років, що робить його найстарішим озером в історії Землі. Озеро є домом для тисяч видів рослин і тварин, багато з яких є ендеміками. Його вода вважається однією з найчистіших і найпрозоріших у світі.",
+            "en": "Lake Baikal is an ancient, massive lake in Siberia, Russia. It is the world's deepest freshwater lake, containing over 20% of the planet's total liquid freshwater. Estimated to be 25-30 million years old, it is the oldest lake in Earth's history. The lake is home to thousands of species of plants and animals, many of which are endemic. Its water is considered one of the clearest and purest in the world.",
+            "es": "El lago Baikal es un antiguo y masivo lago en Siberia, Rusia. Es el lago de agua dulce más profundo del mundo, conteniendo más del 20% del total de agua dulce líquida del planeta. Se estima que tiene entre 25 y 30 millones de años, lo que lo convierte en el lago más antiguo de la historia de la Tierra. El lago es hogar de miles de especies de plantas y animales, muchas de las cuales son endémicas. Su agua es considerada una de las más claras y puras del mundo.",
+            "pt": "O Lago Baikal é um antigo e enorme lago na Sibéria, Rússia. É o lago de água doce mais profundo do mundo, contendo mais de 20% de toda a água doce líquida do planeta. Estimado em 25-30 milhões de anos, é o lago mais antigo da história da Terra. O lago é o lar de milhares de espécies de plantas e animais, muitos dos quais são endêmicos. Sua água é considerada uma das mais claras e puras do mundo."
+        },
+        "antipod": {
+            "ru": "Большое Солёное озеро",
+            "uk": "Велике Солоне озеро",
+            "en": "Great Salt Lake",
+            "es": "Gran Lago Salado",
+            "pt": "Grande Lago Salgado"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих озер является самым большим по объему воды?",
+            "uk": "Яке з цих озер є найбільшим за об'ємом води?",
+            "en": "Which of these lakes is the largest by volume?",
+            "es": "¿Cuál de estos lagos es el más grande por volumen?",
+            "pt": "Qual desses lagos é o maior em volume?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Lake_Baikal"
+    },
+    "imgFlag": "all" 
+}

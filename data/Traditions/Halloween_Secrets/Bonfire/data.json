@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Костёр",
+            "uk": "Багаття",
+            "en": "Bonfire",
+            "es": "Hoguera",
+            "pt": "Fogueira"
+        },
+        "wrong": {
+            "ru": [
+                "Забор",
+                "Лужу",
+                "Тень"
+            ],
+            "uk": [
+                "Паркан",
+                "Калюжу",
+                "Тінь"
+            ],
+            "en": [
+                "Fence",
+                "Puddle",
+                "Shadow"
+            ],
+            "es": [
+                "Valla",
+                "Charco",
+                "Sombra"
+            ],
+            "pt": [
+                "Cerca",
+                "Poça",
+                "Sombra"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Прыжок.",
+                "Ритуал.",
+                "Очищение."
+            ],
+            "uk": [
+                "Стрибок.",
+                "Ритуал.",
+                "Очищення."
+            ],
+            "en": [
+                "Jump.",
+                "Ritual.",
+                "Purification."
+            ],
+            "es": [
+                "Salto.",
+                "Ritual.",
+                "Purificación."
+            ],
+            "pt": [
+                "Salto.",
+                "Ritual.",
+                "Purificação."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Очищаются, когда прыгают через него.",
+                "Символ солнца, который защищает от злых духов."
+            ],
+            "uk": [
+                "Очищаються, коли стрибають через нього.",
+                "Символ сонця, який захищає від злих духів."
+            ],
+            "en": [
+                "They are cleansed when they jump over it.",
+                "A symbol of the sun that protects against evil spirits."
+            ],
+            "es": [
+                "Se limpian cuando saltan sobre él.",
+                "Un símbolo del sol que protege contra los espíritus malignos."
+            ],
+            "pt": [
+                "Eles são purificados quando pulam sobre ele.",
+                "Um símbolo do sol que protege contra os espíritos malignos."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это ирландский и славянский ритуал.",
+            "uk": "Це ірландський і слов'янський ритуал.",
+            "en": "This is an Irish and Slavic ritual.",
+            "es": "Este es un ritual irlandés y eslavo.",
+            "pt": "Este é um ritual irlandês e eslavo."
+        },
+        "qwestion": {
+            "ru": "Через что нужно перепрыгнуть, чтобы отпугнуть злых духов?",
+            "uk": "Через що потрібно перестрибнути, щоб відлякати злих духів?",
+            "en": "What do you need to jump over to scare away evil spirits?",
+            "es": "¿Qué tienes que saltar para ahuyentar a los espíritus malignos?",
+            "pt": "O que você precisa pular para afastar os espíritos malignos?"
+        },
+        "definition": {
+            "ru": "Костёр — это центральный элемент древних кельтских ритуалов на Самайн, предка Хеллоуина. Прыжки через него или между двумя кострами символизировали очищение, удачу и защиту от злых духов.",
+            "uk": "Багаття — це центральний елемент давніх кельтських ритуалів на Самайн, предка Хеллоуїна. Стрибки через нього або між двома багаттями символізували очищення, удачу та захист від злих духів.",
+            "en": "A bonfire is a central element of ancient Celtic rituals on Samhain, the precursor to Halloween. Jumping over it or between two bonfires symbolized purification, good luck, and protection from evil spirits.",
+            "es": "Una hoguera es un elemento central de los antiguos rituales celtas en Samhain, el precursor de Halloween. Saltar sobre ella o entre dos hogueras simbolizaba la purificación, la buena suerte y la protección contra los espíritus malignos.",
+            "pt": "Uma fogueira é um elemento central dos antigos rituais celtas no Samhain, o precursor do Halloween. Pular sobre ela ou entre duas fogueiras simbolizava purificação, boa sorte e proteção contra espíritos malignos."
+        },
+        "antipod": {
+            "ru": "Ручей",
+            "uk": "Струмок",
+            "en": "Stream",
+            "es": "Arroyo",
+            "pt": "Riacho"
+        },
+        "hintFuiz": {
+            "ru": "Что нужно перепрыгнуть, чтоб защититься от злых духов?",
+            "uk": "Що потрібно перестрибнути, щоб захиститися від злих духів?",
+            "en": "What do you need to jump over to protect yourself from evil spirits?",
+            "es": "¿Qué hay que saltar para protegerse de los espíritus malignos?",
+            "pt": "O que você precisa pular para se proteger dos espíritos malignos?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Samhain"
+    },
+    "imgFlag": "all" 
+}

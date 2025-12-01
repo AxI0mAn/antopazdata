@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Интернет",
+            "uk": "Інтернет",
+            "en": "The Internet",
+            "es": "Internet",
+            "pt": "A Internet"
+        },
+        "wrong": {
+            "ru": [
+                "Телевидение",
+                "Радио",
+                "Телеграф"
+            ],
+            "uk": [
+                "Телебачення",
+                "Радіо",
+                "Телеграф"
+            ],
+            "en": [
+                "Television",
+                "Radio",
+                "Telegraph"
+            ],
+            "es": [
+                "Televisión",
+                "Radio",
+                "Telégrafo"
+            ],
+            "pt": [
+                "Televisão",
+                "Rádio",
+                "Telégrafo"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Сеть.",
+                "ARPANET.",
+                "Сообщение."
+            ],
+            "uk": [
+                "Мережа.",
+                "ARPANET.",
+                "Повідомлення."
+            ],
+            "en": [
+                "Network.",
+                "ARPANET.",
+                "Message."
+            ],
+            "es": [
+                "Red.",
+                "ARPANET.",
+                "Mensaje."
+            ],
+            "pt": [
+                "Rede.",
+                "ARPANET.",
+                "Mensagem."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Электронное письмо.",
+                "Более 4,8 миллиарда человек используют это."
+            ],
+            "uk": [
+                "Електронний лист.",
+                "Понад 4,8 мільярда людей використовують це."
+            ],
+            "en": [
+                "An electronic message.",
+                "Over 4.8 billion people use it."
+            ],
+            "es": [
+                "Un mensaje electrónico.",
+                "Más de 4.8 mil millones de personas lo usan."
+            ],
+            "pt": [
+                "Uma mensagem eletrônica.",
+                "Mais de 4.8 bilhões de pessoas usam isso."
+            ]
+        },
+        "tooltip": {
+            "ru": "Возник в 1960-х годах, а сегодня им пользуются миллиарды людей.",
+            "uk": "Виник у 1960-х роках, а сьогодні ним користуються мільярди людей.",
+            "en": "It originated in the 1960s, and today, billions of people use it.",
+            "es": "Se originó en la década de 1960, y hoy en día, miles de millones de personas lo usan.",
+            "pt": "Surgiu na década de 1960, e hoje, bilhões de pessoas o usam."
+        },
+        "qwestion": {
+            "ru": "Какое изобретение, стало основой для глобальной сети?",
+            "uk": "Який винахід, став основою для глобальної мережі?",
+            "en": "What invention became the foundation for a global network?",
+            "es": "¿Qué invento se convirtió en la base de una red global?",
+            "pt": "Qual invenção se tornou a base para uma rede global?"
+        },
+        "definition": {
+            "ru": "Интернет — это глобальная система взаимосвязанных компьютерных сетей, которая использует стандартный набор протоколов для обмена данными. Изначально он возник как проект ARPANET в 1960-х годах для связи между исследовательскими центрами, а затем превратился в крупнейшую и наиболее широко используемую сеть в мире. Интернет произвел революцию в коммуникации, торговле и распространении информации, связав миллиарды людей и устройств по всей планете.",
+            "uk": "Інтернет — це глобальна система взаємопов'язаних комп'ютерних мереж, яка використовує стандартний набір протоколів для обміну даними. Спочатку він виник як проєкт ARPANET у 1960-х роках для зв'язку між дослідницькими центрами, а потім перетворився на найбільшу і найбільш широко використовувану мережу у світі. Інтернет зробив революцію в комунікації, торгівлі та поширенні інформації, зв'язавши мільярди людей і пристроїв по всій планеті.",
+            "en": "The Internet is a global system of interconnected computer networks that uses a standard set of protocols to exchange data. It originated as the ARPANET project in the 1960s to link research centers, and has since evolved into the largest and most widely used network in the world. The Internet has revolutionized communication, commerce, and the distribution of information, connecting billions of people and devices across the globe.",
+            "es": "Internet es un sistema global de redes de computadoras interconectadas que utiliza un conjunto estándar de protocolos para intercambiar datos. Originalmente, se originó como el proyecto ARPANET en la década de 1960 para enlazar centros de investigación, y desde entonces ha evolucionado hasta convertirse en la red más grande y más utilizada del mundo. Internet ha revolucionado la comunicación, el comercio y la distribución de información, conectando a miles de millones de personas y dispositivos en todo el planeta.",
+            "pt": "A Internet é um sistema global de redes de computadores interconectadas que utiliza um conjunto padrão de protocolos para trocar dados. Originalmente, surgiu como o projeto ARPANET na década de 1960 para conectar centros de pesquisa e, desde então, evoluiu para a maior e mais amplamente utilizada rede do mundo. A Internet revolucionou a comunicação, o comércio e a distribuição de informações, conectando bilhões de pessoas e dispositivos em todo o planeta."
+        },
+        "antipod": {
+            "ru": "Сотовый телефон",
+            "uk": "Стільниковий телефон",
+            "en": "Cell phone",
+            "es": "Teléfono celular",
+            "pt": "Telefone celular"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих изобретений начиналось с передачи текстового сообщения?",
+            "uk": "Який із цих винаходів починався з передачі текстового повідомлення?",
+            "en": "Which of these inventions started with the transmission of a text message?",
+            "es": "¿Cuál de estos inventos comenzó con la transmisión de un mensaje de texto?",
+            "pt": "Qual dessas invenções começou com a transmissão de uma mensagem de texto?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Internet"
+    },
+    "imgFlag": "quizfoto" 
+}

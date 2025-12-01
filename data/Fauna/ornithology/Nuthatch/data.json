@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Поползень",
+            "uk": "Повзик",
+            "en": "Nuthatch",
+            "es": "Trepador",
+            "pt": "Trepadeira"
+        },
+        "wrong": {
+            "ru": [
+                "Дятел",
+                "Воробей",
+                "Синица"
+            ],
+            "uk": [
+                "Дятел",
+                "Горобець",
+                "Синиця"
+            ],
+            "en": [
+                "Woodpecker",
+                "Sparrow",
+                "Tit"
+            ],
+            "es": [
+                "Pájaro carpintero",
+                "Gorrión",
+                "Herrerillo"
+            ],
+            "pt": [
+                "Pica-pau",
+                "Pardal",
+                "Chapim"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Дерево.",
+                "Кора.",
+                "Вниз головой."
+            ],
+            "uk": [
+                "Дерево.",
+                "Кора.",
+                "Вниз головою."
+            ],
+            "en": [
+                "Tree.",
+                "Bark.",
+                "Head-down."
+            ],
+            "es": [
+                "Árbol.",
+                "Corteza.",
+                "Cabeza abajo."
+            ],
+            "pt": [
+                "Árvore.",
+                "Casca.",
+                "Cabeça para baixo."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Птица-гимнаст.",
+                "Умеет лазать по деревьям как вверх, так и вниз головой."
+            ],
+            "uk": [
+                "Птах-гімнаст.",
+                "Вміє лазити по деревах як вгору, так і вниз головою."
+            ],
+            "en": [
+                "A gymnast bird.",
+                "It can climb trees both up and down, headfirst."
+            ],
+            "es": [
+                "Un ave gimnasta.",
+                "Puede trepar árboles tanto hacia arriba como hacia abajo, de cabeza."
+            ],
+            "pt": [
+                "Uma ave ginasta.",
+                "Pode escalar árvores tanto para cima quanto para baixo, de cabeça para baixo."
+            ]
+        },
+        "tooltip": {
+            "ru": "Эта птица использует сильные когти на ногах, чтобы удерживаться на коре во время спуска.",
+            "uk": "Цей птах використовує сильні кігті на ногах, щоб утримуватися на корі під час спуску.",
+            "en": "This bird uses strong claws on its feet to hold onto the bark while descending.",
+            "es": "Esta ave usa fuertes garras en sus patas para sujetarse a la corteza mientras desciende.",
+            "pt": "Esta ave usa garras fortes nas patas para se segurar à casca enquanto desce."
+        },
+        "qwestion": {
+            "ru": "Какая птица умеет спускаться по дереву головой вниз?",
+            "uk": "Який птах вміє спускатися по дереву головою вниз?",
+            "en": "Which bird can climb down a tree headfirst?",
+            "es": "¿Qué ave puede bajar por un árbol con la cabeza hacia abajo?",
+            "pt": "Qual ave consegue descer uma árvore de cabeça para baixo?"
+        },
+        "definition": {
+            "ru": "Поползень — это маленькая птица, известная своей уникальной способностью спускаться по стволам деревьев вниз головой. Он питается насекомыми, которых находит в трещинах коры, и часто прячет семена в укромных местах.",
+            "uk": "Повзик — це маленький птах, відомий своєю унікальною здатністю спускатися по стовбурах дерев донизу головою. Він харчується комахами, яких знаходить у тріщинах кори, і часто ховає насіння в затишних місцях.",
+            "en": "The nuthatch is a small bird known for its unique ability to climb down tree trunks headfirst. It feeds on insects found in bark crevices and often hides seeds in secret spots.",
+            "es": "El trepador es un ave pequeña conocida por su habilidad única para bajar por los troncos de los árboles con la cabeza hacia abajo. Se alimenta de insectos que encuentra en las grietas de la corteza y a menudo esconde semillas en lugares secretos.",
+            "pt": "A trepadeira é uma ave pequena conhecida por sua capacidade única de descer troncos de árvores de cabeça para baixo. Alimenta-se de insetos encontrados nas fendas da casca e muitas vezes esconde sementes em locais secretos."
+        },
+        "antipod": {
+            "ru": "Сорока",
+            "uk": "Сорока",
+            "en": "Magpie",
+            "es": "Urraca",
+            "pt": "Pega-rabuda"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих птиц может двигаться вниз по стволу дерева, вниз головой?",
+            "uk": "Який з цих птахів може рухатися вниз по стовбуру дерева, вниз головою?",
+            "en": "Which of these birds can move down a tree trunk, headfirst?",
+            "es": "¿Cuál de estas aves puede moverse por el tronco de un árbol, con la cabeza hacia abajo?",
+            "pt": "Qual dessas aves pode se mover pelo tronco de uma árvore, de cabeça para baixo?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Nuthatch"
+    },
+    "imgFlag": "all" 
+}

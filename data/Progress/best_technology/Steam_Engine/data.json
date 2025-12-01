@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Паровой двигатель",
+            "uk": "Паровий двигун",
+            "en": "The Steam Engine",
+            "es": "La máquina de vapor",
+            "pt": "A máquina a vapor"
+        },
+        "wrong": {
+            "ru": [
+                "Ветряная мельница",
+                "Водяное колесо",
+                "Двигатель внутреннего сгорания"
+            ],
+            "uk": [
+                "Вітряк",
+                "Водяне колесо",
+                "Двигун внутрішнього згоряння"
+            ],
+            "en": [
+                "Windmill",
+                "Water wheel",
+                "Internal combustion engine"
+            ],
+            "es": [
+                "Molino de viento",
+                "Rueda hidráulica",
+                "Motor de combustión interna"
+            ],
+            "pt": [
+                "Moinho de vento",
+                "Roda d'água",
+                "Motor de combustão interna"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Пар.",
+                "Шахта.",
+                "Промышленная революция."
+            ],
+            "uk": [
+                "Пара.",
+                "Шахта.",
+                "Промислова революція."
+            ],
+            "en": [
+                "Steam.",
+                "Mine.",
+                "Industrial Revolution."
+            ],
+            "es": [
+                "Vapor.",
+                "Mina.",
+                "Revolución Industrial."
+            ],
+            "pt": [
+                "Vapor.",
+                "Mina.",
+                "Revolução Industrial."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Превращает кипящую воду в движение.",
+                "Его сила управляла первыми поездами и фабриками."
+            ],
+            "uk": [
+                "Перетворює киплячу воду на рух.",
+                "Його сила керувала першими потягами та фабриками."
+            ],
+            "en": [
+                "It turns boiling water into motion.",
+                "Its power drove the first trains and factories."
+            ],
+            "es": [
+                "Convierte el agua hirviendo en movimiento.",
+                "Su poder impulsó los primeros trenes y fábricas."
+            ],
+            "pt": [
+                "Ele transforma água fervente em movimento.",
+                "Sua força impulsionou os primeiros trens e fábricas."
+            ]
+        },
+        "tooltip": {
+            "ru": "Изначально использовалось для откачки воды из шахт, а не для движения поездов.",
+            "uk": "Спочатку використовувався для відкачування води з шахт, а не для руху поїздів.",
+            "en": "It was originally used to pump water out of mines, not to move trains.",
+            "es": "Originalmente se usó para bombear agua de minas, no para mover trenes.",
+            "pt": "Originalmente foi usado para bombear água de minas, não para mover trens."
+        },
+        "qwestion": {
+            "ru": "Какое изобретение, стало основой промышленной революции?",
+            "uk": "Який винахід, став основою промислової революції?",
+            "en": "What invention became the foundation of the Industrial Revolution?",
+            "es": "¿Qué invento se convirtió en la base de la Revolución Industrial?",
+            "pt": "Qual invenção se tornou a base da Revolução Industrial?"
+        },
+        "definition": {
+            "ru": "Паровой двигатель — это тепловой двигатель, который преобразует энергию пара в механическую работу. Его усовершенствование в XVIII веке стало ключевым для Промышленной революции, обеспечив энергией фабрики, поезда и корабли. Он полностью изменил производство, транспорт и экономику, открыв новую эру технологий.",
+            "uk": "Паровий двигун — це тепловий двигун, який перетворює енергію пари на механічну роботу. Його вдосконалення у XVIII столітті стало ключовим для Промислової революції, забезпечивши енергією фабрики, поїзди та кораблі. Він повністю змінив виробництво, транспорт та економіку, відкривши нову еру технологій.",
+            "en": "The steam engine is a heat engine that converts the energy of steam into mechanical work. Its improvement in the 18th century was key to the Industrial Revolution, providing power for factories, trains, and ships. It completely changed manufacturing, transport, and the economy, ushering in a new era of technology.",
+            "es": "La máquina de vapor es un motor térmico que convierte la energía del vapor en trabajo mecánico. Su mejora en el siglo XVIII fue clave para la Revolución Industrial, proporcionando energía a fábricas, trenes y barcos. Cambió por completo la fabricación, el transporte y la economía, dando paso a una nueva era tecnológica.",
+            "pt": "A máquina a vapor é um motor térmico que converte a energia do vapor em trabalho mecânico. Seu aprimoramento no século XVIII foi fundamental para a Revolução Industrial, fornecendo energia para fábricas, trens e navios. Ela mudou completamente a manufatura, o transporte e a economia, inaugurando uma nova era de tecnologia."
+        },
+        "antipod": {
+            "ru": "Альтернатор",
+            "uk": "Альтернатор",
+            "en": "Alternator",
+            "es": "Alternador",
+            "pt": "Alternador"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих изобретений было создано для использования пара?",
+            "uk": "Який із цих винаходів був створений для використання пари?",
+            "en": "Which of these inventions was created to harness steam?",
+            "es": "¿Cuál de estos inventos fue creado para aprovechar el vapor?",
+            "pt": "Qual dessas invenções foi criada para aproveitar o vapor?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Steam_engine"
+    },
+    "imgFlag": "quizfoto" 
+}

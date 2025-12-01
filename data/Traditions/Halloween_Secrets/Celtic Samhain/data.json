@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Кельтский Самайн",
+            "uk": "Кельтський Самайн",
+            "en": "Celtic Samhain",
+            "es": "Samhain celta",
+            "pt": "Samhain celta"
+        },
+        "wrong": {
+            "ru": [
+                "День Всех Святых",
+                "Ночь Гая Фокса",
+                "Масленица"
+            ],
+            "uk": [
+                "День Усіх Святих",
+                "Ніч Гая Фокса",
+                "Масляна"
+            ],
+            "en": [
+                "All Saints' Day",
+                "Guy Fawkes Night",
+                "Maslenitsa"
+            ],
+            "es": [
+                "Día de Todos los Santos",
+                "Noche de Guy Fawkes",
+                "Maslenitsa"
+            ],
+            "pt": [
+                "Dia de Todos os Santos",
+                "Noite de Guy Fawkes",
+                "Maslenitsa"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Конец лета.",
+                "Древние кельты.",
+                "Жатва."
+            ],
+            "uk": [
+                "Кінець літа.",
+                "Давні кельти.",
+                "Жнива."
+            ],
+            "en": [
+                "End of summer.",
+                "Ancient Celts.",
+                "Harvest."
+            ],
+            "es": [
+                "Fin del verano.",
+                "Antiguos celtas.",
+                "Cosecha."
+            ],
+            "pt": [
+                "Fim do verão.",
+                "Antigos celtas.",
+                "Colheita."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Ночь, когда границы между мирами стираются.",
+                "Его имя означает «конец лета»."
+            ],
+            "uk": [
+                "Ніч, коли межі між світами стираються.",
+                "Його ім'я означає «кінець літа»."
+            ],
+            "en": [
+                "A night when the boundaries between worlds are blurred.",
+                "Its name means 'end of summer'."
+            ],
+            "es": [
+                "Una noche en la que las fronteras entre mundos se desdibujan.",
+                "Su nombre significa 'fin del verano'."
+            ],
+            "pt": [
+                "Uma noite em que as fronteiras entre os mundos se confundem.",
+                "Seu nome significa 'fim do verão'."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это праздник, отмечающий конец лета и сбор урожая.",
+            "uk": "Це свято, що відзначає кінець літа і збір врожаю.",
+            "en": "This is a festival celebrating the end of summer and the harvest.",
+            "es": "Este es un festival que celebra el fin del verano y la cosecha.",
+            "pt": "Este é um festival que celebra o fim do verão e a colheita."
+        },
+        "qwestion": {
+            "ru": "Какой древний кельтский праздник является истинным источником Хеллоуина?",
+            "uk": "Яке давнє кельтське свято є справжнім джерелом Хелловіну?",
+            "en": "What ancient Celtic festival is the true origin of Halloween?",
+            "es": "¿Qué antiguo festival celta es el verdadero origen de Halloween?",
+            "pt": "Qual antigo festival celta é a verdadeira origem do Halloween?"
+        },
+        "definition": {
+            "ru": "Самайн — это древний кельтский праздник, отмечаемый 31 октября. Он символизировал конец сезона жатвы и начало зимы. Считалось, что в эту ночь граница между миром живых и миром мертвых истончалась, что делает его предшественником Хеллоуина.",
+            "uk": "Самайн — це давнє кельтське свято, що відзначається 31 жовтня. Воно символізувало кінець сезону жнив і початок зими. Вважалося, що в цю ніч межа між світом живих і світом мертвих стоншувалася, що робить його попередником Хелловіну.",
+            "en": "Samhain is an ancient Celtic festival celebrated on October 31st. It marked the end of the harvest season and the beginning of winter. It was believed that on this night the boundary between the living and the dead was blurred, making it the precursor to Halloween.",
+            "es": "Samhain es un antiguo festival celta celebrado el 31 de octubre. Marcaba el fin de la temporada de cosecha y el comienzo del invierno. Se creía que en esta noche el límite entre el mundo de los vivos y el de los muertos se desvanecía, lo que lo convierte en el precursor de Halloween.",
+            "pt": "O Samhain é um antigo festival celta celebrado em 31 de outubro. Ele marcava o fim da estação da colheita e o início do inverno. Acreditava-se que nesta noite a fronteira entre o mundo dos vivos e dos mortos ficava tênue, o que o torna o precursor do Halloween."
+        },
+        "antipod": {
+            "ru": "День Труда",
+            "uk": "День Праці",
+            "en": "Labor Day",
+            "es": "Día del Trabajo",
+            "pt": "Dia do Trabalho"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих событий было первым?",
+            "uk": "Яка з цих подій була першою?",
+            "en": "Which of these events came first?",
+            "es": "¿Cuál de estos eventos fue primero?",
+            "pt": "Qual desses eventos veio primeiro?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Samhain"
+    },
+    "imgFlag": "all" 
+}

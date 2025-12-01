@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Сухой лёд",
+            "uk": "Сухий лід",
+            "en": "Dry Ice",
+            "es": "Hielo seco",
+            "pt": "Gelo seco"
+        },
+        "wrong": {
+            "ru": [
+                "Жидкий азот",
+                "Кондиционер",
+                "Парогенератор"
+            ],
+            "uk": [
+                "Рідкий азот",
+                "Кондиціонер",
+                "Парогенератор"
+            ],
+            "en": [
+                "Liquid nitrogen",
+                "Air conditioner",
+                "Fog machine"
+            ],
+            "es": [
+                "Nitrógeno líquido",
+                "Aire acondicionado",
+                "Máquina de humo"
+            ],
+            "pt": [
+                "Nitrogênio líquido",
+                "Ar condicionado",
+                "Máquina de fumaça"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Углекислый газ.",
+                "Туман.",
+                "Театр."
+            ],
+            "uk": [
+                "Вуглекислий газ.",
+                "Туман.",
+                "Театр."
+            ],
+            "en": [
+                "Carbon dioxide.",
+                "Fog.",
+                "Theatre."
+            ],
+            "es": [
+                "Dióxido de carbono.",
+                "Niebla.",
+                "Teatro."
+            ],
+            "pt": [
+                "Dióxido de carbono.",
+                "Fumaça.",
+                "Teatro."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Искусственный туман.",
+                "Углекислый газ и сцена."
+            ],
+            "uk": [
+                "Штучний туман.",
+                "Вуглекислий газ і сцена."
+            ],
+            "en": [
+                "Artificial fog.",
+                "Carbon dioxide and a stage."
+            ],
+            "es": [
+                "Niebla artificial.",
+                "Dióxido de carbono y un escenario."
+            ],
+            "pt": [
+                "Névoa artificial.",
+                "Dióxido de carbono e um palco."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это вещество, явлется твердой формой углекислого газа.",
+            "uk": "Ця речовина, що є твердою формою вуглекислого газу.",
+            "en": "This substance is the solid form of carbon dioxide.",
+            "es": "Esta sustancia es la forma sólida del dióxido de carbono.",
+            "pt": "Essa substância é a forma sólida do dióxido de carbono."
+        },
+        "qwestion": {
+            "ru": "Что было впервые использовано в качестве театрального эффекта для создания густого тумана?",
+            "uk": "Що було вперше використано як театральний ефект для створення густого туману?",
+            "en": "What was first used as a theatrical effect to create dense fog?",
+            "es": "¿Qué se usó por primera vez como efecto teatral para crear niebla densa?",
+            "pt": "O que foi usado pela primeira vez como efeito teatral para criar névoa densa?"
+        },
+        "definition": {
+            "ru": "Сухой лёд — это твердая форма углекислого газа, которая имеет температуру около -78,5 °C. Он получил свое название, потому что при комнатной температуре он не тает, а сублимируется — переходит непосредственно из твердого состояния в газообразное, не превращаясь в жидкость. Этот процесс и создает эффект густого, плотного тумана при контакте с водой. Изначально сухой лед был применен в качестве театрального эффекта, но сегодня его также широко используют для охлаждения и замораживания, в том числе для транспортировки скоропортящихся продуктов.",
+            "uk": "Сухий лід — це тверда форма вуглекислого газу, яка має температуру близько -78,5 °C. Він отримав свою назву, тому що при кімнатній температурі він не тане, а сублімується — переходить безпосередньо з твердого стану в газоподібний, не перетворюючись на рідину. Цей процес і створює ефект густого, щільного туману при контакті з водою. Спочатку сухий лід був застосований як театральний ефект, але сьогодні його також широко використовують для охолодження та заморожування, зокрема для транспортування швидкопсувних продуктів.",
+            "en": "Dry ice is the solid form of carbon dioxide, with a temperature of around -78.5 °C. It gets its name because at room temperature, it doesn't melt but sublimates, transitioning directly from a solid to a gas without becoming a liquid. This process is what creates the effect of a dense, thick fog when it comes into contact with water. Originally used as a theatrical effect, today it is also widely used for cooling and freezing, including for the transportation of perishable goods.",
+            "es": "El hielo seco es la forma sólida del dióxido de carbono, con una temperatura de alrededor de -78.5 °C. Recibe su nombre porque a temperatura ambiente no se derrite, sino que se sublima, pasando directamente de un estado sólido a gaseoso sin convertirse en líquido. Este proceso es lo que crea el efecto de una niebla densa y espesa cuando entra en contacto con el agua. Originalmente utilizado como efecto teatral, hoy en día también se usa ampliamente para enfriar y congelar, incluso para el transporte de productos perecederos.",
+            "pt": "O gelo seco é a forma sólida do dióxido de carbono, com uma temperatura de cerca de -78.5 °C. Ele recebe seu nome porque, à temperatura ambiente, não derrete, mas sublima, passando diretamente do estado sólido para o gasoso sem se tornar líquido. Esse processo é o que cria o efeito de uma névoa densa e espessa quando entra em contato com a água. Originalmente usado como um efeito teatral, hoje em dia também é amplamente utilizado para resfriamento e congelamento, inclusive para o transporte de produtos perecíveis."
+        },
+        "antipod": {
+            "ru": "Порох",
+            "uk": "Порох",
+            "en": "Gunpowder",
+            "es": "Pólvora",
+            "pt": "Pólvora"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих изобретений было изначально использовано для создания эффектов?",
+            "uk": "Який із цих винаходів був спочатку використаний для створення ефектів?",
+            "en": "Which of these inventions was originally used to create effects?",
+            "es": "¿Cuál de estos inventos se usó originalmente para crear efectos?",
+            "pt": "Qual dessas invenções foi originalmente usada para criar efeitos?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Dry_ice"
+    },
+    "imgFlag": "all" 
+}

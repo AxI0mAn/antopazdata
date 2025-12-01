@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Зомби",
+            "uk": "Зомбі",
+            "en": "Zombie",
+            "es": "Zombie",
+            "pt": "Zombie"
+        },
+        "wrong": {
+            "ru": [
+                "Лонг-Айленд Айс Ти",
+                "Пина Колада",
+                "Май Тай"
+            ],
+            "uk": [
+                "Лонг-Айленд Айс Ті",
+                "Піна Колада",
+                "Май Тай"
+            ],
+            "en": [
+                "Long Island Iced Tea",
+                "Piña Colada",
+                "Mai Tai"
+            ],
+            "es": [
+                "Long Island Iced Tea",
+                "Piña Colada",
+                "Mai Tai"
+            ],
+            "pt": [
+                "Long Island Iced Tea",
+                "Piña Colada",
+                "Mai Tai"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Крепкий.",
+                "Ром.",
+                "Тропики."
+            ],
+            "uk": [
+                "Міцний.",
+                "Ром.",
+                "Тропіки."
+            ],
+            "en": [
+                "Strong.",
+                "Rum.",
+                "Tropics."
+            ],
+            "es": [
+                "Fuerte.",
+                "Ron.",
+                "Trópicos."
+            ],
+            "pt": [
+                "Forte.",
+                "Rum.",
+                "Trópicos."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Очень крепкий коктейль.",
+                "Бармен не даст тебе выпить меня три раза."
+            ],
+            "uk": [
+                "Дуже міцний коктейль.",
+                "Бармен не дасть тобі випити мене тричі."
+            ],
+            "en": [
+                "A very strong cocktail.",
+                "A bartender won't let you drink me three times."
+            ],
+            "es": [
+                "Un cóctel muy fuerte.",
+                "Un camarero no te dejará beberme tres veces."
+            ],
+            "pt": [
+                "Um coquetel muito forte.",
+                "Um barman não vai deixar você me beber três vezes."
+            ]
+        },
+        "tooltip": {
+            "ru": "Если выпить больше, то можно превратиться в «живых мертвецов».",
+            "uk": "Якщо випити більше, то можна перетворитися на «живих мерців».",
+            "en": "If you drink more, you can turn into a 'living dead.'",
+            "es": "Si bebes más, puedes convertirte en un 'muerto viviente'.",
+            "pt": "Se beber mais, você pode se transformar em um 'morto-vivo'."
+        },
+        "qwestion": {
+            "ru": "Какой коктейль был настолько крепким, что бармен запрещал клиентам пить больше двух?",
+            "uk": "Який коктейль був настільки міцним, що бармен забороняв клієнтам пити більше двох?",
+            "en": "What cocktail was so strong that the bartender banned customers from drinking more than two?",
+            "es": "¿Qué cóctel era tan fuerte que el camarero prohibió a los clientes beber más de dos?",
+            "pt": "Qual coquetel era tão forte que o bartender proibia os clientes de beber mais de dois?"
+        },
+        "definition": {
+            "ru": "Коктейль «Зомби» — это очень крепкий тики-коктейль на основе нескольких видов рома. Он был создан Доном Бичем, который, как говорят, ограничивал своих клиентов двумя порциями из-за его мощного воздействия. Его сладость маскирует высокое содержание алкоголя, что делает его опасным.",
+            "uk": "Коктейль «Зомбі» — це дуже міцний тікі-коктейль на основі кількох видів рому. Він був створений Доном Бічем, який, як кажуть, обмежував своїх клієнтів двома порціями через його потужну дію. Його солодкість маскує високий вміст алкоголю, що робить його небезпечним.",
+            "en": "The Zombie is a very strong, rum-based tiki cocktail. It was created by Donn Beach, who is said to have limited his customers to two servings due to its potent effect. Its sweetness masks the high alcohol content, which makes it deceptively dangerous.",
+            "es": "El cóctel Zombie es un cóctel tiki muy fuerte a base de ron. Fue creado por Donn Beach, quien se dice que limitaba a sus clientes a dos porciones debido a su potente efecto. Su dulzura enmascara el alto contenido de alcohol, lo que lo hace peligrosamente engañoso.",
+            "pt": "O coquetel Zombie é um coquetel tiki à base de rum muito forte. Foi criado por Donn Beach, que dizia ter limitado seus clientes a duas porções devido ao seu efeito potente. Sua doçura mascara o alto teor de álcool, o que o torna perigosamente enganoso."
+        },
+        "antipod": {
+            "ru": "Мохито",
+            "uk": "Мохіто",
+            "en": "Mojito",
+            "es": "Mojito",
+            "pt": "Mojito"
+        },
+        "hintFuiz": {
+            "ru": "Это коктейль, который не советуют пить больше двух порций.",
+            "uk": "Це коктейль, який не радять пити більше двох порцій.",
+            "en": "This is a cocktail that is not recommended to be drunk in more than two servings.",
+            "es": "Este es un cóctel que no se recomienda beber en más de dos porciones.",
+            "pt": "Este é um coquetel que não é recomendado beber em mais de duas porções."
+        },
+        "article": "https://en.wikipedia.org/wiki/Zombie_(cocktail)"
+    },
+    "imgFlag": "quizfoto" 
+}

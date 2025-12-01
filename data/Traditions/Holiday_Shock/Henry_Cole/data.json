@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Генри Коул",
+            "uk": "Генрі Коул",
+            "en": "Henry Cole",
+            "es": "Henry Cole",
+            "pt": "Henry Cole"
+        },
+        "wrong": {
+            "ru": [
+                "Чарльз Диккенс",
+                "Томас Эдисон",
+                "Луи Пастер"
+            ],
+            "uk": [
+                "Чарльз Діккенс",
+                "Томас Едісон",
+                "Луї Пастер"
+            ],
+            "en": [
+                "Charles Dickens",
+                "Thomas Edison",
+                "Louis Pasteur"
+            ],
+            "es": [
+                "Charles Dickens",
+                "Thomas Edison",
+                "Louis Pasteur"
+            ],
+            "pt": [
+                "Charles Dickens",
+                "Thomas Edison",
+                "Louis Pasteur"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Открытка",
+                "Вино",
+                "Скандал"
+            ],
+            "uk": [
+                "Листівка",
+                "Вино",
+                "Скандал"
+            ],
+            "en": [
+                "Card",
+                "Wine",
+                "Scandal"
+            ],
+            "es": [
+                "Tarjeta",
+                "Vino",
+                "Escándalo"
+            ],
+            "pt": [
+                "Cartão",
+                "Vinho",
+                "Escândalo"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Британец, который придумал открытку с вином.",
+                "Он создал первую в мире коммерческую рождественскую открытку."
+            ],
+            "uk": [
+                "Британець, який придумав листівку з вином.",
+                "Він створив першу в світі комерційну різдвяну листівку."
+            ],
+            "en": [
+                "A Brit who invented a card with wine.",
+                "He created the world's first commercial Christmas card."
+            ],
+            "es": [
+                "Un británico que inventó una tarjeta con vino.",
+                "Creó la primera tarjeta de Navidad comercial del mundo."
+            ],
+            "pt": [
+                "Um britânico que inventou um cartão com vinho.",
+                "Ele criou o primeiro cartão de Natal comercial do mundo."
+            ]
+        },
+        "tooltip": {
+            "ru": "Эта открытка вызвала скандал, потому что на ней была изображена семья, пьющая вино",
+            "uk": "Ця листівка викликала скандал, тому що на ній була зображена сім'я, яка п'є вино",
+            "en": "This card caused a scandal because it depicted a family drinking wine",
+            "es": "Esta tarjeta causó un escándalo porque representaba a una familia bebiendo vino",
+            "pt": "Este cartão causou um escândalo porque retratava uma família bebendo vinho"
+        },
+        "qwestion": {
+            "ru": "Кто был изобретателем первой коммерческой рождественской открытки в 1843 году?",
+            "uk": "Хто був винахідником першої комерційної різдвяної листівки в 1843 році?",
+            "en": "Who was the inventor of the first commercial Christmas card in 1843?",
+            "es": "¿Quién fue el inventor de la primera tarjeta de Navidad comercial en 1843?",
+            "pt": "Quem foi o inventor do primeiro cartão de Natal comercial em 1843?"
+        },
+        "definition": {
+            "ru": "Сэр Генри Коул — английский изобретатель, государственный служащий и предприниматель. В 1843 году он заказал иллюстрацию, которая стала первой в мире коммерческой рождественской открыткой, что положило начало новой традиции.",
+            "uk": "Сер Генрі Коул — англійський винахідник, державний службовець і підприємець. У 1843 році він замовив ілюстрацію, яка стала першою в світі комерційною різдвяною листівкою, що поклало початок новій традиції.",
+            "en": "Sir Henry Cole was an English inventor, civil servant, and entrepreneur. In 1843, he commissioned an illustration that became the world's first commercial Christmas card, which started a new tradition.",
+            "es": "Sir Henry Cole fue un inventor, funcionario y empresario inglés. En 1843, encargó una ilustración que se convirtió en la primera tarjeta de Navidad comercial del mundo, lo que dio inicio a una nueva tradición.",
+            "pt": "Sir Henry Cole foi um inventor, funcionário público e empresário inglês. Em 1843, ele encomendou uma ilustração que se tornou o primeiro cartão de Natal comercial do mundo, o que deu início a uma nova tradição."
+        },
+        "antipod": {
+            "ru": "Марк Твен",
+            "uk": "Марк Твен",
+            "en": "Mark Twain",
+            "es": "Mark Twain",
+            "pt": "Mark Twain"
+        },
+        "hintFuiz": {
+            "ru": "Этот британец придумал первую коммерческую рождественскую открытку.",
+            "uk": "Цей британець придумав першу комерційну різдвяну листівку.",
+            "en": "This Brit invented the first commercial Christmas card.",
+            "es": "Este británico inventó la primera tarjeta de Navidad comercial.",
+            "pt": "Este britânico inventou o primeiro cartão de Natal comercial."
+        },
+        "article": "https://en.wikipedia.org/wiki/Christmas_card"
+    },
+    "imgFlag": "quizfoto"
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Гольфстрим",
+            "uk": "Гольфстрім",
+            "en": "Gulf Stream",
+            "es": "Corriente del Golfo",
+            "pt": "Corrente do Golfo"
+        },
+        "wrong": {
+            "ru": [
+                "Течение Гумбольдта",
+                "Канарское течение",
+                "Красное море"
+            ],
+            "uk": [
+                "Течія Гумбольдта",
+                "Канарська течія",
+                "Червоне море"
+            ],
+            "en": [
+                "Humboldt Current",
+                "Canary Current",
+                "Red Sea"
+            ],
+            "es": [
+                "Corriente de Humboldt",
+                "Corriente de Canarias",
+                "Mar Rojo"
+            ],
+            "pt": [
+                "Corrente de Humboldt",
+                "Corrente das Canárias",
+                "Mar Vermelho"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Океан.",
+                "Тепло.",
+                "Климат."
+            ],
+            "uk": [
+                "Океан.",
+                "Тепло.",
+                "Клімат."
+            ],
+            "en": [
+                "Ocean.",
+                "Warmth.",
+                "Climate."
+            ],
+            "es": [
+                "Océano.",
+                "Calor.",
+                "Clima."
+            ],
+            "pt": [
+                "Oceano.",
+                "Calor.",
+                "Clima."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Какая река течет в океане и меняет климат?",
+                "Европейский обогреватель в Атлантическом океане."
+            ],
+            "uk": [
+                "Яка річка тече в океані та змінює клімат?",
+                "Європейський обігрівач в Атлантичному океані."
+            ],
+            "en": [
+                "What river flows in the ocean and changes the climate?",
+                "Europe's heater in the Atlantic Ocean."
+            ],
+            "es": [
+                "¿Qué río fluye en el océano y cambia el clima?",
+                "El calentador de Europa en el Océano Atlántico."
+            ],
+            "pt": [
+                "Que rio flui no oceano e muda o clima?",
+                "O aquecedor da Europa no Oceano Atlântico."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это быстрое и мощное течение, переносящее теплую воду из Мексиканского залива в Атлантику.",
+            "uk": "Це швидка і потужна течія, яка переносить теплу воду з Мексиканської затоки в Атлантику.",
+            "en": "It is a fast and powerful current that carries warm water from the Gulf of Mexico into the Atlantic Ocean.",
+            "es": "Es una corriente rápida y poderosa que transporta agua cálida desde el Golfo de México hacia el Atlántico.",
+            "pt": "É uma corrente rápida e poderosa que transporta água quente do Golfo do México para o Atlântico."
+        },
+        "qwestion": {
+            "ru": "Какое океаническое течение, если бы оно исчезло, могло бы погрузить Европу в новый ледниковый период?",
+            "uk": "Яка океанічна течія, якби вона зникла, могла б занурити Європу в новий льодовиковий період?",
+            "en": "Which oceanic current, if it disappeared, could plunge Europe into a new ice age?",
+            "es": "¿Qué corriente oceánica, si desapareciera, podría sumir a Europa en una nueva era glacial?",
+            "pt": "Qual corrente oceânica, se desaparecesse, poderia mergulhar a Europa em uma nova era glacial?"
+        },
+        "definition": {
+            "ru": "Гольфстрим — это мощное теплое океаническое течение в Атлантическом океане, которое переносит огромные объемы воды, оказывая значительное влияние на климат прибрежных районов Европы и Северной Америки.",
+            "uk": "Гольфстрім — це потужна тепла океанічна течія в Атлантичному океані, яка переносить величезні обсяги води, значно впливаючи на клімат прибережних районів Європи та Північної Америки.",
+            "en": "The Gulf Stream is a powerful, warm oceanic current in the Atlantic Ocean that transports immense volumes of water, significantly influencing the climate of coastal areas in Europe and North America.",
+            "es": "La Corriente del Golfo es una poderosa corriente oceánica cálida en el Océano Atlántico que transporta inmensos volúmenes de agua, influyendo significativamente en el clima de las zonas costeras de Europa y América del Norte.",
+            "pt": "A Corrente do Golfo é uma poderosa corrente oceânica quente no Oceano Atlântico que transporta volumes imensos de água, influenciando significativamente o clima das áreas costeiras da Europa e da América do Norte."
+        },
+        "antipod": {
+            "ru": "Течение Куросио",
+            "uk": "Течія Куросіо",
+            "en": "Kuroshio Current",
+            "es": "Corriente de Kuroshio",
+            "pt": "Corrente de Kuroshio"
+        },
+        "hintFuiz": {
+            "ru": "Какое течение сильнее влияет на климат Европы?",
+            "uk": "Яка течія сильніше впливає на клімат Європи?",
+            "en": "Which current influences Europe's climate more?",
+            "es": "¿Qué corriente influye más en el clima de Europa?",
+            "pt": "Qual corrente influencia mais o clima da Europa?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Gulf_Stream"
+    },
+    "imgFlag": "quiz"
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Кучевые облака",
+            "uk": "Купчасті хмари",
+            "en": "Cumulus clouds",
+            "es": "Nubes cúmulos",
+            "pt": "Nuvens cúmulos"
+        },
+        "wrong": {
+            "ru": [
+                "Слоистые облака",
+                "Кучево-дождевые облака",
+                "Слоисто-дождевые облака"
+            ],
+            "uk": [
+                "Шаруваті хмари",
+                "Купчасто-дощові хмари",
+                "Шарувато-дощові хмари"
+            ],
+            "en": [
+                "Stratus clouds",
+                "Cumulonimbus clouds",
+                "Nimbostratus clouds"
+            ],
+            "es": [
+                "Nubes estratos",
+                "Nubes cumulonimbus",
+                "Nubes nimboestratos"
+            ],
+            "pt": [
+                "Nuvens estratos",
+                "Nuvens cumulonimbus",
+                "Nuvens nimbostratos"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Комочки ваты.",
+                "Ясная погода.",
+                "Восходящий поток."
+            ],
+            "uk": [
+                "Грудочки вати.",
+                "Ясна погода.",
+                "Висхідний потік."
+            ],
+            "en": [
+                "Cotton balls.",
+                "Fair weather.",
+                "Updraft."
+            ],
+            "es": [
+                "Bolas de algodón.",
+                "Buen tiempo.",
+                "Corriente ascendente."
+            ],
+            "pt": [
+                "Bolas de algodão.",
+                "Tempo bom.",
+                "Corrente ascendente."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Плывут по небу как белые овечки.",
+                "Предвестники хорошей погоды."
+            ],
+            "uk": [
+                "Пливуть по небу як білі овечки.",
+                "Провісники гарної погоди."
+            ],
+            "en": [
+                "They float in the sky like white sheep.",
+                "A sign of good weather to come."
+            ],
+            "es": [
+                "Flotan en el cielo como ovejas blancas.",
+                "Un signo de buen tiempo por venir."
+            ],
+            "pt": [
+                "Flutuam no céu como ovelhas brancas.",
+                "Um sinal de bom tempo que está por vir."
+            ]
+        },
+        "tooltip": {
+            "ru": "Похожие на пушистые комочки ваты, они являются признаком ясной погоды.",
+            "uk": "Схожі на пухнасті грудочки вати, вони є ознакою ясної погоди.",
+            "en": "Looking like fluffy cotton balls, they are a sign of fair weather.",
+            "es": "Con apariencia de bolas de algodón esponjosas, son un signo de buen tiempo.",
+            "pt": "Parecendo bolas de algodão fofas, são um sinal de bom tempo."
+        },
+        "qwestion": {
+            "ru": "Какие облака, образуются из-за восходящих потоков теплого воздуха?",
+            "uk": "Які хмари утворюються через висхідні потоки теплого повітря?",
+            "en": "Which clouds form due to rising currents of warm air?",
+            "es": "¿Qué nubes se forman debido a las corrientes ascendentes de aire cálido?",
+            "pt": "Que nuvens se formam devido às correntes ascendentes de ar quente?"
+        },
+        "definition": {
+            "ru": "Кучевые облака — это отдельные, плотные облака с чёткими очертаниями, которые образуются в нижней тропосфере. Они имеют плоское основание и куполообразную вершину, напоминающую цветную капусту. Эти облака формируются благодаря конвекции, когда тёплый воздух поднимается и конденсируется. Обычно они являются признаком хорошей, стабильной погоды, но при наличии достаточного количества влаги и нестабильности могут разрастаться в более крупные облака, такие как кучево-дождевые.",
+            "uk": "Купчасті хмари — це окремі, щільні хмари з чіткими контурами, які утворюються в нижній тропосфері. Вони мають плоску основу і куполоподібну вершину, що нагадує цвітну капусту. Ці хмари формуються завдяки конвекції, коли тепле повітря піднімається і конденсується. Зазвичай вони є ознакою хорошої, стабільної погоди, але за наявності достатньої кількості вологи та нестабільності можуть розростатися в більші хмари, такі як купчасто-дощові.",
+            "en": "Cumulus clouds are detached, dense clouds with well-defined outlines that form in the lower troposphere. They have a flat base and a domed or cauliflower-like top. These clouds form due to convection, as warm air rises and condenses. They are typically a sign of fair, stable weather, but with enough moisture and instability, they can grow into larger clouds like cumulonimbus.",
+            "es": "Las nubes cúmulos son nubes separadas y densas con contornos bien definidos que se forman en la troposfera inferior. Tienen una base plana y una parte superior en forma de cúpula o coliflor. Estas nubes se forman debido a la convección, a medida que el aire cálido se eleva y se condensa. Por lo general, son un signo de buen tiempo y estable, pero con suficiente humedad e inestabilidad, pueden crecer hasta convertirse en nubes más grandes como los cumulonimbus.",
+            "pt": "As nuvens cúmulos são nuvens destacadas e densas com contornos bem definidos que se formam na troposfera inferior. Elas têm uma base plana e um topo em forma de cúpula ou couve-flor. Essas nuvens se formam devido à convecção, à medida que o ar quente sobe e se condensa. Geralmente são um sinal de tempo bom e estável, mas com umidade e instabilidade suficientes, podem se transformar em nuvens maiores como os cumulonimbus."
+        },
+        "antipod": {
+            "ru": "Кучево-дождевые облака",
+            "uk": "Купчасто-дощові хмари",
+            "en": "Cumulonimbus clouds",
+            "es": "Nubes cumulonimbus",
+            "pt": "Nuvens cumulonimbus"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих облаков не разрастается в огромную грозовую тучу?",
+            "uk": "Яка з цих хмар не розростається у величезну грозову хмару?",
+            "en": "Which of these clouds does not grow into a huge storm cloud?",
+            "es": "¿Cuál de estas nubes no se convierte en una enorme nube de tormenta?",
+            "pt": "Qual dessas nuvens não se transforma em uma enorme nuvem de tempestade?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Cumulus_cloud"
+    },
+    "imgFlag": "all" 
+}

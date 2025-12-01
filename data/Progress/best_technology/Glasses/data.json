@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Очки",
+            "uk": "Окуляри",
+            "en": "Glasses",
+            "es": "Gafas",
+            "pt": "Óculos"
+        },
+        "wrong": {
+            "ru": [
+                "Ножницы",
+                "Тарелка",
+                "Термометр"
+            ],
+            "uk": [
+                "Ножиці",
+                "Тарілка",
+                "Термометр"
+            ],
+            "en": [
+                "Scissors",
+                "Plate",
+                "Thermometer"
+            ],
+            "es": [
+                "Tijeras",
+                "Plato",
+                "Termómetro"
+            ],
+            "pt": [
+                "Tesoura",
+                "Prato",
+                "Termômetro"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Зрение.",
+                "Линзы.",
+                "Оптика."
+            ],
+            "uk": [
+                "Зір.",
+                "Лінзи.",
+                "Оптика."
+            ],
+            "en": [
+                "Sight.",
+                "Lenses.",
+                "Optics."
+            ],
+            "es": [
+                "Vista.",
+                "Lentes.",
+                "Óptica."
+            ],
+            "pt": [
+                "Visão.",
+                "Lentes.",
+                "Óptica."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Помогают читать.",
+                "Две линзы на одной оправе."
+            ],
+            "uk": [
+                "Допомагають читати.",
+                "Дві лінзи на одній оправі."
+            ],
+            "en": [
+                "They help you read.",
+                "Two lenses in a single frame."
+            ],
+            "es": [
+                "Ayudan a leer.",
+                "Dos lentes en una sola montura."
+            ],
+            "pt": [
+                "Ajudam a ler.",
+                "Duas lentes em uma única armação."
+            ]
+        },
+        "tooltip": {
+            "ru": "Оно позволяет людям видеть лучше.",
+            "uk": "Воно дозволяє людям бачити краще.",
+            "en": "It allows people to see better.",
+            "es": "Permite a las personas ver mejor.",
+            "pt": "Permite que as pessoas vejam melhor."
+        },
+        "qwestion": {
+            "ru": "Какое изобретение, было сначала встречено с недоверием и считалось колдовством?",
+            "uk": "Який винахід, був спочатку зустрінутий з недовірою і вважався чаклунством?",
+            "en": "What invention was initially met with distrust and considered witchcraft?",
+            "es": "¿Qué invento fue inicialmente recibido con desconfianza y considerado brujería?",
+            "pt": "Qual invenção foi inicialmente recebida com desconfiança e considerada feitiçaria?"
+        },
+        "definition": {
+            "ru": "Очки — это оптическое приспособление для коррекции зрения, состоящее из линз и оправы. Изобретенные в Италии в XIII веке, они позволили людям читать и работать дольше. Сначала их считали магией, так как они буквально давали «второе зрение» и увеличивали продолжительность активной жизни тех, у кого было ослабленное зрение.",
+            "uk": "Окуляри — це оптичний пристрій для корекції зору, що складається з лінз і оправи. Винайдені в Італії у XIII столітті, вони дозволили людям читати і працювати довше. Спочатку їх вважали магією, оскільки вони буквально давали «другий зір» і збільшували тривалість активного життя тих, у кого був ослаблений зір.",
+            "en": "Glasses are an optical device for correcting vision, consisting of lenses and a frame. Invented in Italy in the 13th century, they allowed people to read and work longer. They were initially seen as magic because they literally gave a 'second sight' and increased the active lifespan of those with failing vision.",
+            "es": "Las gafas son un dispositivo óptico para corregir la visión, que consta de lentes y una montura. Inventadas en Italia en el siglo XIII, permitieron a las personas leer y trabajar por más tiempo. Inicialmente se consideraban magia porque literalmente daban una 'segunda vista' y aumentaban la vida activa de aquellos con visión debilitada.",
+            "pt": "Os óculos são um dispositivo óptico para corrigir a visão, consistindo de lentes e uma armação. Inventados na Itália no século XIII, eles permitiram que as pessoas lessem e trabalhassem por mais tempo. Inicialmente, eram vistos como magia, pois literalmente davam uma 'segunda visão' e aumentavam a vida ativa daqueles com visão debilitada."
+        },
+        "antipod": {
+            "ru": "Часы",
+            "uk": "Годинник",
+            "en": "Clock",
+            "es": "Reloj",
+            "pt": "Relógio"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих изобретений используется для улучшения зрения?",
+            "uk": "Який із цих винаходів використовується для поліпшення зору?",
+            "en": "Which of these inventions is used to improve vision?",
+            "es": "¿Cuál de estos inventos se usa para mejorar la visión?",
+            "pt": "Qual dessas invenções é usada para melhorar a visão?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Glasses"
+    },
+    "imgFlag": "all" 
+}

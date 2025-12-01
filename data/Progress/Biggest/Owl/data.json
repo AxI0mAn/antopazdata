@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Сова",
+            "uk": "Сова",
+            "en": "Owl",
+            "es": "Búho",
+            "pt": "Coruja"
+        },
+        "wrong": {
+            "ru": [
+                "Орёл",
+                "Сокол",
+                "Ворон"
+            ],
+            "uk": [
+                "Орел",
+                "Сокіл",
+                "Ворон"
+            ],
+            "en": [
+                "Eagle",
+                "Falcon",
+                "Raven"
+            ],
+            "es": [
+                "Águila",
+                "Halcón",
+                "Cuervo"
+            ],
+            "pt": [
+                "Águia",
+                "Falcão",
+                "Corvo"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Ночь.",
+                "Мудрость.",
+                "Хищник."
+            ],
+            "uk": [
+                "Ніч.",
+                "Мудрість.",
+                "Хижак."
+            ],
+            "en": [
+                "Night.",
+                "Wisdom.",
+                "Predator."
+            ],
+            "es": [
+                "Noche.",
+                "Sabiduría.",
+                "Depredador."
+            ],
+            "pt": [
+                "Noite.",
+                "Sabedoria.",
+                "Predador."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Видит в темноте, но не кошка.",
+                "У меня большая голова, но я не человек."
+            ],
+            "uk": [
+                "Бачить в темряві, але не кішка.",
+                "У мене велика голова, але я не людина."
+            ],
+            "en": [
+                "It sees in the dark, but it's not a cat.",
+                "I have a big head, but I'm not a human."
+            ],
+            "es": [
+                "Ve en la oscuridad, pero no es un gato.",
+                "Tengo una cabeza grande, pero no soy un humano."
+            ],
+            "pt": [
+                "Vê na escuridão, mas não é um gato.",
+                "Tenho uma cabeça grande, mas não sou um humano."
+            ]
+        },
+        "tooltip": {
+            "ru": "Она является символом мудрости.",
+            "uk": "Вона є символом мудрості.",
+            "en": "It is a symbol of wisdom.",
+            "es": "Es un símbolo de sabiduría.",
+            "pt": "É um símbolo de sabedoria."
+        },
+        "qwestion": {
+            "ru": "Какая птица обладает одним из самым большим мозгом по отношению к массе своего тела?",
+            "uk": "Який птах має один з найбільших мізків по відношенню до маси свого тіла?",
+            "en": "What bird has one of the largest brains relative to its body mass?",
+            "es": "¿Qué ave tiene uno de los cerebros más grandes en relación a la masa de su cuerpo?",
+            "pt": "Qual ave tem um dos maiores cérebros em relação à massa de seu corpo?"
+        },
+        "definition": {
+            "ru": "Сова — это ночная хищная птица, известная своими большими глазами и способностью бесшумно летать. Она обладает одним из самых больших мозгов среди птиц по отношению к массе тела, что, вероятно, и является причиной её ассоциации с мудростью.",
+            "uk": "Сова — це нічний хижий птах, відомий своїми великими очима та здатністю безшумно літати. Вона має один із найбільших мізків серед птахів по відношенню до маси тіла, що, ймовірно, і є причиною її асоціації з мудрістю.",
+            "en": "An owl is a nocturnal bird of prey known for its large eyes and ability to fly silently. It has one of the largest brains among birds relative to its body mass, which is likely the reason for its association with wisdom.",
+            "es": "Un búho es un ave rapaz nocturna conocida por sus grandes ojos y su capacidad para volar en silencio. Tiene uno de los cerebros más grandes entre las aves en relación a la masa de su cuerpo, lo que probablemente sea la razón de su asociación con la sabiduría.",
+            "pt": "Uma coruja é uma ave de rapina noturna conhecida por seus olhos grandes e a capacidade de voar silenciosamente. Ela tem um dos maiores cérebros entre as aves em relação à sua massa corporal, o que provavelmente é a razão de sua associação com a sabedoria."
+        },
+        "antipod": {
+            "ru": "Какаду",
+            "uk": "Какаду",
+            "en": "Cockatoo",
+            "es": "Cacatúa",
+            "pt": "Cacatua"
+        },
+        "hintFuiz": {
+            "ru": "Эта птица обладает одним из самых больших мозгов.",
+            "uk": "Цей птах має один із найбільших мізків.",
+            "en": "This bird has one of the largest brains.",
+            "es": "Esta ave tiene uno de los cerebros más grandes.",
+            "pt": "Esta ave tem um dos maiores cérebros."
+        },
+        "article": "https://en.wikipedia.org/wiki/Owl"
+    },
+    "imgFlag": "all" 
+}

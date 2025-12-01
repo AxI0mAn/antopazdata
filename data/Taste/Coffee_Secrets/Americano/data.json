@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Американо",
+            "uk": "Американо",
+            "en": "Americano",
+            "es": "Americano",
+            "pt": "Americano"
+        },
+        "wrong": {
+            "ru": [
+                "Капучино",
+                "Латте",
+                "Солёный кофе"
+            ],
+            "uk": [
+                "Капучино",
+                "Лате",
+                "Солона кава"
+            ],
+            "en": [
+                "Cappuccino",
+                "Latte",
+                "Salted coffee"
+            ],
+            "es": [
+                "Capuchino",
+                "Latte",
+                "Café salado"
+            ],
+            "pt": [
+                "Cappuccino",
+                "Latte",
+                "Café salgado"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Война.",
+                "Солдаты.",
+                "Напиток."
+            ],
+            "uk": [
+                "Війна.",
+                "Солдати.",
+                "Напій."
+            ],
+            "en": [
+                "War.",
+                "Soldiers.",
+                "Drink."
+            ],
+            "es": [
+                "Guerra.",
+                "Soldados.",
+                "Bebida."
+            ],
+            "pt": [
+                "Guerra.",
+                "Soldados.",
+                "Bebida."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это сделали американские солдаты во время Второй мировой войны",
+            "uk": "Це зробили американські солдати під час Другої світової війни",
+            "en": "This was done by American soldiers during World War II",
+            "es": "Esto lo hicieron soldados estadounidenses durante la Segunda Guerra Mundial",
+            "pt": "Isso foi feito por soldados americanos durante a Segunda Guerra Mundial"
+        },
+        "qwestion": {
+            "ru": "Что было придумано, чтобы разбавить слишком крепкий европейский кофе?",
+            "uk": "Що було придумано, щоб розбавити занадто міцну європейську каву?",
+            "en": "What was invented to dilute overly strong European coffee?",
+            "es": "¿Qué se inventó para diluir el café europeo demasiado fuerte?",
+            "pt": "O que foi inventado para diluir o café europeu muito forte?"
+        },
+        "definition": {
+            "ru": "Американо — это кофейный напиток, который готовится путем добавления горячей воды в порцию эспрессо. Он был создан во время Второй мировой войны американскими солдатами, чтобы сделать европейский кофе похожим на привычный для них.",
+            "uk": "Американо — це кавовий напій, який готується шляхом додавання гарячої води до порції еспресо. Він був створений під час Другої світової війни американськими солдатами, щоб зробити європейську каву схожою на звичну для них.",
+            "en": "An Americano is a coffee drink prepared by adding hot water to a shot of espresso. It was created during World War II by American soldiers to make European coffee similar to what they were used to.",
+            "es": "El Americano es una bebida de café preparada agregando agua caliente a un shot de espresso. Fue creado durante la Segunda Guerra Mundial por soldados estadounidenses para hacer que el café europeo se pareciera a lo que estaban acostumbrados.",
+            "pt": "O Americano é uma bebida de café preparada adicionando água quente a um shot de expresso. Foi criado durante a Segunda Guerra Mundial por soldados americanos para tornar o café europeu mais parecido com o que eles estavam acostumados."
+        },
+        "antipod": {
+            "ru": "Крепкий эспрессо",
+            "uk": "Міцний еспресо",
+            "en": "Strong espresso",
+            "es": "Expreso fuerte",
+            "pt": "Expresso forte"
+        },
+        "hintFuiz": {
+            "ru": "Этот кофейный напиток появился во время Второй мировой войны.",
+            "uk": "Цей кавовий напій з'явився під час Другої світової війни.",
+            "en": "This coffee drink appeared during World War II.",
+            "es": "Esta bebida de café apareció durante la Segunda Guerra Mundial.",
+            "pt": "Esta bebida de café surgiu durante a Segunda Guerra Mundial."
+        },
+        "riddle": {
+            "ru": [
+                "Кофейный напиток в честь целого континента.",
+                "Появился в Италии во время войны."
+            ],
+            "uk": [
+                "Кавовий напій на честь цілого континенту.",
+                "З'явився в Італії під час війни."
+            ],
+            "en": [
+                "A coffee drink named after a whole continent.",
+                "It appeared in Italy during the war."
+            ],
+            "es": [
+                "Una bebida de café que lleva el nombre de un continente entero.",
+                "Apareció en Italia durante la guerra."
+            ],
+            "pt": [
+                "Uma bebida de café com o nome de um continente inteiro.",
+                "Apareceu na Itália durante a guerra."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Caffè_americano"
+    },
+    "imgFlag": "quizfoto"
+}

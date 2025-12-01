@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Юлианский календарь",
+            "uk": "Юліанський календар",
+            "en": "Julian calendar",
+            "es": "Calendario juliano",
+            "pt": "Calendário juliano"
+        },
+        "wrong": {
+            "ru": [
+                "Григорианский календарь",
+                "Лунный календарь",
+                "Китайский календарь"
+            ],
+            "uk": [
+                "Григоріанський календар",
+                "Місячний календар",
+                "Китайський календар"
+            ],
+            "en": [
+                "Gregorian calendar",
+                "Lunar calendar",
+                "Chinese calendar"
+            ],
+            "es": [
+                "Calendario gregoriano",
+                "Calendario lunar",
+                "Calendario chino"
+            ],
+            "pt": [
+                "Calendário gregoriano",
+                "Calendário lunar",
+                "Calendário chinês"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Старый Новый год",
+                "Двойной праздник",
+                "Традиции"
+            ],
+            "uk": [
+                "Старий Новий рік",
+                "Подвійне свято",
+                "Традиції"
+            ],
+            "en": [
+                "Old New Year",
+                "Double holiday",
+                "Traditions"
+            ],
+            "es": [
+                "Antiguo Año Nuevo",
+                "Doble festivo",
+                "Tradiciones"
+            ],
+            "pt": [
+                "Ano Novo Antigo",
+                "Feriado duplo",
+                "Tradições"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Он был основным, но его заменили.",
+                "Его дни немного длиннее."
+            ],
+            "uk": [
+                "Він був основним, але його замінили.",
+                "Його дні трохи довші."
+            ],
+            "en": [
+                "It was the primary one, but it was replaced.",
+                "Its days are a little longer."
+            ],
+            "es": [
+                "Era el principal, pero fue reemplazado.",
+                "Sus días son un poco más largos."
+            ],
+            "pt": [
+                "Ele era o principal, mas foi substituído.",
+                "Seus dias são um pouco mais longos."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это солнечный календарь, который был предшественником Григорианского.",
+            "uk": "Це сонячний календар, який був попередником Григоріанського.",
+            "en": "It is a solar calendar that was the predecessor of the Gregorian one.",
+            "es": "Es un calendario solar que fue el predecesor del gregoriano.",
+            "pt": "É um calendário solar que foi o predecessor do gregoriano."
+        },
+        "qwestion": {
+            "ru": "По какому календарю отмечают Старый Новый год в ночь с 13 на 14 января?",
+            "uk": "За яким календарем відзначають Старий Новий рік в ніч з 13 на 14 січня?",
+            "en": "According to which calendar is the Old New Year celebrated on the night of January 13-14?",
+            "es": "¿Según qué calendario se celebra el Antiguo Año Nuevo en la noche del 13 al 14 de enero?",
+            "pt": "Segundo qual calendário o Ano Novo Antigo é celebrado na noite de 13 para 14 de janeiro?"
+        },
+        "definition": {
+            "ru": "Юлианский календарь — это солнечный календарь, введенный Юлием Цезарем в 45 году до н.э. Его неточность привела к расхождению с астрономическим годом, из-за чего в 1582 году его заменил Григорианский календарь. Разница в 13 дней между ними и стала причиной возникновения Старого Нового года.",
+            "uk": "Юліанський календар — це сонячний календар, запроваджений Юлієм Цезарем у 45 році до н.е. Його неточність призвела до розбіжності з астрономічним роком, через що у 1582 році його замінив Григоріанський календар. Різниця в 13 днів між ними і стала причиною виникнення Старого Нового року.",
+            "en": "The Julian calendar is a solar calendar introduced by Julius Caesar in 45 BC. Its inaccuracy led to a discrepancy with the astronomical year, which is why it was replaced by the Gregorian calendar in 1582. The 13-day difference between them is what led to the Old New Year.",
+            "es": "El calendario juliano es un calendario solar introducido por Julio César en el 45 a.C. Su imprecisión provocó una discrepancia con el año astronómico, por lo que fue reemplazado por el calendario gregoriano en 1582. La diferencia de 13 días entre ambos es la razón de la existencia del Antiguo Año Nuevo.",
+            "pt": "O calendário juliano é um calendário solar introduzido por Júlio César em 45 a.C. Sua imprecisão levou a uma discrepância com o ano astronômico, razão pela qual foi substituído pelo calendário gregoriano em 1582. A diferença de 13 dias entre eles é o que deu origem ao Ano Novo Antigo."
+        },
+        "antipod": {
+            "ru": "Лунный календарь",
+            "uk": "Місячний календар",
+            "en": "Lunar calendar",
+            "es": "Calendario lunar",
+            "pt": "Calendário lunar"
+        },
+        "hintFuiz": {
+            "ru": "С чем связан Старый Новый год?",
+            "uk": "З чим пов'язаний Старий Новий рік?",
+            "en": "What is the Old New Year related to?",
+            "es": "¿Con qué se relaciona el Antiguo Año Nuevo?",
+            "pt": "Com o que o Ano Novo Antigo está relacionado?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Julian_calendar"
+    },
+    "imgFlag": "quizfoto"
+}

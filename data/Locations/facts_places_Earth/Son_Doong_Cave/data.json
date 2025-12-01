@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Пещера Шондонг",
+            "uk": "Печера Шондонг",
+            "en": "Son Doong Cave",
+            "es": "Cueva de Son Doong",
+            "pt": "Caverna de Son Doong"
+        },
+        "wrong": {
+            "ru": [
+                "Пещера Ласко",
+                "Карлсбадские пещеры",
+                "Мамонтова пещера"
+            ],
+            "uk": [
+                "Печера Ласко",
+                "Карлсбадські печери",
+                "Мамонтова печера"
+            ],
+            "en": [
+                "Lascaux Cave",
+                "Carlsbad Caverns",
+                "Mammoth Cave"
+            ],
+            "es": [
+                "Cueva de Lascaux",
+                "Cuevas de Carlsbad",
+                "Cueva del Mamut"
+            ],
+            "pt": [
+                "Caverna de Lascaux",
+                "Cavernas de Carlsbad",
+                "Caverna do Mamute"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Вьетнам.",
+                "Джунгли.",
+                "Самая большая."
+            ],
+            "uk": [
+                "В'єтнам.",
+                "Джунглі.",
+                "Найбільша."
+            ],
+            "en": [
+                "Vietnam.",
+                "Jungle.",
+                "Largest."
+            ],
+            "es": [
+                "Vietnam.",
+                "Jungla.",
+                "La más grande."
+            ],
+            "pt": [
+                "Vietnã.",
+                "Selva.",
+                "Maior."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Мир под землей, где растут деревья и течет река.",
+                "Дыра в горе, в которой может поместиться небоскреб."
+            ],
+            "uk": [
+                "Світ під землею, де ростуть дерева і тече річка.",
+                "Діра в горі, в якій може поміститися хмарочос."
+            ],
+            "en": [
+                "A world below ground where trees grow and a river flows.",
+                "A hole in a mountain that can fit a skyscraper."
+            ],
+            "es": [
+                "Un mundo bajo tierra donde crecen árboles y fluye un río.",
+                "Un agujero en una montaña donde cabe un rascacielos."
+            ],
+            "pt": [
+                "Um mundo subterrâneo onde árvores crescem e um rio flui.",
+                "Um buraco em uma montanha que pode abrigar um arranha-céu."
+            ]
+        },
+        "tooltip": {
+            "ru": "Она имеет собственный климат, реку и джунгли внутри.",
+            "uk": "Вона має власний клімат, річку та джунглі всередині.",
+            "en": "It has its own climate, river, and jungle inside.",
+            "es": "Tiene su propio clima, río y jungla en su interior.",
+            "pt": "Ela tem seu próprio clima, rio e selva por dentro."
+        },
+        "qwestion": {
+            "ru": "Какая пещера во Вьетнаме является самой большой в мире?",
+            "uk": "Яка печера у В'єтнамі є найбільшою у світі?",
+            "en": "What cave in Vietnam is the largest in the world?",
+            "es": "¿Qué cueva en Vietnam es la más grande del mundo?",
+            "pt": "Qual caverna no Vietnã é a maior do mundo?"
+        },
+        "definition": {
+            "ru": "Пещера Шондонг, расположенная в национальном парке Фонгня-Кебанг во Вьетнаме, считается самой большой в мире по объему. Ее главный зал настолько огромен, что в нем можно было бы разместить целый городской квартал с небоскребами. Внутри пещеры есть своя экосистема, включая реку, джунгли и даже облака, образующиеся из-за разницы температур. Она была обнаружена местным жителем в 1991 году, но исследована и открыта для широкой публики только в 2009 году британскими спелеологами.",
+            "uk": "Печера Шондонг, розташована в національному парку Фонгня-Кебанг у В'єтнамі, вважається найбільшою у світі за обсягом. Її головний зал настільки величезний, що в ньому можна було б розмістити цілий міський квартал з хмарочосами. Усередині печери є своя екосистема, включаючи річку, джунглі і навіть хмари, що утворюються через різницю температур. Вона була виявлена місцевим жителем у 1991 році, але досліджена і відкрита для широкої публіки тільки у 2009 році британськими спелеологами.",
+            "en": "Son Doong Cave, located in Phong Nha-Ke Bang National Park in Vietnam, is considered the largest cave in the world by volume. Its main chamber is so immense that it could house an entire city block with skyscrapers. Inside the cave, there is its own ecosystem, including a river, jungle, and even clouds that form due to temperature differences. It was discovered by a local man in 1991 but was fully explored and opened to the public by British cavers in 2009.",
+            "es": "La Cueva de Son Doong, ubicada en el Parque Nacional Phong Nha-Ke Bang en Vietnam, es considerada la cueva más grande del mundo por volumen. Su cámara principal es tan inmensa que podría albergar un bloque de una ciudad entera con rascacielos. Dentro de la cueva, hay su propio ecosistema, incluyendo un río, selva e incluso nubes que se forman debido a las diferencias de temperatura. Fue descubierta por un lugareño en 1991, pero fue completamente explorada y abierta al público por espeleólogos británicos en 2009.",
+            "pt": "A Caverna de Son Doong, localizada no Parque Nacional Phong Nha-Ke Bang, no Vietnã, é considerada a maior caverna do mundo em volume. Sua câmara principal é tão imensa que poderia abrigar um quarteirão inteiro com arranha-céus. Dentro da caverna, há seu próprio ecossistema, incluindo um rio, selva e até nuvens que se formam devido às diferenças de temperatura. Ela foi descoberta por um homem local em 1991, mas foi totalmente explorada e aberta ao público por espeleólogos britânicos em 2009."
+        },
+        "antipod": {
+            "ru": "Гранд-Каньон",
+            "uk": "Гранд-Каньйон",
+            "en": "Grand Canyon",
+            "es": "Gran Cañón",
+            "pt": "Grand Canyon"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих мест является самой большой пещерой?",
+            "uk": "Яке з цих місць є найбільшою печерою?",
+            "en": "Which of these places is the largest cave?",
+            "es": "¿Cuál de estos lugares es la cueva más grande?",
+            "pt": "Qual desses lugares é a maior caverna?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Sơn_Đoòng_Cave"
+    },
+    "imgFlag": "quizfoto" 
+}

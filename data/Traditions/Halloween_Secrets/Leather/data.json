@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Кожа",
+            "uk": "Шкіра",
+            "en": "Leather",
+            "es": "Cuero",
+            "pt": "Couro"
+        },
+        "wrong": {
+            "ru": [
+                "Лён",
+                "Хлопок",
+                "Шерсть"
+            ],
+            "uk": [
+                "Льон",
+                "Бавовна",
+                "Вовна"
+            ],
+            "en": [
+                "Linen",
+                "Cotton",
+                "Wool"
+            ],
+            "es": [
+                "Lino",
+                "Algodón",
+                "Lana"
+            ],
+            "pt": [
+                "Linho",
+                "Algodão",
+                "Lã"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Животные.",
+                "Шкура.",
+                "Защита."
+            ],
+            "uk": [
+                "Тварини.",
+                "Шкура.",
+                "Захист."
+            ],
+            "en": [
+                "Animals.",
+                "Hide.",
+                "Protection."
+            ],
+            "es": [
+                "Animales.",
+                "Piel.",
+                "Protección."
+            ],
+            "pt": [
+                "Animais.",
+                "Pele.",
+                "Proteção."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Часть живого существа, которую носят, чтобы спастись от мёртвых.",
+                "Вторая кожа для тех, кто хочет чтобы его не узнали духи и демоны."
+            ],
+            "uk": [
+                "Частина живої істоти, яку носять, щоб врятуватися від мертвих.",
+                "Друга шкіра для тих, хто хоче, щоб його не впізнали духи та демони."
+            ],
+            "en": [
+                "Part of a living creature worn to escape the dead.",
+                "A second skin for those who want to be unrecognized by spirits and demons."
+            ],
+            "es": [
+                "Parte de un ser vivo que se lleva para escapar de los muertos.",
+                "Una segunda piel para aquellos que quieren pasar desapercibidos para espíritus y demonios."
+            ],
+            "pt": [
+                "Parte de um ser vivo usada para escapar dos mortos.",
+                "Uma segunda pele para aqueles que querem passar despercebidos por espíritos e demônios."
+            ]
+        },
+        "tooltip": {
+            "ru": "Согласно древним кельтским традициям этот материал мог защитить.",
+            "uk": "Згідно з давніми кельтськими традиціями цей матеріал міг захистити.",
+            "en": "According to ancient Celtic traditions, this material could protect.",
+            "es": "Según las antiguas tradiciones celtas, este material podía proteger.",
+            "pt": "De acordo com as antigas tradições celtas, este material podia proteger."
+        },
+        "qwestion": {
+            "ru": "Из какого материала, люди делали костюмы, чтобы защититься от злых духов?",
+            "uk": "З якого матеріалу люди робили костюми, щоб захиститися від злих духів?",
+            "en": "From what material did people make costumes to protect themselves from evil spirits?",
+            "es": "¿De qué material hacían disfraces las personas para protegerse de los espíritus malignos?",
+            "pt": "De que material as pessoas faziam fantasias para se protegerem de espíritos malignos?"
+        },
+        "definition": {
+            "ru": "Кожа - это материал, из которого древние кельты делали костюмы, чтобы защититься от злых духов во время праздника Самайн. Они носили шкуры животных, чтобы замаскироваться от бродящих духов.",
+            "uk": "Шкіра - це матеріал, з якого стародавні кельти робили костюми, щоб захиститися від злих духів під час свята Самайн. Вони носили шкури тварин, щоб замаскуватися від духів, що блукають.",
+            "en": "Leather is a material from which ancient Celts made costumes to protect themselves from evil spirits during the Samhain festival. They wore animal hides to disguise themselves from roaming spirits.",
+            "es": "El cuero es un material del que los antiguos celtas hacían disfraces para protegerse de los espíritus malignos durante el festival de Samhain. Usaban pieles de animales para disfrazarse de los espíritus errantes.",
+            "pt": "O couro é um material com o qual os antigos celtas faziam fantasias para se protegerem de espíritos malignos durante o festival de Samhain. Eles usavam peles de animais para se disfarçarem dos espíritos errantes."
+        },
+        "antipod": {
+            "ru": "Мох",
+            "uk": "Мох",
+            "en": "Moss",
+            "es": "Musgo",
+            "pt": "Musgo"
+        },
+        "hintFuiz": {
+            "ru": "Одежда из какого материала защищает от злых духов?",
+            "uk": "Одяг з якого матеріалу захищає від злих духів?",
+            "en": "Clothing made of what material protects against evil spirits?",
+            "es": "¿La ropa hecha de qué material protege contra los espíritus malignos?",
+            "pt": "Roupas feitas de qual material protegem contra espíritos malignos?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Samhain"
+    },
+    "imgFlag": "quizfoto" 
+}

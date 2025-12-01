@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Ёлка",
+            "uk": "Ялинка",
+            "en": "Christmas Tree",
+            "es": "Árbol de Navidad",
+            "pt": "Árvore de Natal"
+        },
+        "wrong": {
+            "ru": [
+                "Берёза",
+                "Клён",
+                "Олива"
+            ],
+            "uk": [
+                "Береза",
+                "Клен",
+                "Олива"
+            ],
+            "en": [
+                "Birch",
+                "Maple",
+                "Olive"
+            ],
+            "es": [
+                "Abedul",
+                "Arce",
+                "Olivo"
+            ],
+            "pt": [
+                "Bétula",
+                "Bordo",
+                "Oliveira"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Германия",
+                "Поклонение",
+                "Жертвы"
+            ],
+            "uk": [
+                "Німеччина",
+                "Поклоніння",
+                "Жертви"
+            ],
+            "en": [
+                "Germany",
+                "Worship",
+                "Sacrifices"
+            ],
+            "es": [
+                "Alemania",
+                "Adoración",
+                "Sacrificios"
+            ],
+            "pt": [
+                "Alemanha",
+                "Adoração",
+                "Sacrifícios"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Вечнозелёная, но её срубают для праздника.",
+                "Когда-то ей поклонялись, а теперь украшают шарами."
+            ],
+            "uk": [
+                "Вічнозелена, але її зрубують для свята.",
+                "Колись їй поклонялися, а тепер прикрашають кулями."
+            ],
+            "en": [
+                "Evergreen, but it's cut down for a holiday.",
+                "Once worshipped, now decorated with ornaments."
+            ],
+            "es": [
+                "Siempre verde, pero se tala para una festividad.",
+                "Una vez adorado, ahora decorado con adornos."
+            ],
+            "pt": [
+                "Sempre verde, mas é cortada para um feriado.",
+                "Antes adorada, agora decorada com enfeites."
+            ]
+        },
+        "tooltip": {
+            "ru": "Сейчас её украшают на время зимних праздников",
+            "uk": "Зараз її прикрашають на час зимових свят",
+            "en": "Now it's decorated for the winter holidays",
+            "es": "Ahora se decora durante las fiestas de invierno",
+            "pt": "Agora é decorada para as festas de inverno"
+        },
+        "qwestion": {
+            "ru": "Какое дерево было частью древних языческих ритуалов, а сейчас Рождественское дерево?",
+            "uk": "Яке дерево було частиною давніх язичницьких ритуалів, а зараз Різдвяне дерево?",
+            "en": "What tree was part of ancient pagan rituals and is now a Christmas tree?",
+            "es": "¿Qué árbol era parte de antiguos rituales paganos y ahora es un árbol de Navidad?",
+            "pt": "Que árvore fazia parte de antigos rituais pagãos e agora é uma árvore de Natal?"
+        },
+        "definition": {
+            "ru": "Ёлка — это вечнозелёное хвойное дерево, которое используется как символ зимних праздников. Традиция украшения ёлки берёт начало из языческих ритуалов древних германских народов, которые поклонялись деревьям.",
+            "uk": "Ялинка — це вічнозелене хвойне дерево, яке використовується як символ зимових свят. Традиція прикрашання ялинки бере початок з язичницьких ритуалів давніх германських народів, які поклонялися деревам.",
+            "en": "The Christmas tree is an evergreen coniferous tree used as a symbol of winter holidays. The tradition of decorating a Christmas tree originates from the pagan rituals of ancient Germanic peoples who worshipped trees.",
+            "es": "El árbol de Navidad es un árbol de coníferas de hoja perenne que se utiliza como símbolo de las fiestas de invierno. La tradición de decorar un árbol de Navidad se origina en los rituales paganos de los antiguos pueblos germánicos que adoraban a los árboles.",
+            "pt": "A árvore de Natal é uma conífera perene usada como símbolo das festas de inverno. A tradição de decorar uma árvore de Natal tem origem nos rituais pagãos dos antigos povos germânicos que adoravam árvores."
+        },
+        "antipod": {
+            "ru": "Пальма",
+            "uk": "Пальма",
+            "en": "Palm Tree",
+            "es": "Palmera",
+            "pt": "Palmeira"
+        },
+        "hintFuiz": {
+            "ru": "Это вечнозелёное дерево — символ зимних праздников.",
+            "uk": "Це вічнозелене дерево — символ зимових свят.",
+            "en": "This evergreen tree is a symbol of winter holidays.",
+            "es": "Este árbol de hoja perenne es un símbolo de las fiestas de invierno.",
+            "pt": "Esta árvore perene é um símbolo das festas de inverno."
+        },
+        "article": "https://en.wikipedia.org/wiki/Christmas_tree"
+    },
+    "imgFlag": "quizfoto"
+}

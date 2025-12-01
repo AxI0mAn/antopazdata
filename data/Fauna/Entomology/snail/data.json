@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Улитка",
+            "uk": "Равлик",
+            "en": "Snail",
+            "es": "Caracol",
+            "pt": "Caracol"
+        },
+        "wrong": {
+            "ru": [
+                "Гусеница",
+                "Медведка",
+                "Сороконожка"
+            ],
+            "uk": [
+                "Гусінь",
+                "Вовчок",
+                "Багатоніжка"
+            ],
+            "en": [
+                "Caterpillar",
+                "Mole cricket",
+                "Centipede"
+            ],
+            "es": [
+                "Oruga",
+                "Grillo topo",
+                "Ciempiés"
+            ],
+            "pt": [
+                "Lagarta",
+                "Paquinha",
+                "Centopeia"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Раковина.",
+                "Медлительность.",
+                "Радула (язык с зубами)."
+            ],
+            "uk": [
+                "Мушля.",
+                "Повільність.",
+                "Радула (язик із зубами)."
+            ],
+            "en": [
+                "Shell.",
+                "Slowness.",
+                "Radula (tongue with teeth)."
+            ],
+            "es": [
+                "Concha.",
+                "Lentitud.",
+                "Rádula (lengua con dientes)."
+            ],
+            "pt": [
+                "Concha.",
+                "Lentidão.",
+                "Rádula (língua com dentes)."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Кто носит свой дом на спине?",
+                "Какое животное передвигается очень медленно?"
+            ],
+            "uk": [
+                "Хто носить свій будинок на спині?",
+                "Яка тварина пересувається дуже повільно?"
+            ],
+            "en": [
+                "Who carries its home on its back?",
+                "What animal moves very slowly?"
+            ],
+            "es": [
+                "¿Quién lleva su casa a cuestas?",
+                "¿Qué animal se mueve muy lentamente?"
+            ],
+            "pt": [
+                "Quem carrega sua casa nas costas?",
+                "Que animal se move muito lentamente?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Использует свою раковину для защиты и хранения влаги.",
+            "uk": "Використовує свою мушлю для захисту та зберігання вологи.",
+            "en": "It uses its shell for protection and to retain moisture.",
+            "es": "Utiliza su concha para protegerse y retener la humedad.",
+            "pt": "Usa sua concha para se proteger e reter umidade."
+        },
+        "qwestion": {
+            "ru": "Какое брюхоногое животное известно своей спиральной раковиной?",
+            "uk": "Яка черевонога тварина відома своєю спіральною мушлею?",
+            "en": "What gastropod animal is known for its spiral shell?",
+            "es": "¿Qué animal gasterópodo es conocido por su concha espiral?",
+            "pt": "Qual animal gastrópode é conhecido por sua concha espiral?"
+        },
+        "definition": {
+            "ru": "Брюхоногий моллюск, передвигающийся по твердой поверхности с помощью волнообразных сокращений ноги. Имеет раковину, которая защищает тело.",
+            "uk": "Черевоногий молюск, що пересувається по твердій поверхні за допомогою хвилеподібних скорочень ноги. Має мушлю, яка захищає тіло.",
+            "en": "A gastropod mollusk that moves on a solid surface using wave-like contractions of its foot. It has a shell that protects its body.",
+            "es": "Un molusco gasterópodo que se desplaza sobre una superficie sólida mediante contracciones ondulantes de su pie. Tiene una concha que protege su cuerpo.",
+            "pt": "Um molusco gastrópode que se move sobre uma superfície sólida usando contrações ondulantes de seu pé. Tem uma concha que protege seu corpo."
+        },
+        "antipod": {
+            "ru": "Слизень",
+            "uk": "Слимак",
+            "en": "Slug",
+            "es": "Babosa",
+            "pt": "Lesma"
+        },
+        "hintFuiz": {
+            "ru": "Кто из них носит свой дом на спине?",
+            "uk": "Хто з них носить свій будинок на спині?",
+            "en": "Which of them carries its home on its back?",
+            "es": "¿Quién de ellos lleva su casa a cuestas?",
+            "pt": "Quem deles carrega sua casa nas costas?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Snail"
+    },
+    "imgFlag": "all" 
+}

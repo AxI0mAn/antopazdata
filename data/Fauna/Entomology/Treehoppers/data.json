@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Горбатки",
+            "uk": "Горбатки",
+            "en": "Treehoppers",
+            "es": "Membrácidos",
+            "pt": "Membracídeos"
+        },
+        "wrong": {
+            "ru": [
+                "Тля",
+                "Цикада",
+                "Блоха"
+            ],
+            "uk": [
+                "Попелиця",
+                "Цикада",
+                "Блоха"
+            ],
+            "en": [
+                "Aphid",
+                "Cicada",
+                "Flea"
+            ],
+            "es": [
+                "Pulgón",
+                "Cigarra",
+                "Pulga"
+            ],
+            "pt": [
+                "Pulgão",
+                "Cigarra",
+                "Pulga"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Гребень.",
+                "Защита.",
+                "Маскировка."
+            ],
+            "uk": [
+                "Гребінь.",
+                "Захист.",
+                "Маскування."
+            ],
+            "en": [
+                "Crest.",
+                "Defense.",
+                "Camouflage."
+            ],
+            "es": [
+                "Cresta.",
+                "Defensa.",
+                "Camuflaje."
+            ],
+            "pt": [
+                "Crista.",
+                "Defesa.",
+                "Camuflagem."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "На его спине могут быть рога или шипы.",
+                "Природа наделила его самой странной формой."
+            ],
+            "uk": [
+                "На його спині можуть бути роги або шипи.",
+                "Природа наділила його найдивнішою формою."
+            ],
+            "en": [
+                "Its back can have horns or spikes.",
+                "Nature has given it the strangest shape."
+            ],
+            "es": [
+                "Su espalda puede tener cuernos o espinas.",
+                "La naturaleza le ha dado la forma más extraña."
+            ],
+            "pt": [
+                "Suas costas podem ter chifres ou espinhos.",
+                "A natureza lhe deu a forma mais estranha."
+            ]
+        },
+        "tooltip": {
+            "ru": "Выступы в виде стрел или шипов, помогают им защищаться от хищников.",
+            "uk": "Виступи у вигляді стріл або шипів, допомагають їм захищатися від хижаків.",
+            "en": "Protrusions in the form of arrows or spikes help them defend against predators.",
+            "es": "Las protuberancias en forma de flechas o espinas les ayudan a defenderse de los depredadores.",
+            "pt": "As protuberâncias em forma de flechas ou espinhos os ajudam a se defender de predadores."
+        },
+        "qwestion": {
+            "ru": "У кого на спине выступы самой разнообразной формы, напоминающие гребни?",
+            "uk": "У кого на спині виступи найрізноманітнішої форми, що нагадують гребені?",
+            "en": "Which creature has humps of the most diverse shapes on its back, resembling crests?",
+            "es": "¿Qué criatura tiene protuberancias de las formas más diversas en la espalda, parecidas a crestas?",
+            "pt": "Que criatura tem protuberâncias das formas mais diversas nas costas, parecidas com cristas?"
+        },
+        "definition": {
+            "ru": "Горбатки — это семейство насекомых, известных своими необычными выростами на груди, которые могут принимать самые разнообразные формы, от рогов и шипов до причудливых гребней. Эти структуры служат им для маскировки и защиты от хищников, делая их похожими на ветки, шипы или мусор.",
+            "uk": "Горбатки — це родина комах, відомих своїми незвичайними виростами на грудях, які можуть набувати найрізноманітніших форм, від рогів і шипів до химерних гребенів. Ці структури служать їм для маскування та захисту від хижаків, роблячи їх схожими на гілки, шипи або сміття.",
+            "en": "Treehoppers are a family of insects known for their unusual growths on their backs, which can take on a wide variety of shapes, from horns and spikes to bizarre crests. These structures serve to camouflage and protect them from predators, making them look like twigs, thorns, or debris.",
+            "es": "Los membrácidos son una familia de insectos conocidos por sus inusuales protuberancias en la espalda, que pueden adoptar una amplia variedad de formas, desde cuernos y espinas hasta crestas extrañas. Estas estructuras sirven para camuflarlos y protegerlos de los depredadores, haciéndolos parecer ramitas, espinas o escombros.",
+            "pt": "Os membracídeos são uma família de insetos conhecidos por seus crescimentos incomuns nas costas, que podem assumir uma grande variedade de formas, desde chifres e espinhos até cristas bizarras. Essas estruturas servem para camuflá-los e protegê-los de predadores, fazendo-os parecer galhos, espinhos ou detritos."
+        },
+        "antipod": {
+            "ru": "Кузнечик",
+            "uk": "Коник",
+            "en": "Grasshopper",
+            "es": "Saltamontes",
+            "pt": "Gafanhoto"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих двух насекомых имеет необычный гребень на спине?",
+            "uk": "Яка з цих двох комах має незвичайний гребінь на спині?",
+            "en": "Which of these two insects has an unusual crest on its back?",
+            "es": "¿Cuál de estos dos insectos tiene una cresta inusual en su espalda?",
+            "pt": "Qual desses dois insetos tem uma crista incomum nas costas?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Treehopper"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Япония",
+            "uk": "Японія",
+            "en": "Japan",
+            "es": "Japón",
+            "pt": "Japão"
+        },
+        "wrong": {
+            "ru": [
+                "Китай",
+                "Греция",
+                "Исландия"
+            ],
+            "uk": [
+                "Китай",
+                "Греція",
+                "Ісландія"
+            ],
+            "en": [
+                "China",
+                "Greece",
+                "Iceland"
+            ],
+            "es": [
+                "China",
+                "Grecia",
+                "Islandia"
+            ],
+            "pt": [
+                "China",
+                "Grécia",
+                "Islândia"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Автоматы.",
+                "Долголетие.",
+                "Восходящее солнце."
+            ],
+            "uk": [
+                "Автомати.",
+                "Довголіття.",
+                "Висхідне сонце."
+            ],
+            "en": [
+                "Vending machines.",
+                "Longevity.",
+                "Rising Sun."
+            ],
+            "es": [
+                "Máquinas expendedoras.",
+                "Longevidad.",
+                "Sol naciente."
+            ],
+            "pt": [
+                "Máquinas de venda.",
+                "Longevidade.",
+                "Sol nascente."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Страна Восходящего Солнца.",
+                "Здесь традиции и технологии живут бок о бок."
+            ],
+            "uk": [
+                "Країна Сонця, що сходить.",
+                "Тут традиції та технології живуть пліч-о-пліч."
+            ],
+            "en": [
+                "The Land of the Rising Sun.",
+                "Tradition and technology live side-by-side here."
+            ],
+            "es": [
+                "La Tierra del Sol Naciente.",
+                "Aquí la tradición y la tecnología conviven."
+            ],
+            "pt": [
+                "A Terra do Sol Nascente.",
+                "Aqui a tradição e a tecnologia convivem lado a lado."
+            ]
+        },
+        "tooltip": {
+            "ru": "В ней больше торговых автоматов, чем в любой другой стране.",
+            "uk": "У ній більше торгових автоматів, ніж у будь-якій іншій країні.",
+            "en": "It has more vending machines than any other country.",
+            "es": "Tiene más máquinas expendedoras que cualquier otro país.",
+            "pt": "Tem mais máquinas de venda do que qualquer outro país."
+        },
+        "qwestion": {
+            "ru": "Какая островная нация имеет самый высокий процент долгожителей?",
+            "uk": "Яка острівна нація має найвищий відсоток довгожителів?",
+            "en": "What island nation has the highest percentage of centenarians?",
+            "es": "¿Qué nación insular tiene el mayor porcentaje de centenarios?",
+            "pt": "Qual nação insular tem a maior porcentagem de centenários?"
+        },
+        "definition": {
+            "ru": "Япония — это островное государство в Восточной Азии, известное своей уникальной культурой, которая сочетает древние традиции с передовыми технологиями. Страна восходящего солнца славится своими самураями, гейшами, аниме, а также является мировым лидером в производстве электроники и автомобилей. Благодаря здоровой диете и высокому уровню медицины, Япония имеет один из самых высоких показателей продолжительности жизни в мире. Это густонаселенная страна, где современные небоскребы соседствуют с историческими храмами.",
+            "uk": "Японія — це острівна держава у Східній Азії, відома своєю унікальною культурою, що поєднує стародавні традиції з передовими технологіями. Країна Сонця, що сходить, славиться своїми самураями, гейшами, аніме, а також є світовим лідером у виробництві електроніки та автомобілів. Завдяки здоровій дієті та високому рівню медицини, Японія має один з найвищих показників тривалості життя у світі. Це густонаселена країна, де сучасні хмарочоси сусідять з історичними храмами.",
+            "en": "Japan is an island nation in East Asia, known for its unique culture that blends ancient traditions with advanced technology. The Land of the Rising Sun is famous for its samurai, geisha, and anime, and is also a global leader in electronics and automotive manufacturing. Due to its healthy diet and high standard of healthcare, Japan has one of the highest life expectancies in the world. It is a densely populated country where modern skyscrapers coexist with historic temples.",
+            "es": "Japón es una nación insular en el este de Asia, conocida por su cultura única que combina antiguas tradiciones con tecnología avanzada. La Tierra del Sol Naciente es famosa por sus samuráis, geishas y anime, y también es un líder mundial en la fabricación de electrónica y automóviles. Gracias a su dieta saludable y su alto nivel de atención médica, Japón tiene una de las esperanzas de vida más altas del mundo. Es un país densamente poblado donde los rascacielos modernos coexisten con templos históricos.",
+            "pt": "O Japão é uma nação insular no Leste da Ásia, conhecida por sua cultura única que combina tradições antigas com tecnologia avançada. A Terra do Sol Nascente é famosa por seus samurais, gueixas e animes, e também é líder mundial na fabricação de eletrônicos e automóveis. Devido à sua dieta saudável e alto padrão de saúde, o Japão tem uma das maiores expectativas de vida do mundo. É um país densamente povoado onde arranha-céus modernos coexistem com templos históricos."
+        },
+        "antipod": {
+            "ru": "Бразилия",
+            "uk": "Бразилія",
+            "en": "Brazil",
+            "es": "Brasil",
+            "pt": "Brasil"
+        },
+        "hintFuiz": {
+            "ru": "Её называют страной Восходящего Солнца.",
+            "uk": "Її називають країною Сонця, що сходить.",
+            "en": "It is called the Land of the Rising Sun.",
+            "es": "Es llamada la Tierra del Sol Naciente.",
+            "pt": "É chamada de Terra do Sol Nascente."
+        },
+        "article": "https://en.wikipedia.org/wiki/Japan"
+    },
+    "imgFlag": "quizfoto" 
+}

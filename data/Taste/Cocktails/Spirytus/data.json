@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Spirytus Rektyfikowany",
+            "uk": "Spirytus Rektyfikowany",
+            "en": "Spirytus Rektyfikowany",
+            "es": "Spirytus Rektyfikowany",
+            "pt": "Spirytus Rektyfikowany"
+        },
+        "wrong": {
+            "ru": [
+                "Абсент",
+                "Everclear",
+                "Ром Bacardi 151"
+            ],
+            "uk": [
+                "Абсент",
+                "Everclear",
+                "Ром Bacardi 151"
+            ],
+            "en": [
+                "Absinthe",
+                "Everclear",
+                "Bacardi 151 Rum"
+            ],
+            "es": [
+                "Absenta",
+                "Everclear",
+                "Ron Bacardi 151"
+            ],
+            "pt": [
+                "Absinto",
+                "Everclear",
+                "Rum Bacardi 151"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Алкоголь.",
+                "Крепость.",
+                "Польша."
+            ],
+            "uk": [
+                "Алкоголь.",
+                "Міцність.",
+                "Польща."
+            ],
+            "en": [
+                "Alcohol.",
+                "Strength.",
+                "Poland."
+            ],
+            "es": [
+                "Alcohol.",
+                "Graduación.",
+                "Polonia."
+            ],
+            "pt": [
+                "Álcool.",
+                "Força.",
+                "Polônia."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Созданный в Польше, имеет крепость 96%.",
+                "Самый крепкий алкоголь."
+            ],
+            "uk": [
+                "Створений у Польщі, має міцність 96%.",
+                "Найміцніший алкоголь."
+            ],
+            "en": [
+                "Created in Poland, it has an alcohol content of 96%.",
+                "The strongest alcohol."
+            ],
+            "es": [
+                "Creado en Polonia, tiene un 96% de alcohol.",
+                "El alcohol más fuerte."
+            ],
+            "pt": [
+                "Criado na Polônia, tem um teor alcoólico de 96%.",
+                "O álcool mais forte."
+            ]
+        },
+        "tooltip": {
+            "ru": "Этот польский спирт имеет крепость 96% и считается самым крепким в мире.",
+            "uk": "Цей польський спирт має міцність 96% і вважається найміцнішим у світі.",
+            "en": "This Polish spirit has a strength of 96% and is considered the strongest in the world.",
+            "es": "Este licor polaco tiene una graduación de 96% y es considerado el más fuerte del mundo.",
+            "pt": "Este destilado polonês tem uma força de 96% e é considerado o mais forte do mundo."
+        },
+        "qwestion": {
+            "ru": "Какой алкогольный напиток является самым крепким в мире?",
+            "uk": "Який алкогольний напій є найміцнішим у світі?",
+            "en": "What alcoholic drink is the strongest in the world?",
+            "es": "¿Qué bebida alcohólica es la más fuerte del mundo?",
+            "pt": "Qual bebida alcoólica é a mais forte do mundo?"
+        },
+        "definition": {
+            "ru": "Spirytus Rektyfikowany — это высокоочищенный ректификованный спирт из Польши с исключительно высоким содержанием алкоголя — 96% по объёму. Он считается самым крепким коммерчески доступным спиртом в мире. В основном используется для приготовления настоек, ликеров, а также в медицинских целях.",
+            "uk": "Spirytus Rektyfikowany — це високоочищений ректифікований спирт з Польщі з винятково високим вмістом алкоголю — 96% за об'ємом. Він вважається найміцнішим комерційно доступним спиртом у світі. В основному використовується для приготування настоянок, лікерів, а також у медичних цілях.",
+            "en": "Spirytus Rektyfikowany is a highly rectified ethyl alcohol from Poland with an exceptionally high alcohol content of 96% ABV. It is considered the strongest commercially available spirit in the world. It is primarily used for making homemade liqueurs, tinctures, and for medicinal purposes.",
+            "es": "Spirytus Rektyfikowany es un alcohol etílico altamente rectificado de Polonia con un contenido de alcohol excepcionalmente alto del 96% ABV. Se considera el licor comercialmente disponible más fuerte del mundo. Se utiliza principalmente para hacer licores caseros, tinturas y con fines medicinales.",
+            "pt": "Spirytus Rektyfikowany é um álcool etílico altamente retificado da Polônia com um teor alcoólico excepcionalmente alto de 96% ABV. É considerado o destilado mais forte comercialmente disponível no mundo. É usado principalmente para fazer licores caseiros, tinturas e para fins medicinais."
+        },
+        "antipod": {
+            "ru": "Everclear",
+            "uk": "Everclear",
+            "en": "Everclear",
+            "es": "Everclear",
+            "pt": "Everclear"
+        },
+        "hintFuiz": {
+            "ru": "Это самый крепкий алкоголь.",
+            "uk": "Це найміцніший алкоголь.",
+            "en": "This is the strongest alcohol.",
+            "es": "Este es el alcohol más fuerte.",
+            "pt": "Este é o álcool mais forte."
+        },
+        "article": "https://en.wikipedia.org/wiki/Spirytus_rektyfikowany"
+    },
+    "imgFlag": "quizfoto" 
+}

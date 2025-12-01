@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Ла Томатина",
+            "uk": "Ла Томатина",
+            "en": "La Tomatina",
+            "es": "La Tomatina",
+            "pt": "La Tomatina"
+        },
+        "wrong": {
+            "ru": [
+                "Конкурс живых башен",
+                "Яично-мучная битва",
+                "Прыжки через младенцев"
+            ],
+            "uk": [
+                "Конкурс живих веж",
+                "Битва на яйцях і борошні",
+                "Стрибки через немовлят"
+            ],
+            "en": [
+                "The Contest of Human Towers",
+                "The Flour and Egg Battle",
+                "Baby Jumping"
+            ],
+            "es": [
+                "Concurso de Castells",
+                "Batalla de la harina y los huevos",
+                "Salto sobre bebés"
+            ],
+            "pt": [
+                "Concurso de torres humanas",
+                "Batalha de farinha e ovos",
+                "Salto sobre bebês"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Испания",
+                "Помидоры",
+                "Битва"
+            ],
+            "uk": [
+                "Іспанія",
+                "Помідори",
+                "Битва"
+            ],
+            "en": [
+                "Spain",
+                "Tomatoes",
+                "Battle"
+            ],
+            "es": [
+                "España",
+                "Tomates",
+                "Batalla"
+            ],
+            "pt": [
+                "Espanha",
+                "Tomates",
+                "Batalha"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Самое большое в мире томатное месиво.",
+                "Моё оружие — красные, сочные снаряды."
+            ],
+            "uk": [
+                "Найбільше у світі томатне місиво.",
+                "Моя зброя — червоні, соковиті снаряди."
+            ],
+            "en": [
+                "The world's largest tomato mess.",
+                "My weapons are red, juicy projectiles."
+            ],
+            "es": [
+                "El lío de tomates más grande del mundo.",
+                "Mis armas son proyectiles rojos y jugosos."
+            ],
+            "pt": [
+                "A maior bagunça de tomate do mundo.",
+                "Minhas armas são projéteis vermelhos e suculentos."
+            ]
+        },
+        "tooltip": {
+            "ru": "Этот всемирно известный фестиваль начался как спонтанная драка подростков в 1945 году.",
+            "uk": "Цей всесвітньо відомий фестиваль почався як спонтанна бійка підлітків у 1945 році.",
+            "en": "This world-famous festival began as a spontaneous fight among teenagers in 1945.",
+            "es": "Este festival de fama mundial comenzó como una pelea espontánea entre adolescentes en 1945.",
+            "pt": "Este festival mundialmente famoso começou como uma briga espontânea entre adolescentes em 1945."
+        },
+        "qwestion": {
+            "ru": "Какой крупнейший в мире фестиваль метания помидоров?",
+            "uk": "Який найбільший у світі фестиваль кидання помідорів?",
+            "en": "What is the world's largest tomato-throwing festival?",
+            "es": "¿Cuál es el festival de lanzamiento de tomates más grande del mundo?",
+            "pt": "Qual é o maior festival de arremesso de tomate do mundo?"
+        },
+        "definition": {
+            "ru": "Ла Томатина — это ежегодный фестиваль, который проводится в испанском городе Буньоль в последнюю среду августа. Это крупнейшая в мире битва едой, в которой тысячи участников бросают друг в друга перезрелые помидоры, превращая улицы города в красную реку.",
+            "uk": "Ла Томатина — це щорічний фестиваль, який проводиться в іспанському місті Буньоль в останню середу серпня. Це найбільша у світі битва їжею, в якій тисячі учасників кидають один в одного перестиглі помідори, перетворюючи вулиці міста на червону річку.",
+            "en": "La Tomatina is an annual festival held in the Spanish town of Buñol on the last Wednesday of August. It is the world's largest food fight, in which thousands of participants throw overripe tomatoes at each other, turning the town's streets into a red river.",
+            "es": "La Tomatina es un festival anual que se celebra en el pueblo español de Buñol el último miércoles de agosto. Es la batalla de comida más grande del mundo, en la que miles de participantes se lanzan tomates maduros, convirtiendo las calles del pueblo en un río rojo.",
+            "pt": "La Tomatina é um festival anual realizado na cidade espanhola de Buñol na última quarta-feira de agosto. É a maior batalha de comida do mundo, na qual milhares de participantes atiram tomates maduros uns nos outros, transformando as ruas da cidade em um rio vermelho."
+        },
+        "antipod": {
+            "ru": "Коррида",
+            "uk": "Корида",
+            "en": "Bullfighting",
+            "es": "Corrida de toros",
+            "pt": "Tourada"
+        },
+        "hintFuiz": {
+            "ru": "Где для битвы используют помидоры?",
+            "uk": "Де для битви використовують помідори?",
+            "en": "Where are tomatoes used for a battle?",
+            "es": "¿Dónde se usan los tomates para una batalla?",
+            "pt": "Onde os tomates são usados para uma batalha?"
+        },
+        "article": "https://en.wikipedia.org/wiki/La_Tomatina"
+    },
+    "imgFlag": "quizfoto"
+}

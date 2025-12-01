@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Облака",
+            "uk": "Хмари",
+            "en": "Clouds",
+            "es": "Nubes",
+            "pt": "Nuvens"
+        },
+        "wrong": {
+            "ru": [
+                "Роса",
+                "Иней",
+                "Радуга"
+            ],
+            "uk": [
+                "Роса",
+                "Іній",
+                "Веселка"
+            ],
+            "en": [
+                "Dew",
+                "Frost",
+                "Rainbow"
+            ],
+            "es": [
+                "Rocío",
+                "Escarcha",
+                "Arcoíris"
+            ],
+            "pt": [
+                "Orvalho",
+                "Geada",
+                "Arco-íris"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Небо.",
+                "Конденсация.",
+                "Вода."
+            ],
+            "uk": [
+                "Небо.",
+                "Конденсація.",
+                "Вода."
+            ],
+            "en": [
+                "Sky.",
+                "Condensation.",
+                "Water."
+            ],
+            "es": [
+                "Cielo.",
+                "Condensación.",
+                "Agua."
+            ],
+            "pt": [
+                "Céu.",
+                "Condensação.",
+                "Água."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Что белое, пушистое, и плывет по небу?",
+                "Что приносит дождь, не имея ног?"
+            ],
+            "uk": [
+                "Що біле, пухнасте, і пливе по небу?",
+                "Що приносить дощ, не маючи ніг?"
+            ],
+            "en": [
+                "What is white, fluffy, and floats across the sky?",
+                "What brings rain without having legs?"
+            ],
+            "es": [
+                "¿Qué es blanco, esponjoso y flota en el cielo?",
+                "¿Qué trae la lluvia sin tener piernas?"
+            ],
+            "pt": [
+                "O que é branco, fofo e flutua no céu?",
+                "O que traz a chuva sem ter pernas?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Существует множество типов, от высоких перистых до кучевых, различающихся по форме и высоте.",
+            "uk": "Існує безліч типів, від високих перистих до купчастих, що різняться формою та висотою.",
+            "en": "There are many types, from high cirrus to cumulus, varying in shape and altitude.",
+            "es": "Existen muchos tipos, desde cirros altos hasta cúmulos, que varían en forma y altitud.",
+            "pt": "Existem muitos tipos, desde cirros altos a cúmulos, que variam em forma e altitude."
+        },
+        "qwestion": {
+            "ru": "Какое атмосферное явление переносит воду и играет ключевую роль в круговороте воды в природе?",
+            "uk": "Яке атмосферне явище переносить воду і відіграє ключову роль у кругообігу води в природі?",
+            "en": "What atmospheric phenomenon transports water and plays a key role in the water cycle?",
+            "es": "¿Qué fenómeno atmosférico transporta agua y juega un papel clave en el ciclo del agua?",
+            "pt": "Qual fenômeno atmosférico transporta água e desempenha um papel fundamental no ciclo da água?"
+        },
+        "definition": {
+            "ru": "Облака — это видимые скопления воды в жидком или твердом состоянии, которые образуются в атмосфере. Они образуются, когда водяной пар конденсируется вокруг микроскопических частиц в воздухе.",
+            "uk": "Хмари — це видимі скупчення води в рідкому або твердому стані, які утворюються в атмосфері. Вони формуються, коли водяна пара конденсується навколо мікроскопічних частинок у повітрі.",
+            "en": "Clouds are visible masses of liquid or frozen water that form in the atmosphere. They are formed when water vapor condenses around microscopic particles in the air.",
+            "es": "Las nubes son masas visibles de agua líquida o congelada que se forman en la atmósfera. Se crean cuando el vapor de agua se condensa alrededor de partículas microscópicas en el aire.",
+            "pt": "Nuvens são massas visíveis de água líquida ou congelada que se formam na atmosfera. Elas se criam quando o vapor de água se condensa ao redor de partículas microscópicas no ar."
+        },
+        "antipod": {
+            "ru": "Туман",
+            "uk": "Туман",
+            "en": "Fog",
+            "es": "Niebla",
+            "pt": "Nevoeiro"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих явлений не образуется на поверхности земли?",
+            "uk": "Яке з цих явищ не утворюється на поверхні землі?",
+            "en": "Which of these phenomena does not form on the ground?",
+            "es": "¿Cuál de estos fenómenos no se forma en la superficie de la tierra?",
+            "pt": "Qual desses fenômenos não se forma na superfície da terra?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Cloud"
+    },
+    "imgFlag": "all" 
+}

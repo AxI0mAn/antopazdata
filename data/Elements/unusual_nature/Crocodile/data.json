@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Крокодил",
+            "uk": "Крокодил",
+            "en": "Crocodile",
+            "es": "Cocodrilo",
+            "pt": "Crocodilo"
+        },
+        "wrong": {
+            "ru": [
+                "Варан",
+                "Кайман",
+                "Тритон"
+            ],
+            "uk": [
+                "Варан",
+                "Кайман",
+                "Тритон"
+            ],
+            "en": [
+                "Monitor lizard",
+                "Caiman",
+                "Triton"
+            ],
+            "es": [
+                "Lagarto monitor",
+                "Caimán",
+                "Tritón"
+            ],
+            "pt": [
+                "Lagarto-monitor",
+                "Caimão",
+                "Tritão"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Рептилия.",
+                "Река.",
+                "Охотник."
+            ],
+            "uk": [
+                "Рептилія.",
+                "Річка.",
+                "Мисливець."
+            ],
+            "en": [
+                "Reptile.",
+                "River.",
+                "Hunter."
+            ],
+            "es": [
+                "Reptil.",
+                "Río.",
+                "Cazador."
+            ],
+            "pt": [
+                "Réptil.",
+                "Rio.",
+                "Caçador."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Его укус — один из самых сильных.",
+                "Лежит в реке, а челюсти — это ловушка."
+            ],
+            "uk": [
+                "Його укус — один з найсильніших.",
+                "Лежить у річці, а щелепи — це пастка."
+            ],
+            "en": [
+                "Its bite is one of the strongest.",
+                "It lies in the river, and its jaws are a trap."
+            ],
+            "es": [
+                "Su mordida es una de las más fuertes.",
+                "Se tumba en el río y sus mandíbulas son una trampa."
+            ],
+            "pt": [
+                "Sua mordida é uma das mais fortes.",
+                "Fica no rio e suas mandíbulas são uma armadilha."
+            ]
+        },
+        "tooltip": {
+            "ru": "Его укус один из самых сильных среди всех животных на планете.",
+            "uk": "Його укус один з найсильніших серед усіх тварин на планеті.",
+            "en": "Its bite is one of the strongest of all animals on the planet.",
+            "es": "Su mordida es una de las más fuertes de todos los animales en el planeta.",
+            "pt": "Sua mordida é uma das mais fortes de todos os animais no planeta."
+        },
+        "qwestion": {
+            "ru": "Какое животное имеет подвижную верхнюю челюсть?",
+            "uk": "Яка тварина має рухливу верхню щелепу?",
+            "en": "What animal has a movable upper jaw?",
+            "es": "¿Qué animal tiene una mandíbula superior móvil?",
+            "pt": "Que animal tem uma mandíbula superior móvel?"
+        },
+        "definition": {
+            "ru": "Крокодил — крупная водная рептилия, известная своей мощной силой укуса. В отличие от большинства животных, крокодил способен двигать не только нижней, но и верхней челюстью, что помогает ему хватать и удерживать добычу.",
+            "uk": "Крокодил — велика водна рептилія, відома своєю потужною силою укусу. На відміну від більшості тварин, крокодил здатний рухати не тільки нижньою, але й верхньою щелепою, що допомагає йому хапати і утримувати здобич.",
+            "en": "The crocodile is a large aquatic reptile known for its powerful bite force. Unlike most animals, the crocodile can move not only its lower jaw but also its upper jaw, which helps it to grab and hold prey.",
+            "es": "El cocodrilo es un gran reptil acuático conocido por la poderosa fuerza de su mordida. A diferencia de la mayoría de los animales, el cocodrilo puede mover no solo su mandíbula inferior, sino también la superior, lo que le ayuda a agarrar y sujetar a su presa.",
+            "pt": "O crocodilo é um grande réptil aquático conhecido por sua poderosa força de mordida. Diferente da maioria dos animais, o crocodilo pode mover não apenas a mandíbula inferior, mas também a superior, o que o ajuda a agarrar e segurar a presa."
+        },
+        "antipod": {
+            "ru": "Черепаха",
+            "uk": "Черепаха",
+            "en": "Turtle",
+            "es": "Tortuga",
+            "pt": "Tartaruga"
+        },
+        "hintFuiz": {
+            "ru": "У кого из них подвижная верхняя челюсть?",
+            "uk": "У кого з них рухлива верхня щелепа?",
+            "en": "Which one has a movable upper jaw?",
+            "es": "¿Cuál de ellos tiene una mandíbula superior móvil?",
+            "pt": "Qual deles tem uma mandíbula superior móvel?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Crocodile"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Ханами",
+            "uk": "Ханами",
+            "en": "Hanami",
+            "es": "Hanami",
+            "pt": "Hanami"
+        },
+        "wrong": {
+            "ru": [
+                "Хиган",
+                "Гион",
+                "Хинамацури"
+            ],
+            "uk": [
+                "Хіган",
+                "Гіон",
+                "Хінамацурі"
+            ],
+            "en": [
+                "Higan",
+                "Gion",
+                "Hinamatsuri"
+            ],
+            "es": [
+                "Higan",
+                "Gion",
+                "Hinamatsuri"
+            ],
+            "pt": [
+                "Higan",
+                "Gion",
+                "Hinamatsuri"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Япония",
+                "Сакура",
+                "Пикник"
+            ],
+            "uk": [
+                "Японія",
+                "Сакура",
+                "Пікнік"
+            ],
+            "en": [
+                "Japan",
+                "Sakura",
+                "Picnic"
+            ],
+            "es": [
+                "Japón",
+                "Cerezo",
+                "Picnic"
+            ],
+            "pt": [
+                "Japão",
+                "Cerejeira",
+                "Piquenique"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Любование цветением сакуры.",
+                "Созерцание цветущей сакуры."
+            ],
+            "uk": [
+                "Милування цвітінням сакури.",
+                "Споглядання квітучої сакури."
+            ],
+            "en": [
+                "Admiring the cherry blossoms.",
+                "Contemplating the blooming sakura."
+            ],
+            "es": [
+                "Contemplar la floración del cerezo.",
+                "Admirar la sakura en flor."
+            ],
+            "pt": [
+                "Admirar a florada das cerejeiras.",
+                "Contemplar a cerejeira em flor."
+            ]
+        },
+        "tooltip": {
+            "ru": "Традиция любования цветущей сакурой, когда люди устраивают пикники под цветущими деревьями.",
+            "uk": "Традиція милування квітучою сакурою, коли люди влаштовують пікніки під квітучими деревами.",
+            "en": "The tradition of admiring blooming cherry blossoms, when people have picnics under the blooming trees.",
+            "es": "La tradición de admirar la floración de los cerezos, cuando la gente hace picnics bajo los árboles en flor.",
+            "pt": "A tradição de admirar a floração da cerejeira, quando as pessoas fazem piqueniques debaixo das árvores em flor."
+        },
+        "qwestion": {
+            "ru": "Как называется традиция любования цветением сакуры?",
+            "uk": "Як називається традиція милування цвітінням сакури?",
+            "en": "What is the name of the tradition of admiring cherry blossoms?",
+            "es": "¿Cómo se llama la tradición de admirar la floración de los cerezos?",
+            "pt": "Qual o nome da tradição de admirar a floração da cerejeira?"
+        },
+        "definition": {
+            "ru": "Ханами — это японская традиция любования цветением сакуры, вишни. Это время для созерцания красоты и эфемерности природы, когда люди собираются семьями и компаниями в парках для пикников под цветущими деревьями. Это один из главных весенних праздников в Японии.",
+            "uk": "Ханами — це японська традиція милування цвітінням сакури, вишні. Це час для споглядання краси та ефемерності природи, коли люди збираються сім'ями і компаніями в парках для пікніків під квітучими деревами. Це одне з головних весняних свят у Японії.",
+            "en": "Hanami is the Japanese tradition of admiring the blossoming of cherry trees, or sakura. It is a time for contemplating the beauty and transience of nature, when people gather with families and friends in parks for picnics under the blooming trees. It is one of the main spring holidays in Japan.",
+            "es": "Hanami es la tradición japonesa de admirar el florecimiento de los cerezos, o sakura. Es un momento para contemplar la belleza y la fugacidad de la naturaleza, cuando la gente se reúne con sus familias y amigos en los parques para hacer picnics bajo los árboles en flor. Es una de las principales festividades de primavera en Japón.",
+            "pt": "Hanami é a tradição japonesa de admirar a floração das cerejeiras, ou sakura. É um momento para contemplar a beleza e a transitoriedade da natureza, quando as pessoas se reúnem com famílias e amigos em parques para fazer piqueniques debaixo das árvores em flor. É um dos principais feriados de primavera no Japão."
+        },
+        "antipod": {
+            "ru": "Хинамацури",
+            "uk": "Хінамацурі",
+            "en": "Hinamatsuri",
+            "es": "Hinamatsuri",
+            "pt": "Hinamatsuri"
+        },
+        "hintFuiz": {
+            "ru": "Какой японский обычай связан с любованием цветением сакуры?",
+            "uk": "Який японський звичай пов'язаний з милуванням цвітінням сакури?",
+            "en": "Which Japanese custom is associated with admiring cherry blossoms?",
+            "es": "¿Qué costumbre japonesa está asociada con admirar la floración de los cerezos?",
+            "pt": "Qual costume japonês está associado a admirar a floração da cerejeira?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Hanami"
+    },
+    "imgFlag": "quizfoto"
+}

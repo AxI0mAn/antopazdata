@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Ватикан",
+            "uk": "Ватикан",
+            "en": "Vatican City",
+            "es": "Ciudad del Vaticano",
+            "pt": "Vaticano"
+        },
+        "wrong": {
+            "ru": [
+                "Монако",
+                "Сан-Марино",
+                "Лихтенштейн"
+            ],
+            "uk": [
+                "Монако",
+                "Сан-Марино",
+                "Ліхтенштейн"
+            ],
+            "en": [
+                "Monaco",
+                "San Marino",
+                "Liechtenstein"
+            ],
+            "es": [
+                "Mónaco",
+                "San Marino",
+                "Liechtenstein"
+            ],
+            "pt": [
+                "Mônaco",
+                "San Marino",
+                "Liechtenstein"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Самый маленький.",
+                "Папа.",
+                "Рим."
+            ],
+            "uk": [
+                "Найменший.",
+                "Папа.",
+                "Рим."
+            ],
+            "en": [
+                "Smallest.",
+                "Pope.",
+                "Rome."
+            ],
+            "es": [
+                "El más pequeño.",
+                "Papa.",
+                "Roma."
+            ],
+            "pt": [
+                "Menor.",
+                "Papa.",
+                "Roma."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Страна внутри города.",
+                "Государство внутри Рима."
+            ],
+            "uk": [
+                "Країна всередині міста.",
+                "Держава всередині Риму."
+            ],
+            "en": [
+                "A country inside a city.",
+                "A state within Rome."
+            ],
+            "es": [
+                "Un país dentro de una ciudad.",
+                "Un estado dentro de Roma."
+            ],
+            "pt": [
+                "Um país dentro de uma cidade.",
+                "Um estado dentro de Roma."
+            ]
+        },
+        "tooltip": {
+            "ru": "Оно имеет самую высокую плотность населения.",
+            "uk": "Вона має найвищу щільність населення.",
+            "en": "It has the highest population density.",
+            "es": "Tiene la densidad de población más alta.",
+            "pt": "Tem a maior densidade populacional."
+        },
+        "qwestion": {
+            "ru": "Какое самое маленькое независимое государство в мире?",
+            "uk": "Яка найменша незалежна держава у світі?",
+            "en": "What is the smallest independent state in the world?",
+            "es": "¿Cuál es el estado independiente más pequeño del mundo?",
+            "pt": "Qual é o menor estado independente do mundo?"
+        },
+        "definition": {
+            "ru": "Ватикан — это самое маленькое независимое государство в мире по площади и населению, расположенное в пределах Рима, Италия. Он является центром Католической церкви, возглавляемым Папой Римским. Ватикан — это уникальный анклав, известный своими историческими, культурными и религиозными достопримечательностями, включая Собор Святого Петра, Ватиканские сады и Ватиканские музеи, в которых находится знаменитая Сикстинская капелла.",
+            "uk": "Ватикан — це найменша незалежна держава у світі за площею та населенням, розташована в межах Риму, Італія. Він є центром Католицької церкви, очолюваним Папою Римським. Ватикан — це унікальний анклав, відомий своїми історичними, культурними та релігійними пам'ятками, включаючи Собор Святого Петра, Ватиканські сади та Ватиканські музеї, в яких знаходиться знаменита Сікстинська капела.",
+            "en": "Vatican City is the world's smallest independent state by both area and population, located within the city of Rome, Italy. It serves as the spiritual and administrative center of the Catholic Church, led by the Pope. The Vatican is a unique enclave known for its historical, cultural, and religious landmarks, including St. Peter's Basilica, the Vatican Gardens, and the Vatican Museums, which house the famous Sistine Chapel.",
+            "es": "La Ciudad del Vaticano es el estado independiente más pequeño del mundo por área y población, ubicado dentro de la ciudad de Roma, Italia. Sirve como el centro espiritual y administrativo de la Iglesia Católica, liderado por el Papa. El Vaticano es un enclave único conocido por sus puntos de referencia históricos, culturales y religiosos, incluyendo la Basílica de San Pedro, los Jardines del Vaticano y los Museos Vaticanos, que albergan la famosa Capilla Sixtina.",
+            "pt": "O Vaticano é o menor estado independente do mundo em área e população, localizado dentro da cidade de Roma, Itália. Serve como o centro espiritual e administrativo da Igreja Católica, liderado pelo Papa. O Vaticano é um enclave único conhecido por seus marcos históricos, culturais e religiosos, incluindo a Basílica de São Pedro, os Jardins do Vaticano e os Museus do Vaticano, que abrigam a famosa Capela Sistina."
+        },
+        "antipod": {
+            "ru": "Монголия",
+            "uk": "Монголія",
+            "en": "Mongolia",
+            "es": "Mongolia",
+            "pt": "Mongólia"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих государств является самым маленьким и плотнонаселенным?",
+            "uk": "Яка з цих держав є найменшою і щільнонаселеною?",
+            "en": "Which of these states is the smallest and most densely populated?",
+            "es": "¿Cuál de estos estados es el más pequeño y densamente poblado?",
+            "pt": "Qual desses estados é o menor e mais densamente povoado?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Vatican_City"
+    },
+    "imgFlag": "quizfoto" 
+}

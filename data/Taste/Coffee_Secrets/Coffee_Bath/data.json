@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Кофейная ванна",
+            "uk": "Кавова ванна",
+            "en": "Coffee Bath",
+            "es": "Baño de café",
+            "pt": "Banho de café"
+        },
+        "wrong": {
+            "ru": [
+                "Чай",
+                "Молоко",
+                "Шампанское"
+            ],
+            "uk": [
+                "Чай",
+                "Молоко",
+                "Шампанське"
+            ],
+            "en": [
+                "Tea",
+                "Milk",
+                "Champagne"
+            ],
+            "es": [
+                "Té",
+                "Leche",
+                "Champán"
+            ],
+            "pt": [
+                "Chá",
+                "Leite",
+                "Champanhe"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Спа.",
+                "Омоложение.",
+                "Токио."
+            ],
+            "uk": [
+                "Спа.",
+                "Омолодження.",
+                "Токіо."
+            ],
+            "en": [
+                "Spa.",
+                "Rejuvenation.",
+                "Tokyo."
+            ],
+            "es": [
+                "Spa.",
+                "Rejuvenecimiento.",
+                "Tokio."
+            ],
+            "pt": [
+                "Spa.",
+                "Rejuvenescimento.",
+                "Tóquio."
+            ]
+        },
+        "tooltip": {
+            "ru": "Так же эта ванна помогает в борьбе с хронической усталостью и стрессом.",
+            "uk": "Також ця ванна допомагає в боротьбі з хронічною втомою і стресом.",
+            "en": "This bath also helps in the fight against chronic fatigue and stress.",
+            "es": "Este baño también ayuda a combatir la fatiga crónica y el estrés.",
+            "pt": "Este banho também ajuda a combater a fadiga crônica e o estresse."
+        },
+        "qwestion": {
+            "ru": "Из чего принимают ванну, чтоб улучшить состояние кожи и придать телу бодрость?",
+            "uk": "З чого приймають ванну, щоб поліпшити стан шкіри і надати тілу бадьорості?",
+            "en": "What is a bath taken in to improve skin condition and give the body vigor?",
+            "es": "¿En qué se toma un baño para mejorar la condición de la piel y dar vigor al cuerpo?",
+            "pt": "Em que se toma um banho para melhorar a condição da pele e dar vigor ao corpo?"
+        },
+        "definition": {
+            "ru": "Кофейная ванна — это спа-процедура, при которой тело погружается в теплую воду, смешанную с натуральными кофейными зернами или экстрактом. Считается, что она тонизирует кожу, снимает стресс и придает бодрость.",
+            "uk": "Кавова ванна — це спа-процедура, при якій тіло занурюється в теплу воду, змішану з натуральними кавовими зернами або екстрактом. Вважається, що вона тонізує шкіру, знімає стрес і надає бадьорості.",
+            "en": "A coffee bath is a spa procedure where the body is submerged in warm water mixed with natural coffee beans or extract. It is believed to tone the skin, relieve stress, and provide vigor.",
+            "es": "Un baño de café es un procedimiento de spa en el que el cuerpo se sumerge en agua tibia mezclada con granos de café natural o extracto. Se cree que tonifica la piel, alivia el estrés y proporciona vigor.",
+            "pt": "Um banho de café é um procedimento de spa onde o corpo é submerso em água morna misturada com grãos de café natural ou extrato. Acredita-se que tonifica a pele, alivia o estresse e proporciona vigor."
+        },
+        "antipod": {
+            "ru": "Душ Шарко",
+            "uk": "Душ Шарко",
+            "en": "Charcot's Shower",
+            "es": "Ducha de Charcot",
+            "pt": "Ducha de Charcot"
+        },
+        "hintFuiz": {
+            "ru": "Процедура для тонизирования тела и повышения эластичности кожи.",
+            "uk": "Процедура для тонізування тіла і підвищення еластичності шкіри.",
+            "en": "A procedure for toning the body and increasing skin elasticity.",
+            "es": "Un procedimiento para tonificar el cuerpo y aumentar la elasticidad de la piel.",
+            "pt": "Um procedimento para tonificar o corpo e aumentar a elasticidade da pele."
+        },
+        "riddle": {
+            "ru": [
+                "Помогает коже стать красивой.",
+                "Принимают в спа-салонах."
+            ],
+            "uk": [
+                "Допомагає шкірі стати красивою.",
+                "Приймають у спа-салонах."
+            ],
+            "en": [
+                "It helps the skin become beautiful.",
+                "They are taken at spa salons."
+            ],
+            "es": [
+                "Ayuda a que la piel se vuelva hermosa.",
+                "Se toman en salones de spa."
+            ],
+            "pt": [
+                "Ajuda a pele a ficar bonita.",
+                "São usados em salões de spa."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Coffee#Cosmetic_ingredient"
+    },
+    "imgFlag": "all"
+}

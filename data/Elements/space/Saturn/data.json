@@ -1,0 +1,129 @@
+{
+    "data": {
+        "name": {
+            "ru": "Сатурн",
+            "uk": "Сатурн",
+            "en": "Saturn",
+            "es": "Saturno",
+            "pt": "Saturno"
+        },
+        "wrong": {
+            "ru": [
+                "Уран",
+                "Нептун",
+                "Марс"
+            ],
+            "uk": [
+                "Уран",
+                "Нептун",
+                "Марс"
+            ],
+            "en": [
+                "Uranus",
+                "Neptune",
+                "Mars"
+            ],
+            "es": [
+                "Urano",
+                "Neptuno",
+                "Marte"
+            ],
+            "pt": [
+                "Urano",
+                "Netuno",
+                "Marte"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Кольца.",
+                "Низкая плотность.",
+                "Газовый гигант."
+            ],
+            "uk": [
+                "Кільця.",
+                "Низька щільність.",
+                "Газовий гігант."
+            ],
+            "en": [
+                "Rings.",
+                "Low density.",
+                "Gas giant."
+            ],
+            "es": [
+                "Anillos.",
+                "Baja densidad.",
+                "Gigante de gas."
+            ],
+            "pt": [
+                "Anéis.",
+                "Baixa densidade.",
+                "Gigante gasoso."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Вторая по размеру планета Солнечной системы",
+                "Самая лёгкая планета Солнечной системы",
+                "Он настолько легкий, что мог бы плавать в воде."
+            ],
+            "uk": [
+                "Друга за розміром планета Сонячної системи",
+                "Найлегша планета Сонячної системи",
+                "Він настільки легкий, що міг би плавати у воді."
+            ],
+            "en": [
+                "The second-largest planet in the Solar System",
+                "The lightest planet in the Solar System",
+                "It is so light that it could float in water."
+            ],
+            "es": [
+                "El segundo planeta más grande del Sistema Solar",
+                "El planeta más ligero del Sistema Solar",
+                "Es tan ligero que podría flotar en el agua."
+            ],
+            "pt": [
+                "O segundo maior planeta do Sistema Solar",
+                "O planeta mais leve do Sistema Solar",
+                "É tão leve que poderia flutuar na água."
+            ]
+        },
+        "qwestion": {
+            "ru": "Какая планета в Солнечной системе наиболее известна своей огромной и сложной системой колец?",
+            "uk": "Яка планета в Сонячній системі найбільш відома своєю величезною та складною системою кілець?",
+            "en": "Which planet in the Solar System is most famous for its vast and complex ring system?",
+            "es": "¿Qué planeta en el Sistema Solar es más famoso por su vasto y complejo sistema de anillos?",
+            "pt": "Qual planeta no Sistema Solar é mais famoso por seu vasto e complexo sistema de anéis?"
+        },
+        "tooltip": {
+            "ru": "Он настолько легкий, что мог бы плавать в воде.",
+            "uk": "Він настільки легкий, що міг би плавати у воді.",
+            "en": "It is so light that it could float in water.",
+            "es": "Es tan ligero que podría flotar en el agua.",
+            "pt": "É tão leve que poderia flutuar na água."
+        },
+        "definition": {
+            "ru": "Сатурн — это шестая планета от Солнца и вторая по величине в Солнечной системе. Он является газовым гигантом и наиболее известен своей впечатляющей системой колец, состоящей из частиц льда и камня.",
+            "uk": "Сатурн — це шоста планета від Сонця і друга за величиною в Сонячній системі. Він є газовим гігантом і найбільш відомий своєю вражаючою системою кілець, що складається з частинок льоду та каменю.",
+            "en": "Saturn is the sixth planet from the Sun and the second largest in the Solar System. It is a gas giant most famous for its spectacular ring system, which is made up of ice and rock particles.",
+            "es": "Saturno es el sexto planeta desde el Sol y el segundo más grande del Sistema Solar. Es un gigante gaseoso más famoso por su espectacular sistema de anillos, compuesto por partículas de hielo y roca.",
+            "pt": "Saturno é o sexto planeta a partir do Sol e o segundo maior do Sistema Solar. É um gigante gasoso mais famoso por seu espetacular sistema de anéis, que é composto por partículas de gelo e rocha."
+        },
+        "antipod": {
+            "ru": "Юпитер",
+            "uk": "Юпітер",
+            "en": "Jupiter",
+            "es": "Júpiter",
+            "pt": "Júpiter"
+        },
+        "hintFuiz": {
+            "ru": "У какой из этих планет есть самые заметные кольца?",
+            "uk": "Яка з цих планет має найпомітніші кільця?",
+            "en": "Which of these planets has the most prominent rings?",
+            "es": "¿Cuál de estos planetas tiene los anillos más prominentes?",
+            "pt": "Qual desses planetas tem os anéis mais proeminentes?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Saturn"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Светлячок",
+            "uk": "Світлячок",
+            "en": "Firefly",
+            "es": "Luciérnaga",
+            "pt": "Vaga-lume"
+        },
+        "wrong": {
+            "ru": [
+                "Кузнечик",
+                "Мотылёк",
+                "Комар"
+            ],
+            "uk": [
+                "Коник",
+                "Метелик",
+                "Комар"
+            ],
+            "en": [
+                "Grasshopper",
+                "Moth",
+                "Mosquito"
+            ],
+            "es": [
+                "Saltamontes",
+                "Polilla",
+                "Mosquito"
+            ],
+            "pt": [
+                "Gafanhoto",
+                "Mariposa",
+                "Mosquito"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Ночь.",
+                "Свет.",
+                "Лето."
+            ],
+            "uk": [
+                "Ніч.",
+                "Світло.",
+                "Літо."
+            ],
+            "en": [
+                "Night.",
+                "Light.",
+                "Summer."
+            ],
+            "es": [
+                "Noche.",
+                "Luz.",
+                "Verano."
+            ],
+            "pt": [
+                "Noite.",
+                "Luz.",
+                "Verão."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Они зажигают свой маленький фонарик ночью.",
+                "Мерцают в темноте, как маленькие звёзды."
+            ],
+            "uk": [
+                "Вони запалюють свій маленький ліхтарик вночі.",
+                "Мерехтять у темряві, як маленькі зірки."
+            ],
+            "en": [
+                "They light up their tiny lantern at night.",
+                "They twinkle in the dark like little stars."
+            ],
+            "es": [
+                "Encienden su pequeña linterna por la noche.",
+                "Parpadean en la oscuridad como pequeñas estrellas."
+            ],
+            "pt": [
+                "Eles acendem sua pequena lanterna à noite.",
+                "Eles cintilam no escuro como pequenas estrelas."
+            ]
+        },
+        "tooltip": {
+            "ru": "Его личинки и самки излучают биолюминесцентный свет.",
+            "uk": "Його личинки та самки випромінюють біолюмінесцентне світло.",
+            "en": "Its larvae and females emit bioluminescent light.",
+            "es": "Sus larvas y hembras emiten luz bioluminiscente.",
+            "pt": "Suas larvas e fêmeas emitem luz bioluminescente."
+        },
+        "qwestion": {
+            "ru": "Какое насекомое светится в темноте?",
+            "uk": "Яка комаха світиться в темряві?",
+            "en": "Which insect glows in the dark?",
+            "es": "¿Qué insecto brilla en la oscuridad?",
+            "pt": "Qual inseto brilha no escuro?"
+        },
+        "definition": {
+            "ru": "Светлячки — это вид жуков, известных своей способностью к биолюминесценции. Они используют свой свет для привлечения партнёров, общения и отпугивания хищников, что делает их одними из самых узнаваемых насекомых.",
+            "uk": "Світлячки — це вид жуків, відомих своєю здатністю до біолюмінесценції. Вони використовують своє світло для приваблення партнерів, спілкування і відлякування хижаків, що робить їх одними з найвідоміших комах.",
+            "en": "Fireflies are a species of beetles known for their ability to bioluminesce. They use their light to attract mates, communicate, and deter predators, making them one of the most recognizable insects.",
+            "es": "Las luciérnagas son una especie de escarabajos conocidos por su capacidad de bioluminiscencia. Usan su luz para atraer parejas, comunicarse y disuadir a los depredadores, lo que las convierte en uno de los insectos más reconocibles.",
+            "pt": "Os vaga-lumes são uma espécie de besouros conhecidos por sua capacidade de bioluminescência. Eles usam sua luz para atrair parceiros, se comunicar e afastar predadores, tornando-os um dos insetos mais reconhecíveis."
+        },
+        "antipod": {
+            "ru": "Блоха",
+            "uk": "Блоха",
+            "en": "Flea",
+            "es": "Pulga",
+            "pt": "Pulga"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих двух насекомых светится?",
+            "uk": "Яка з цих двох комах світиться?",
+            "en": "Which of these two insects glows?",
+            "es": "¿Cuál de estos dos insectos brilla?",
+            "pt": "Qual desses dois insetos brilha?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Firefly"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Мостовая гигантов",
+            "uk": "Дорога Гігантів",
+            "en": "Giant's Causeway",
+            "es": "Calzada del Gigante",
+            "pt": "Calçada dos Gigantes"
+        },
+        "wrong": {
+            "ru": [
+                "Национальный парк Йеллоустон",
+                "Гора Фудзи",
+                "Дорога троллей"
+            ],
+            "uk": [
+                "Національний парк Єллоустоун",
+                "Гора Фудзі",
+                "Дорога тролів"
+            ],
+            "en": [
+                "Yellowstone National Park",
+                "Mount Fuji",
+                "Trollstigen"
+            ],
+            "es": [
+                "Parque Nacional de Yellowstone",
+                "Monte Fuji",
+                "Trollstigen"
+            ],
+            "pt": [
+                "Parque Nacional de Yellowstone",
+                "Monte Fuji",
+                "Trollstigen"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Базальт.",
+                "Колонны.",
+                "Ирландия."
+            ],
+            "uk": [
+                "Базальт.",
+                "Колони.",
+                "Ірландія."
+            ],
+            "en": [
+                "Basalt.",
+                "Columns.",
+                "Ireland."
+            ],
+            "es": [
+                "Basalto.",
+                "Columnas.",
+                "Irlanda."
+            ],
+            "pt": [
+                "Basalto.",
+                "Colunas.",
+                "Irlanda."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Ступеньки, построенные великанами.",
+                "Каменные соты, созданные огнем."
+            ],
+            "uk": [
+                "Сходинки, побудовані велетнями.",
+                "Кам'яні стільники, створені вогнем."
+            ],
+            "en": [
+                "Stairs built by giants.",
+                "Stone honeycombs forged by fire."
+            ],
+            "es": [
+                "Escaleras construidas por gigantes.",
+                "Panales de piedra forjados por el fuego."
+            ],
+            "pt": [
+                "Escadas construídas por gigantes.",
+                "Colmeias de pedra forjadas pelo fogo."
+            ]
+        },
+        "tooltip": {
+            "ru": "Они образовались в результате древнего извержения вулкана.",
+            "uk": "Вони утворилися в результаті стародавнього виверження вулкана.",
+            "en": "They were formed as a result of an ancient volcanic eruption.",
+            "es": "Se formaron como resultado de una antigua erupción volcánica.",
+            "pt": "Elas foram formadas como resultado de uma antiga erupção vulcânica."
+        },
+        "qwestion": {
+            "ru": "Какое место в Северной Ирландии представляет собой скопление из десятков тысяч базальтовых колонн?",
+            "uk": "Яке місце в Північній Ірландії є скупченням з десятків тисяч базальтових колон?",
+            "en": "What place in Northern Ireland is a cluster of tens of thousands of basalt columns?",
+            "es": "¿Qué lugar en Irlanda del Norte es un grupo de decenas de miles de columnas de basalto?",
+            "pt": "Que lugar na Irlanda do Norte é um aglomerado de dezenas de milhares de colunas de basalto?"
+        },
+        "definition": {
+            "ru": "Мостовая гигантов — это геологическое образование на побережье Северной Ирландии, состоящее из около 40 000 соединенных между собой базальтовых колонн. Большинство из них имеют форму идеальных шестиугольников. Этот уникальный ландшафт был сформирован около 60 миллионов лет назад в результате извержения вулкана и последующего медленного остывания лавы. По легенде, колонны — это остатки моста, построенного великаном Финном Маккулом для перехода в Шотландию. Место включено в список Всемирного наследия ЮНЕСКО.",
+            "uk": "Дорога Гігантів — це геологічне утворення на узбережжі Північної Ірландії, що складається з близько 40 000 з'єднаних між собою базальтових колон. Більшість з них мають форму ідеальних шестикутників. Цей унікальний ландшафт був сформований близько 60 мільйонів років тому в результаті виверження вулкана і подальшого повільного охолодження лави. За легендою, колони — це залишки мосту, побудованого велетнем Фінном Маккулом для переходу до Шотландії. Місце включено до списку Світової спадщини ЮНЕСКО.",
+            "en": "The Giant's Causeway is a geological formation on the coast of Northern Ireland consisting of about 40,000 interlocking basalt columns. Most of the columns are perfect hexagons. This unique landscape was formed about 60 million years ago as a result of a volcanic eruption and the subsequent slow cooling of lava. According to legend, the columns are the remains of a bridge built by the giant Fionn mac Cumhaill to walk to Scotland. The site is a UNESCO World Heritage Site.",
+            "es": "La Calzada del Gigante es una formación geológica en la costa de Irlanda del Norte que consta de unas 40.000 columnas de basalto entrelazadas. La mayoría de las columnas tienen una forma hexagonal perfecta. Este paisaje único se formó hace unos 60 millones de años como resultado de una erupción volcánica y el posterior enfriamiento lento de la lava. Según la leyenda, las columnas son los restos de un puente construido por el gigante Fionn mac Cumhaill para caminar hasta Escocia. El sitio es Patrimonio de la Humanidad de la UNESCO.",
+            "pt": "A Calçada dos Gigantes é uma formação geológica na costa da Irlanda do Norte que consiste em cerca de 40.000 colunas de basalto interligadas. A maioria das colunas tem uma forma hexagonal perfeita. Esta paisagem única foi formada há cerca de 60 milhões de anos como resultado de uma erupção vulcânica e do subsequente resfriamento lento da lava. Segundo a lenda, as colunas são os restos de uma ponte construída pelo gigante Fionn mac Cumhaill para caminhar até a Escócia. O local é Patrimônio Mundial da UNESCO."
+        },
+        "antipod": {
+            "ru": "Большой Каньон",
+            "uk": "Великий Каньйон",
+            "en": "Grand Canyon",
+            "es": "Gran Cañón",
+            "pt": "Grand Canyon"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих мест состоит из вертикальных колонн?",
+            "uk": "Яке з цих місць складається з вертикальних колон?",
+            "en": "Which of these places is made of vertical columns?",
+            "es": "¿Cuál de estos lugares está hecho de columnas verticales?",
+            "pt": "Qual desses lugares é feito de colunas verticais?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Giant%27s_Causeway"
+    },
+    "imgFlag": "all" 
+}

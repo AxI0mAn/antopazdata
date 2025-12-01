@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Голый землекоп",
+            "uk": "Голий землекоп",
+            "en": "Naked Mole-Rat",
+            "es": "Rata topo lampiña",
+            "pt": "Rato-toupeira-pelado"
+        },
+        "wrong": {
+            "ru": [
+                "Суслик",
+                "Бобёр",
+                "Мышь"
+            ],
+            "uk": [
+                "Ховрах",
+                "Бобер",
+                "Миша"
+            ],
+            "en": [
+                "Gopher",
+                "Beaver",
+                "Mouse"
+            ],
+            "es": [
+                "Tuza",
+                "Castor",
+                "Ratón"
+            ],
+            "pt": [
+                "Caxinguelê",
+                "Castor",
+                "Camundongo"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Колония.",
+                "Устойчивость к раку.",
+                "Под землей."
+            ],
+            "uk": [
+                "Колонія.",
+                "Стійкість до раку.",
+                "Під землею."
+            ],
+            "en": [
+                "Colony.",
+                "Cancer resistance.",
+                "Underground."
+            ],
+            "es": [
+                "Colonia.",
+                "Resistencia al cáncer.",
+                "Bajo tierra."
+            ],
+            "pt": [
+                "Colônia.",
+                "Resistência ao câncer.",
+                "Subterrâneo."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Живу под землей большой семьёй.",
+                "В моей колонии есть царица, а я голый."
+            ],
+            "uk": [
+                "Живу під землею великою сім'єю.",
+                "У моїй колонії є цариця, а я голий."
+            ],
+            "en": [
+                "I live underground in a big family.",
+                "In my colony, there's a queen, and I'm naked."
+            ],
+            "es": [
+                "Vivo bajo tierra en una gran familia.",
+                "En mi colonia, hay una reina, y soy calvo."
+            ],
+            "pt": [
+                "Vivo debaixo da terra em uma grande família.",
+                "Na minha colônia, há uma rainha, e sou nu."
+            ]
+        },
+        "tooltip": {
+            "ru": "Их социальная структура похожа на общество пчел или муравьев: одна 'царица', а остальные — рабочие.",
+            "uk": "Їх соціальна структура схожа на суспільство бджіл або мурах: одна 'цариця', а решта — робітники.",
+            "en": "Their social structure is similar to that of bees or ants: one 'queen,' and the rest are workers.",
+            "es": "Su estructura social es similar a la de las abejas u hormigas: una 'reina' y los demás son obreros.",
+            "pt": "A estrutura social deles é parecida com a de abelhas ou formigas: uma 'rainha' e os demais são operários."
+        },
+        "qwestion": {
+            "ru": "Какое животное устойчиво к раку, не чувствует боль и живет в подземных колониях?",
+            "uk": "Яка тварина стійка до раку, не відчуває болю і живе в підземних колоніях?",
+            "en": "What animal is resistant to cancer, doesn't feel pain and lives in underground colonies?",
+            "es": "¿Qué animal es resistente al cáncer, no siente dolor y vive en colonias subterráneas?",
+            "pt": "Que animal é resistente ao câncer, não sente dor e vive em colônias subterrâneas?"
+        },
+        "definition": {
+            "ru": "Голый землекоп — это грызун, обитающий в подземных туннелях Восточной Африки. Он обладает множеством уникальных черт, включая отсутствие шерсти, резистентность к раку и некоторым видам боли, а также эусоциальное поведение, характерное для насекомых.",
+            "uk": "Голий землекоп — це гризун, що мешкає в підземних тунелях Східної Африки. Він має безліч унікальних рис, включаючи відсутність шерсті, резистентність до раку та деяких видів болю, а також еусоціальну поведінку, характерну для комах.",
+            "en": "The naked mole-rat is a rodent native to the underground tunnels of East Africa. It possesses numerous unique traits, including a lack of fur, resistance to cancer and certain types of pain, and eusocial behavior similar to that of insects.",
+            "es": "La rata topo lampiña es un roedor nativo de los túneles subterráneos de África Oriental. Posee numerosos rasgos únicos, incluida la falta de pelo, resistencia al cáncer y a ciertos tipos de dolor, y un comportamiento eusocial similar al de los insectos.",
+            "pt": "O rato-toupeira-pelado é um roedor nativo dos túneis subterrâneos da África Oriental. Ele possui inúmeras características únicas, incluindo a falta de pelo, resistência ao câncer e a certos tipos de dor, e um comportamento eussocial semelhante ao de insetos."
+        },
+        "antipod": {
+            "ru": "Крот",
+            "uk": "Кріт",
+            "en": "Mole",
+            "es": "Topo",
+            "pt": "Toupeira"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих животных живёт в большой социальной колонии?",
+            "uk": "Яка з цих тварин живе у великій соціальній колонії?",
+            "en": "Which of these animals lives in a large social colony?",
+            "es": "¿Cuál de estos animales vive en una gran colonia social?",
+            "pt": "Qual desses animais vive em uma grande colônia social?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Naked_mole-rat"
+    },
+    "imgFlag": "all" 
+}

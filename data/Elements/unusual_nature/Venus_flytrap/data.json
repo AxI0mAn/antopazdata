@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Венерина мухоловка",
+            "uk": "Венерина мухоловка",
+            "en": "Venus flytrap",
+            "es": "Venus atrapamoscas",
+            "pt": "Dionéia"
+        },
+        "wrong": {
+            "ru": [
+                "Непентес",
+                "Жирянка",
+                "Саррацения"
+            ],
+            "uk": [
+                "Непентес",
+                "Жирянка",
+                "Сарраценія"
+            ],
+            "en": [
+                "Nepenthes",
+                "Butterwort",
+                "Sarracenia"
+            ],
+            "es": [
+                "Nepente",
+                "Pinguicula",
+                "Sarracenia"
+            ],
+            "pt": [
+                "Nepenthes",
+                "Pinguicula",
+                "Sarracenia"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Насекомые.",
+                "Ловушка.",
+                "Челюсти."
+            ],
+            "uk": [
+                "Комахи.",
+                "Пастка.",
+                "Щелепи."
+            ],
+            "en": [
+                "Insects.",
+                "Trap.",
+                "Jaws."
+            ],
+            "es": [
+                "Insectos.",
+                "Trampa.",
+                "Mandíbulas."
+            ],
+            "pt": [
+                "Insetos.",
+                "Armadilha.",
+                "Mandíbulas."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Растение с зубами, но оно не кусает.",
+                "Его листья захлопываются, чтобы поймать добычу."
+            ],
+            "uk": [
+                "Рослина з зубами, але вона не кусає.",
+                "Її листя закривається, щоб упіймати здобич."
+            ],
+            "en": [
+                "A plant with teeth, but it doesn't bite.",
+                "Its leaves snap shut to catch prey."
+            ],
+            "es": [
+                "Una planta con dientes, pero que no muerde.",
+                "Sus hojas se cierran de golpe para atrapar a la presa."
+            ],
+            "pt": [
+                "Uma planta com dentes, mas que não morde.",
+                "Suas folhas se fecham para pegar a presa."
+            ]
+        },
+        "tooltip": {
+            "ru": "Её ловушка захлопывается за долю секунды.",
+            "uk": "Її пастка закривається за частку секунди.",
+            "en": "Its trap snaps shut in a fraction of a second.",
+            "es": "Su trampa se cierra en una fracción de segundo.",
+            "pt": "Sua armadilha se fecha em uma fração de segundo."
+        },
+        "qwestion": {
+            "ru": "Какое хищное растение ловит насекомых с помощью листьев-ловушек?",
+            "uk": "Яка хижа рослина ловить комах за допомогою листків-пасток?",
+            "en": "What carnivorous plant catches insects with trap-like leaves?",
+            "es": "¿Qué planta carnívora atrapa insectos con hojas-trampa?",
+            "pt": "Que planta carnívora captura insetos com folhas-armadilha?"
+        },
+        "definition": {
+            "ru": "Венерина мухоловка — это хищное растение, известное своими листьями-ловушками. Когда насекомое касается двух волосков на листе, ловушка мгновенно захлопывается. Затем растение медленно переваривает свою добычу.",
+            "uk": "Венерина мухоловка — це хижа рослина, відома своїми листками-пастками. Коли комаха торкається двох волосків на листку, пастка миттєво закривається. Потім рослина повільно перетравлює свою здобич.",
+            "en": "The Venus flytrap is a carnivorous plant known for its trap-like leaves. When an insect touches two hairs on a leaf, the trap snaps shut instantly. The plant then slowly digests its prey.",
+            "es": "La Venus atrapamoscas es una planta carnívora conocida por sus hojas-trampa. Cuando un insecto toca dos pelos en una hoja, la trampa se cierra al instante. La planta luego digiere lentamente a su presa.",
+            "pt": "A dionéia é uma planta carnívora conhecida por suas folhas-armadilha. Quando um inseto toca dois pelos em uma folha, a armadilha se fecha instantaneamente. A planta então digere lentamente sua presa."
+        },
+        "antipod": {
+            "ru": "Росянка",
+            "uk": "Росичка",
+            "en": "Sundew",
+            "es": "Rocío de sol",
+            "pt": "Orvalha-do-sol"
+        },
+        "hintFuiz": {
+            "ru": "Какое из них охотится с помощью ловушки?",
+            "uk": "Яка з них полює за допомогою пастки?",
+            "en": "Which one hunts with a trap?",
+            "es": "¿Cuál de ellas caza con una trampa?",
+            "pt": "Qual delas caça com uma armadilha?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Venus_flytrap"
+    },
+    "imgFlag": "all" 
+}

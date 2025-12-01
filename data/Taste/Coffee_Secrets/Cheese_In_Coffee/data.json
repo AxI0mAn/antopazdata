@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Кусочек сыра",
+            "uk": "Шматочок сиру",
+            "en": "A piece of cheese",
+            "es": "Un trozo de queso",
+            "pt": "Um pedaço de queijo"
+        },
+        "wrong": {
+            "ru": [
+                "Сахар",
+                "Корица",
+                "Коньяк"
+            ],
+            "uk": [
+                "Цукор",
+                "Кориця",
+                "Коньяк"
+            ],
+            "en": [
+                "Sugar",
+                "Cinnamon",
+                "Cognac"
+            ],
+            "es": [
+                "Azúcar",
+                "Canela",
+                "Coñac"
+            ],
+            "pt": [
+                "Açúcar",
+                "Canela",
+                "Conhaque"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Скандинавия.",
+                "Кофе.",
+                "Смягчение."
+            ],
+            "uk": [
+                "Скандинавія.",
+                "Кава.",
+                "Пом'якшення."
+            ],
+            "en": [
+                "Scandinavia.",
+                "Coffee.",
+                "Softening."
+            ],
+            "es": [
+                "Escandinavia.",
+                "Café.",
+                "Suavización."
+            ],
+            "pt": [
+                "Escandinávia.",
+                "Café.",
+                "Suavização."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это делают для смягчения вкуса",
+            "uk": "Це роблять для пом'якшення смаку",
+            "en": "This is done to soften the taste",
+            "es": "Esto se hace para suavizar el sabor",
+            "pt": "Isso é feito para suavizar o sabor"
+        },
+        "qwestion": {
+            "ru": "Что в Скандинавии кладут в чашку перед тем, как налить горячий кофе?",
+            "uk": "Що в Скандинавії кладуть у чашку перед тим, як налити гарячу каву?",
+            "en": "What do they put in a cup in Scandinavia before pouring hot coffee?",
+            "es": "¿Qué se pone en una taza en Escandinavia antes de servir café caliente?",
+            "pt": "O que eles colocam em uma xícara na Escandinávia antes de servir café quente?"
+        },
+        "definition": {
+            "ru": "В Скандинавии, особенно в Финляндии, существует традиция добавлять в кофе кусочек сыра, называемого 'juustoleipä'. Сыр смягчает горечь и придает напитку сливочный, уникальный вкус.",
+            "uk": "У Скандинавії, особливо у Фінляндії, існує традиція додавати до кави шматочок сиру, який називається 'juustoleipä'. Сир пом'якшує гіркоту і надає напою вершковий, унікальний смак.",
+            "en": "In Scandinavia, especially in Finland, there is a tradition of adding a piece of cheese, called 'juustoleipä', to coffee. The cheese softens the bitterness and gives the drink a creamy, unique taste.",
+            "es": "En Escandinavia, especialmente en Finlandia, existe la tradición de añadir un trozo de queso, llamado 'juustoleipä', al café. El queso suaviza la amargura y le da a la bebida un sabor cremoso y único.",
+            "pt": "Na Escandinávia, especialmente na Finlândia, existe a tradição de adicionar um pedaço de queijo, chamado 'juustoleipä', ao café. O queijo suaviza o amargor e dá à bebida um sabor cremoso e único."
+        },
+        "antipod": {
+            "ru": "Корица",
+            "uk": "Кориця",
+            "en": "Cinnamon",
+            "es": "Canela",
+            "pt": "Canela"
+        },
+        "hintFuiz": {
+            "ru": "Это добавляют в чашку кофе в Скандинавии.",
+            "uk": "Це додають у чашку кави в Скандинавії.",
+            "en": "This is added to a cup of coffee in Scandinavia.",
+            "es": "Esto se añade a una taza de café en Escandinavia.",
+            "pt": "Isso é adicionado a uma xícara de café na Escandinávia."
+        },
+        "riddle": {
+            "ru": [
+                "В чашке с кофе меняет правила игры.",
+                "Кофе по скандинавскому рецепту."
+            ],
+            "uk": [
+                "У чашці з кавою змінює правила гри.",
+                "Кава за скандинавським рецептом."
+            ],
+            "en": [
+                "In a cup with coffee, it changes the rules of the game.",
+                "Coffee according to a Scandinavian recipe."
+            ],
+            "es": [
+                "En una taza con café, cambia las reglas del juego.",
+                "Café según una receta escandinava."
+            ],
+            "pt": [
+                "Em uma xícara com café, ele muda as regras do jogo.",
+                "Café de acordo com uma receita escandinava."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Juustoleip%C3%A4"
+    },
+    "imgFlag": "all"
+}

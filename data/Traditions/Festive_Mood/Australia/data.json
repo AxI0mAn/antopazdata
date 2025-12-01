@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Австралия",
+            "uk": "Австралія",
+            "en": "Australia",
+            "es": "Australia",
+            "pt": "Austrália"
+        },
+        "wrong": {
+            "ru": [
+                "Аргентина",
+                "Канада",
+                "Мадагаскар"
+            ],
+            "uk": [
+                "Аргентина",
+                "Канада",
+                "Мадагаскар"
+            ],
+            "en": [
+                "Argentina",
+                "Canada",
+                "Madagascar"
+            ],
+            "es": [
+                "Argentina",
+                "Canadá",
+                "Madagascar"
+            ],
+            "pt": [
+                "Argentina",
+                "Canadá",
+                "Madagascar"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Океан",
+                "Санта",
+                "Пляж"
+            ],
+            "uk": [
+                "Океан",
+                "Санта",
+                "Пляж"
+            ],
+            "en": [
+                "Ocean",
+                "Santa",
+                "Beach"
+            ],
+            "es": [
+                "Océano",
+                "Papá Noel",
+                "Playa"
+            ],
+            "pt": [
+                "Oceano",
+                "Papai Noel",
+                "Praia"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "В этой стране Санта-Клаус приезжает на доске для серфинга.",
+                "Вместо снеговиков — песчаные замки."
+            ],
+            "uk": [
+                "У цій країні Санта-Клаус приїжджає на дошці для серфінгу.",
+                "Замість сніговиків — піщані замки."
+            ],
+            "en": [
+                "In this country, Santa Claus arrives on a surfboard.",
+                "Instead of snowmen, there are sandcastles."
+            ],
+            "es": [
+                "En este país, Papá Noel llega en una tabla de surf.",
+                "En lugar de muñecos de nieve, hay castillos de arena."
+            ],
+            "pt": [
+                "Neste país, o Papai Noel chega em uma prancha de surfe.",
+                "Em vez de bonecos de neve, há castelos de areia."
+            ]
+        },
+        "tooltip": {
+            "ru": "В этой стране люди отмечают Рождество на пляже, спасаясь от летней жары.",
+            "uk": "У цій країні люди відзначають Різдво на пляжі, рятуючись від літньої спеки.",
+            "en": "In this country, people celebrate Christmas on the beach, escaping the summer heat.",
+            "es": "En este país, la gente celebra la Navidad en la playa, escapando del calor del verano.",
+            "pt": "Neste país, as pessoas comemoram o Natal na praia, fugindo do calor do verão."
+        },
+        "qwestion": {
+            "ru": "В какой стране Санта-Клаус приезжает на доске для серфинга?",
+            "uk": "У якій країні Санта-Клаус приїжджає на дошці для серфінгу?",
+            "en": "In which country does Santa Claus arrive on a surfboard?",
+            "es": "¿En qué país Papá Noel llega en una tabla de surf?",
+            "pt": "Em qual país o Papai Noel chega em uma prancha de surfe?"
+        },
+        "definition": {
+            "ru": "Австралия — это страна и континент, расположенный в Южном полушарии, где Рождество приходится на середину лета. Из-за жаркой погоды многие рождественские традиции, привычные для Северного полушария, здесь адаптированы: люди часто отмечают праздник на пляже, устраивают барбекю, а Санта-Клаус может появиться в шортах и на доске для серфинга.",
+            "uk": "Австралія — це країна і континент, розташований у Південній півкулі, де Різдво припадає на середину літа. Через спекотну погоду багато різдвяних традицій, звичних для Північної півкулі, тут адаптовані: люди часто відзначають свято на пляжі, влаштовують барбекю, а Санта-Клаус може з'явитися в шортах і на дошці для серфінгу.",
+            "en": "Australia is a country and continent located in the Southern Hemisphere, where Christmas falls in the middle of summer. Due to the hot weather, many Christmas traditions familiar to the Northern Hemisphere are adapted here: people often celebrate the holiday on the beach, have barbecues, and Santa Claus might appear in shorts and on a surfboard.",
+            "es": "Australia es un país y continente ubicado en el Hemisferio Sur, donde la Navidad cae en pleno verano. Debido al clima caluroso, muchas tradiciones navideñas familiares en el Hemisferio Norte se adaptan aquí: la gente a menudo celebra la festividad en la playa, hace barbacoas y Papá Noel puede aparecer en pantalones cortos y en una tabla de surf.",
+            "pt": "A Austrália é um país e continente localizado no Hemisfério Sul, onde o Natal acontece no meio do verão. Devido ao clima quente, muitas tradições de Natal familiares no Hemisfério Norte são adaptadas aqui: as pessoas frequentemente comemoram o feriado na praia, fazem churrascos, e o Papai Noel pode aparecer de shorts e em uma prancha de surfe."
+        },
+        "antipod": {
+            "ru": "Финляндия",
+            "uk": "Фінляндія",
+            "en": "Finland",
+            "es": "Finlandia",
+            "pt": "Finlândia"
+        },
+        "hintFuiz": {
+            "ru": "У Санта-Клауса здесь нет саней, потому что в декабре слишком жарко.",
+            "uk": "У Санта-Клауса тут немає саней, тому що в грудні занадто спекотно.",
+            "en": "Santa Claus has no sleigh here because it's too hot in December.",
+            "es": "Papá Noel no tiene trineo aquí porque hace demasiado calor en diciembre.",
+            "pt": "O Papai Noel não tem trenó aqui porque faz muito calor em dezembro."
+        },
+        "article": "https://en.wikipedia.org/wiki/Christmas_in_Australia"
+    },
+    "imgFlag": "quizfoto"
+}

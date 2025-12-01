@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Фестиваль красок",
+            "uk": "Фестиваль фарб",
+            "en": "Festival of Colors",
+            "es": "Festival de los Colores",
+            "pt": "Festival das Cores"
+        },
+        "wrong": {
+            "ru": [
+                "Битва слонов",
+                "Пир обезьян",
+                "День Радуги"
+            ],
+            "uk": [
+                "Битва слонів",
+                "Бенкет мавп",
+                "День Веселки"
+            ],
+            "en": [
+                "Elephant Fight",
+                "Monkey Feast",
+                "Rainbow Day"
+            ],
+            "es": [
+                "Batalla de elefantes",
+                "Banquete de monos",
+                "Día del Arcoíris"
+            ],
+            "pt": [
+                "Batalha de elefantes",
+                "Banquete de macacos",
+                "Dia do Arco-íris"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Индия",
+                "Весна",
+                "Краски"
+            ],
+            "uk": [
+                "Індія",
+                "Весна",
+                "Фарби"
+            ],
+            "en": [
+                "India",
+                "Spring",
+                "Colors"
+            ],
+            "es": [
+                "India",
+                "Primavera",
+                "Colores"
+            ],
+            "pt": [
+                "Índia",
+                "Primavera",
+                "Cores"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "В этот день всё становится красочным.",
+                "Сухие порошки и вода и ты яркий и счастливый."
+            ],
+            "uk": [
+                "У цей день все стає барвистим.",
+                "Сухі порошки і вода і ти яскравий і щасливий."
+            ],
+            "en": [
+                "On this day, everything becomes colorful.",
+                "Dry powders and water and you are bright and happy."
+            ],
+            "es": [
+                "En este día, todo se vuelve colorido.",
+                "Polvos secos y agua y eres brillante y feliz."
+            ],
+            "pt": [
+                "Neste dia, tudo se torna colorido.",
+                "Pós secos e água e você é brilhante e feliz."
+            ]
+        },
+        "tooltip": {
+            "ru": "Где люди бросают друг в друга яркие краски и подкрашенную воду.",
+            "uk": "Де люди кидають один в одного яскраві фарби і підфарбовану воду.",
+            "en": "Where people throw bright colors and colored water at each other.",
+            "es": "Donde la gente se arroja mutuamente colores brillantes y agua teñida.",
+            "pt": "Onde as pessoas jogam umas nas outras cores vibrantes e água colorida."
+        },
+        "qwestion": {
+            "ru": "Как называется яркий и красочный праздник в Индии?",
+            "uk": "Як називається яскраве і барвисте свято в Індії?",
+            "en": "What is the name of the bright and colorful festival in India?",
+            "es": "¿Cómo se llama el festival brillante y colorido en la India?",
+            "pt": "Qual o nome do festival brilhante e colorido na Índia?"
+        },
+        "definition": {
+            "ru": "Холи, или Фестиваль красок, — это древний индуистский праздник весны, который отмечается в Индии и Непале. Люди празднуют, бросая друг в друга цветные порошки и подкрашенную воду, танцуя и радуясь приходу весны и победе добра над злом.",
+            "uk": "Холі, або Фестиваль фарб, — це давнє індуїстське свято весни, яке відзначається в Індії та Непалі. Люди святкують, кидаючи один в одного кольорові порошки і підфарбовану воду, танцюючи і радіючи приходу весни та перемозі добра над злом.",
+            "en": "Holi, or the Festival of Colors, is an ancient Hindu spring festival celebrated in India and Nepal. People celebrate by throwing colored powders and colored water at each other, dancing, and rejoicing in the arrival of spring and the victory of good over evil.",
+            "es": "Holi, o el Festival de los Colores, es un antiguo festival hindú de la primavera que se celebra en la India y Nepal. La gente celebra lanzándose polvos de colores y agua teñida, bailando y regocijándose por la llegada de la primavera y la victoria del bien sobre el mal.",
+            "pt": "Holi, ou o Festival das Cores, é um antigo festival hindu da primavera celebrado na Índia e no Nepal. As pessoas celebram jogando pós coloridos e água colorida umas nas outras, dançando e se alegrando com a chegada da primavera e a vitória do bem sobre o mal."
+        },
+        "antipod": {
+            "ru": "Фестиваль тишины",
+            "uk": "Фестиваль тиші",
+            "en": "Festival of Silence",
+            "es": "Festival del Silencio",
+            "pt": "Festival do Silêncio"
+        },
+        "hintFuiz": {
+            "ru": "Для какого праздника — главный атрибут яркие краски?",
+            "uk": "Для якого свята — головний атрибут яскраві фарби?",
+            "en": "For which festival are bright colors the main attribute?",
+            "es": "¿Para qué festival son los colores brillantes el atributo principal?",
+            "pt": "Para qual festival as cores vibrantes são o principal atributo?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Holi"
+    },
+    "imgFlag": "quizfoto"
+}

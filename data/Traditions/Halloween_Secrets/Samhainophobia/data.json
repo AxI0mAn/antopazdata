@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Самайнофобия",
+            "uk": "Самайнофобія",
+            "en": "Samhainophobia",
+            "es": "Samhainofobia",
+            "pt": "Samhainofobia"
+        },
+        "wrong": {
+            "ru": [
+                "Арахнофобия",
+                "Коулрофобия",
+                "Магикофобия"
+            ],
+            "uk": [
+                "Арахнофобія",
+                "Коулрофобія",
+                "Магікофобія"
+            ],
+            "en": [
+                "Arachnophobia",
+                "Coulrophobia",
+                "Magicophobia"
+            ],
+            "es": [
+                "Aracnofobia",
+                "Coulrofobia",
+                "Magicofobia"
+            ],
+            "pt": [
+                "Aracnofobia",
+                "Coulrofobia",
+                "Magicofobia"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Фобия.",
+                "Страх.",
+                "Праздник."
+            ],
+            "uk": [
+                "Фобія.",
+                "Страх.",
+                "Свято."
+            ],
+            "en": [
+                "Phobia.",
+                "Fear.",
+                "Holiday."
+            ],
+            "es": [
+                "Fobia.",
+                "Miedo.",
+                "Fiesta."
+            ],
+            "pt": [
+                "Fobia.",
+                "Medo.",
+                "Feriado."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Кто боится в Хеллоуин?",
+                "Боязнь Хеллоуина."
+            ],
+            "uk": [
+                "Хто боїться в Геловін?",
+                "Боязнь Геловіну."
+            ],
+            "en": [
+                "Who is afraid on Halloween?",
+                "Fear of Halloween."
+            ],
+            "es": [
+                "¿Quién tiene miedo en Halloween?",
+                "Miedo a Halloween."
+            ],
+            "pt": [
+                "Quem tem medo no Halloween?",
+                "Medo de Halloween."
+            ]
+        },
+        "tooltip": {
+            "ru": "Иррациональный, навязчивый страх перед Хеллоуином и его символами, такими как призраки, ведьмы и костюмы.",
+            "uk": "Ірраціональний, нав'язливий страх перед Хеллоуїном та його символами, такими як привиди, відьми та костюми.",
+            "en": "An irrational, obsessive fear of Halloween and its symbols, such as ghosts, witches, and costumes.",
+            "es": "Un miedo irracional y obsesivo a Halloween y sus símbolos, como fantasmas, brujas y disfraces.",
+            "pt": "Um medo irracional e obsessivo do Halloween e seus símbolos, como fantasmas, bruxas e fantasias."
+        },
+        "qwestion": {
+            "ru": "Какая фобия связана с Хеллоуином?",
+            "uk": "Яка фобія пов'язана з Хеллоуїном?",
+            "en": "What phobia is associated with Halloween?",
+            "es": "¿Qué fobia se asocia con Halloween?",
+            "pt": "Qual fobia está associada ao Halloween?"
+        },
+        "definition": {
+            "ru": "Самайнофобия — это специфический, интенсивный и часто изнурительный страх перед Хеллоуином. Название происходит от древнего кельтского фестиваля Самайн, от которого и произошёл Хеллоуин. Люди с этой фобией могут испытывать тревогу, панические атаки и сильный стресс, связанный с атрибутами праздника.",
+            "uk": "Самайнофобія — це специфічний, інтенсивний і часто виснажливий страх перед Хеллоуїном. Назва походить від стародавнього кельтського фестивалю Самайн, від якого і походить Хеллоуїн. Люди з цією фобією можуть відчувати тривогу, панічні атаки та сильний стрес, пов'язаний з атрибутами свята.",
+            "en": "Samhainophobia is a specific, intense, and often debilitating fear of Halloween. The name comes from the ancient Celtic festival of Samhain, from which Halloween is derived. People with this phobia may experience anxiety, panic attacks, and severe distress related to the holiday's themes and symbols.",
+            "es": "La samhainofobia es un miedo específico, intenso y a menudo debilitante a Halloween. El nombre proviene del antiguo festival celta de Samhain, del cual se deriva Halloween. Las personas con esta fobia pueden experimentar ansiedad, ataques de pánico y angustia severa relacionada con los temas y símbolos de la fiesta.",
+            "pt": "A samhainofobia é um medo específico, intenso e muitas vezes debilitante do Halloween. O nome vem do antigo festival celta de Samhain, do qual o Halloween é derivado. Pessoas com essa fobia podem sentir ansiedade, ataques de pânico e angústia severa relacionada aos temas e símbolos do feriado."
+        },
+        "antipod": {
+            "ru": "Никтофобия",
+            "uk": "Ніктофобія",
+            "en": "Nyctophobia",
+            "es": "Nictofobia",
+            "pt": "Nictofobia"
+        },
+        "hintFuiz": {
+            "ru": "Что из этого является фобией Хеллоуина?",
+            "uk": "Що з цього є фобією Хеллоуїна?",
+            "en": "Which of these is a phobia of Halloween?",
+            "es": "¿Cuál de estas es una fobia de Halloween?",
+            "pt": "Qual destas é uma fobia do Halloween?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Samhainophobia"
+    },
+   "imgFlag": "quizfoto" 
+}

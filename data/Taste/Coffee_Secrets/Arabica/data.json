@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Арабика",
+            "uk": "Арабіка",
+            "en": "Arabica",
+            "es": "Arábica",
+            "pt": "Arábica"
+        },
+        "wrong": {
+            "ru": [
+                "Либерика",
+                "Робуста",
+                "Эксцельса"
+            ],
+            "uk": [
+                "Ліберіка",
+                "Робуста",
+                "Ексцельса"
+            ],
+            "en": [
+                "Liberica",
+                "Robusta",
+                "Excelsa"
+            ],
+            "es": [
+                "Libérica",
+                "Robusta",
+                "Excelsa"
+            ],
+            "pt": [
+                "Libérica",
+                "Robusta",
+                "Excelsa"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Кофе.",
+                "Дерево.",
+                "Сорт."
+            ],
+            "uk": [
+                "Кава.",
+                "Дерево.",
+                "Сорт."
+            ],
+            "en": [
+                "Coffee.",
+                "Tree.",
+                "Variety."
+            ],
+            "es": [
+                "Café.",
+                "Árbol.",
+                "Variedad."
+            ],
+            "pt": [
+                "Café.",
+                "Árvore.",
+                "Variedade."
+            ]
+        },
+        "tooltip": {
+            "ru": "На долю которого приходится около 60-69% мирового производства",
+            "uk": "На частку якого припадає близько 60-69% світового виробництва",
+            "en": "Which accounts for about 60-69% of global production",
+            "es": "Que representa alrededor del 60-69% de la producción mundial",
+            "pt": "Que representa cerca de 60-69% da produção mundial"
+        },
+        "qwestion": {
+            "ru": "Какого вида кофейных деревьев больше?",
+            "uk": "Якого виду кавових дерев більше?",
+            "en": "Which type of coffee tree is more common?",
+            "es": "¿Qué tipo de árbol de café es más común?",
+            "pt": "Qual tipo de árvore de café é mais comum?"
+        },
+        "definition": {
+            "ru": "Арабика — самый распространенный в мире вид кофе, произрастающий на высокогорных плантациях. Его зерна обладают более мягким, сладким и сложным вкусом с меньшим содержанием кофеина, чем у других сортов.",
+            "uk": "Арабіка — найпоширеніший у світі вид кави, що росте на високогірних плантаціях. Його зерна мають більш м'який, солодкий і складний смак з меншим вмістом кофеїну, ніж в інших сортів.",
+            "en": "Arabica is the most common coffee species in the world, growing in high-altitude plantations. Its beans have a milder, sweeter, and more complex flavor with less caffeine than other varieties.",
+            "es": "La arábica es la especie de café más común en el mundo, que crece en plantaciones de gran altitud. Sus granos tienen un sabor más suave, dulce y complejo con menos cafeína que otras variedades.",
+            "pt": "A arábica é a espécie de café mais comum no mundo, crescendo em plantações de alta altitude. Seus grãos têm um sabor mais suave, doce e complexo, com menos cafeína do que outras variedades."
+        },
+        "antipod": {
+            "ru": "Робуста",
+            "uk": "Робуста",
+            "en": "Robusta",
+            "es": "Robusta",
+            "pt": "Robusta"
+        },
+        "hintFuiz": {
+            "ru": "Этого вида кофейных деревьев больше.",
+            "uk": "Цього виду кавових дерев більше.",
+            "en": "This type of coffee tree is more common.",
+            "es": "Este tipo de árbol de café es más común.",
+            "pt": "Este tipo de árvore de café é mais comum."
+        },
+        "riddle": {
+            "ru": [
+                "Самое популярное кофейное зерно.",
+                "Какого сорта кофе больше в мире?"
+            ],
+            "uk": [
+                "Найпопулярніше кавове зерно.",
+                "Якого сорту кави найбільше у світі?"
+            ],
+            "en": [
+                "The most popular coffee bean.",
+                "What kind of coffee bean is there more of in the world?"
+            ],
+            "es": [
+                "El grano de café más popular.",
+                "¿De qué tipo de café hay más en el mundo?"
+            ],
+            "pt": [
+                "O grão de café mais popular.",
+                "Que tipo de café há mais no mundo?"
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Coffea_arabica"
+    },
+    "imgFlag": "all"
+}

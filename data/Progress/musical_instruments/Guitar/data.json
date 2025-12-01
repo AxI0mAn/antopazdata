@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Гитара",
+            "uk": "Гітара",
+            "en": "Guitar",
+            "es": "Guitarra",
+            "pt": "Guitarra"
+        },
+        "wrong": {
+            "ru": [
+                "Укулеле",
+                "Балалайка",
+                "Лю́тня"
+            ],
+            "uk": [
+                "Укулеле",
+                "Балалайка",
+                "Лютня"
+            ],
+            "en": [
+                "Ukulele",
+                "Balalaika",
+                "Lute"
+            ],
+            "es": [
+                "Ukelele",
+                "Balalaica",
+                "Laúd"
+            ],
+            "pt": [
+                "Ukulele",
+                "Balalaica",
+                "Alaúde"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Струны.",
+                "Аккорд.",
+                "Лады."
+            ],
+            "uk": [
+                "Струни.",
+                "Акорд.",
+                "Лади."
+            ],
+            "en": [
+                "Strings.",
+                "Chord.",
+                "Frets."
+            ],
+            "es": [
+                "Cuerdas.",
+                "Acorde.",
+                "Trastes."
+            ],
+            "pt": [
+                "Cordas.",
+                "Acorde.",
+                "Trastes."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Что имеет корпус, гриф и струны?",
+                "Что имеет 6 или 7 струн?"
+            ],
+            "uk": [
+                "Що має корпус, гриф і струни?",
+                "Що має 6 або 7 струн?"
+            ],
+            "en": [
+                "I have a body, a neck, and strings.",
+                "I have 6 or 7 strings."
+            ],
+            "es": [
+                "Tengo un cuerpo, un mástil y cuerdas.",
+                "Tengo 6 o 7 cuerdas."
+            ],
+            "pt": [
+                "Tenho um corpo, um braço e cordas.",
+                "Tenho 6 ou 7 cordas."
+            ]
+        },
+        "tooltip": {
+            "ru": "Он является одним из самых популярных инструментов в истории современной музыки.",
+            "uk": "Він є одним з найпопулярніших інструментів в історії сучасної музики.",
+            "en": "It is one of the most popular instruments in the history of modern music.",
+            "es": "Es uno de los instrumentos más populares en la historia de la música moderna.",
+            "pt": "É um dos instrumentos mais populares na história da música moderna."
+        },
+        "qwestion": {
+            "ru": "Какой инструмент с множеством разновидностей считается универсальным?",
+            "uk": "Який інструмент з багатьма різновидами вважається універсальним?",
+            "en": "Which instrument with many varieties is considered versatile?",
+            "es": "¿Qué instrumento con muchas variedades se considera versátil?",
+            "pt": "Qual instrumento com muitas variedades é considerado versátil?"
+        },
+        "definition": {
+            "ru": "Гитара — это струнный музыкальный инструмент с ладами, на котором играют перебирая или щипками. Она является одним из самых универсальных инструментов, используемым в самых разных жанрах, от рока до классики.",
+            "uk": "Гітара — це струнний музичний інструмент з ладами, на якому грають перебиранням або щипками. Вона є одним із найуніверсальніших інструментів, що використовується в найрізноманітніших жанрах, від року до класики.",
+            "en": "The guitar is a fretted string instrument played by strumming or plucking. It is one of the most versatile instruments, used in a wide variety of genres, from rock to classical music.",
+            "es": "La guitarra es un instrumento musical de cuerda y trastes, tocado al rasguear o pulsar sus cuerdas. Es uno de los instrumentos más versátiles, usado en una amplia variedad de géneros musicales, desde el rock hasta la música clásica.",
+            "pt": "A guitarra é um instrumento de cordas com trastes, tocado dedilhando ou batucando. É um dos instrumentos mais versáteis, usado em uma ampla variedade de gêneros musicais, do rock ao clássico."
+        },
+        "antipod": {
+            "ru": "Мандолина",
+            "uk": "Мандоліна",
+            "en": "Mandolin",
+            "es": "Mandolina",
+            "pt": "Bandolim"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих инструментов, как правило, имеет более длинную мензуру?",
+            "uk": "Який з цих інструментів, як правило, має довшу мензуру?",
+            "en": "Which of these instruments typically has a longer scale length?",
+            "es": "¿Cuál de estos instrumentos suele tener una longitud de escala más larga?",
+            "pt": "Qual desses instrumentos tipicamente tem um comprimento de escala mais longo?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Guitar"
+    },
+    "imgFlag": "all" 
+}

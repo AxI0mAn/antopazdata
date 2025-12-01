@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Лентикулярные облака",
+            "uk": "Лентикулярні хмари",
+            "en": "Lenticular clouds",
+            "es": "Nubes lenticulares",
+            "pt": "Nuvens lenticulares"
+        },
+        "wrong": {
+            "ru": [
+                "Кучевые облака",
+                "Перистые облака",
+                "Кучево-дождевые облака"
+            ],
+            "uk": [
+                "Купчасті хмари",
+                "Перисті хмари",
+                "Купчасто-дощові хмари"
+            ],
+            "en": [
+                "Cumulus clouds",
+                "Cirrus clouds",
+                "Cumulonimbus clouds"
+            ],
+            "es": [
+                "Nubes cúmulos",
+                "Nubes cirros",
+                "Nubes cumulonimbus"
+            ],
+            "pt": [
+                "Nuvens cúmulos",
+                "Nuvens cirrus",
+                "Nuvens cumulonimbus"
+            ]
+        },
+        "association": {
+            "ru": [
+                "НЛО.",
+                "Линзы.",
+                "Горы."
+            ],
+            "uk": [
+                "НЛО.",
+                "Лінзи.",
+                "Гори."
+            ],
+            "en": [
+                "UFO.",
+                "Lenses.",
+                "Mountains."
+            ],
+            "es": [
+                "Ovnis.",
+                "Lentes.",
+                "Montañas."
+            ],
+            "pt": [
+                "OVNIs.",
+                "Lentes.",
+                "Montanhas."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Я стою на месте, даже когда ветер силён.",
+                "Моя форма похожа на летающую тарелку."
+            ],
+            "uk": [
+                "Я стою на місці, навіть коли вітер сильний.",
+                "Моя форма схожа на літаючу тарілку."
+            ],
+            "en": [
+                "I stay in one place, even when the wind is strong.",
+                "My shape resembles a flying saucer."
+            ],
+            "es": [
+                "Me quedo en un solo lugar, incluso cuando el viento es fuerte.",
+                "Mi forma se parece a un platillo volador."
+            ],
+            "pt": [
+                "Fico em um só lugar, mesmo quando o vento é forte.",
+                "Minha forma se assemelha a um disco voador."
+            ]
+        },
+        "tooltip": {
+            "ru": "Их часто ошибочно принимают за НЛО.",
+            "uk": "Їх часто помилково приймають за НЛО.",
+            "en": "They are often mistaken for UFOs.",
+            "es": "A menudo se confunden con ovnis.",
+            "pt": "Elas são frequentemente confundidas com OVNIs."
+        },
+        "qwestion": {
+            "ru": "Какие гладкие, похожие на линзы облака часто образуются над горными хребтами?",
+            "uk": "Які гладкі, схожі на лінзи хмари часто утворюються над гірськими хребтами?",
+            "en": "What smooth, lens-shaped clouds often form over mountain ridges?",
+            "es": "¿Qué nubes suaves y en forma de lente a menudo se forman sobre las cordilleras?",
+            "pt": "Que nuvens suaves e em forma de lente se formam frequentemente sobre cordilheiras?"
+        },
+        "definition": {
+            "ru": "Лентикулярные облака — это стационарные облака, которые формируются в тропосфере, обычно в перпендикулярном направлении к ветру, дующему над горным хребтом. Они образуются, когда влажный воздух поднимается над горой и остывает до точки росы, а затем спускается и снова нагревается, что приводит к необычной, гладкой, линзовидной форме.",
+            "uk": "Лентикулярні хмари — це стаціонарні хмари, які формуються в тропосфері, зазвичай у перпендикулярному напрямку до вітру, що дме над гірським хребтом. Вони утворюються, коли вологе повітря піднімається над горою і охолоджується до точки роси, а потім опускається і знову нагрівається, що призводить до незвичайної, гладкої, лінзоподібної форми.",
+            "en": "Lenticular clouds are stationary clouds that form in the troposphere, typically in a perpendicular direction to the wind flowing over a mountain range. They form as moist air rises over the mountain and cools to its dew point, then descends and warms up again, resulting in their unusual, smooth, lens-like shape.",
+            "es": "Las nubes lenticulares son nubes estacionarias que se forman en la troposfera, generalmente en una dirección perpendicular al viento que fluye sobre una cordillera. Se forman cuando el aire húmedo se eleva sobre la montaña y se enfría hasta su punto de rocío, luego desciende y se calienta de nuevo, lo que da como resultado su inusual forma suave y de lente.",
+            "pt": "As nuvens lenticulares são nuvens estacionárias que se formam na troposfera, tipicamente em uma direção perpendicular ao vento que sopra sobre uma cordilheira. Elas se formam quando o ar úmido sobe sobre a montanha e resfria até seu ponto de orvalho, depois desce e aquece novamente, resultando em sua forma incomum, suave e em forma de lente."
+        },
+        "antipod": {
+            "ru": "Слоистые облака",
+            "uk": "Шаруваті хмари",
+            "en": "Stratus clouds",
+            "es": "Nubes estratos",
+            "pt": "Nuvens estratos"
+        },
+        "hintFuiz": {
+            "ru": "Какие из этих облаков имеют гладкую, слоистую форму, а не вид бесформенной пелены?",
+            "uk": "Яка з цих хмар має гладку, шарувату форму, а не вигляд безформної пелени?",
+            "en": "Which of these clouds has a smooth, layered shape instead of an amorphous blanket?",
+            "es": "¿Cuál de estas nubes tiene una forma suave y estratificada en lugar de una capa amorfa?",
+            "pt": "Qual destas nuvens tem uma forma suave e em camadas em vez de um manto amorfo?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Lenticular_cloud"
+    },
+    "imgFlag": "all" 
+}

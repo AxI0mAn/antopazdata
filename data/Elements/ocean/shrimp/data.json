@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Креветка",
+            "uk": "Креветка",
+            "en": "Shrimp",
+            "es": "Camarón",
+            "pt": "Camarão"
+        },
+        "wrong": {
+            "ru": [
+                "Омар",
+                "Лангуст",
+                "Криль"
+            ],
+            "uk": [
+                "Омар",
+                "Лангуст",
+                "Кріль"
+            ],
+            "en": [
+                "Lobster",
+                "Spiny lobster",
+                "Krill"
+            ],
+            "es": [
+                "Langosta",
+                "Cangrejo de río",
+                "Krill"
+            ],
+            "pt": [
+                "Lagosta",
+                "Lagostim",
+                "Krill"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Море.",
+                "Хвост.",
+                "Панцирь."
+            ],
+            "uk": [
+                "Море.",
+                "Хвіст.",
+                "Панцир."
+            ],
+            "en": [
+                "Sea.",
+                "Tail.",
+                "Shell."
+            ],
+            "es": [
+                "Mar.",
+                "Cola.",
+                "Caparazón."
+            ],
+            "pt": [
+                "Mar.",
+                "Cauda.",
+                "Carapaça."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Ракообразное с навыками хамелеона.",
+                "У кого сердце находится в её голове?"
+            ],
+            "uk": [
+                "Ракоподібне з навичками хамелеона.",
+                "У кого серце знаходиться в її голові?"
+            ],
+            "en": [
+                "A crustacean with chameleon skills.",
+                "Who has its heart in its head?"
+            ],
+            "es": [
+                "Un crustáceo con habilidades de camaleón.",
+                "¿Quién tiene el corazón en la cabeza?"
+            ],
+            "pt": [
+                "Um crustáceo com habilidades de camaleão.",
+                "Quem tem o coração na cabeça?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Имеет маскировочную расцветку, имитирующую цвет песчаного дна.",
+            "uk": "Має маскувальне забарвлення, що імітує колір піщаного дна.",
+            "en": "It has camouflage coloring that mimics the color of the sandy seabed.",
+            "es": "Tiene un color de camuflaje que imita el color del lecho marino arenoso.",
+            "pt": "Tem uma coloração de camuflagem que imita a cor do leito marinho arenoso."
+        },
+        "qwestion": {
+            "ru": "Какое ракообразное с вытянутым телом плавает, используя хвост?",
+            "uk": "Який ракоподібний з витягнутим тілом плаває, використовуючи хвіст?",
+            "en": "Which elongated crustacean swims by rapidly flicking its tail?",
+            "es": "¿Qué crustáceo de cuerpo alargado nada usando la cola?",
+            "pt": "Qual crustáceo de corpo alongado nada usando a cauda?"
+        },
+        "definition": {
+            "ru": "Небольшое морское ракообразное с вытянутым телом и десятью ногами. Широко распространено по всему миру и используется в пищу.",
+            "uk": "Невеликий морський ракоподібний з витягнутим тілом і десятьма ногами. Широко поширений у всьому світі та використовується в їжу.",
+            "en": "A small marine crustacean with an elongated body and ten legs. It is widely distributed around the world and is commonly used as food.",
+            "es": "Un pequeño crustáceo marino de cuerpo alargado y diez patas. Se encuentra en todo el mundo y es muy utilizado como alimento.",
+            "pt": "Um pequeno crustáceo marinho com corpo alongado e dez pernas. É amplamente distribuído pelo mundo e é comumente usado como alimento."
+        },
+        "antipod": {
+            "ru": "Краб",
+            "uk": "Краб",
+            "en": "Crab",
+            "es": "Cangrejo",
+            "pt": "Caranguejo"
+        },
+        "hintFuiz": {
+            "ru": "Кто меньше: креветка или краб?",
+            "uk": "Хто менший: креветка чи краб?",
+            "en": "Who is smaller: a shrimp or a crab?",
+            "es": "¿Quién es más pequeño: camarón o cangrejo?",
+            "pt": "Quem é menor: o camarão ou o caranguejo?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Shrimp"
+    },
+    "imgFlag": "all" 
+}

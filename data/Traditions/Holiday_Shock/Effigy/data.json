@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Чучело",
+            "uk": "Опудало",
+            "en": "Effigy",
+            "es": "Muñeco",
+            "pt": "Boneco"
+        },
+        "wrong": {
+            "ru": [
+                "Свеча",
+                "Факел",
+                "Волосы"
+            ],
+            "uk": [
+                "Свічка",
+                "Факел",
+                "Волосся"
+            ],
+            "en": [
+                "Candle",
+                "Torch",
+                "Hair"
+            ],
+            "es": [
+                "Vela",
+                "Antorcha",
+                "Cabello"
+            ],
+            "pt": [
+                "Vela",
+                "Tocha",
+                "Cabelo"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Эквадор.",
+                "Воспоминания.",
+                "Сгореть."
+            ],
+            "uk": [
+                "Еквадор.",
+                "Спогади.",
+                "Згоріти."
+            ],
+            "en": [
+                "Ecuador.",
+                "Memories.",
+                "Burn."
+            ],
+            "es": [
+                "Ecuador.",
+                "Recuerdos.",
+                "Quemar."
+            ],
+            "pt": [
+                "Equador.",
+                "Lembranças.",
+                "Queimar."
+            ]
+        },
+        "tooltip": {
+            "ru": "Так делают в полночь",
+            "uk": "Так роблять опівночі",
+            "en": "This is done at midnight",
+            "es": "Esto se hace a medianoche",
+            "pt": "Isso é feito à meia-noite"
+        },
+        "qwestion": {
+            "ru": "Что спаливают жители Эквадора, чтобы избавиться от плохих воспоминаний?",
+            "uk": "Що спалюють жителі Еквадору, щоб позбутися поганих спогадів?",
+            "en": "What do people in Ecuador burn to get rid of bad memories?",
+            "es": "¿Qué queman los habitantes de Ecuador para deshacerse de los malos recuerdos?",
+            "pt": "O que os moradores do Equador queimam para se livrar das más lembranças?"
+        },
+        "definition": {
+            "ru": "Чучело — это соломенная или набивная фигура, символизирующая уходящий год, которую жители Эквадора сжигают в полночь 31 декабря. Этот обряд, известный как «quema de monigotes», помогает попрощаться с плохими воспоминаниями и начать год с чистого листа.",
+            "uk": "Опудало — це солом'яна або набивна фігура, що символізує рік, який минає, яку жителі Еквадору спалюють опівночі 31 грудня. Цей обряд, відомий як «quema de monigotes», допомагає попрощатися з поганими спогадами і почати рік з чистого аркуша.",
+            "en": "An effigy is a straw or stuffed figure symbolizing the past year, which people in Ecuador burn at midnight on December 31. This ritual, known as 'quema de monigotes,' helps them say goodbye to bad memories and start the year with a clean slate.",
+            "es": "Un muñeco es una figura de paja o rellena que simboliza el año que se va, la cual los ecuatorianos queman a medianoche del 31 de diciembre. Este rito, conocido como 'quema de monigotes', ayuda a despedirse de los malos recuerdos y empezar el año de cero.",
+            "pt": "Um boneco é uma figura de palha ou recheada que simboliza o ano que passa, que os equatorianos queimam à meia-noite de 31 de dezembro. Este ritual, conhecido como 'quema de monigotes', ajuda a dizer adeus às más lembranças e a começar o ano do zero."
+        },
+        "antipod": {
+            "ru": "Свеча",
+            "uk": "Свічка",
+            "en": "Candle",
+            "es": "Vela",
+            "pt": "Vela"
+        },
+        "hintFuiz": {
+            "ru": "Это сжигают в Эквадоре, чтобы избавиться от плохих воспоминаний.",
+            "uk": "Це спалюють в Еквадорі, щоб позбутися поганих спогадів.",
+            "en": "This is burned in Ecuador to get rid of bad memories.",
+            "es": "Esto se quema en Ecuador para deshacerse de malos recuerdos.",
+            "pt": "Isso é queimado no Equador para se livrar de más lembranças."
+        },
+        "riddle": {
+            "ru": [
+                "Делают из старой одежды, чтобы потом сжечь.",
+                "В полночь сжигают, чтобы всё забыть."
+            ],
+            "uk": [
+                "Роблять зі старого одягу, щоб потім спалити.",
+                "Опівночі спалюють, щоб все забути."
+            ],
+            "en": [
+                "It is made from old clothes to be burned later.",
+                "It is burned at midnight to forget everything."
+            ],
+            "es": [
+                "Está hecho de ropa vieja para ser quemado más tarde.",
+                "Se quema a medianoche para olvidar todo."
+            ],
+            "pt": [
+                "É feito de roupas velhas para ser queimado mais tarde.",
+                "É queimado à meia-noite para esquecer tudo."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Quema_de_monigotes"
+    },
+    "imgFlag": "quizfoto"
+}

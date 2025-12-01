@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Зеркало",
+            "uk": "Дзеркало",
+            "en": "Mirror",
+            "es": "Espejo",
+            "pt": "Espelho"
+        },
+        "wrong": {
+            "ru": [
+                "Кофейная гуща",
+                "Чайные листья",
+                "Хрустальный шар"
+            ],
+            "uk": [
+                "Кавова гуща",
+                "Чайне листя",
+                "Кришталева куля"
+            ],
+            "en": [
+                "Coffee grounds",
+                "Tea leaves",
+                "Crystal ball"
+            ],
+            "es": [
+                "Posos de café",
+                "Hojas de té",
+                "Bola de cristal"
+            ],
+            "pt": [
+                "Borra de café",
+                "Folhas de chá",
+                "Bola de cristal"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Будущее.",
+                "Ритуал.",
+                "Невеста."
+            ],
+            "uk": [
+                "Майбутнє.",
+                "Ритуал.",
+                "Наречена."
+            ],
+            "en": [
+                "Future.",
+                "Ritual.",
+                "Bride."
+            ],
+            "es": [
+                "Futuro.",
+                "Ritual.",
+                "Novia."
+            ],
+            "pt": [
+                "Futuro.",
+                "Ritual.",
+                "Noiva."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "В нём можно видеть будущее.",
+                "Отражение судьбы."
+            ],
+            "uk": [
+                "У ньому можна бачити майбутнє.",
+                "Відображення долі."
+            ],
+            "en": [
+                "You can see the future in it.",
+                "A reflection of fate."
+            ],
+            "es": [
+                "Puedes ver el futuro en él.",
+                "Un reflejo del destino."
+            ],
+            "pt": [
+                "Você pode ver o futuro nele.",
+                "Um reflexo do destino."
+            ]
+        },
+        "tooltip": {
+            "ru": "Этот ритуал проводился в Хеллоуин.",
+            "uk": "Цей ритуал проводився в Геловін.",
+            "en": "This ritual was performed on Halloween.",
+            "es": "Este ritual se realizaba en Halloween.",
+            "pt": "Este ritual era realizado no Halloween."
+        },
+        "qwestion": {
+            "ru": "В чём незамужние женщины пытались увидеть лицо своего будущего мужа?",
+            "uk": "У чому незаміжні жінки намагалися побачити обличчя свого майбутнього чоловіка?",
+            "en": "In what did unmarried women try to see the face of their future husband?",
+            "es": "¿En qué intentaban las mujeres solteras ver el rostro de su futuro esposo?",
+            "pt": "No que as mulheres solteiras tentavam ver o rosto de seu futuro marido?"
+        },
+        "definition": {
+            "ru": "Зеркало — это объект с отражающей поверхностью. В кельтских и европейских традициях оно играло ключевую роль в гаданиях, особенно на Хеллоуин. Считалось, что если незамужняя женщина в темноте посмотрит в него с зажженной свечой, она увидит лицо своего суженого, а если череп — она не доживет до брака.",
+            "uk": "Дзеркало — це об'єкт з відбивною поверхнею. У кельтських та європейських традиціях воно відігравало ключову роль у ворожіннях, особливо на Хеллоуїн. Вважалося, що якщо незаміжня жінка в темряві подивиться в нього із запаленою свічкою, вона побачить обличчя свого судженого, а якщо череп — вона не доживе до шлюбу.",
+            "en": "A mirror is an object with a reflective surface. In Celtic and European traditions, it played a key role in divination, especially on Halloween. It was believed that if an unmarried woman looked into one in the dark with a lit candle, she would see the face of her future husband, or a skull if she was destined to die before marriage.",
+            "es": "Un espejo es un objeto con una superficie reflectante. En las tradiciones celtas y europeas, desempeñaba un papel clave en la adivinación, especialmente en Halloween. Se creía que si una mujer soltera miraba en uno en la oscuridad con una vela encendida, vería el rostro de su futuro esposo, o una calavera si estaba destinada a morir antes de casarse.",
+            "pt": "Um espelho é um objeto com uma superfície reflexiva. Nas tradições celtas e europeias, ele desempenhava um papel fundamental na adivinhação, especialmente no Halloween. Acreditava-se que se uma mulher solteira olhasse para um no escuro com uma vela acesa, ela veria o rosto de seu futuro marido, ou uma caveira se estivesse destinada a morrer antes de se casar."
+        },
+        "antipod": {
+            "ru": "Окно",
+            "uk": "Вікно",
+            "en": "Window",
+            "es": "Ventana",
+            "pt": "Janela"
+        },
+        "hintFuiz": {
+            "ru": "Куда смотрели для гадания на суженого?",
+            "uk": "Куди дивилися для ворожіння на судженого?",
+            "en": "Where did they look to divine their fated one?",
+            "es": "¿A dónde miraban para adivinar a su destinado?",
+            "pt": "Para onde elas olhavam para adivinhar seu destinado?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Halloween_divination"
+    },
+    "imgFlag": "all" 
+}

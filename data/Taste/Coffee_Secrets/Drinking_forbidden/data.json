@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Запретили пить",
+            "uk": "Заборонили пити",
+            "en": "Drinking was forbidden",
+            "es": "Prohibido beber",
+            "pt": "Proibiram de beber"
+        },
+        "wrong": {
+            "ru": [
+                "Сделали праздником",
+                "Разрешили пить",
+                "Начали производить"
+            ],
+            "uk": [
+                "Зробили святом",
+                "Дозволили пити",
+                "Почали виробляти"
+            ],
+            "en": [
+                "Made it a holiday",
+                "Allowed to drink",
+                "Began to produce"
+            ],
+            "es": [
+                "Lo hicieron una fiesta",
+                "Permitieron beber",
+                "Empezaron a producir"
+            ],
+            "pt": [
+                "Fizeram um feriado",
+                "Permitiram beber",
+                "Começaram a produzir"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Священники.",
+                "Дьявол.",
+                "Мекка."
+            ],
+            "uk": [
+                "Священники.",
+                "Диявол.",
+                "Мекка."
+            ],
+            "en": [
+                "Clergy.",
+                "Devil.",
+                "Mecca."
+            ],
+            "es": [
+                "Sacerdotes.",
+                "Diablo.",
+                "La Meca."
+            ],
+            "pt": [
+                "Sacerdotes.",
+                "Diabo.",
+                "Meca."
+            ]
+        },
+        "tooltip": {
+            "ru": "Кофе считали дьявольским и опасным для общества",
+            "uk": "Каву вважали диявольською і небезпечною для суспільства",
+            "en": "Coffee was considered devilish and dangerous to society",
+            "es": "El café era considerado diabólico y peligroso para la sociedad",
+            "pt": "O café era considerado diabólico e perigoso para a sociedade"
+        },
+        "qwestion": {
+            "ru": "Что в 16 веке власти Мекки (ныне Саудовская Аравия) сделали с кофе?",
+            "uk": "Що в 16 столітті влада Мекки (нині Саудівська Аравія) зробила з кавою?",
+            "en": "What did the authorities of Mecca (now Saudi Arabia) do with coffee in the 16th century?",
+            "es": "¿Qué hicieron las autoridades de La Meca (actual Arabia Saudita) con el café en el siglo XVI?",
+            "pt": "O que as autoridades de Meca (hoje Arábia Saudita) fizeram com o café no século XVI?"
+        },
+        "definition": {
+            "ru": "В 1511 году власти Мекки объявили кофе незаконным, поскольку считали, что он вызывает радикальные мысли и побуждает к лени, что противоречило традиционным исламским обычаям.",
+            "uk": "У 1511 році влада Мекки оголосила каву незаконною, оскільки вважала, що вона викликає радикальні думки і спонукає до ліні, що суперечило традиційним ісламським звичаям.",
+            "en": "In 1511, the authorities of Mecca declared coffee illegal, as they believed it caused radical thoughts and promoted idleness, which contradicted traditional Islamic customs.",
+            "es": "En 1511, las autoridades de La Meca declararon ilegal el café, ya que consideraban que causaba pensamientos radicales y fomentaba la pereza, lo que contradecía las costumbres islámicas tradicionales.",
+            "pt": "Em 1511, as autoridades de Meca declararam o café ilegal, pois acreditavam que ele causava pensamentos radicais e promovia a preguiça, o que contradizia os costumes islâmicos tradicionais."
+        },
+        "antipod": {
+            "ru": "Разрешили пить",
+            "uk": "Дозволили пити",
+            "en": "Drinking was allowed",
+            "es": "Permitieron beber",
+            "pt": "Permitiram beber"
+        },
+        "hintFuiz": {
+            "ru": "Это произошло с кофе в 16 веке в Мекке.",
+            "uk": "Це сталося з кавою в 16 столітті в Мецці.",
+            "en": "This happened to coffee in the 16th century in Mecca.",
+            "es": "Esto le sucedió al café en el siglo XVI en La Meca.",
+            "pt": "Isso aconteceu com o café no século XVI em Meca."
+        },
+        "riddle": {
+            "ru": [
+                "Решение властей, что кофе — это зло.",
+                "Закон гласил: никто не может пить кофе."
+            ],
+            "uk": [
+                "Рішення влади, що кава — це зло.",
+                "Закон свідчив: ніхто не може пити каву."
+            ],
+            "en": [
+                "The authorities' decision that coffee is evil.",
+                "The law stated: no one can drink coffee."
+            ],
+            "es": [
+                "La decisión de las autoridades de que el café es un mal.",
+                "La ley establecía: nadie puede beber café."
+            ],
+            "pt": [
+                "A decisão das autoridades de que o café é do mal.",
+                "A lei declarava: ninguém pode beber café."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/History_of_coffee#Prohibition"
+    },
+    "imgFlag": "quizfoto"
+}

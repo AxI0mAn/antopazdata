@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Рождество",
+            "uk": "Різдво",
+            "en": "Christmas",
+            "es": "Navidad",
+            "pt": "Natal"
+        },
+        "wrong": {
+            "ru": [
+                "День рождения",
+                "Солнцестояние",
+                "Свадьба"
+            ],
+            "uk": [
+                "День народження",
+                "Сонцестояння",
+                "Весілля"
+            ],
+            "en": [
+                "Birthday",
+                "Solstice",
+                "Wedding"
+            ],
+            "es": [
+                "Cumpleaños",
+                "Solsticio",
+                "Boda"
+            ],
+            "pt": [
+                "Aniversário",
+                "Solstício",
+                "Casamento"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Пуритане",
+                "Запрет",
+                "Секрет"
+            ],
+            "uk": [
+                "Пуритани",
+                "Заборона",
+                "Секрет"
+            ],
+            "en": [
+                "Puritans",
+                "Ban",
+                "Secret"
+            ],
+            "es": [
+                "Puritanos",
+                "Prohibición",
+                "Secreto"
+            ],
+            "pt": [
+                "Puritanos",
+                "Proibição",
+                "Segredo"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Его запрещали пуритане, считая аморальным.",
+                "Когда-то этот праздник отмечали тайно."
+            ],
+            "uk": [
+                "Його забороняли пуритани, вважаючи аморальним.",
+                "Колись це свято відзначали таємно."
+            ],
+            "en": [
+                "The Puritans banned it, considering it immoral.",
+                "This holiday was once celebrated in secret."
+            ],
+            "es": [
+                "Los puritanos lo prohibieron, considerándolo inmoral.",
+                "Esta festividad fue celebrada en secreto en el pasado."
+            ],
+            "pt": [
+                "Os puritanos o proibiram, considerando-o imoral.",
+                "Este feriado já foi celebrado em segredo."
+            ]
+        },
+        "tooltip": {
+            "ru": "Пуритане назвали его языческим и аморальным, из-за чего он стал отмечаться тайно.",
+            "uk": "Пуритани назвали його язичницьким і аморальним, через що його стали відзначати таємно.",
+            "en": "The Puritans called it pagan and immoral, which is why it began to be celebrated in secret.",
+            "es": "Los puritanos lo llamaron pagano e inmoral, por lo que comenzó a celebrarse en secreto.",
+            "pt": "Os puritanos o chamaram de pagão e imoral, por isso ele passou a ser celebrado em segredo."
+        },
+        "qwestion": {
+            "ru": "Какой праздник в 17 веке правительство Англии запретило?",
+            "uk": "Яке свято в 17 столітті уряд Англії заборонив?",
+            "en": "Which holiday did the English government ban in the 17th century?",
+            "es": "¿Qué festividad prohibió el gobierno inglés en el siglo XVII?",
+            "pt": "Qual feriado o governo inglês proibiu no século XVII?"
+        },
+        "definition": {
+            "ru": "Рождество — это один из главных христианских праздников, установленный в честь рождения Иисуса Христа. В 17 веке в Англии его празднование было запрещено пуританским правительством, так как считалось языческим.",
+            "uk": "Різдво — це одне з головних християнських свят, встановлене на честь народження Ісуса Христа. У 17 столітті в Англії його святкування було заборонено пуританським урядом, оскільки вважалося язичницьким.",
+            "en": "Christmas is one of the main Christian holidays, established in honor of the birth of Jesus Christ. In 17th-century England, its celebration was banned by the Puritan government, as it was considered pagan.",
+            "es": "La Navidad es una de las principales festividades cristianas, establecida en honor al nacimiento de Jesucristo. En el siglo XVII en Inglaterra, su celebración fue prohibida por el gobierno puritano, ya que se consideraba pagana.",
+            "pt": "O Natal é um dos principais feriados cristãos, estabelecido em homenagem ao nascimento de Jesus Cristo. No século XVII, na Inglaterra, sua celebração foi proibida pelo governo puritano, pois era considerada pagã."
+        },
+        "antipod": {
+            "ru": "Рыцарский турнир",
+            "uk": "Лицарський турнір",
+            "en": "Knight's Tournament",
+            "es": "Torneo de caballeros",
+            "pt": "Torneio de cavaleiros"
+        },
+        "hintFuiz": {
+            "ru": "Это христианское торжество было запрещено в 17 веке.",
+            "uk": "Це християнське свято було заборонено в 17 столітті.",
+            "en": "This Christian holiday was banned in the 17th century.",
+            "es": "Esta festividad cristiana fue prohibida en el siglo XVII.",
+            "pt": "Este feriado cristão foi proibido no século XVII."
+        },
+        "article": "https://en.wikipedia.org/wiki/Christmas_in_the_United_Kingdom"
+    },
+    "imgFlag": "quizfoto"
+}

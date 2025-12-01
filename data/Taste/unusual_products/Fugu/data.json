@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Фугу",
+            "uk": "Фуґу",
+            "en": "Fugu",
+            "es": "Fugu",
+            "pt": "Fugu"
+        },
+        "wrong": {
+            "ru": [
+                "Макрель",
+                "Угорь",
+                "Кальмар"
+            ],
+            "uk": [
+                "Макрель",
+                "Вугор",
+                "Кальмар"
+            ],
+            "en": [
+                "Mackerel",
+                "Eel",
+                "Squid"
+            ],
+            "es": [
+                "Caballa",
+                "Anguila",
+                "Calamar"
+            ],
+            "pt": [
+                "Cavala",
+                "Enguia",
+                "Lula"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Япония.",
+                "Яд.",
+                "Ресторан."
+            ],
+            "uk": [
+                "Японія.",
+                "Отрута.",
+                "Ресторан."
+            ],
+            "en": [
+                "Japan.",
+                "Poison.",
+                "Restaurant."
+            ],
+            "es": [
+                "Japón.",
+                "Veneno.",
+                "Restaurante."
+            ],
+            "pt": [
+                "Japão.",
+                "Veneno.",
+                "Restaurante."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Деликатес для храбрых.",
+                "Один кусочек может убить."
+            ],
+            "uk": [
+                "Делікатес для хоробрих.",
+                "Один шматочок може вбити."
+            ],
+            "en": [
+                "A delicacy for the brave.",
+                "One bite can kill."
+            ],
+            "es": [
+                "Un manjar para los valientes.",
+                "Un bocado puede matar."
+            ],
+            "pt": [
+                "Uma iguaria para os corajosos.",
+                "Uma mordida pode matar."
+            ]
+        },
+        "tooltip": {
+            "ru": "В ее внутренних органах и коже содержится смертельный яд тетродотоксин.",
+            "uk": "У її внутрішніх органах та шкірі міститься смертельна отрута тетродотоксин.",
+            "en": "Its internal organs and skin contain the deadly poison tetrodotoxin.",
+            "es": "Sus órganos internos y piel contienen el veneno mortal tetrodotoxina.",
+            "pt": "Seus órgãos internos e pele contêm o veneno mortal tetrodotoxina."
+        },
+        "qwestion": {
+            "ru": "Какая рыба-деликатес в Японии может быть смертельно ядовитой при неправильном приготовлении?",
+            "uk": "Яка риба-делікатес у Японії може бути смертельно отруйною при неправильному приготуванні?",
+            "en": "What delicacy fish in Japan can be fatally poisonous if prepared incorrectly?",
+            "es": "¿Qué pescado de lujo en Japón puede ser mortalmente venenoso si se prepara incorrectamente?",
+            "pt": "Qual peixe-delicatessen no Japão pode ser fatalmente venenoso se preparado incorretamente?"
+        },
+        "definition": {
+            "ru": "Фугу — это блюдо из рыбы-собаки, которая считается одним из самых опасных деликатесов в мире из-за смертельного яда. Только специально обученные и лицензированные повара имеют право готовить её в Японии.",
+            "uk": "Фуґу — це страва з риби-собаки, яка вважається одним з найнебезпечніших делікатесів у світі через смертельну отруту. Тільки спеціально навчені та ліцензовані кухарі мають право готувати її в Японії.",
+            "en": "Fugu is a dish made from pufferfish, which is considered one of the most dangerous delicacies in the world due to its deadly poison. Only specially trained and licensed chefs are allowed to prepare it in Japan.",
+            "es": "El fugu es un plato hecho de pez globo, que se considera uno de los manjares más peligrosos del mundo debido a su veneno mortal. Solo los chefs especialmente capacitados y con licencia pueden prepararlo en Japón.",
+            "pt": "O fugu é um prato feito de baiacu, que é considerado uma das iguarias mais perigosas do mundo devido ao seu veneno mortal. Apenas chefs especialmente treinados e licenciados têm permissão para prepará-lo no Japão."
+        },
+        "antipod": {
+            "ru": "Тунец",
+            "uk": "Тунець",
+            "en": "Tuna",
+            "es": "Atún",
+            "pt": "Atum"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих двух рыб содержит смертельный яд?",
+            "uk": "Яка з цих двох риб містить смертельну отруту?",
+            "en": "Which of these two fish contains a deadly poison?",
+            "es": "¿Cuál de estos dos peces contiene un veneno mortal?",
+            "pt": "Qual desses dois peixes contém um veneno mortal?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Fugu"
+    },
+    "imgFlag": "all"
+}

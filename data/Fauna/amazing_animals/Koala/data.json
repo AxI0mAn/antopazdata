@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Коала",
+            "uk": "Коала",
+            "en": "Koala",
+            "es": "Koala",
+            "pt": "Coala"
+        },
+        "wrong": {
+            "ru": [
+                "Вомбат",
+                "Ехидна",
+                "Динго"
+            ],
+            "uk": [
+                "Вомбат",
+                "Єхидна",
+                "Дінго"
+            ],
+            "en": [
+                "Wombat",
+                "Echidna",
+                "Dingo"
+            ],
+            "es": [
+                "Uómbat",
+                "Equidna",
+                "Dingo"
+            ],
+            "pt": [
+                "Vombate",
+                "Equidna",
+                "Dingo"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Сумчатый.",
+                "Эвкалипт.",
+                "Долго спит."
+            ],
+            "uk": [
+                "Сумчастий.",
+                "Евкаліпт.",
+                "Довго спить."
+            ],
+            "en": [
+                "Marsupial.",
+                "Eucalyptus.",
+                "Long sleeper."
+            ],
+            "es": [
+                "Marsupial.",
+                "Eucalipto.",
+                "Duerme mucho."
+            ],
+            "pt": [
+                "Marsupial.",
+                "Eucalipto.",
+                "Dorme muito."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Кто спит весь день и ест ядовитые листья?",
+                "Плюшевый мишка, который никогда не ест мед."
+            ],
+            "uk": [
+                "Хто спить весь день і їсть отруйне листя?",
+                "Плюшевий ведмедик, який ніколи не їсть мед."
+            ],
+            "en": [
+                "Who sleeps all day and eats poisonous leaves?",
+                "A teddy bear that never eats honey."
+            ],
+            "es": [
+                "¿Quién duerme todo el día y come hojas venenosas?",
+                "Un osito de peluche que nunca come miel."
+            ],
+            "pt": [
+                "Quem dorme o dia todo e come folhas venenosas?",
+                "Um ursinho de pelúcia que nunca come mel."
+            ]
+        },
+        "tooltip": {
+            "ru": "Спит по 20 часов в сутки и имеет два больших пальца на каждой передней лапе.",
+            "uk": "Спить по 20 годин на добу і має два великі пальці на кожній передній лапі.",
+            "en": "It sleeps up to 20 hours a day and has two opposable thumbs on each front paw.",
+            "es": "Duerme hasta 20 horas al día y tiene dos pulgares oponibles en cada pata delantera.",
+            "pt": "Dorme até 20 horas por dia e tem dois polegares oponíveis em cada pata dianteira."
+        },
+        "qwestion": {
+            "ru": "Какое сумчатое питается только ядовитыми листьями?",
+            "uk": "Яка сумчаста тварина харчується лише отруйним листям?",
+            "en": "What marsupial feeds exclusively on poisonous leaves?",
+            "es": "¿Qué marsupial se alimenta exclusivamente de hojas venenosas?",
+            "pt": "Qual marsupial se alimenta exclusivamente de folhas venenosas?"
+        },
+        "definition": {
+            "ru": "Коала — это сумчатое травоядное млекопитающее, обитающее в эвкалиптовых лесах Австралии. Они проводят большую часть жизни на деревьях, питаясь исключительно листьями эвкалипта, которые токсичны для большинства животных.",
+            "uk": "Коала — це сумчастий травоїдний ссавець, що мешкає в евкаліптових лісах Австралії. Вони проводять більшу частину життя на деревах, харчуючись виключно листям евкаліпта, яке є токсичним для більшості тварин.",
+            "en": "The koala is a tree-dwelling marsupial native to Australia. They spend most of their lives in eucalyptus trees, feeding almost exclusively on their leaves, which are toxic to most animals.",
+            "es": "El koala es un marsupial herbívoro que vive en los árboles, nativo de Australia. Pasa la mayor parte de su vida en los árboles de eucalipto, alimentándose casi exclusivamente de sus hojas, que son tóxicas para la mayoría de los animales.",
+            "pt": "O coala é um mamífero marsupial herbívoro nativo da Austrália. Passa a maior parte de sua vida em árvores de eucalipto, alimentando-se quase exclusivamente de suas folhas, que são tóxicas para a maioria dos animais."
+        },
+        "antipod": {
+            "ru": "Кенгуру",
+            "uk": "Кенгуру",
+            "en": "Kangaroo",
+            "es": "Canguro",
+            "pt": "Canguru"
+        },
+        "hintFuiz": {
+            "ru": "Кто из них не прыгает, а сидит на деревьях?",
+            "uk": "Хто з них не стрибає, а сидить на деревах?",
+            "en": "Which one doesn't hop, but sits in trees?",
+            "es": "¿Cuál de ellos no salta, sino que se sienta en los árboles?",
+            "pt": "Qual deles não salta, mas fica em árvores?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Koala"
+    },
+    "imgFlag": "all" 
+}

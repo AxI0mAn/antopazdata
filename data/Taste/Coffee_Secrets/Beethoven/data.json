@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Бетховен",
+            "uk": "Бетховен",
+            "en": "Beethoven",
+            "es": "Beethoven",
+            "pt": "Beethoven"
+        },
+        "wrong": {
+            "ru": [
+                "Моцарт",
+                "Бах",
+                "Гендель"
+            ],
+            "uk": [
+                "Моцарт",
+                "Бах",
+                "Гендель"
+            ],
+            "en": [
+                "Mozart",
+                "Bach",
+                "Handel"
+            ],
+            "es": [
+                "Mozart",
+                "Bach",
+                "Händel"
+            ],
+            "pt": [
+                "Mozart",
+                "Bach",
+                "Handel"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Композитор.",
+                "Точность.",
+                "Кофейные зёрна."
+            ],
+            "uk": [
+                "Композитор.",
+                "Точність.",
+                "Кавові зерна."
+            ],
+            "en": [
+                "Composer.",
+                "Precision.",
+                "Coffee beans."
+            ],
+            "es": [
+                "Compositor.",
+                "Precisión.",
+                "Granos de café."
+            ],
+            "pt": [
+                "Compositor.",
+                "Precisão.",
+                "Grãos de café."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это великий композитор",
+            "uk": "Це великий композитор",
+            "en": "He is a great composer",
+            "es": "Es un gran compositor",
+            "pt": "É um grande compositor"
+        },
+        "qwestion": {
+            "ru": "Кто считал, что идеальная чашка кофе должна быть приготовлена из ровно 64 зерен?",
+            "uk": "Хто вважав, що ідеальна чашка кави повинна бути приготовлена рівно з 64 зерен?",
+            "en": "Who believed that a perfect cup of coffee should be prepared from exactly 64 beans?",
+            "es": "¿Quién creía que una taza de café perfecta debía prepararse con exactamente 64 granos?",
+            "pt": "Quem acreditava que uma xícara de café perfeita deveria ser preparada com exatamente 64 grãos?"
+        },
+        "definition": {
+            "ru": "Людвиг ван Бетховен, немецкий композитор и пианист, был известен своим педантичным отношением к кофе. Он считал, что для идеальной чашки необходимо отсчитать ровно 64 кофейных зерна.",
+            "uk": "Людвіг ван Бетховен, німецький композитор і піаніст, був відомий своїм педантичним ставленням до кави. Він вважав, що для ідеальної чашки необхідно відрахувати рівно 64 кавових зерна.",
+            "en": "Ludwig van Beethoven, the German composer and pianist, was known for his meticulous approach to coffee. He believed that a perfect cup required exactly 64 coffee beans to be counted out.",
+            "es": "Ludwig van Beethoven, el compositor y pianista alemán, era conocido por su enfoque meticuloso hacia el café. Creía que para una taza perfecta era necesario contar exactamente 64 granos de café.",
+            "pt": "Ludwig van Beethoven, o compositor e pianista alemão, era conhecido por sua abordagem meticulosa em relação ao café. Ele acreditava que uma xícara perfeita exigia que exatamente 64 grãos de café fossem contados."
+        },
+        "antipod": {
+            "ru": "Чайковский",
+            "uk": "Чайковський",
+            "en": "Tchaikovsky",
+            "es": "Chaikovski",
+            "pt": "Tchaikovsky"
+        },
+        "hintFuiz": {
+            "ru": "Для него число кофейных зёрен было важно.",
+            "uk": "Для нього число кавових зерен було важливим.",
+            "en": "For him, the number of coffee beans was important.",
+            "es": "Para él, el número de granos de café era importante.",
+            "pt": "Para ele, o número de grãos de café era importante."
+        },
+        "riddle": {
+            "ru": [
+                "Точное количество зерен в утренней чашке кофе.",
+                "Идеал кофе для идеала в музыке."
+            ],
+            "uk": [
+                "Точна кількість зерен у ранковій чашці кави.",
+                "Ідеал кави для ідеалу в музиці."
+            ],
+            "en": [
+                "The exact number of beans in a morning cup of coffee.",
+                "The coffee ideal for a music ideal."
+            ],
+            "es": [
+                "La cantidad exacta de granos en una taza de café por la mañana.",
+                "El café ideal para un ideal en la música."
+            ],
+            "pt": [
+                "O número exato de grãos em uma xícara de café matinal.",
+                "O café ideal para um ideal na música."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven"
+    },
+    "imgFlag": "all"
+}

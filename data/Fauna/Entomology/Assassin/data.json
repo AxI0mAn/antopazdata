@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Жук-убийца",
+            "uk": "Жук-убивця",
+            "en": "Assassin bug",
+            "es": "Chinche asesina",
+            "pt": "Percevejo assassino"
+        },
+        "wrong": {
+            "ru": [
+                "Богомол",
+                "Комар",
+                "Муравей"
+            ],
+            "uk": [
+                "Богомол",
+                "Комар",
+                "Мураха"
+            ],
+            "en": [
+                "Praying mantis",
+                "Mosquito",
+                "Ant"
+            ],
+            "es": [
+                "Mantis religiosa",
+                "Mosquito",
+                "Hormiga"
+            ],
+            "pt": [
+                "Louva-a-deus",
+                "Mosquito",
+                "Formiga"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Маскировка.",
+                "Труп.",
+                "Спина."
+            ],
+            "uk": [
+                "Маскування.",
+                "Труп.",
+                "Спина."
+            ],
+            "en": [
+                "Camouflage.",
+                "Corpse.",
+                "Back."
+            ],
+            "es": [
+                "Camuflaje.",
+                "Cadáver.",
+                "Espalda."
+            ],
+            "pt": [
+                "Camuflagem.",
+                "Cadáver.",
+                "Costas."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Он носит на себе останки своих врагов.",
+                "Его маскировка — это кладбище на спине."
+            ],
+            "uk": [
+                "Він носить на собі останки своїх ворогів.",
+                "Його маскування — це цвинтар на спині."
+            ],
+            "en": [
+                "It carries the remains of its enemies on its back.",
+                "Its camouflage is a graveyard on its back."
+            ],
+            "es": [
+                "Lleva los restos de sus enemigos en su espalda.",
+                "Su camuflaje es un cementerio en su espalda."
+            ],
+            "pt": [
+                "Ele carrega os restos de seus inimigos nas costas.",
+                "Sua camuflagem é um cemitério nas costas."
+            ]
+        },
+        "tooltip": {
+            "ru": "Носит на своей спине трупы своих жертв в качестве маскировки.",
+            "uk": "Носить на своїй спині трупи своїх жертв як маскування.",
+            "en": "It carries the corpses of its victims on its back as a form of camouflage.",
+            "es": "Lleva los cadáveres de sus víctimas en su espalda como camuflaje.",
+            "pt": "Ele carrega os cadáveres de suas vítimas nas costas como camuflagem."
+        },
+        "qwestion": {
+            "ru": "Какое насекомое носит на себе трупы?",
+            "uk": "Яка комаха носить на собі трупи?",
+            "en": "Which insect carries corpses on itself?",
+            "es": "¿Qué insecto lleva cadáveres sobre sí mismo?",
+            "pt": "Qual inseto carrega cadáveres em si?"
+        },
+        "definition": {
+            "ru": "Жук-убийца, или хищнец, — это семейство насекомых, многие виды которых используют необычный способ маскировки. Они покрывают свою спину остатками своих жертв, чтобы слиться с окружающей средой и избежать обнаружения хищниками, такими как пауки.",
+            "uk": "Жук-убивця, або хижак, — це родина комах, багато видів яких використовують незвичайний спосіб маскування. Вони покривають свою спину залишками своїх жертв, щоб злитися з навколишнім середовищем і уникнути виявлення хижаками, такими як павуки.",
+            "en": "The assassin bug is a family of insects, many species of which use an unusual form of camouflage. They cover their backs with the remains of their victims to blend in with their environment and avoid detection by predators like spiders.",
+            "es": "La chinche asesina es una familia de insectos, muchas de cuyas especies utilizan una forma inusual de camuflaje. Cubren su espalda con los restos de sus víctimas para camuflarse con el entorno y evitar la detección de depredadores como las arañas.",
+            "pt": "O percevejo assassino é uma família de insetos, muitas de cujas espécies usam uma forma incomum de camuflagem. Eles cobrem suas costas com os restos de suas vítimas para se misturar ao ambiente e evitar a detecção de predadores como aranhas."
+        },
+        "antipod": {
+            "ru": "Пчела-листорез",
+            "uk": "Бджола-листоріз",
+            "en": "Leafcutter Bee",
+            "es": "Abeja cortadora de hojas",
+            "pt": "Abelha cortadeira de folhas"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих двух насекомых носит на себе останки?",
+            "uk": "Яка з цих двох комах носить на собі останки?",
+            "en": "Which of these two insects carries remains on itself?",
+            "es": "¿Cuál de estos dos insectos lleva restos sobre sí mismo?",
+            "pt": "Qual desses dois insetos carrega restos em si?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Reduviidae"
+    },
+    "imgFlag": "all" 
+}

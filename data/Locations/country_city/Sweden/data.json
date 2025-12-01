@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Швеция",
+            "uk": "Швеція",
+            "en": "Sweden",
+            "es": "Suecia",
+            "pt": "Suécia"
+        },
+        "wrong": {
+            "ru": [
+                "Норвегия",
+                "Финляндия",
+                "Дания"
+            ],
+            "uk": [
+                "Норвегія",
+                "Фінляндія",
+                "Данія"
+            ],
+            "en": [
+                "Norway",
+                "Finland",
+                "Denmark"
+            ],
+            "es": [
+                "Noruega",
+                "Finlandia",
+                "Dinamarca"
+            ],
+            "pt": [
+                "Noruega",
+                "Finlândia",
+                "Dinamarca"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Викинги.",
+                "Скандинавия.",
+                "ИКЕА."
+            ],
+            "uk": [
+                "Вікінги.",
+                "Скандинавія.",
+                "ІКЕА."
+            ],
+            "en": [
+                "Vikings.",
+                "Scandinavia.",
+                "IKEA."
+            ],
+            "es": [
+                "Vikingos.",
+                "Escandinavia.",
+                "IKEA."
+            ],
+            "pt": [
+                "Vikings.",
+                "Escandinávia.",
+                "IKEA."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Какая страна самая большая в Скандинавии?",
+                "В какой стране вручается Нобелевская премия?"
+            ],
+            "uk": [
+                "Яка країна найбільша в Скандинавії?",
+                "У якій країні вручається Нобелівська премія?"
+            ],
+            "en": [
+                "Which country is the largest in Scandinavia?",
+                "In which country is the Nobel Prize awarded?"
+            ],
+            "es": [
+                "¿Qué país es el más grande de Escandinavia?",
+                "¿En qué país se entrega el Premio Nobel?"
+            ],
+            "pt": [
+                "Qual país é o maior da Escandinávia?",
+                "Em que país o Prêmio Nobel é concedido?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Это также конституционная монархия с высоким уровнем жизни и развитой социальной системой.",
+            "uk": "Це також конституційна монархія з високим рівнем життя і розвиненою соціальною системою.",
+            "en": "It is also a constitutional monarchy with a high standard of living and a developed social system.",
+            "es": "También es una monarquía constitucional con un alto nivel de vida y un sistema social desarrollado.",
+            "pt": "É também uma monarquia constitucional com um alto padrão de vida e um sistema social desenvolvido."
+        },
+        "qwestion": {
+            "ru": "Какая скандинавская страна известна своими бескрайними лесами и тысячами озер?",
+            "uk": "Яка скандинавська країна відома своїми безкрайніми лісами і тисячами озер?",
+            "en": "Which Scandinavian country is known for its vast forests and thousands of lakes?",
+            "es": "¿Qué país escandinavo es conocido por sus vastos bosques y miles de lagos?",
+            "pt": "Qual país escandinavo é conhecido por suas vastas florestas e milhares de lagos?"
+        },
+        "definition": {
+            "ru": "Скандинавская страна в Северной Европе. Известна своими обширными лесами, тысячами озер и высоким уровнем жизни.",
+            "uk": "Скандинавська країна в Північній Європі. Відома своїми великими лісами, тисячами озер і високим рівнем життя.",
+            "en": "A Scandinavian country in Northern Europe. It is known for its extensive forests, thousands of lakes, and a high standard of living.",
+            "es": "Un país escandinavo en el norte de Europa. Es conocido por sus extensos bosques, miles de lagos y su alto nivel de vida.",
+            "pt": "Um país escandinavo no norte da Europa. É conhecido por suas vastas florestas, milhares de lagos e seu alto padrão de vida."
+        },
+        "antipod": {
+            "ru": "Новая Зеландия",
+            "uk": "Нова Зеландія",
+            "en": "New Zealand",
+            "es": "Nueva Zelanda",
+            "pt": "Nova Zelândia"
+        },
+        "hintFuiz": {
+            "ru": "Какая из стран больше по площади?",
+            "uk": "Яка з країн більша за площею?",
+            "en": "Which country is larger by area?",
+            "es": "¿Qué país es más grande en superficie?",
+            "pt": "Qual país é maior em área?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Sweden"
+    },
+    "imgFlag": "quizfoto" 
+}

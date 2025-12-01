@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Мудрая женщина",
+            "uk": "Мудра жінка",
+            "en": "Wise woman",
+            "es": "Mujer sabia",
+            "pt": "Mulher sábia"
+        },
+        "wrong": {
+            "ru": [
+                "Злодейка",
+                "Колдунья",
+                "Лгунья"
+            ],
+            "uk": [
+                "Злодійка",
+                "Чаклунка",
+                "Брехунка"
+            ],
+            "en": [
+                "Villainess",
+                "Sorceress",
+                "Liar"
+            ],
+            "es": [
+                "Villana",
+                "Hechicera",
+                "Mentira"
+            ],
+            "pt": [
+                "Vilã",
+                "Feiticeira",
+                "Mentira"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Мудрость.",
+                "Ведовство.",
+                "Колдовство."
+            ],
+            "uk": [
+                "Мудрість.",
+                "Чаклунство.",
+                "Колдовство."
+            ],
+            "en": [
+                "Wisdom.",
+                "Witchcraft.",
+                "Sorcery."
+            ],
+            "es": [
+                "Sabiduría.",
+                "Brujería.",
+                "Hechicería."
+            ],
+            "pt": [
+                "Sabedoria.",
+                "Feitiçaria.",
+                "Bruxaria."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Её мудрость не от книг, а от природы.",
+                "Знает древние секреты и умеет исцелять."
+            ],
+            "uk": [
+                "Її мудрість не від книг, а від природи.",
+                "Знає давні секрети та вміє зцілювати."
+            ],
+            "en": [
+                "Her wisdom comes not from books, but from nature.",
+                "She knows ancient secrets and can heal."
+            ],
+            "es": [
+                "Su sabiduría no viene de los libros, sino de la naturaleza.",
+                "Conoce secretos antiguos y puede sanar."
+            ],
+            "pt": [
+                "Sua sabedoria não vem de livros, mas da natureza.",
+                "Ela conhece segredos antigos e pode curar."
+            ]
+        },
+        "tooltip": {
+            "ru": "В Средневековье их часто преследовали и сжигали на кострах.",
+            "uk": "У Середньовіччі їх часто переслідували і спалювали на вогнищах.",
+            "en": "In the Middle Ages, they were often persecuted and burned at the stake.",
+            "es": "En la Edad Media, a menudo eran perseguidas y quemadas en la hoguera.",
+            "pt": "Na Idade Média, elas eram frequentemente perseguidas e queimadas na fogueira."
+        },
+        "qwestion": {
+            "ru": "От какого древнего слова происходит современное слово 'ведьма'?",
+            "uk": "Від якого давнього слова походить сучасне слово 'відьма'?",
+            "en": "From what ancient word does the modern word 'witch' originate?",
+            "es": "¿De qué palabra antigua se origina la palabra moderna 'bruja'?",
+            "pt": "De qual palavra antiga se origina a palavra moderna 'bruxa'?"
+        },
+        "definition": {
+            "ru": "Мудрая женщина — это первоначальное значение слова 'ведьма'. Так называли знахарок и целительниц. Впоследствии, в Средневековье, значение слова изменилось на отрицательное.",
+            "uk": "Мудра жінка — це початкове значення слова 'відьма'. Так називали знахарок і цілительок. Згодом, в Середньовіччі, значення слова змінилося на негативне.",
+            "en": "A wise woman is the original meaning of the word 'witch'. This is what healers and herbalists were called. Subsequently, in the Middle Ages, the meaning of the word changed to a negative one.",
+            "es": "Una mujer sabia es el significado original de la palabra 'bruja'. Así se llamaba a las curanderas y sanadoras. Posteriormente, en la Edad Media, el significado de la palabra cambió a uno negativo.",
+            "pt": "Uma mulher sábia é o significado original da palavra 'bruxa'. Assim eram chamadas curandeiras e herboristas. Subsequentemente, na Idade Média, o significado da palavra mudou para um negativo."
+        },
+        "antipod": {
+            "ru": "Злая старуха",
+            "uk": "Зла стара",
+            "en": "Evil old woman",
+            "es": "Anciana malvada",
+            "pt": "Velha malvada"
+        },
+        "hintFuiz": {
+            "ru": "Что было первоначальным значением слова 'ведьма'?",
+            "uk": "Що було початковим значенням слова 'відьма'?",
+            "en": "What was the original meaning of the word 'witch'?",
+            "es": "¿Cuál fue el significado original de la palabra 'bruja'?",
+            "pt": "Qual foi o significado original da palavra 'bruxa'?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Witchcraft"
+    },
+    "imgFlag": "quizfoto" 
+}

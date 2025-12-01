@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Панцирный клещ",
+            "uk": "Панцирний кліщ",
+            "en": "Oribatid mite",
+            "es": "Ácaro oribátido",
+            "pt": "Ácaro oribatídeo"
+        },
+        "wrong": {
+            "ru": [
+                "Жук-носорог",
+                "Слон",
+                "Тихоходка"
+            ],
+            "uk": [
+                "Жук-носоріг",
+                "Слон",
+                "Тихохідка"
+            ],
+            "en": [
+                "Rhino beetle",
+                "Elephant",
+                "Tardigrade"
+            ],
+            "es": [
+                "Escarabajo rinoceronte",
+                "Elefante",
+                "Tardígrado"
+            ],
+            "pt": [
+                "Besouro-rinoceronte",
+                "Elefante",
+                "Tardígrado"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Микромир.",
+                "Рекорд.",
+                "Почва."
+            ],
+            "uk": [
+                "Мікросвіт.",
+                "Рекорд.",
+                "Ґрунт."
+            ],
+            "en": [
+                "Microworld.",
+                "Record.",
+                "Soil."
+            ],
+            "es": [
+                "Micromundo.",
+                "Récord.",
+                "Suelo."
+            ],
+            "pt": [
+                "Micromundo.",
+                "Recorde.",
+                "Solo."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Крошечный, но самый сильный в мире.",
+                "Живет в земле и поднимает вес больше себя."
+            ],
+            "uk": [
+                "Крихітний, але найсильніший у світі.",
+                "Живе в землі і піднімає вагу більшу за себе."
+            ],
+            "en": [
+                "Tiny, but the strongest in the world.",
+                "It lives in the ground and lifts more than its own weight."
+            ],
+            "es": [
+                "Diminuto, pero el más fuerte del mundo.",
+                "Vive en la tierra y levanta más peso que él."
+            ],
+            "pt": [
+                "Minúsculo, mas o mais forte do mundo.",
+                "Vive na terra e levanta mais peso que ele mesmo."
+            ]
+        },
+        "tooltip": {
+            "ru": "Этот микроскопический чемпион живёт в лесной почве.",
+            "uk": "Цей мікроскопічний чемпіон живе в лісовому ґрунті.",
+            "en": "This microscopic champion lives in forest soil.",
+            "es": "Este campeón microscópico vive en el suelo del bosque.",
+            "pt": "Este campeão microscópico vive no solo da floresta."
+        },
+        "qwestion": {
+            "ru": "Какое существо способно поднять вес в 1180 раз больше своего собственного?",
+            "uk": "Яка істота здатна підняти вагу в 1180 разів більшу за власну?",
+            "en": "What creature can lift 1,180 times its own body weight?",
+            "es": "¿Qué criatura puede levantar 1.180 veces su propio peso corporal?",
+            "pt": "Que criatura pode levantar 1.180 vezes o seu próprio peso corporal?"
+        },
+        "definition": {
+            "ru": "Панцирный клещ — это микроскопический паукообразный, обитающий в почве. Он является мировым рекордсменом по относительной силе: способен поднимать вес, в 1180 раз превышающий собственный. Это делает его самым сильным существом на Земле.",
+            "uk": "Панцирний кліщ — це мікроскопічний павукоподібний, що мешкає в ґрунті. Він є світовим рекордсменом за відносною силою: здатен підіймати вагу, що в 1180 разів перевищує власну. Це робить його найсильнішою істотою на Землі.",
+            "en": "The oribatid mite is a microscopic arachnid that lives in soil. It holds the world record for relative strength, capable of lifting 1,180 times its own body weight, making it the strongest creature on Earth.",
+            "es": "El ácaro oribátido es un arácnido microscópico que vive en el suelo. Ostenta el récord mundial de fuerza relativa, siendo capaz de levantar 1.180 veces su propio peso, lo que lo convierte en la criatura más fuerte de la Tierra.",
+            "pt": "O ácaro oribatídeo é um aracnídeo microscópico que vive no solo. Ele detém o recorde mundial de força relativa, capaz de levantar 1.180 vezes o seu próprio peso corporal, tornando-o a criatura mais forte da Terra."
+        },
+        "antipod": {
+            "ru": "Муравей",
+            "uk": "Мураха",
+            "en": "Ant",
+            "es": "Hormiga",
+            "pt": "Formiga"
+        },
+        "hintFuiz": {
+            "ru": "Кто рекордсмен по поднятию тяжести?",
+            "uk": "Хто рекордсмен з підняття ваги?",
+            "en": "Who holds the record for lifting weight?",
+            "es": "¿Quién tiene el récord de levantar peso?",
+            "pt": "Quem tem o recorde de levantar peso?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Oribatida"
+    },
+    "imgFlag": "all" 
+}

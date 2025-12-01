@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Овод-убийца",
+            "uk": "Оса-яструб",
+            "en": "Tarantula Hawk",
+            "es": "Avispa Caza-tarántulas",
+            "pt": "Vespa-caçadora-de-aranhas"
+        },
+        "wrong": {
+            "ru": [
+                "Шершень",
+                "Муха",
+                "Пчела"
+            ],
+            "uk": [
+                "Шершень",
+                "Муха",
+                "Бджола"
+            ],
+            "en": [
+                "Hornet",
+                "Fly",
+                "Bee"
+            ],
+            "es": [
+                "Avispón",
+                "Mosca",
+                "Abeja"
+            ],
+            "pt": [
+                "Vespa",
+                "Mosca",
+                "Abelha"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Яд.",
+                "Тарантул.",
+                "Паралич."
+            ],
+            "uk": [
+                "Отрута.",
+                "Тарантул.",
+                "Параліч."
+            ],
+            "en": [
+                "Poison.",
+                "Tarantula.",
+                "Paralysis."
+            ],
+            "es": [
+                "Veneno.",
+                "Tarántula.",
+                "Parálisis."
+            ],
+            "pt": [
+                "Veneno.",
+                "Tarantula.",
+                "Paralisia."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Парализует тарантулов.",
+                "Откладывает яйца в живую добычу."
+            ],
+            "uk": [
+                "Паралізує тарантулів.",
+                "Відкладає яйця в живу здобич."
+            ],
+            "en": [
+                "It paralyzes tarantulas.",
+                "Lays eggs in live prey."
+            ],
+            "es": [
+                "Paraliza a las tarántulas.",
+                "Pone huevos en una presa viva."
+            ],
+            "pt": [
+                "Paralisa tarântulas.",
+                "Põe ovos em presas vivas."
+            ]
+        },
+        "tooltip": {
+            "ru": "Этот крупный вид откладывает в парализованную жертву свои яйца.",
+            "uk": "Цей великий вид відкладає в паралізовану жертву свої яйця.",
+            "en": "This large species lays its eggs in the paralyzed victim.",
+            "es": "Esta gran especie pone sus huevos en la víctima paralizada.",
+            "pt": "Esta grande espécie põe seus ovos na vítima paralisada."
+        },
+        "qwestion": {
+            "ru": "Какое насекомое парализует тарантулов?",
+            "uk": "Яка комаха паралізує тарантулів?",
+            "en": "Which insect paralyzes tarantulas?",
+            "es": "¿Qué insecto paraliza a las tarántulas?",
+            "pt": "Qual inseto paralisa tarântulas?"
+        },
+        "definition": {
+            "ru": "Овод-убийца — это крупный вид осы, который охотится исключительно на тарантулов. Она использует своё мощное жало, чтобы парализовать паука, а затем оттаскивает его в своё гнездо, где откладывает одно яйцо. Личинка осы вылупляется и питается ещё живым, но обездвиженным пауком.",
+            "uk": "Оса-яструб — це великий вид оси, який полює виключно на тарантулів. Вона використовує своє потужне жало, щоб паралізувати павука, а потім відтягує його в своє гніздо, де відкладає одне яйце. Личинка оси вилуплюється і живиться ще живим, але знерухомленим павуком.",
+            "en": "The tarantula hawk is a large species of wasp that preys exclusively on tarantulas. It uses its powerful sting to paralyze the spider, then drags it to its nest to lay a single egg. The wasp larva hatches and feeds on the still-living but immobilized spider.",
+            "es": "La avispa caza-tarántulas es una especie grande de avispa que se alimenta exclusivamente de tarántulas. Usa su potente aguijón para paralizar a la araña, luego la arrastra a su nido para poner un solo huevo. La larva de la avispa eclosiona y se alimenta de la araña, que aún está viva pero inmovilizada.",
+            "pt": "A vespa-caçadora-de-aranhas é uma grande espécie de vespa que caça exclusivamente tarântulas. Ela usa seu ferrão poderoso para paralisar a aranha e, em seguida, a arrasta para seu ninho para pôr um único ovo. A larva da vespa eclode e se alimenta da aranha, que ainda está viva, mas imobilizada."
+        },
+        "antipod": {
+            "ru": "Пчела",
+            "uk": "Бджола",
+            "en": "Bee",
+            "es": "Abeja",
+            "pt": "Abelha"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих двух насекомых парализует свою жертву?",
+            "uk": "Яка з цих двох комах паралізує свою жертву?",
+            "en": "Which of these two insects paralyzes its prey?",
+            "es": "¿Cuál de estos dos insectos paraliza a su presa?",
+            "pt": "Qual desses dois insetos paralisa sua presa?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Tarantula_hawk"
+    },
+    "imgFlag": "all" 
+}

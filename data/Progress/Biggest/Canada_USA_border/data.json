@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Граница между Канадой и США",
+            "uk": "Кордон між Канадою і США",
+            "en": "Canada–United States border",
+            "es": "Frontera entre Canadá y Estados Unidos",
+            "pt": "Fronteira entre Canadá e Estados Unidos"
+        },
+        "wrong": {
+            "ru": [
+                "Граница России и Казахстана",
+                "Граница России и Китая",
+                "Граница США и Мексики"
+            ],
+            "uk": [
+                "Кордон Росії та Казахстану",
+                "Кордон Росії та Китаю",
+                "Кордон США та Мексики"
+            ],
+            "en": [
+                "Russia-Kazakhstan border",
+                "Russia-China border",
+                "U.S.-Mexico border"
+            ],
+            "es": [
+                "Frontera de Rusia y Kazajistán",
+                "Frontera de Rusia y China",
+                "Frontera de EE.UU. y México"
+            ],
+            "pt": [
+                "Fronteira Rússia-Cazaquistão",
+                "Fronteira Rússia-China",
+                "Fronteira EUA-México"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Северная Америка.",
+                "49-я параллель.",
+                "Граница."
+            ],
+            "uk": [
+                "Північна Америка.",
+                "49-а паралель.",
+                "Кордон."
+            ],
+            "en": [
+                "North America.",
+                "49th parallel.",
+                "Border."
+            ],
+            "es": [
+                "América del Norte.",
+                "Paralelo 49.",
+                "Frontera."
+            ],
+            "pt": [
+                "América do Norte.",
+                "Paralelo 49.",
+                "Fronteira."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Длиннее нет в мире границы, чем эта.",
+                "Разделяет две дружественные страны, но не стена."
+            ],
+            "uk": [
+                "Довшого кордону немає у світі, ніж цей.",
+                "Розділяє дві дружні країни, але не стіна."
+            ],
+            "en": [
+                "There is no longer border in the world than this one.",
+                "It divides two friendly countries, but it's not a wall."
+            ],
+            "es": [
+                "No hay una frontera más larga en el mundo que esta.",
+                "Divide a dos países amigos, pero no es un muro."
+            ],
+            "pt": [
+                "Não há fronteira mais longa no mundo do que esta.",
+                "Divide dois países amigos, mas não é um muro."
+            ]
+        },
+        "tooltip": {
+            "ru": "Она проходит по большей части по воде.",
+            "uk": "Вона проходить здебільшого по воді.",
+            "en": "It runs mostly along water.",
+            "es": "Corre en su mayor parte a lo largo del agua.",
+            "pt": "Ela corre em grande parte ao longo da água."
+        },
+        "qwestion": {
+            "ru": "Какая сухопутная граница является самой длинной в мире?",
+            "uk": "Який сухопутний кордон є найдовшим у світі?",
+            "en": "What is the longest land border in the world?",
+            "es": "¿Cuál es la frontera terrestre más larga del mundo?",
+            "pt": "Qual é a fronteira terrestre mais longa do mundo?"
+        },
+        "definition": {
+            "ru": "Граница между Канадой и США является самой длинной сухопутной границей в мире, ее длина составляет более 8 891 км. Она проходит по 49-й параллели и является в значительной степени неохраняемой.",
+            "uk": "Кордон між Канадою і США є найдовшим сухопутним кордоном у світі, його довжина становить понад 8 891 км. Він проходить по 49-й паралелі та є значною мірою неохоронюваним.",
+            "en": "The border between Canada and the USA is the longest land border in the world, with a length of over 8,891 km. It runs along the 49th parallel and is largely undefended.",
+            "es": "La frontera entre Canadá y EE.UU. es la frontera terrestre más larga del mundo, con una longitud de más de 8.891 km. Corre a lo largo del paralelo 49 y es en gran medida una frontera no fortificada.",
+            "pt": "A fronteira entre o Canadá e os EUA é a fronteira terrestre mais longa do mundo, com mais de 8.891 km de comprimento. Ela corre ao longo do paralelo 49 e é em grande parte indefesa."
+        },
+        "antipod": {
+            "ru": "Граница Испании и Марокко",
+            "uk": "Кордон Іспанії та Марокко",
+            "en": "Spain–Morocco border",
+            "es": "Frontera España-Marruecos",
+            "pt": "Fronteira Espanha-Marrocos"
+        },
+        "hintFuiz": {
+            "ru": "Самая длинная граница между двумя странами.",
+            "uk": "Найдовший кордон між двома країнами.",
+            "en": "The longest border between two countries.",
+            "es": "La frontera más larga entre dos países.",
+            "pt": "A fronteira mais longa entre dois países."
+        },
+        "article": "https://en.wikipedia.org/wiki/Canada%E2%80%93United_States_border"
+    },
+    "imgFlag": "quiz" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Моа",
+            "uk": "Моа",
+            "en": "Moa",
+            "es": "Moa",
+            "pt": "Moa"
+        },
+        "wrong": {
+            "ru": [
+                "Додо",
+                "Дронт",
+                "Казуары"
+            ],
+            "uk": [
+                "Додо",
+                "Дронт",
+                "Казуари"
+            ],
+            "en": [
+                "Dodo",
+                "Elephant Bird",
+                "Cassowary"
+            ],
+            "es": [
+                "Dodo",
+                "Ave elefante",
+                "Casuarios"
+            ],
+            "pt": [
+                "Dodô",
+                "Ave-elefante",
+                "Casuar"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Вымерший.",
+                "Новая Зеландия.",
+                "Птица-гигант."
+            ],
+            "uk": [
+                "Вимерлий.",
+                "Нова Зеландія.",
+                "Птах-гігант."
+            ],
+            "en": [
+                "Extinct.",
+                "New Zealand.",
+                "Giant bird."
+            ],
+            "es": [
+                "Extinto.",
+                "Nueva Zelanda.",
+                "Ave gigante."
+            ],
+            "pt": [
+                "Extinto.",
+                "Nova Zelândia.",
+                "Ave gigante."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "У этой птицы не было крыльев.",
+                "Эта птица откладывала яйца размером с дыню."
+            ],
+            "uk": [
+                "Цей птах не мав крил.",
+                "Цей птах відкладав яйця розміром з диню."
+            ],
+            "en": [
+                "This bird had no wings.",
+                "This bird laid eggs the size of a cantaloupe."
+            ],
+            "es": [
+                "Esta ave no tenía alas.",
+                "Esta ave ponía huevos del tamaño de un melón."
+            ],
+            "pt": [
+                "Esta ave não tinha asas.",
+                "Esta ave punha ovos do tamanho de um melão."
+            ]
+        },
+        "tooltip": {
+            "ru": "Достигали в высоту около 3,6 м и весили около 250 кг.",
+            "uk": "Досягали у висоту близько 3,6 м і важили близько 250 кг.",
+            "en": "They reached a height of about 3.6 m and weighed around 250 kg.",
+            "es": "Alcanzaban una altura de unos 3,6 m y pesaban alrededor de 250 kg.",
+            "pt": "Eles atingiam uma altura de cerca de 3,6 m e pesavam cerca de 250 kg."
+        },
+        "qwestion": {
+            "ru": "Какая вымершая птица Новой Зеландии откладывала гигантские яйца?",
+            "uk": "Який вимерлий птах Нової Зеландії відкладав гігантські яйця?",
+            "en": "Which extinct bird of New Zealand laid gigantic eggs?",
+            "es": "¿Qué ave extinta de Nueva Zelanda ponía huevos gigantes?",
+            "pt": "Qual ave extinta da Nova Zelândia punha ovos gigantes?"
+        },
+        "definition": {
+            "ru": "Моа — это вымерший род нелетающих птиц, которые были эндемиками Новой Зеландии. Они отличались огромными размерами и были крупнейшими травоядными животными на островах до своего вымирания.",
+            "uk": "Моа — це вимерлий рід нелітаючих птахів, які були ендеміками Нової Зеландії. Вони відрізнялися величезними розмірами і були найбільшими травоїдними тваринами на островах до свого вимирання.",
+            "en": "The moa is an extinct genus of flightless birds endemic to New Zealand. They were distinguished by their enormous size and were the largest herbivores on the islands before their extinction.",
+            "es": "El moa es un género extinto de aves no voladoras endémicas de Nueva Zelanda. Se distinguían por su enorme tamaño y fueron los herbívoros más grandes de las islas antes de su extinción.",
+            "pt": "O moa é um gênero extinto de aves não voadoras endêmicas da Nova Zelândia. Eles se distinguiam por seu tamanho enorme e foram os maiores herbívoros nas ilhas antes de sua extinção."
+        },
+        "antipod": {
+            "ru": "Киви",
+            "uk": "Ківі",
+            "en": "Kiwi",
+            "es": "Kiwi",
+            "pt": "Kiwi"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих двух птиц являлась самой крупной?",
+            "uk": "Який з цих двох птахів був найбільшим?",
+            "en": "Which of these two birds was the largest?",
+            "es": "¿Cuál de estas dos aves era la más grande?",
+            "pt": "Qual dessas duas aves era a maior?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Moa"
+    },
+    "imgFlag": "all"
+}

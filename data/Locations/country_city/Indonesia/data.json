@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Индонезия",
+            "uk": "Індонезія",
+            "en": "Indonesia",
+            "es": "Indonesia",
+            "pt": "Indonésia"
+        },
+        "wrong": {
+            "ru": [
+                "Филиппины",
+                "Япония",
+                "Куба"
+            ],
+            "uk": [
+                "Філіппіни",
+                "Японія",
+                "Куба"
+            ],
+            "en": [
+                "Philippines",
+                "Japan",
+                "Cuba"
+            ],
+            "es": [
+                "Filipinas",
+                "Japón",
+                "Cuba"
+            ],
+            "pt": [
+                "Filipinas",
+                "Japão",
+                "Cuba"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Острова.",
+                "Крупнейший архипелаг.",
+                "Вулканы."
+            ],
+            "uk": [
+                "Острови.",
+                "Найбільший архіпелаг.",
+                "Вулкани."
+            ],
+            "en": [
+                "Islands.",
+                "Largest archipelago.",
+                "Volcanoes."
+            ],
+            "es": [
+                "Islas.",
+                "Archipiélago más grande.",
+                "Volcanes."
+            ],
+            "pt": [
+                "Ilhas.",
+                "Maior arquipélago.",
+                "Vulcões."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Какая страна состоит из тысяч островов на «Огненном кольце»?",
+                "Какая страна на стыке двух океанов и нескольких тектонических плит?"
+            ],
+            "uk": [
+                "Яка країна складається з тисяч островів на «Вогняному кільці»?",
+                "Яка країна на стику двох океанів і кількох тектонічних плит?"
+            ],
+            "en": [
+                "Which country consists of thousands of islands on the 'Ring of Fire'?",
+                "Which country is at the junction of two oceans and several tectonic plates?"
+            ],
+            "es": [
+                "¿Qué país consta de miles de islas en el 'Anillo de Fuego'?",
+                "¿Qué país se encuentra en la unión de dos océanos y varias placas tectónicas?"
+            ],
+            "pt": [
+                "Qual país é formado por milhares de ilhas no 'Círculo de Fogo'?",
+                "Qual país fica na junção de dois oceanos e várias placas tectônicas?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Находится на архипелаге, состоящем из более чем 17 000 островов.",
+            "uk": "Знаходиться на архіпелазі, що складається з понад 17 000 островів.",
+            "en": "It is located on an archipelago of more than 17,000 islands.",
+            "es": "Se encuentra en un archipiélago que consta de más de 17,000 islas.",
+            "pt": "Está localizada em um arquipélago que consiste em mais de 17.000 ilhas."
+        },
+        "qwestion": {
+            "ru": "Какое государство расположено на самом большом архипелаге в мире?",
+            "uk": "Яка держава розташована на найбільшому архіпелазі у світі?",
+            "en": "Which country is located on the world's largest archipelago?",
+            "es": "¿Qué país se encuentra en el archipiélago más grande del mundo?",
+            "pt": "Qual país está localizado no maior arquipélago do mundo?"
+        },
+        "definition": {
+            "ru": "Крупнейшее в мире островное государство, расположенное в Юго-Восточной Азии и Океании, на Тихоокеанском огненном кольце, что объясняет количество вулканов.",
+            "uk": "Найбільша у світі острівна держава, розташована в Південно-Східній Азії та Океанії, на Тихоокеанському вогняному кільці, що пояснює кількість вулканів.",
+            "en": "The world's largest island country, located in Southeast Asia and Oceania, on the Pacific Ring of Fire, which explains the number of volcanoes.",
+            "es": "El país insular más grande del mundo, ubicado en el sudeste asiático y Oceanía, en el Anillo de Fuego del Pacífico, lo que explica el número de volcanes.",
+            "pt": "O maior país insular do mundo, localizado no Sudeste Asiático e Oceania, no Círculo de Fogo do Pacífico, o que explica o número de vulcões."
+        },
+        "antipod": {
+            "ru": "Гренландия",
+            "uk": "Гренландія",
+            "en": "Greenland",
+            "es": "Groenlandia",
+            "pt": "Groenlândia"
+        },
+        "hintFuiz": {
+            "ru": "Какая из стран состоит из более чем 17 000 островов?",
+            "uk": "Яка з країн складається з понад 17 000 островів?",
+            "en": "Which country consists of over 17,000 islands?",
+            "es": "¿Cuál de los países tiene más de 17,000 islas?",
+            "pt": "Qual país é formado por mais de 17.000 ilhas?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Indonesia"
+    },
+   "imgFlag": "quizfoto" 
+}

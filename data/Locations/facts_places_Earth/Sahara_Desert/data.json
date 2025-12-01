@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Пустыня Сахара",
+            "uk": "Пустеля Сахара",
+            "en": "Sahara Desert",
+            "es": "Desierto del Sahara",
+            "pt": "Deserto do Saara"
+        },
+        "wrong": {
+            "ru": [
+                "Пустыня Гоби",
+                "Большая песчаная пустыня",
+                "Пустыня Атакама"
+            ],
+            "uk": [
+                "Пустеля Гобі",
+                "Велика піщана пустеля",
+                "Пустеля Атакама"
+            ],
+            "en": [
+                "Gobi Desert",
+                "Great Sandy Desert",
+                "Atacama Desert"
+            ],
+            "es": [
+                "Desierto de Gobi",
+                "Gran Desierto de Arena",
+                "Desierto de Atacama"
+            ],
+            "pt": [
+                "Deserto de Gobi",
+                "Grande Deserto de Areia",
+                "Deserto do Atacama"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Песок.",
+                "Самая большая.",
+                "Африка."
+            ],
+            "uk": [
+                "Пісок.",
+                "Найбільша.",
+                "Африка."
+            ],
+            "en": [
+                "Sand.",
+                "Largest.",
+                "Africa."
+            ],
+            "es": [
+                "Arena.",
+                "El más grande.",
+                "África."
+            ],
+            "pt": [
+                "Areia.",
+                "Maior.",
+                "África."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Я самая большая пустыня из песка.",
+                "Я была зеленой, но стала морем песка."
+            ],
+            "uk": [
+                "Я найбільша пустеля з піску.",
+                "Я була зеленою, але стала морем піску."
+            ],
+            "en": [
+                "I am the largest desert of sand.",
+                "I was green, but became a sea of sand."
+            ],
+            "es": [
+                "Soy el desierto de arena más grande.",
+                "Era verde, pero me convertí en un mar de arena."
+            ],
+            "pt": [
+                "Eu sou o maior deserto de areia.",
+                "Eu era verde, mas me tornei um mar de areia."
+            ]
+        },
+        "tooltip": {
+            "ru": "Когда-то она была зеленой саванной и местом обитания животных.",
+            "uk": "Колись вона була зеленою саваною і місцем проживання тварин.",
+            "en": "It was once a green savanna and home to many animals.",
+            "es": "Alguna vez fue una sabana verde y hogar de animales.",
+            "pt": "Já foi uma savana verde e lar de animais."
+        },
+        "qwestion": {
+            "ru": "Какая самая большая пустыня на планете?",
+            "uk": "Яка найбільша пустеля на планеті?",
+            "en": "What is the largest desert on the planet?",
+            "es": "¿Cuál es el desierto más grande del planeta?",
+            "pt": "Qual é o maior deserto do planeta?"
+        },
+        "definition": {
+            "ru": "Пустыня Сахара — самая большая жаркая пустыня в мире, площадь которой составляет более 9,2 миллиона квадратных километров. Расположенная в Северной Африке, она занимает почти столько же территории, сколько США или Китай. Она известна своими бескрайними песчаными дюнами, каменистыми плато и оазисами. Геологические данные и наскальные рисунки показывают, что в прошлом, во время так называемого 'африканского влажного периода', Сахара была зеленой саванной, покрытой реками, озерами и населенной разнообразными животными. Сегодня это одно из самых засушливых и суровых мест на планете.",
+            "uk": "Пустеля Сахара — найбільша спекотна пустеля у світі, площа якої становить понад 9,2 мільйона квадратних кілометрів. Розташована в Північній Африці, вона займає майже стільки ж території, скільки США або Китай. Вона відома своїми безкраїми піщаними дюнами, кам'янистими плато та оазисами. Геологічні дані та наскельні малюнки показують, що в минулому, під час так званого 'африканського вологого періоду', Сахара була зеленою саваною, покритою річками, озерами та населеною різноманітними тваринами. Сьогодні це одне з найпосушливіших і найсуворіших місць на планеті.",
+            "en": "The Sahara Desert is the largest hot desert in the world, covering an area of over 9.2 million square kilometers. Located in North Africa, it is almost as large as the USA or China. It is known for its vast sand dunes, rocky plateaus, and oases. Geological data and rock carvings show that in the past, during what's known as the 'African humid period', the Sahara was a green savanna, filled with rivers, lakes, and diverse wildlife. Today, it is one of the driest and most severe places on Earth.",
+            "es": "El desierto del Sahara es el desierto cálido más grande del mundo, cubriendo un área de más de 9.2 millones de kilómetros cuadrados. Ubicado en el norte de África, es casi tan grande como EE. UU. o China. Es conocido por sus vastas dunas de arena, mesetas rocosas y oasis. Datos geológicos y grabados rupestres muestran que en el pasado, durante el 'período húmedo africano', el Sahara era una sabana verde, llena de ríos, lagos y diversa vida salvaje. Hoy en día, es uno de los lugares más secos y severos del planeta.",
+            "pt": "O Deserto do Saara é o maior deserto quente do mundo, cobrindo uma área de mais de 9,2 milhões de quilômetros quadrados. Localizado no norte da África, é quase tão grande quanto os EUA ou a China. É conhecido por suas vastas dunas de areia, planaltos rochosos e oásis. Dados geológicos e gravuras em rocha mostram que no passado, durante o chamado 'período úmido africano', o Saara era uma savana verde, cheia de rios, lagos e vida selvagem diversificada. Hoje, é um dos lugares mais secos e severos do planeta."
+        },
+        "antipod": {
+            "ru": "Тундра",
+            "uk": "Тундра",
+            "en": "Tundra",
+            "es": "Tundra",
+            "pt": "Tundra"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих мест является самой большой пустыней?",
+            "uk": "Яке з цих місць є найбільшою пустелею?",
+            "en": "Which of these places is the largest desert?",
+            "es": "¿Cuál de estos lugares es el desierto más grande?",
+            "pt": "Qual desses lugares é o maior deserto?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Sahara"
+    },
+    "imgFlag": "quizfoto" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Юки-мацури",
+            "uk": "Юкі-мацурі",
+            "en": "Yuki Matsuri",
+            "es": "Yuki Matsuri",
+            "pt": "Yuki Matsuri"
+        },
+        "wrong": {
+            "ru": [
+                "Ханами",
+                "Хиган",
+                "Хинамацури"
+            ],
+            "uk": [
+                "Ханами",
+                "Хіган",
+                "Хінамацурі"
+            ],
+            "en": [
+                "Hanami",
+                "Higan",
+                "Hinamatsuri"
+            ],
+            "es": [
+                "Hanami",
+                "Higan",
+                "Hinamatsuri"
+            ],
+            "pt": [
+                "Hanami",
+                "Higan",
+                "Hinamatsuri"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Япония",
+                "Снег",
+                "Скульптуры"
+            ],
+            "uk": [
+                "Японія",
+                "Сніг",
+                "Скульптури"
+            ],
+            "en": [
+                "Japan",
+                "Snow",
+                "Sculptures"
+            ],
+            "es": [
+                "Japón",
+                "Nieve",
+                "Esculturas"
+            ],
+            "pt": [
+                "Japão",
+                "Neve",
+                "Esculturas"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Фестиваль снега.",
+                "Скульптуры из снега."
+            ],
+            "uk": [
+                "Фестиваль снігу.",
+                "Скульптури зі снігу."
+            ],
+            "en": [
+                "The festival of snow.",
+                "Sculptures from snow."
+            ],
+            "es": [
+                "El festival de la nieve.",
+                "Esculturas de nieve."
+            ],
+            "pt": [
+                "O festival da neve.",
+                "Esculturas de neve."
+            ]
+        },
+        "tooltip": {
+            "ru": "Ежегодный фестиваль, на котором строят гигантские и замысловатые скульптуры из снега и льда.",
+            "uk": "Щорічний фестиваль, на якому будують гігантські та витончені скульптури зі снігу і льоду.",
+            "en": "An annual festival where giant and intricate sculptures are built from snow and ice.",
+            "es": "Un festival anual donde se construyen esculturas gigantes y elaboradas de nieve y hielo.",
+            "pt": "Um festival anual onde esculturas gigantes e elaboradas são construídas de neve e gelo."
+        },
+        "qwestion": {
+            "ru": "Как называется самый известный 'Снежный фестиваль' в Японии?",
+            "uk": "Як називається найвідоміший 'Сніговий фестиваль' у Японії?",
+            "en": "What is the name of the most famous 'Snow Festival' in Japan?",
+            "es": "¿Cómo se llama el 'Festival de la Nieve' más famoso de Japón?",
+            "pt": "Qual o nome do 'Festival da Neve' mais famoso do Japão?"
+        },
+        "definition": {
+            "ru": "Юки-мацури, или Снежный фестиваль в Саппоро, — это один из крупнейших и наиболее известных зимних фестивалей в Японии. Он проводится ежегодно в феврале на острове Хоккайдо. Фестиваль знаменит своими огромными и детализированными скульптурами из снега и льда, которые создают команды со всего мира.",
+            "uk": "Юкі-мацурі, або Сніговий фестиваль у Саппоро, — це один з найбільших і найвідоміших зимових фестивалів в Японії. Він проводиться щорічно в лютому на острові Хоккайдо. Фестиваль знаменитий своїми величезними і деталізованими скульптурами зі снігу і льоду, які створюють команди з усього світу.",
+            "en": "Yuki Matsuri, or the Sapporo Snow Festival, is one of the largest and most famous winter festivals in Japan. It is held annually in February on the island of Hokkaido. The festival is famous for its massive and detailed sculptures made of snow and ice, created by teams from around the world.",
+            "es": "Yuki Matsuri, o el Festival de la Nieve de Sapporo, es uno de los festivales de invierno más grandes y famosos de Japón. Se celebra anualmente en febrero en la isla de Hokkaido. El festival es famoso por sus enormes y detalladas esculturas de nieve y hielo, creadas por equipos de todo el mundo.",
+            "pt": "Yuki Matsuri, ou o Festival de Neve de Sapporo, é um dos maiores e mais famosos festivais de inverno do Japão. É realizado anualmente em fevereiro na ilha de Hokkaido. O festival é famoso por suas esculturas maciças e detalhadas feitas de neve e gelo, criadas por equipes de todo o mundo."
+        },
+        "antipod": {
+            "ru": "Ханами",
+            "uk": "Ханами",
+            "en": "Hanami",
+            "es": "Hanami",
+            "pt": "Hanami"
+        },
+        "hintFuiz": {
+            "ru": "Снег — главный строительный материал какого японского фестиваля?",
+            "uk": "Сніг — головний будівельний матеріал якого японського фестивалю?",
+            "en": "Snow is the main building material for which Japanese festival?",
+            "es": "¿La nieve es el principal material de construcción para qué festival japonés?",
+            "pt": "A neve é o principal material de construção para qual festival japonês?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Sapporo_Snow_Festival"
+    },
+    "imgFlag": "quizfoto"
+}

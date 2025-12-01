@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Кровавый водопад",
+            "uk": "Кривавий водоспад",
+            "en": "Blood Falls",
+            "es": "Cataratas de Sangre",
+            "pt": "Cataratas de Sangue"
+        },
+        "wrong": {
+            "ru": [
+                "Водопад Анхель",
+                "Ниагарский водопад",
+                "Водопады Игуасу"
+            ],
+            "uk": [
+                "Водоспад Анхель",
+                "Ніагарський водоспад",
+                "Водоспади Ігуасу"
+            ],
+            "en": [
+                "Angel Falls",
+                "Niagara Falls",
+                "Iguazu Falls"
+            ],
+            "es": [
+                "Salto Ángel",
+                "Cataratas del Niágara",
+                "Cataratas del Iguazú"
+            ],
+            "pt": [
+                "Salto Ángel",
+                "Cataratas do Niágara",
+                "Cataratas do Iguaçu"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Антарктида.",
+                "Кровь.",
+                "Железо."
+            ],
+            "uk": [
+                "Антарктида.",
+                "Кров.",
+                "Залізо."
+            ],
+            "en": [
+                "Antarctica.",
+                "Blood.",
+                "Iron."
+            ],
+            "es": [
+                "Antártida.",
+                "Sangre.",
+                "Hierro."
+            ],
+            "pt": [
+                "Antártida.",
+                "Sangue.",
+                "Ferro."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Красная река, стекающая с ледника, но не из крови.",
+                "Таинственный ручей в самой холодной пустыне мира."
+            ],
+            "uk": [
+                "Червона річка, що стікає з льодовика, але не з крові.",
+                "Таємничий струмок у найхолоднішій пустелі світу."
+            ],
+            "en": [
+                "A red river flowing from a glacier, but it's not made of blood.",
+                "A mysterious stream in the world's coldest desert."
+            ],
+            "es": [
+                "Un río rojo que fluye de un glaciar, pero no está hecho de sangre.",
+                "Un misterioso arroyo en el desierto más frío del mundo."
+            ],
+            "pt": [
+                "Um rio vermelho fluindo de uma geleira, mas não é feito de sangue.",
+                "Um riacho misterioso no deserto mais frio do mundo."
+            ]
+        },
+        "tooltip": {
+            "ru": "Этот цвет вызван окисленным железом.",
+            "uk": "Цей колір спричинений окисленим залізом.",
+            "en": "This color is caused by oxidized iron.",
+            "es": "Este color es causado por hierro oxidado.",
+            "pt": "Esta cor é causada por ferro oxidado."
+        },
+        "qwestion": {
+            "ru": "Какой водопад в Антарктиде имеет необычный красный цвет?",
+            "uk": "Який водоспад в Антарктиді має незвичайний червоний колір?",
+            "en": "Which waterfall in Antarctica has an unusual red color?",
+            "es": "¿Qué cascada en la Antártida tiene un color rojo inusual?",
+            "pt": "Qual cachoeira na Antártida tem uma cor vermelha incomum?"
+        },
+        "definition": {
+            "ru": "Кровавый водопад — это необычное природное явление в Антарктиде, где поток соленой воды, богатой оксидом железа, вытекает из языка ледника Тейлора. Водопад имеет ярко-красный цвет, напоминающий кровь. Этот цвет вызван тем, что вода, содержащая большое количество железа и серы, вытекает из подледного озера и, контактируя с воздухом, окисляется. Источник водопада — подледное озеро, которое, как предполагают ученые, было изолировано от атмосферы в течение миллионов лет, создав уникальную экосистему.",
+            "uk": "Кривавий водоспад — це незвичайне природне явище в Антарктиді, де потік солоної води, багатої оксидом заліза, витікає з язика льодовика Тейлора. Водоспад має яскраво-червоний колір, що нагадує кров. Цей колір спричинений тим, що вода, яка містить велику кількість заліза та сірки, витікає з підлідного озера і, контактуючи з повітрям, окислюється. Джерело водоспаду — підлідний океан, який, як припускають вчені, був ізольований від атмосфери протягом мільйонів років, створивши унікальну екосистему.",
+            "en": "Blood Falls is an unusual natural phenomenon in Antarctica, where a flow of iron-oxide-rich saltwater emerges from the tongue of the Taylor Glacier. The waterfall has a vivid red color, resembling blood. This color is caused by the water, which contains high levels of iron and sulfur, flowing from a subglacial lake and oxidizing upon contact with the air. The source of the falls is a subglacial lake, which scientists believe has been isolated from the atmosphere for millions of years, creating a unique ecosystem.",
+            "es": "Las Cataratas de Sangre son un fenómeno natural inusual en la Antártida, donde un flujo de agua salada rica en óxido de hierro emerge de la lengua del Glaciar Taylor. La cascada tiene un color rojo vivo, que se asemeja a la sangre. Este color es causado por el agua, que contiene altos niveles de hierro y azufre, que fluye de un lago subglacial y se oxida al entrar en contacto con el aire. La fuente de las cataratas es un lago subglacial que, según los científicos, ha estado aislado de la atmósfera durante millones de años, creando un ecosistema único.",
+            "pt": "As Cataratas de Sangue são um fenômeno natural incomum na Antártida, onde um fluxo de água salgada rica em óxido de ferro emerge da língua da geleira Taylor. A cachoeira tem uma cor vermelha vívida, que se assemelha a sangue. Essa cor é causada pela água, que contém altos níveis de ferro e enxofre, fluindo de um lago subglacial e oxidando ao entrar em contato com o ar. A fonte das cataratas é um lago subglacial que, segundo os cientistas, ficou isolado da atmosfera por milhões de anos, criando um ecossistema único."
+        },
+        "antipod": {
+            "ru": "Водопад Виктория",
+            "uk": "Водоспад Вікторія",
+            "en": "Victoria Falls",
+            "es": "Cataratas Victoria",
+            "pt": "Cataratas Vitória"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих водопадов известен своим необычным цветом?",
+            "uk": "Який з цих водоспадів відомий своїм незвичайним кольором?",
+            "en": "Which of these waterfalls is known for its unusual color?",
+            "es": "¿Cuál de estas cascadas es conocida por su color inusual?",
+            "pt": "Qual dessas cachoeiras é conhecida por sua cor incomum?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Blood_Falls"
+    },
+    "imgFlag": "all" 
+}

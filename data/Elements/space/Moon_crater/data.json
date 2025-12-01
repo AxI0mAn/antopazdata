@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Постоянно затененный кратер на Луне",
+            "uk": "Постійно затінений кратер на Місяці",
+            "en": "Permanently shadowed lunar crater",
+            "es": "Cráter lunar en sombra permanente",
+            "pt": "Cratera lunar em sombra permanente"
+        },
+        "wrong": {
+            "ru": [
+                "Вершина горы Эверест",
+                "Пустыня Антарктиды",
+                "Полюс Нептуна"
+            ],
+            "uk": [
+                "Вершина гори Еверест",
+                "Пустеля Антарктиди",
+                "Полюс Нептуна"
+            ],
+            "en": [
+                "Mount Everest summit",
+                "Antarctic desert",
+                "Neptune's pole"
+            ],
+            "es": [
+                "Cima del Monte Everest",
+                "Desierto Antártico",
+                "Polo de Neptuno"
+            ],
+            "pt": [
+                "Cume do Monte Everest",
+                "Deserto Antártico",
+                "Polo de Netuno"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Ледяные ловушки.",
+                "Лунные полюса.",
+                "Водяной лёд."
+            ],
+            "uk": [
+                "Льодові пастки.",
+                "Місячні полюси.",
+                "Водяний лід."
+            ],
+            "en": [
+                "Ice traps.",
+                "Lunar poles.",
+                "Water ice."
+            ],
+            "es": [
+                "Trampas de hielo.",
+                "Polos lunares.",
+                "Hielo de agua."
+            ],
+            "pt": [
+                "Armadilhas de gelo.",
+                "Polos lunares.",
+                "Gelo de água."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Где на Луне никогда не бывает солнечного света?",
+                "Где температура ниже, чем на Плутоне?"
+            ],
+            "uk": [
+                "Де на Місяці ніколи не буває сонячного світла?",
+                "Де температура нижча, ніж на Плутоні?"
+            ],
+            "en": [
+                "Where on the Moon is there never any sunlight?",
+                "Where is the temperature lower than on Pluto?"
+            ],
+            "es": [
+                "¿Dónde en la Luna nunca hay luz solar?",
+                "¿Dónde la temperatura es más baja que en Plutón?"
+            ],
+            "pt": [
+                "Onde na Lua nunca há luz solar?",
+                "Onde a temperatura é mais baixa do que em Plutão?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Это одни из самых холодных мест в Солнечной системе.",
+            "uk": "Це одні з найхолодніших місць у Сонячній системі.",
+            "en": "These are some of the coldest places in the Solar System.",
+            "es": "Estos son algunos de los lugares más fríos del Sistema Solar.",
+            "pt": "Estes são alguns dos lugares mais frios do Sistema Solar."
+        },
+        "qwestion": {
+            "ru": "Где на Луне не бывает солнечного света и может быть водяной лёд?",
+            "uk": "Де на Місяці не буває сонячного світла і може бути водяний лід?",
+            "en": "Where on the Moon is there no sunlight and may be water ice?",
+            "es": "¿Dónde en la Luna no hay luz solar y podría haber hielo de agua?",
+            "pt": "Onde na Lua não há luz solar e pode haver gelo de água?"
+        },
+        "definition": {
+            "ru": "Постоянно затененный кратер на Луне — это глубокие кратеры на полюсах, куда никогда не проникает солнечный свет. Из-за этого условия в них могут накапливаться и сохраняться летучие вещества, включая водяной лёд.",
+            "uk": "Постійно затінений кратер на Місяці — це глибокі кратери на полюсах, куди ніколи не проникає сонячне світло. Через це в них можуть накопичуватися і зберігатися леткі речовини, включаючи водяний лід.",
+            "en": "A permanently shadowed lunar crater is a deep crater at the poles of the Moon that never receives direct sunlight. As a result, volatile substances, including water ice, can accumulate and remain frozen within them.",
+            "es": "Un cráter lunar en sombra permanente es un cráter profundo en los polos de la Luna que nunca recibe luz solar directa. Como resultado, sustancias volátiles, incluyendo hielo de agua, pueden acumularse y permanecer congeladas en su interior.",
+            "pt": "Uma cratera lunar em sombra permanente é uma cratera profunda nos polos da Lua que nunca recebe luz solar direta. Como resultado, substâncias voláteis, incluindo gelo de água, podem se acumular e permanecer congeladas dentro delas."
+        },
+        "antipod": {
+            "ru": "Поверхность Плутона",
+            "uk": "Поверхня Плутона",
+            "en": "Pluto's surface",
+            "es": "Superficie de Plutón",
+            "pt": "Superfície de Plutão"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих мест холоднее?",
+            "uk": "Яке з цих місць холодніше?",
+            "en": "Which of these places is colder?",
+            "es": "¿Cuál de estos lugares es más frío?",
+            "pt": "Qual desses lugares é mais frio?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Permanently_shadowed_region"
+    },
+    "imgFlag": "all" 
+}

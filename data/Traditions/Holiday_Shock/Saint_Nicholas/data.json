@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Святой Николай",
+            "uk": "Святий Миколай",
+            "en": "Saint Nicholas",
+            "es": "San Nicolás",
+            "pt": "São Nicolau"
+        },
+        "wrong": {
+            "ru": [
+                "Визирь",
+                "Торговец",
+                "Пастух"
+            ],
+            "uk": [
+                "Візир",
+                "Торговець",
+                "Пастух"
+            ],
+            "en": [
+                "Vizier",
+                "Merchant",
+                "Shepherd"
+            ],
+            "es": [
+                "Visir",
+                "Comerciante",
+                "Pastor"
+            ],
+            "pt": [
+                "Vizir",
+                "Comerciante",
+                "Pastor"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Турция",
+                "Щедрость",
+                "Епископ"
+            ],
+            "uk": [
+                "Туреччина",
+                "Щедрість",
+                "Єпископ"
+            ],
+            "en": [
+                "Turkey",
+                "Generosity",
+                "Bishop"
+            ],
+            "es": [
+                "Turquía",
+                "Generosidad",
+                "Obispo"
+            ],
+            "pt": [
+                "Turquia",
+                "Generosidade",
+                "Bispo"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Реальный епископ, прототип Санта-Клауса.",
+                "Из Турции, дарил тайные подарки бедным."
+            ],
+            "uk": [
+                "Реальний єпископ, прототип Санта-Клауса.",
+                "З Туреччини, дарував таємні подарунки бідним."
+            ],
+            "en": [
+                "A real bishop, the prototype of Santa Claus.",
+                "From Turkey, he gave secret gifts to the poor."
+            ],
+            "es": [
+                "Un obispo real, el prototipo de Santa Claus.",
+                "De Turquía, dio regalos secretos a los pobres."
+            ],
+            "pt": [
+                "Um bispo real, o protótipo do Papai Noel.",
+                "Da Turquia, deu presentes secretos aos pobres."
+            ]
+        },
+        "tooltip": {
+            "ru": "Он был реальным человеком, который жил в Турции в 4 веке",
+            "uk": "Він був реальною людиною, яка жила в Туреччині у 4 столітті",
+            "en": "He was a real person who lived in Turkey in the 4th century",
+            "es": "Fue una persona real que vivió en Turquía en el siglo IV",
+            "pt": "Ele foi uma pessoa real que viveu na Turquia no século IV"
+        },
+        "qwestion": {
+            "ru": "Чьи щедрые поступки вдохновили образ Санта-Клауса?",
+            "uk": "Чиї щедрі вчинки надихнули образ Санта-Клауса?",
+            "en": "Whose generous deeds inspired the image of Santa Claus?",
+            "es": "¿Qué generosos actos inspiraron la imagen de Santa Claus?",
+            "pt": "Cujos atos generosos inspiraram a imagem do Papai Noel?"
+        },
+        "definition": {
+            "ru": "Святой Николай Чудотворец — это христианский святой и епископ, живший в IV веке. Он известен своими щедрыми поступками и помощью бедным, что послужило вдохновением для создания образа Санта-Клауса.",
+            "uk": "Святий Миколай Чудотворець — це християнський святий і єпископ, який жив у IV столітті. Він відомий своїми щедрими вчинками та допомогою бідним, що послугувало натхненням для створення образу Санта-Клауса.",
+            "en": "Saint Nicholas the Wonderworker is a Christian saint and bishop who lived in the 4th century. He is known for his generous deeds and help to the poor, which served as an inspiration for the image of Santa Claus.",
+            "es": "San Nicolás el Taumaturgo es un santo y obispo cristiano que vivió en el siglo IV. Es conocido por sus actos generosos y su ayuda a los pobres, lo que sirvió de inspiración para la creación de la imagen de Santa Claus.",
+            "pt": "São Nicolau, o Taumaturgo, é um santo e bispo cristão que viveu no século IV. Ele é conhecido por seus atos generosos e ajuda aos pobres, o que serviu de inspiração para a criação da imagem do Papai Noel."
+        },
+        "antipod": {
+            "ru": "Султан",
+            "uk": "Султан",
+            "en": "Sultan",
+            "es": "Sultán",
+            "pt": "Sultão"
+        },
+        "hintFuiz": {
+            "ru": "Этот епископ из Турции — прообраз Санта-Клауса.",
+            "uk": "Цей єпископ з Туреччини — прообраз Санта-Клауса.",
+            "en": "This bishop from Turkey is the prototype of Santa Claus.",
+            "es": "Este obispo de Turquía es el prototipo de Santa Claus.",
+            "pt": "Este bispo da Turquia é o protótipo do Papai Noel."
+        },
+        "article": "https://en.wikipedia.org/wiki/Saint_Nicholas"
+    },
+    "imgFlag": "quizfoto"
+}

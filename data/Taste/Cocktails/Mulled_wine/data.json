@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Глинтвейн",
+            "uk": "Глінтвейн",
+            "en": "Mulled wine",
+            "es": "Vino caliente",
+            "pt": "Vinho quente"
+        },
+        "wrong": {
+            "ru": [
+                "Кофе",
+                "Пиво",
+                "Сок"
+            ],
+            "uk": [
+                "Кава",
+                "Пиво",
+                "Сік"
+            ],
+            "en": [
+                "Coffee",
+                "Beer",
+                "Juice"
+            ],
+            "es": [
+                "Café",
+                "Cerveza",
+                "Jugo"
+            ],
+            "pt": [
+                "Café",
+                "Cerveja",
+                "Suco"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Вино.",
+                "Специи.",
+                "Зима."
+            ],
+            "uk": [
+                "Вино.",
+                "Спеції.",
+                "Зима."
+            ],
+            "en": [
+                "Wine.",
+                "Spices.",
+                "Winter."
+            ],
+            "es": [
+                "Vino.",
+                "Especias.",
+                "Invierno."
+            ],
+            "pt": [
+                "Vinho.",
+                "Especiarias.",
+                "Inverno."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Горячее вино со специями.",
+                "Согревает в любую холодную ночь."
+            ],
+            "uk": [
+                "Гаряче вино зі спеціями.",
+                "Зігріває в будь-яку холодну ніч."
+            ],
+            "en": [
+                "Hot wine with spices.",
+                "It warms you up on any cold night."
+            ],
+            "es": [
+                "Vino caliente con especias.",
+                "Te calienta en cualquier noche fría."
+            ],
+            "pt": [
+                "Vinho quente com especiarias.",
+                "Ele te aquece em qualquer noite fria."
+            ]
+        },
+        "tooltip": {
+            "ru": "Его подогревают, чтобы согреться зимой.",
+            "uk": "Його підігрівають, щоб зігрітися взимку.",
+            "en": "It is heated to warm up in winter.",
+            "es": "Se calienta para abrigarse en invierno.",
+            "pt": "É aquecido para se aquecer no inverno."
+        },
+        "qwestion": {
+            "ru": "Какой напиток родом из Древнего Рима, где вино смешивали с пряностями и медом?",
+            "uk": "Який напій родом із Стародавнього Риму, де вино змішували з прянощами та медом?",
+            "en": "What drink originated in ancient Rome, where wine was mixed with spices and honey?",
+            "es": "¿Qué bebida se originó en la antigua Roma, donde el vino se mezclaba con especias y miel?",
+            "pt": "Qual bebida se originou na Roma antiga, onde o vinho era misturado com especiarias e mel?"
+        },
+        "definition": {
+            "ru": "Глинтвейн — это горячий алкогольный напиток, который обычно состоит из красного вина и различных специй, таких как корица, гвоздика и апельсиновая цедра. Его истоки уходят в Древний Рим, где вино смешивали с медом и пряностями для согревания и в качестве лекарства.",
+            "uk": "Глінтвейн — це гарячий алкогольний напій, що зазвичай складається з червоного вина та різних спецій, таких як кориця, гвоздика та апельсинова цедра. Його витоки сягають Стародавнього Риму, де вино змішували з медом і прянощами для зігрівання та як ліки.",
+            "en": "Mulled wine is a hot alcoholic drink usually made with red wine and various spices like cinnamon, cloves, and orange peel. Its origins trace back to ancient Rome, where wine was mixed with honey and spices for warmth and as a medicinal remedy.",
+            "es": "El vino caliente es una bebida alcohólica caliente que generalmente se elabora con vino tinto y varias especias como canela, clavo de olor y cáscara de naranja. Sus orígenes se remontan a la antigua Roma, donde el vino se mezclaba con miel y especias para calentarse y como remedio medicinal.",
+            "pt": "O vinho quente é uma bebida alcoólica quente geralmente feita com vinho tinto e várias especiarias como canela, cravo e casca de laranja. Suas origens remontam à Roma antiga, onde o vinho era misturado com mel e especiarias para aquecimento e como remédio."
+        },
+        "antipod": {
+            "ru": "Ледяной чай",
+            "uk": "Крижаний чай",
+            "en": "Iced tea",
+            "es": "Té helado",
+            "pt": "Chá gelado"
+        },
+        "hintFuiz": {
+            "ru": "Он использовался в качестве лекарства от простуды.",
+            "uk": "Він використовувався як ліки від застуди.",
+            "en": "It was used as a remedy for the common cold.",
+            "es": "Se usaba como remedio para el resfriado común.",
+            "pt": "Era usado como remédio para o resfriado comum."
+        },
+        "article": "https://en.wikipedia.org/wiki/Mulled_wine"
+    },
+    "imgFlag": "quizfoto" 
+}

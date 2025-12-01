@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Копи Лювак",
+            "uk": "Копі Лувак",
+            "en": "Kopi Luwak",
+            "es": "Kopi Luwak",
+            "pt": "Kopi Luwak"
+        },
+        "wrong": {
+            "ru": [
+                "Гейша",
+                "Йеменский Мокко",
+                "Робуста"
+            ],
+            "uk": [
+                "Гейша",
+                "Єменський Мокко",
+                "Робуста"
+            ],
+            "en": [
+                "Geisha",
+                "Yemen Mocha",
+                "Robusta"
+            ],
+            "es": [
+                "Geisha",
+                "Moca de Yemen",
+                "Robusta"
+            ],
+            "pt": [
+                "Geisha",
+                "Moca do Iêmen",
+                "Robusta"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Циветта.",
+                "Экскременты.",
+                "Индонезия."
+            ],
+            "uk": [
+                "Цивета.",
+                "Екскременти.",
+                "Індонезія."
+            ],
+            "en": [
+                "Civet.",
+                "Excrements.",
+                "Indonesia."
+            ],
+            "es": [
+                "Civeta.",
+                "Excrementos.",
+                "Indonesia."
+            ],
+            "pt": [
+                "Civeta.",
+                "Excrementos.",
+                "Indonésia."
+            ]
+        },
+        "tooltip": {
+            "ru": "Когда зёрна прошли через пищеварительную систему маленького азиатского животного",
+            "uk": "Коли зерна пройшли через травну систему маленької азійської тварини",
+            "en": "When the beans have passed through the digestive system of a small Asian animal",
+            "es": "Cuando los granos han pasado por el sistema digestivo de un pequeño animal asiático",
+            "pt": "Quando os grãos passaram pelo sistema digestivo de um pequeno animal asiático"
+        },
+        "qwestion": {
+            "ru": "Какой самый дорогой кофе производят с помощью маленького азиатского животного?",
+            "uk": "Яку найдорожчу каву виробляють за допомогою маленької азійської тваринки?",
+            "en": "What is the most expensive coffee produced with the help of a small Asian animal?",
+            "es": "¿Cuál es el café más caro producido con la ayuda de un pequeño animal asiático?",
+            "pt": "Qual é o café mais caro produzido com a ajuda de um pequeno animal asiático?"
+        },
+        "definition": {
+            "ru": "Копи Лювак — самый дорогой в мире вид кофе, известный своим уникальным методом обработки. Зёрна проходят через пищеварительную систему пальмовой циветты, где ферменты придают им особенный вкус, снижая горечь.",
+            "uk": "Копі Лувак — найдорожчий у світі вид кави, відомий своїм унікальним методом обробки. Зерна проходять через травну систему пальмової цивети, де ферменти надають їм особливого смаку, знижуючи гіркоту.",
+            "en": "Kopi Luwak is the world's most expensive type of coffee, known for its unique processing method. The beans pass through the digestive system of the Asian palm civet, where enzymes give them a special flavor by reducing bitterness.",
+            "es": "Kopi Luwak es el tipo de café más caro del mundo, conocido por su método de procesamiento único. Los granos pasan por el sistema digestivo de la civeta de palma asiática, donde las enzimas les dan un sabor especial, reduciendo la amargura.",
+            "pt": "Kopi Luwak é o tipo de café mais caro do mundo, conhecido por seu método de processamento único. Os grãos passam pelo sistema digestivo da civeta-de-palmeira asiática, onde as enzimas lhes conferem um sabor especial, reduzindo o amargor."
+        },
+        "antipod": {
+            "ru": "Арабика",
+            "uk": "Арабіка",
+            "en": "Arabica",
+            "es": "Arábica",
+            "pt": "Arábica"
+        },
+        "hintFuiz": {
+            "ru": "Кофе из маленького азиатского животного.",
+            "uk": "Кава з маленької азійської тваринки.",
+            "en": "Coffee from a small Asian animal.",
+            "es": "Café de un pequeño animal asiático.",
+            "pt": "Café de um pequeno animal asiático."
+        },
+        "riddle": {
+            "ru": [
+                "А ты знаешь, через что проходят эти зерна?",
+                "Самый дорогой кофе."
+            ],
+            "uk": [
+                "А ти знаєш, через що проходять ці зерна?",
+                "Найдорожча кава."
+            ],
+            "en": [
+                "Do you know what these beans go through?",
+                "The most expensive coffee."
+            ],
+            "es": [
+                "¿Sabes por lo que pasan estos granos?",
+                "El café más caro."
+            ],
+            "pt": [
+                "Você sabe pelo que esses grãos passam?",
+                "O café mais caro."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Kopi_Luwak"
+    },
+    "imgFlag": "all"
+}

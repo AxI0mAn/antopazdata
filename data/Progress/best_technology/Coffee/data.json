@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Кофе",
+            "uk": "Кава",
+            "en": "Coffee",
+            "es": "Café",
+            "pt": "Café"
+        },
+        "wrong": {
+            "ru": [
+                "Чай",
+                "Сок",
+                "Молоко"
+            ],
+            "uk": [
+                "Чай",
+                "Сік",
+                "Молоко"
+            ],
+            "en": [
+                "Tea",
+                "Juice",
+                "Milk"
+            ],
+            "es": [
+                "Té",
+                "Jugo",
+                "Leche"
+            ],
+            "pt": [
+                "Chá",
+                "Suco",
+                "Leite"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Энергия.",
+                "Козы.",
+                "Зерна."
+            ],
+            "uk": [
+                "Енергія.",
+                "Кози.",
+                "Зерна."
+            ],
+            "en": [
+                "Energy.",
+                "Goats.",
+                "Beans."
+            ],
+            "es": [
+                "Energía.",
+                "Cabras.",
+                "Granos."
+            ],
+            "pt": [
+                "Energia.",
+                "Cabras.",
+                "Grãos."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Бодрящий напиток.",
+                "Повышает давление."
+            ],
+            "uk": [
+                "Бадьорий напій.",
+                "Підвищує тиск."
+            ],
+            "en": [
+                "An invigorating drink.",
+                "It raises blood pressure."
+            ],
+            "es": [
+                "Una bebida vigorizante.",
+                "Eleva la presión arterial."
+            ],
+            "pt": [
+                "Uma bebida revigorante.",
+                "Aumenta a pressão arterial."
+            ]
+        },
+        "tooltip": {
+            "ru": "Козы становились невероятно энергичными после поедания ягод одного кустарника.",
+            "uk": "Кози ставали неймовірно енергійними після поїдання ягід одного куща.",
+            "en": "Goats became incredibly energetic after eating the berries of a certain bush.",
+            "es": "Las cabras se volvían increíblemente enérgicas después de comer las bayas de un arbusto.",
+            "pt": "As cabras ficavam incrivelmente enérgicas depois de comer as bagas de um certo arbusto."
+        },
+        "qwestion": {
+            "ru": "Какой напиток был открыт эфиопским пастухом?",
+            "uk": "Який напій був відкритий ефіопським пастухом?",
+            "en": "What drink was discovered by an Ethiopian goatherd?",
+            "es": "¿Qué bebida fue descubierta por un pastor etíope?",
+            "pt": "Que bebida foi descoberta por um pastor etíope?"
+        },
+        "definition": {
+            "ru": "Кофе — это напиток из обжаренных зерен кофейного дерева. Согласно легенде, он был открыт эфиопским пастухом Калди, который заметил, как его козы стали энергичными после поедания ягод. Кофеин в зернах делает напиток тонизирующим и является одним из самых популярных в мире.",
+            "uk": "Кава — це напій зі смажених зерен кавового дерева. Згідно з легендою, він був відкритий ефіопським пастухом Калді, який помітив, як його кози стали енергійними після поїдання ягід. Кофеїн у зернах робить напій тонізуючим і є одним з найпопулярніших у світі.",
+            "en": "Coffee is a drink made from roasted coffee beans. According to a legend, it was discovered by an Ethiopian goatherd named Kaldi, who noticed his goats became energetic after eating the berries. The caffeine in the beans makes the drink a stimulant, and it's now one of the most popular drinks in the world.",
+            "es": "El café es una bebida hecha de granos de café tostados. Según la leyenda, fue descubierto por un pastor etíope llamado Kaldi, quien notó que sus cabras se volvían enérgicas después de comer las bayas. La cafeína en los granos hace que la bebida sea un estimulante y es una de las más populares del mundo.",
+            "pt": "O café é uma bebida feita a partir de grãos de café torrados. Segundo uma lenda, foi descoberto por um pastor etíope chamado Kaldi, que notou que suas cabras ficavam enérgicas depois de comer as bagas. A cafeína nos grãos torna a bebida um estimulante e é uma das mais populares do mundo."
+        },
+        "antipod": {
+            "ru": "Пиво",
+            "uk": "Пиво",
+            "en": "Beer",
+            "es": "Cerveza",
+            "pt": "Cerveja"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих напитков производят из ягод?",
+            "uk": "Який із цих напоїв виробляють з ягід?",
+            "en": "Which of these drinks is made from berries?",
+            "es": "¿Cuál de estas bebidas se hace de bayas?",
+            "pt": "Qual dessas bebidas é feita de bagas?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Coffee"
+    },
+    "imgFlag": "all" 
+}

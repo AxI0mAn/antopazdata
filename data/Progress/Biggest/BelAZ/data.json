@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "BelAZ 75710",
+            "uk": "БелАЗ 75710",
+            "en": "BelAZ 75710",
+            "es": "BelAZ 75710",
+            "pt": "BelAZ 75710"
+        },
+        "wrong": {
+            "ru": [
+                "Caterpillar 797F",
+                "Komatsu 980E-4",
+                "Liebherr T 282B"
+            ],
+            "uk": [
+                "Caterpillar 797F",
+                "Komatsu 980E-4",
+                "Liebherr T 282B"
+            ],
+            "en": [
+                "Caterpillar 797F",
+                "Komatsu 980E-4",
+                "Liebherr T 282B"
+            ],
+            "es": [
+                "Caterpillar 797F",
+                "Komatsu 980E-4",
+                "Liebherr T 282B"
+            ],
+            "pt": [
+                "Caterpillar 797F",
+                "Komatsu 980E-4",
+                "Liebherr T 282B"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Карьер.",
+                "Самосвал.",
+                "Беларусь."
+            ],
+            "uk": [
+                "Кар'єр.",
+                "Самоскид.",
+                "Білорусь."
+            ],
+            "en": [
+                "Mine.",
+                "Dump truck.",
+                "Belarus."
+            ],
+            "es": [
+                "Mina.",
+                "Volquete.",
+                "Bielorrusia."
+            ],
+            "pt": [
+                "Mina.",
+                "Caminhão basculante.",
+                "Bielorrússia."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Перевозит горы, но не дракон.",
+                "Он самый большой грузовик, сделан в Беларуси."
+            ],
+            "uk": [
+                "Перевозить гори, але не дракон.",
+                "Він найбільша вантажівка, зроблена в Білорусі."
+            ],
+            "en": [
+                "It moves mountains, but it's not a dragon.",
+                "It's the biggest truck, made in Belarus."
+            ],
+            "es": [
+                "Mueve montañas, pero no es un dragón.",
+                "Es el camión más grande, fabricado en Bielorrusia."
+            ],
+            "pt": [
+                "Move montanhas, mas não é um dragão.",
+                "É o maior caminhão, feito na Bielorrússia."
+            ]
+        },
+        "tooltip": {
+            "ru": "Он весит 360 тонн и может перевозить 450 тонн груза.",
+            "uk": "Він важить 360 тонн і може перевозити 450 тонн вантажу.",
+            "en": "It weighs 360 tons and can carry 450 tons of cargo.",
+            "es": "Pesa 360 toneladas y puede transportar 450 toneladas de carga.",
+            "pt": "Pesa 360 toneladas e pode transportar 450 toneladas de carga."
+        },
+        "qwestion": {
+            "ru": "Какой карьерный самосвал является самым большим в мире?",
+            "uk": "Який кар'єрний самоскид є найбільшим у світі?",
+            "en": "What is the largest mining dump truck in the world?",
+            "es": "¿Cuál es el volquete de minería más grande del mundo?",
+            "pt": "Qual é o maior caminhão basculante de mineração do mundo?"
+        },
+        "definition": {
+            "ru": "БелАЗ 75710 — это самый большой карьерный самосвал в мире, разработанный в Беларуси. Он предназначен для перевозки горных пород в карьерах и может перевозить до 450 тонн груза, а его общий вес превышает 800 тонн.",
+            "uk": "БелАЗ 75710 — це найбільший кар'єрний самоскид у світі, розроблений у Білорусі. Він призначений для перевезення гірських порід у кар'єрах і може перевозити до 450 тонн вантажу, а його загальна вага перевищує 800 тонн.",
+            "en": "The BelAZ 75710 is the largest mining dump truck in the world, developed in Belarus. It is designed to transport rock in open-pit mines and can carry up to 450 tons of cargo, with a total weight exceeding 800 tons.",
+            "es": "El BelAZ 75710 es el volquete de minería más grande del mundo, desarrollado en Bielorrusia. Está diseñado para transportar rocas en minas a cielo abierto y puede transportar hasta 450 toneladas de carga, con un peso total superior a 800 toneladas.",
+            "pt": "O BelAZ 75710 é o maior caminhão basculante de mineração do mundo, desenvolvido na Bielorrússia. Ele é projetado para transportar rochas em minas a céu aberto e pode carregar até 450 toneladas de carga, com um peso total que excede 800 toneladas."
+        },
+        "antipod": {
+            "ru": "Смарт",
+            "uk": "Смарт",
+            "en": "Smart car",
+            "es": "Smart",
+            "pt": "Smart"
+        },
+        "hintFuiz": {
+            "ru": "Это огромная машина для перевозки грузов.",
+            "uk": "Це величезна машина для перевезення вантажів.",
+            "en": "This is a massive machine for transporting cargo.",
+            "es": "Esta es una máquina masiva para transportar carga.",
+            "pt": "Esta é uma máquina enorme para transportar carga."
+        },
+        "article": "https://en.wikipedia.org/wiki/BelAZ_75710"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Хамелеон",
+            "uk": "Хамелеон",
+            "en": "Chameleon",
+            "es": "Camaleón",
+            "pt": "Camaleão"
+        },
+        "wrong": {
+            "ru": [
+                "Лягушка-помидор",
+                "Морской конек",
+                "Василиск"
+            ],
+            "uk": [
+                "Жаба-помідор",
+                "Морський коник",
+                "Василіск"
+            ],
+            "en": [
+                "Tomato frog",
+                "Seahorse",
+                "Basilisk"
+            ],
+            "es": [
+                "Rana tomate",
+                "Caballito de mar",
+                "Basilisco"
+            ],
+            "pt": [
+                "Sapo-tomate",
+                "Cavalo-marinho",
+                "Basilisco"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Цвет.",
+                "Глаза.",
+                "Язык."
+            ],
+            "uk": [
+                "Колір.",
+                "Очі.",
+                "Язик."
+            ],
+            "en": [
+                "Color.",
+                "Eyes.",
+                "Tongue."
+            ],
+            "es": [
+                "Color.",
+                "Ojos.",
+                "Lengua."
+            ],
+            "pt": [
+                "Cor.",
+                "Olhos.",
+                "Língua."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Меняет окрас для маскировки.",
+                "Его глаза смотрят в разные стороны."
+            ],
+            "uk": [
+                "Змінює забарвлення для маскування.",
+                "Його очі дивляться в різні боки."
+            ],
+            "en": [
+                "Changes color for camouflage.",
+                "Its eyes look in different directions."
+            ],
+            "es": [
+                "Cambia de color para camuflarse.",
+                "Sus ojos miran en direcciones diferentes."
+            ],
+            "pt": [
+                "Muda de cor para camuflagem.",
+                "Seus olhos olham em direções diferentes."
+            ]
+        },
+        "tooltip": {
+            "ru": "Его глаза могут смотреть в разные стороны одновременно.",
+            "uk": "Його очі можуть дивитися в різні боки одночасно.",
+            "en": "Its eyes can look in different directions at the same time.",
+            "es": "Sus ojos pueden mirar en diferentes direcciones al mismo tiempo.",
+            "pt": "Seus olhos podem olhar em direções diferentes ao mesmo tempo."
+        },
+        "qwestion": {
+            "ru": "Какое животное меняет цвет для маскировки, терморегуляции и общения?",
+            "uk": "Яка тварина змінює колір для маскування, терморегуляції та спілкування?",
+            "en": "What animal changes color for camouflage, thermoregulation, and communication?",
+            "es": "¿Qué animal cambia de color para camuflaje, termorregulación y comunicación?",
+            "pt": "Que animal muda de cor para camuflagem, termorregulação e comunicação?"
+        },
+        "definition": {
+            "ru": "Хамелеон — это рептилия, известная своей способностью менять цвет кожи. Он делает это для маскировки, регулирования температуры тела и выражения эмоций. У хамелеонов уникальные, независимо двигающиеся глаза и длинный язык для охоты.",
+            "uk": "Хамелеон — це рептилія, відома своєю здатністю змінювати колір шкіри. Він робить це для маскування, регулювання температури тіла та вираження емоцій. У хамелеонів унікальні, незалежно рухомі очі і довгий язик для полювання.",
+            "en": "A chameleon is a reptile known for its ability to change skin color. It does this for camouflage, body temperature regulation, and to express emotions. Chameleons have unique, independently moving eyes and a long tongue for hunting.",
+            "es": "El camaleón es un reptil conocido por su habilidad para cambiar el color de su piel. Lo hace para camuflarse, regular la temperatura corporal y expresar emociones. Los camaleones tienen ojos únicos que se mueven independientemente y una larga lengua para cazar.",
+            "pt": "O camaleão é um réptil conhecido por sua habilidade de mudar a cor da pele. Ele faz isso para camuflagem, regulação da temperatura corporal e para expressar emoções. Os camaleões têm olhos únicos que se movem de forma independente e uma língua longa para caçar."
+        },
+        "antipod": {
+            "ru": "Аксолотль",
+            "uk": "Аксолотль",
+            "en": "Axolotl",
+            "es": "Ajolote",
+            "pt": "Axolote"
+        },
+        "hintFuiz": {
+            "ru": "Кто использует изменение цвета для передачи эмоций?",
+            "uk": "Хто використовує зміну кольору для передачі емоцій?",
+            "en": "Who uses color change to convey emotions?",
+            "es": "¿Cuál usa el cambio de color para expresar emociones?",
+            "pt": "Qual usa a mudança de cor para expressar emoções?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Chameleon"
+    },
+    "imgFlag": "all" 
+}

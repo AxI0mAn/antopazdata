@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Лион",
+            "uk": "Ліон",
+            "en": "Lyon",
+            "es": "Lyon",
+            "pt": "Lyon"
+        },
+        "wrong": {
+            "ru": [
+                "Марсель",
+                "Париж",
+                "Монкюк"
+            ],
+            "uk": [
+                "Марсель",
+                "Париж",
+                "Монкюк"
+            ],
+            "en": [
+                "Marseille",
+                "Paris",
+                "Moncuq"
+            ],
+            "es": [
+                "Marsella",
+                "París",
+                "Moncuq"
+            ],
+            "pt": [
+                "Marselha",
+                "Paris",
+                "Moncuq"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Дева Мария",
+                "Франция",
+                "Свечи"
+            ],
+            "uk": [
+                "Діва Марія",
+                "Франція",
+                "Свічки"
+            ],
+            "en": [
+                "Virgin Mary",
+                "France",
+                "Candles"
+            ],
+            "es": [
+                "Virgen María",
+                "Francia",
+                "Velas"
+            ],
+            "pt": [
+                "Virgem Maria",
+                "França",
+                "Velas"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Миллионы свечей.",
+                "Фестиваль свечей."
+            ],
+            "uk": [
+                "Мільйони свічок.",
+                "Фестиваль свічок."
+            ],
+            "en": [
+                "Millions of candles.",
+                "The festival of candles."
+            ],
+            "es": [
+                "Millones de velas.",
+                "El festival de las velas."
+            ],
+            "pt": [
+                "Milhões de velas.",
+                "O festival das velas."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это ежегодный фестиваль в честь Девы Марии.",
+            "uk": "Це щорічний фестиваль на честь Діви Марії.",
+            "en": "This is an annual festival in honor of the Virgin Mary.",
+            "es": "Es un festival anual en honor a la Virgen María.",
+            "pt": "É um festival anual em honra da Virgem Maria."
+        },
+        "qwestion": {
+            "ru": "В каком городе Франции, весь город освещается миллионами свечей?",
+            "uk": "У якому місті Франції, все місто освітлюється мільйонами свічок?",
+            "en": "In which city in France is the entire city lit up with millions of candles?",
+            "es": "¿En qué ciudad de Francia se ilumina toda la ciudad con millones de velas?",
+            "pt": "Em qual cidade da França, a cidade inteira é iluminada por milhões de velas?"
+        },
+        "definition": {
+            "ru": "Лион — это город во Франции, знаменитый своим ежегодным Праздником света (Fête des Lumières), который проходит в начале декабря. Жители города ставят свечи на свои окна, а на зданиях и в парках устраивают масштабные световые инсталляции. Фестиваль посвящён Деве Марии и является символом благодарности горожан за защиту.",
+            "uk": "Ліон — це місто у Франції, знамените своїм щорічним Святом світла (Fête des Lumières), яке проходить на початку грудня. Жителі міста ставлять свічки на свої вікна, а на будівлях і в парках влаштовують масштабні світлові інсталяції. Фестиваль присвячений Діві Марії і є символом вдячності городян за захист.",
+            "en": "Lyon is a city in France famous for its annual Festival of Lights (Fête des Lumières), which takes place in early December. The city's residents place candles in their windows, and large-scale light installations are set up on buildings and in parks. The festival is dedicated to the Virgin Mary and is a symbol of the citizens' gratitude for her protection.",
+            "es": "Lyon es una ciudad en Francia famosa por su Festival de las Luces anual (Fête des Lumières), que se celebra a principios de diciembre. Los residentes de la ciudad colocan velas en sus ventanas, y se instalan grandes instalaciones de luz en edificios y parques. El festival está dedicado a la Virgen María y es un símbolo de la gratitud de los ciudadanos por su protección.",
+            "pt": "Lyon é uma cidade na França famosa por seu Festival das Luzes anual (Fête des Lumières), que acontece no início de dezembro. Os moradores da cidade colocam velas em suas janelas, e grandes instalações de luz são montadas em edifícios e parques. O festival é dedicado à Virgem Maria e é um símbolo da gratidão dos cidadãos pela sua proteção."
+        },
+        "antipod": {
+            "ru": "Бал пожарных",
+            "uk": "Бал пожежників",
+            "en": "Firemen's Ball",
+            "es": "Baile de los bomberos",
+            "pt": "Baile dos bombeiros"
+        },
+        "hintFuiz": {
+            "ru": "Свечи - главный атрибут этого фестиваля?",
+            "uk": "Свічки - головний атрибут цього фестивалю?",
+            "en": "Candles are the main attribute of this festival?",
+            "es": "¿Las velas son el principal atributo de este festival?",
+            "pt": "As velas são o principal atributo deste festival?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Fête_des_Lumières"
+    },
+    "imgFlag": "quizfoto"
+}

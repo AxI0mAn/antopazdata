@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Броненосец",
+            "uk": "Броненосець",
+            "en": "Armadillo",
+            "es": "Armadillo",
+            "pt": "Tatu"
+        },
+        "wrong": {
+            "ru": [
+                "Панголин",
+                "Ехидна",
+                "Дикобраз"
+            ],
+            "uk": [
+                "Панголін",
+                "Єхидна",
+                "Дикобраз"
+            ],
+            "en": [
+                "Pangolin",
+                "Echidna",
+                "Porcupine"
+            ],
+            "es": [
+                "Pangolín",
+                "Equidna",
+                "Puercoespín"
+            ],
+            "pt": [
+                "Pangolim",
+                "Equidna",
+                "Porco-espinho"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Панцирь.",
+                "Сворачивается.",
+                "Южная Америка."
+            ],
+            "uk": [
+                "Панцир.",
+                "Згортається.",
+                "Південна Америка."
+            ],
+            "en": [
+                "Shell.",
+                "Rolls up.",
+                "South America."
+            ],
+            "es": [
+                "Caparazón.",
+                "Se enrolla.",
+                "América del Sur."
+            ],
+            "pt": [
+                "Carapaça.",
+                "Se enrola.",
+                "América do Sul."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Ношу доспехи, но я не рыцарь.",
+                "Когда мне угрожают, я превращаюсь в каменный шар."
+            ],
+            "uk": [
+                "Ношу обладунки, але я не лицар.",
+                "Коли мені загрожують, я перетворююсь на кам'яну кулю."
+            ],
+            "en": [
+                "I wear armor but I am not a knight.",
+                "When threatened, I become a stone ball."
+            ],
+            "es": [
+                "Llevo armadura, pero no soy un caballero.",
+                "Cuando me amenazan, me convierto en una bola de piedra."
+            ],
+            "pt": [
+                "Eu uso armadura, mas não sou um cavaleiro.",
+                "Quando ameaçado, viro uma bola de pedra."
+            ]
+        },
+        "tooltip": {
+            "ru": "Панцирь обеспечивает ему надежную защиту от хищников.",
+            "uk": "Панцир забезпечує йому надійний захист від хижаків.",
+            "en": "Its shell provides it with reliable protection from predators.",
+            "es": "Su caparazón le proporciona una protección confiable contra los depredadores.",
+            "pt": "Sua carapaça lhe proporciona uma proteção confiável contra predadores."
+        },
+        "qwestion": {
+            "ru": "Какое млекопитающее имеет костяной панцирь и может сворачиваться в шар?",
+            "uk": "Який ссавець має кістяний панцир і може згортатися в клубок?",
+            "en": "What mammal has a bony shell and can roll into a ball?",
+            "es": "¿Qué mamífero tiene un caparazón óseo y puede enrollarse en una bola?",
+            "pt": "Que mamífero tem uma carapaça óssea e pode se enrolar em uma bola?"
+        },
+        "definition": {
+            "ru": "Броненосец — это млекопитающее из Южной Америки. Он известен своим уникальным защитным панцирем, состоящим из костных пластин, покрытых роговой кожей. Некоторые виды могут сворачиваться в плотный шар для самозащиты.",
+            "uk": "Броненосець — це ссавець із Південної Америки. Він відомий своїм унікальним захисним панциром, що складається з кісткових пластин, покритих роговою шкірою. Деякі види можуть згортатися в щільну кулю для самозахисту.",
+            "en": "The armadillo is a mammal native to South America. It is known for its unique protective shell, which is made of bony plates covered in leathery skin. Some species can roll into a tight ball for self-defense.",
+            "es": "El armadillo es un mamífero nativo de América del Sur. Es conocido por su singular caparazón protector, que está hecho de placas óseas cubiertas de piel coriácea. Algunas especies pueden enrollarse en una bola apretada para defenderse.",
+            "pt": "O tatu é um mamífero nativo da América do Sul. É conhecido por sua carapaça protetora única, que é feita de placas ósseas coberta de pele coriácea. Algumas espécies podem se enrolar em uma bola apertada para se defender."
+        },
+        "antipod": {
+            "ru": "Ёж",
+            "uk": "Їжак",
+            "en": "Hedgehog",
+            "es": "Erizo",
+            "pt": "Ouriço"
+        },
+        "hintFuiz": {
+            "ru": "У кого нет иголок?",
+            "uk": "У кого немає голок?",
+            "en": "Which one doesn't have quills?",
+            "es": "¿Cuál no tiene púas?",
+            "pt": "Qual não tem espinhos?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Armadillo"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "День Благодарения",
+            "uk": "День подяки",
+            "en": "Thanksgiving Day",
+            "es": "Día de Acción de Gracias",
+            "pt": "Dia de Ação de Graças"
+        },
+        "wrong": {
+            "ru": [
+                "Рождество",
+                "День труда",
+                "Хэллоуин"
+            ],
+            "uk": [
+                "Різдво",
+                "День праці",
+                "Хелловін"
+            ],
+            "en": [
+                "Christmas",
+                "Labor Day",
+                "Halloween"
+            ],
+            "es": [
+                "Navidad",
+                "Día del Trabajo",
+                "Halloween"
+            ],
+            "pt": [
+                "Natal",
+                "Dia do Trabalho",
+                "Halloween"
+            ]
+        },
+        "association": {
+            "ru": [
+                "США",
+                "Осень",
+                "Благодарность"
+            ],
+            "uk": [
+                "США",
+                "Осінь",
+                "Вдячність"
+            ],
+            "en": [
+                "USA",
+                "Autumn",
+                "Gratitude"
+            ],
+            "es": [
+                "EE. UU.",
+                "Otoño",
+                "Gratitud"
+            ],
+            "pt": [
+                "EUA",
+                "Outono",
+                "Gratidão"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Каждый год благодарят за урожай.",
+                "Праздник, когда дом украшают осенним урожаем."
+            ],
+            "uk": [
+                "Щороку дякують за врожай.",
+                "Свято, коли будинок прикрашають осіннім урожаєм."
+            ],
+            "en": [
+                "Every year, they give thanks for the harvest.",
+                "A holiday when the house is decorated with the autumn harvest."
+            ],
+            "es": [
+                "Cada año, dan gracias por la cosecha.",
+                "Una festividad cuando la casa se decora con la cosecha de otoño."
+            ],
+            "pt": [
+                "Todos os anos, eles agradecem pela colheita.",
+                "Um feriado quando a casa é decorada com a colheita de outono."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это праздник, когда американцы украшают свои дома осенним урожаем, выражая благодарность за благополучие.",
+            "uk": "Це свято, коли американці прикрашають свої будинки осіннім урожаєм, висловлюючи вдячність за добробут.",
+            "en": "This is a holiday when Americans decorate their homes with autumn harvest, expressing gratitude for their well-being.",
+            "es": "Es una festividad en la que los estadounidenses decoran sus hogares con la cosecha de otoño, expresando gratitud por su bienestar.",
+            "pt": "Este é um feriado em que os americanos decoram suas casas com a colheita de outono, expressando gratidão por seu bem-estar."
+        },
+        "qwestion": {
+            "ru": "В США существует традиция, когда люди благодарят за урожай?",
+            "uk": "У США існує традиція, коли люди дякують за врожай?",
+            "en": "Is there a tradition in the USA when people give thanks for the harvest?",
+            "es": "¿Existe una tradición en EE. UU. cuando la gente da gracias por la cosecha?",
+            "pt": "Existe uma tradição nos EUA em que as pessoas agradecem pela colheita?"
+        },
+        "definition": {
+            "ru": "День Благодарения — это национальный праздник в США, который отмечается в четвертый четверг ноября. Он является символом благодарности за урожай и все жизненные блага. Главная традиция праздника — семейный ужин с запеченной индейкой и тыквенным пирогом.",
+            "uk": "День подяки — це національне свято в США, яке відзначається в четвертий четвер листопада. Він є символом вдячності за врожай і всі життєві блага. Головна традиція свята — сімейна вечеря із запеченою індичкою та гарбузовим пирогом.",
+            "en": "Thanksgiving Day is a national holiday in the USA, celebrated on the fourth Thursday of November. It is a symbol of gratitude for the harvest and all of life's blessings. The main tradition of the holiday is a family dinner with roasted turkey and pumpkin pie.",
+            "es": "El Día de Acción de Gracias es una festividad nacional en EE. UU., que se celebra el cuarto jueves de noviembre. Es un símbolo de gratitud por la cosecha y todas las bendiciones de la vida. La principal tradición de la festividad es una cena familiar con pavo asado y pastel de calabaza.",
+            "pt": "O Dia de Ação de Graças é um feriado nacional nos EUA, celebrado na quarta quinta-feira de novembro. É um símbolo de gratidão pela colheita e por todas as bênçãos da vida. A principal tradição do feriado é um jantar em família com peru assado e torta de abóbora."
+        },
+        "antipod": {
+            "ru": "День Независимости",
+            "uk": "День Незалежності",
+            "en": "Independence Day",
+            "es": "Día de la Independencia",
+            "pt": "Dia da Independência"
+        },
+        "hintFuiz": {
+            "ru": "Это праздник также известен как 'День урожая' и связан с благодарностью.",
+            "uk": "Це свято також відоме як 'День врожаю' і пов'язане з вдячністю.",
+            "en": "This holiday is also known as a 'Harvest Day' and is associated with gratitude.",
+            "es": "Esta festividad también es conocida como 'Día de la Cosecha' y está asociada con la gratitud.",
+            "pt": "Este feriado também é conhecido como 'Dia da Colheita' e está associado à gratidão."
+        },
+        "article": "https://en.wikipedia.org/wiki/Thanksgiving"
+    },
+    "imgFlag": "quizfoto"
+}

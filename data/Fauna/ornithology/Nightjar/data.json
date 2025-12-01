@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Козодой",
+            "uk": "Дрімлюга",
+            "en": "Nightjar",
+            "es": "Chotacabras",
+            "pt": "Noitibó"
+        },
+        "wrong": {
+            "ru": [
+                "Дятел",
+                "Зяблик",
+                "Соловей"
+            ],
+            "uk": [
+                "Дятел",
+                "Зяблик",
+                "Соловейко"
+            ],
+            "en": [
+                "Woodpecker",
+                "Chaffinch",
+                "Nightingale"
+            ],
+            "es": [
+                "Pájaro carpintero",
+                "Pinzón",
+                "Ruiseñor"
+            ],
+            "pt": [
+                "Pica-pau",
+                "Tentilhão",
+                "Rouxinol"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Ночной.",
+                "Камуфляж.",
+                "Скрытный."
+            ],
+            "uk": [
+                "Нічний.",
+                "Камуфляж.",
+                "Потайний."
+            ],
+            "en": [
+                "Nocturnal.",
+                "Camouflage.",
+                "Secretive."
+            ],
+            "es": [
+                "Nocturno.",
+                "Camuflaje.",
+                "Escondido."
+            ],
+            "pt": [
+                "Noturno.",
+                "Camuflagem.",
+                "Escondido."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Птица с камуфляжной окраской.",
+                "Издает звук, похожий на жужжание мотора."
+            ],
+            "uk": [
+                "Птах з камуфляжним забарвленням.",
+                "Видає звук, схожий на дзижчання мотора."
+            ],
+            "en": [
+                "A bird with camouflage plumage.",
+                "It makes a sound similar to a motor humming."
+            ],
+            "es": [
+                "Un ave con plumaje de camuflaje.",
+                "Emite un sonido similar al zumbido de un motor."
+            ],
+            "pt": [
+                "Uma ave com plumagem de camuflagem.",
+                "Ele emite um som semelhante ao zumbido de um motor."
+            ]
+        },
+        "tooltip": {
+            "ru": "Его оперение настолько сливается с окружающей средой, что заметить его почти невозможно.",
+            "uk": "Його оперення настільки зливається з навколишнім середовищем, що помітити його майже неможливо.",
+            "en": "Its plumage blends so well with the surroundings that it is almost impossible to spot.",
+            "es": "Su plumaje se camufla tan bien con el entorno que es casi imposible de ver.",
+            "pt": "Sua plumagem se mistura tão bem com o ambiente que é quase impossível de ser visto."
+        },
+        "qwestion": {
+            "ru": "Какая птица откладывает замаскированные яйца прямо на землю?",
+            "uk": "Який птах відкладає замасковані яйця просто на землю?",
+            "en": "Which bird lays camouflaged eggs directly on the ground?",
+            "es": "¿Qué ave pone huevos camuflados directamente en el suelo?",
+            "pt": "Qual ave põe ovos camuflados diretamente no chão?"
+        },
+        "definition": {
+            "ru": "Козодой — это ночная птица с невероятным камуфляжем. Он известен тем, что не строит гнезд, а просто откладывает яйца на землю, полагаясь на их маскировку и свою собственную, чтобы защитить потомство.",
+            "uk": "Дрімлюга — це нічний птах з неймовірним камуфляжем. Він відомий тим, що не будує гнізд, а просто відкладає яйця на землю, покладаючись на їх маскування і власне оперення, щоб захистити потомство.",
+            "en": "The nightjar is a nocturnal bird with incredible camouflage. It is known for not building nests, instead laying its eggs directly on the ground, relying on their and its own superb camouflage to protect its offspring.",
+            "es": "El chotacabras es un ave nocturna con un camuflaje increíble. Es conocido por no construir nidos, poniendo sus huevos directamente en el suelo, confiando en su camuflaje y el de sus huevos para proteger a sus crías.",
+            "pt": "O noitibó é uma ave noturna com uma camuflagem incrível. É conhecido por não construir ninhos, pondo seus ovos diretamente no chão, confiando na sua própria camuflagem e na dos ovos para proteger a prole."
+        },
+        "antipod": {
+            "ru": "Аист",
+            "uk": "Лелека",
+            "en": "Stork",
+            "es": "Cigüeña",
+            "pt": "Cegonha"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих птиц откладывает яйца без строительства гнезда?",
+            "uk": "Який з цих птахів відкладає яйця без будівництва гнізда?",
+            "en": "Which of these birds lays eggs without building a nest?",
+            "es": "¿Cuál de estas aves pone huevos sin construir un nido?",
+            "pt": "Qual dessas aves põe ovos sem construir um ninho?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Nightjar"
+    },
+    "imgFlag": "all" 
+}

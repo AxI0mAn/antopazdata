@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Пингвин",
+            "uk": "Пінгвін",
+            "en": "Penguin",
+            "es": "Pingüino",
+            "pt": "Pinguim"
+        },
+        "wrong": {
+            "ru": [
+                "Пеликан",
+                "Альбатрос",
+                "Баклан"
+            ],
+            "uk": [
+                "Пелікан",
+                "Альбатрос",
+                "Баклан"
+            ],
+            "en": [
+                "Pelican",
+                "Albatross",
+                "Cormorant"
+            ],
+            "es": [
+                "Pelícano",
+                "Albatros",
+                "Cormorán"
+            ],
+            "pt": [
+                "Pelicano",
+                "Albatroz",
+                "Cormorão"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Антарктида.",
+                "Не летает.",
+                "Смокинг."
+            ],
+            "uk": [
+                "Антарктида.",
+                "Не літає.",
+                "Смокінг."
+            ],
+            "en": [
+                "Antarctica.",
+                "Cannot fly.",
+                "Tuxedo."
+            ],
+            "es": [
+                "Antártida.",
+                "No vuela.",
+                "Esmoquin."
+            ],
+            "pt": [
+                "Antártida.",
+                "Não voa.",
+                "Smoking."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Не летает, но хорошо плавает.",
+                "Он живёт не только в Антарктиде."
+            ],
+            "uk": [
+                "Не літає, але добре плаває.",
+                "Він живе не тільки в Антарктиді."
+            ],
+            "en": [
+                "It can't fly, but it swims well.",
+                "It doesn't only live in Antarctica."
+            ],
+            "es": [
+                "No vuela, pero nada bien.",
+                "No vive solo en la Antártida."
+            ],
+            "pt": [
+                "Não voa, mas nada bem.",
+                "Não vive apenas na Antártida."
+            ]
+        },
+        "tooltip": {
+            "ru": "У него есть специальная железа, которая удаляет избыток соли из крови.",
+            "uk": "У нього є спеціальна залоза, яка видаляє надлишок солі з крові.",
+            "en": "It has a special gland that removes excess salt from the blood.",
+            "es": "Tiene una glándula especial que elimina el exceso de sal de la sangre.",
+            "pt": "Possui uma glândula especial que remove o excesso de sal do sangue."
+        },
+        "qwestion": {
+            "ru": "Какая птица может пить морскую воду, фильтруя соль?",
+            "uk": "Який птах може пити морську воду, фільтруючи сіль?",
+            "en": "Which bird can drink seawater by filtering out salt?",
+            "es": "¿Qué ave puede beber agua de mar filtrando la sal?",
+            "pt": "Qual ave pode beber água do mar filtrando o sal?"
+        },
+        "definition": {
+            "ru": "Пингвин — это нелетающая морская птица из Южного полушария. Он отличается уникальной походкой, способностью к глубокому нырянию и особыми железами для выведения соли, что позволяет ему пить морскую воду.",
+            "uk": "Пінгвін — це нелітаючий морський птах з Південної півкулі. Він відрізняється унікальною ходою, здатністю до глибокого пірнання та особливими залозами для виведення солі, що дозволяє йому пити морську воду.",
+            "en": "The penguin is a flightless marine bird from the Southern Hemisphere. It is distinguished by its unique waddling gait, deep-diving ability, and special glands that allow it to excrete salt, enabling it to drink seawater.",
+            "es": "El pingüino es un ave marina no voladora del hemisferio sur. Se distingue por su andar único, su capacidad para bucear en aguas profundas y sus glándulas especiales que le permiten excretar sal, lo que le permite beber agua de mar.",
+            "pt": "O pinguim é uma ave marinha não voadora do Hemisfério Sul. Ele se distingue por sua marcha única, sua capacidade de mergulho profundo e glândulas especiais que lhe permitem excretar sal, o que lhe permite beber água do mar."
+        },
+        "antipod": {
+            "ru": "Чайка",
+            "uk": "Чайка",
+            "en": "Seagull",
+            "es": "Gaviota",
+            "pt": "Gaivota"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих двух птиц не умеет летать?",
+            "uk": "Який з цих двох птахів не вміє літати?",
+            "en": "Which of these two birds cannot fly?",
+            "es": "¿Cuál de estas dos aves no puede volar?",
+            "pt": "Qual dessas duas aves não pode voar?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Penguin"
+    },
+    "imgFlag": "all" 
+}

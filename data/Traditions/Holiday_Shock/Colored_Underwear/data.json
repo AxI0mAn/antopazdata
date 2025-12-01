@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Цветное белье",
+            "uk": "Кольорова білизна",
+            "en": "Colored Underwear",
+            "es": "Ropa Interior de Colores",
+            "pt": "Roupa Íntima Colorida"
+        },
+        "wrong": {
+            "ru": [
+                "Белые носки",
+                "Красная рубашка",
+                "Синие джинсы"
+            ],
+            "uk": [
+                "Білі шкарпетки",
+                "Червона сорочка",
+                "Сині джинси"
+            ],
+            "en": [
+                "White socks",
+                "Red shirt",
+                "Blue jeans"
+            ],
+            "es": [
+                "Calcetines blancos",
+                "Camisa roja",
+                "Vaqueros azules"
+            ],
+            "pt": [
+                "Meias brancas",
+                "Camisa vermelha",
+                "Jeans azuis"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Латинская Америка",
+                "Удача",
+                "Цвет"
+            ],
+            "uk": [
+                "Латинська Америка",
+                "Удача",
+                "Колір"
+            ],
+            "en": [
+                "Latin America",
+                "Luck",
+                "Color"
+            ],
+            "es": [
+                "América Latina",
+                "Suerte",
+                "Color"
+            ],
+            "pt": [
+                "América Latina",
+                "Sorte",
+                "Cor"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Носят под одеждой, а её цвет обещает удачу в Новом году.",
+                "Красный — для любви, жёлтый — для денег."
+            ],
+            "uk": [
+                "Носять під одягом, а її колір обіцяє удачу в Новому році.",
+                "Червоний — для любові, жовтий — для грошей."
+            ],
+            "en": [
+                "Worn under clothes, its color promises good luck in the New Year.",
+                "Red is for love, yellow is for money."
+            ],
+            "es": [
+                "Se usa debajo de la ropa, y su color promete suerte en Año Nuevo.",
+                "El rojo es para el amor, el amarillo para el dinero."
+            ],
+            "pt": [
+                "Usada sob a roupa, sua cor promete sorte no Ano Novo.",
+                "O vermelho é para o amor, o amarelo para o dinheiro."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это латиноамериканская традиция",
+            "uk": "Це латиноамериканська традиція",
+            "en": "This is a Latin American tradition",
+            "es": "Es una tradición latinoamericana",
+            "pt": "É uma tradição latino-americana"
+        },
+        "qwestion": {
+            "ru": "Что нужно надеть в Новый год, чтобы привлечь любовь или богатство?",
+            "uk": "Що потрібно надіти в Новий рік, щоб залучити любов чи багатство?",
+            "en": "What should you wear on New Year's to attract love or wealth?",
+            "es": "¿Qué se debe vestir en Año Nuevo para atraer el amor o la riqueza?",
+            "pt": "O que se deve vestir no Ano Novo para atrair amor ou riqueza?"
+        },
+        "definition": {
+            "ru": "Ношение цветного нижнего белья в новогоднюю ночь — это популярная традиция в Латинской Америке. Красный цвет символизирует любовь, а жёлтый — богатство. Считается, что выбор цвета определяет, что принесёт удачу в новом году.",
+            "uk": "Носіння кольорової спідньої білизни в новорічну ніч — це популярна традиція в Латинській Америці. Червоний колір символізує любов, а жовтий — багатство. Вважається, що вибір кольору визначає, що принесе удачу в новому році.",
+            "en": "Wearing colored underwear on New Year's Eve is a popular tradition in Latin America. Red symbolizes love, and yellow symbolizes wealth. It is believed that the color choice determines what will bring good luck in the new year.",
+            "es": "Usar ropa interior de colores en Nochevieja es una tradición popular en América Latina. El color rojo simboliza el amor y el amarillo la riqueza. Se cree que la elección del color determina lo que traerá buena suerte en el nuevo año.",
+            "pt": "Usar roupa íntima colorida na Véspera de Ano Novo é uma tradição popular na América Latina. A cor vermelha simboliza o amor, e a amarela, a riqueza. Acredita-se que a escolha da cor determina o que trará sorte no ano novo."
+        },
+        "antipod": {
+            "ru": "Черная шляпа",
+            "uk": "Чорний капелюх",
+            "en": "Black Hat",
+            "es": "Sombrero negro",
+            "pt": "Chapéu preto"
+        },
+        "hintFuiz": {
+            "ru": "Эту вещь определённого цвета надевают в Новый год для привлечения удачи.",
+            "uk": "Цю річ певного кольору надягають у Новий рік для залучення удачі.",
+            "en": "This item of a specific color is worn on New Year's to attract luck.",
+            "es": "Este artículo de un color específico se usa en Año Nuevo para atraer la suerte.",
+            "pt": "Este item de uma cor específica é usado no Ano Novo para atrair sorte."
+        },
+        "article": "https://en.wikipedia.org/wiki/New_Year_in_Latin_America#Yellow_and_red_underwear"
+    },
+    "imgFlag": "quizfoto"
+}

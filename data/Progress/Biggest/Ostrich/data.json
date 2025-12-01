@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Страус",
+            "uk": "Страус",
+            "en": "Ostrich",
+            "es": "Avestruz",
+            "pt": "Avestruz"
+        },
+        "wrong": {
+            "ru": [
+                "Нанду",
+                "Эму",
+                "Пингвин"
+            ],
+            "uk": [
+                "Нанду",
+                "Ему",
+                "Пінгвін"
+            ],
+            "en": [
+                "Rhea",
+                "Emu",
+                "Penguin"
+            ],
+            "es": [
+                "Ñandú",
+                "Emú",
+                "Pingüino"
+            ],
+            "pt": [
+                "Ema",
+                "Emu",
+                "Pinguim"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Яйца.",
+                "Африка.",
+                "Не летает."
+            ],
+            "uk": [
+                "Яйця.",
+                "Африка.",
+                "Не літає."
+            ],
+            "en": [
+                "Eggs.",
+                "Africa.",
+                "Flightless."
+            ],
+            "es": [
+                "Huevos.",
+                "África.",
+                "No vuela."
+            ],
+            "pt": [
+                "Ovos.",
+                "África.",
+                "Não voa."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "У него глаз больше, чем мозг.",
+                "Это самая высокая и быстрая птица на земле."
+            ],
+            "uk": [
+                "У нього око більше, ніж мозок.",
+                "Це найвища і найшвидша птаха на землі."
+            ],
+            "en": [
+                "Its eye is bigger than its brain.",
+                "It's the tallest and fastest bird on land."
+            ],
+            "es": [
+                "Su ojo es más grande que su cerebro.",
+                "Es el ave terrestre más alta y rápida."
+            ],
+            "pt": [
+                "Seu olho é maior que seu cérebro.",
+                "É a ave terrestre mais alta e rápida."
+            ]
+        },
+        "tooltip": {
+            "ru": "Эта птица откладывает самые крупные яйца.",
+            "uk": "Цей птах відкладає найбільші яйця.",
+            "en": "This bird lays the largest eggs.",
+            "es": "Esta ave pone los huevos más grandes.",
+            "pt": "Esta ave põe os maiores ovos."
+        },
+        "qwestion": {
+            "ru": "Какая птица не умеет летать, но является самой большой в мире?",
+            "uk": "Який птах не вміє літати, але є найбільшим у світі?",
+            "en": "What bird can't fly, but is the largest in the world?",
+            "es": "¿Qué ave no puede volar, pero es la más grande del mundo?",
+            "pt": "Qual pássaro não pode voar, mas é o maior do mundo?"
+        },
+        "definition": {
+            "ru": "Страус — это самая большая и тяжелая птица на Земле, неспособная летать. Вместо этого, он использует свои сильные ноги, чтобы бегать со скоростью до 70 км/ч. Он также откладывает самые большие яйца.",
+            "uk": "Страус — це найбільший і найважчий птах на Землі, нездатний літати. Замість цього, він використовує свої сильні ноги, щоб бігати зі швидкістю до 70 км/год. Він також відкладає найбільші яйця.",
+            "en": "The ostrich is the largest and heaviest bird on Earth and is unable to fly. Instead, it uses its powerful legs to run at speeds of up to 70 km/h. It also lays the largest eggs.",
+            "es": "El avestruz es el ave más grande y pesada de la Tierra, incapaz de volar. En su lugar, utiliza sus poderosas patas para correr a velocidades de hasta 70 km/h. También pone los huevos más grandes.",
+            "pt": "A avestruz é a maior e mais pesada ave da Terra, incapaz de voar. Em vez disso, ela usa suas pernas poderosas para correr a velocidades de até 70 km/h. Ela também põe os maiores ovos."
+        },
+        "antipod": {
+            "ru": "Казуар",
+            "uk": "Казуар",
+            "en": "Cassowary",
+            "es": "Casuario",
+            "pt": "Casuar"
+        },
+        "hintFuiz": {
+            "ru": "Эта птица самая большая на планете.",
+            "uk": "Цей птах найбільший на планеті.",
+            "en": "This bird is the largest on the planet.",
+            "es": "Esta ave es la más grande del planeta.",
+            "pt": "Esta ave é a maior do planeta."
+        },
+        "article": "https://en.wikipedia.org/wiki/Ostrich"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Аденозин",
+            "uk": "Аденозин",
+            "en": "Adenosine",
+            "es": "Adenosina",
+            "pt": "Adenosina"
+        },
+        "wrong": {
+            "ru": [
+                "Дофамин",
+                "Серотонин",
+                "Эндорфин"
+            ],
+            "uk": [
+                "Дофамін",
+                "Серотонін",
+                "Ендорфін"
+            ],
+            "en": [
+                "Dopamine",
+                "Serotonin",
+                "Endorphin"
+            ],
+            "es": [
+                "Dopamina",
+                "Serotonina",
+                "Endorfina"
+            ],
+            "pt": [
+                "Dopamina",
+                "Serotonina",
+                "Endorfina"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Кофеин.",
+                "Блокировка.",
+                "Бодрость."
+            ],
+            "uk": [
+                "Кофеїн.",
+                "Блокування.",
+                "Бадьорість."
+            ],
+            "en": [
+                "Caffeine.",
+                "Blocking.",
+                "Alertness."
+            ],
+            "es": [
+                "Cafeína.",
+                "Bloqueo.",
+                "Vigor."
+            ],
+            "pt": [
+                "Cafeína.",
+                "Bloqueio.",
+                "Vigor."
+            ]
+        },
+        "tooltip": {
+            "ru": "Он накапливается в мозге в течение дня и вызывает сонливость.",
+            "uk": "Він накопичується в мозку протягом дня і викликає сонливість.",
+            "en": "It builds up in the brain during the day and causes sleepiness.",
+            "es": "Se acumula en el cerebro durante el día y causa somnolencia.",
+            "pt": "Ele se acumula no cérebro durante o dia e causa sonolência."
+        },
+        "qwestion": {
+            "ru": "Действие какого нейромедиатора блокирует кофеин в мозге?",
+            "uk": "Дію якого нейромедіатора блокує кофеїн у мозку?",
+            "en": "The action of which neurotransmitter is blocked by caffeine in the brain?",
+            "es": "¿La acción de qué neurotransmisor es bloqueada por la cafeína en el cerebro?",
+            "pt": "A ação de qual neurotransmissor é bloqueada pela cafeína no cérebro?"
+        },
+        "definition": {
+            "ru": "Аденозин — это органическое соединение, нейромедиатор, который накапливается в мозге в течение дня и вызывает ощущение усталости и сонливости. Кофеин блокирует рецепторы аденозина, из-за чего человек ощущает бодрость.",
+            "uk": "Аденозин — це органічна сполука, нейромедіатор, який накопичується в мозку протягом дня і викликає відчуття втоми і сонливості. Кофеїн блокує рецептори аденозину, через що людина відчуває бадьорість.",
+            "en": "Adenosine is an organic compound, a neurotransmitter that builds up in the brain throughout the day and causes a feeling of tiredness and sleepiness. Caffeine blocks adenosine receptors, which is why a person feels alert.",
+            "es": "La adenosina es un compuesto orgánico, un neurotransmisor que se acumula en el cerebro durante el día y causa una sensación de cansancio y somnolencia. La cafeína bloquea los receptores de adenosina, por lo que una persona se siente alerta.",
+            "pt": "A adenosina é um composto orgânico, um neurotransmissor que se acumula no cérebro ao longo do dia e causa uma sensação de cansaço e sonolência. A cafeína bloqueia os receptores de adenosina, e é por isso que uma pessoa se sente alerta."
+        },
+        "antipod": {
+            "ru": "Адреналин",
+            "uk": "Адреналін",
+            "en": "Adrenaline",
+            "es": "Adrenalina",
+            "pt": "Adrenalina"
+        },
+        "hintFuiz": {
+            "ru": "Это блокирует кофеин в мозге.",
+            "uk": "Це блокує кофеїн у мозку.",
+            "en": "This is blocked by caffeine in the brain.",
+            "es": "Esto es bloqueado por la cafeína en el cerebro.",
+            "pt": "Isso é bloqueado pela cafeína no cérebro."
+        },
+        "riddle": {
+            "ru": [
+                "Посылает сигнал: 'Пора отдохнуть!'",
+                "Причина усталости."
+            ],
+            "uk": [
+                "Посилає сигнал: 'Час відпочити!'",
+                "Причина втоми."
+            ],
+            "en": [
+                "It sends the signal: 'Time to rest!'",
+                "The reason for fatigue."
+            ],
+            "es": [
+                "Envía la señal: '¡Hora de descansar!'",
+                "La causa de la fatiga."
+            ],
+            "pt": [
+                "Ele envia o sinal: 'Hora de descansar!'",
+                "A causa da fadiga."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Adenosine"
+    },
+    "imgFlag": "quizfoto"
+}

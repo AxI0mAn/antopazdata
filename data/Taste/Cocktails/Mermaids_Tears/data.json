@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Слезы русалки",
+            "uk": "Сльози русалки",
+            "en": "Mermaid's Tears",
+            "es": "Lágrimas de sirena",
+            "pt": "Lágrimas de sereia"
+        },
+        "wrong": {
+            "ru": [
+                "Морской бриз",
+                "Кровожадная Мэри",
+                "Океанский блюз"
+            ],
+            "uk": [
+                "Морський бриз",
+                "Кровожерна Мері",
+                "Океанський блюз"
+            ],
+            "en": [
+                "Sea Breeze",
+                "Bloody Mary",
+                "Ocean Blues"
+            ],
+            "es": [
+                "Brisa marina",
+                "Bloody Mary",
+                "Blues del océano"
+            ],
+            "pt": [
+                "Brisa do mar",
+                "Bloody Mary",
+                "Blues do oceano"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Водка.",
+                "Ром.",
+                "Легенда."
+            ],
+            "uk": [
+                "Горілка.",
+                "Ром.",
+                "Легенда."
+            ],
+            "en": [
+                "Vodka.",
+                "Rum.",
+                "Legend."
+            ],
+            "es": [
+                "Vodka.",
+                "Ron.",
+                "Leyenda."
+            ],
+            "pt": [
+                "Vodca.",
+                "Rum.",
+                "Lenda."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Вымышленный коктейль.",
+                "Коктейль-легенда."
+            ],
+            "uk": [
+                "Вигаданий коктейль.",
+                "Коктейль-легенда."
+            ],
+            "en": [
+                "A fictional cocktail.",
+                "A legendary cocktail."
+            ],
+            "es": [
+                "Un cóctel ficticio.",
+                "Un cóctel legendario."
+            ],
+            "pt": [
+                "Um coquetel fictício.",
+                "Um coquetel lendário."
+            ]
+        },
+        "tooltip": {
+            "ru": "Этого коктейля не существует, это легенда.",
+            "uk": "Цього коктейлю не існує, це легенда.",
+            "en": "This cocktail does not exist; it is a legend.",
+            "es": "Este cóctel no existe; es una leyenda.",
+            "pt": "Este coquetel não existe; é uma lenda."
+        },
+        "qwestion": {
+            "ru": "Как называется коктейль из водки, рома, коньяка и сока?",
+            "uk": "Як називається коктейль з горілки, рому, коньяку та соку?",
+            "en": "What is the name of a cocktail made of vodka, rum, cognac, and juice?",
+            "es": "¿Cuál es el nombre de un cóctel hecho de vodka, ron, coñac y jugo?",
+            "pt": "Qual é o nome de um coquetel feito de vodca, rum, conhaque e suco?"
+        },
+        "definition": {
+            "ru": "«Слезы русалки» — это вымышленное название коктейля, не имеющего стандартного рецепта. Это причудливое название, которое обычно предполагает синий или зеленый цвет и содержит сложную смесь крепких напитков и соков, созданную как развлекательную новинку.",
+            "uk": "«Сльози русалки» — це вигадана назва коктейлю, що не має стандартного рецепта. Це химерна назва, яка зазвичай передбачає синій або зелений колір і містить складну суміш міцних напоїв і соків, створену як розважальна новинка.",
+            "en": "Mermaid's Tears is a fictional name for a cocktail with no standard recipe. It is a whimsical name that typically suggests a blue or green color and contains a complex, possibly potent, mix of spirits and juices, often created as a novelty.",
+            "es": "Lágrimas de sirena es un nombre ficticio para un cóctel sin receta estándar. Es un nombre caprichoso que generalmente sugiere un color azul o verde y contiene una mezcla compleja, posiblemente potente, de licores y jugos, a menudo creada como una novedad.",
+            "pt": "Lágrimas de sereia é um nome fictício para um coquetel sem receita padrão. É um nome caprichoso que geralmente sugere uma cor azul ou verde e contém uma mistura complexa, possivelmente potente, de destilados e sucos, muitas vezes criada como uma novidade."
+        },
+        "antipod": {
+            "ru": "Голубая Маргарита",
+            "uk": "Блакитна Маргарита",
+            "en": "Blue Margarita",
+            "es": "Margarita Azul",
+            "pt": "Margarita Azul"
+        },
+        "hintFuiz": {
+            "ru": "Его имя описывает грусть мифического существа.",
+            "uk": "Його ім'я описує смуток міфічної істоти.",
+            "en": "Its name describes the sorrow of a mythical creature.",
+            "es": "Su nombre describe la tristeza de una criatura mítica.",
+            "pt": "Seu nome descreve a tristeza de uma criatura mítica."
+        },
+        "article": null
+    },
+    "imgFlag": "quizfoto" 
+}

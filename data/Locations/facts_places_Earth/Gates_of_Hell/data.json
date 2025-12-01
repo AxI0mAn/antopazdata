@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "«Врата ада» — газовый кратер в Дарвазе",
+            "uk": "«Ворота пекла» — газовий кратер у Дарвазі",
+            "en": "Darvaza gas crater, 'Gates of Hell'",
+            "es": "Cráter de gas de Darvaza, 'Las Puertas del Infierno'",
+            "pt": "Cratera de gás de Darvaza, 'Portas do Inferno'"
+        },
+        "wrong": {
+            "ru": [
+                "Лесной пожар",
+                "Вулкан Кракатау",
+                "Тунгусский метеорит"
+            ],
+            "uk": [
+                "Лісова пожежа",
+                "Вулкан Кракатау",
+                "Тунгуський метеорит"
+            ],
+            "en": [
+                "Forest fire",
+                "Krakatoa volcano",
+                "Tunguska meteorite"
+            ],
+            "es": [
+                "Incendio forestal",
+                "Volcán Krakatoa",
+                "Meteorito de Tunguska"
+            ],
+            "pt": [
+                "Incêndio florestal",
+                "Vulcão Krakatoa",
+                "Meteorito de Tunguska"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Огонь.",
+                "Туркменистан.",
+                "Скважина."
+            ],
+            "uk": [
+                "Вогонь.",
+                "Туркменістан.",
+                "Свердловина."
+            ],
+            "en": [
+                "Fire.",
+                "Turkmenistan.",
+                "Well."
+            ],
+            "es": [
+                "Fuego.",
+                "Turkmenistán.",
+                "Pozo."
+            ],
+            "pt": [
+                "Fogo.",
+                "Turcomenistão.",
+                "Poço."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Огненный провал в пустыне, который не гаснет.",
+                "Яма, подожжённая людьми, горит уже полвека."
+            ],
+            "uk": [
+                "Вогняний провал у пустелі, який не згасає.",
+                "Яма, підпалена людьми, горить уже півстоліття."
+            ],
+            "en": [
+                "A fiery pit in the desert that won't go out.",
+                "A hole set on fire by people that has burned for half a century."
+            ],
+            "es": [
+                "Un pozo de fuego en el desierto que no se apaga.",
+                "Un agujero incendiado por personas que arde desde hace medio siglo."
+            ],
+            "pt": [
+                "Um poço de fogo no deserto que não se apaga.",
+                "Um buraco incendiado por pessoas que queima há meio século."
+            ]
+        },
+        "tooltip": {
+            "ru": "После того как советские геологи подожгли его в Туркменистане.",
+            "uk": "Після того, як радянські геологи підпалили його в Туркменістані.",
+            "en": "After Soviet geologists set it on fire in Turkmenistan.",
+            "es": "Después de que geólogos soviéticos lo encendieran en Turkmenistán.",
+            "pt": "Depois que geólogos soviéticos o incendiaram no Turcomenistão."
+        },
+        "qwestion": {
+            "ru": "Какой газовый кратер горит непрерывно с 1971 года?",
+            "uk": "Який газовий кратер горить безперервно з 1971 року?",
+            "en": "Which gas crater has been burning continuously since 1971?",
+            "es": "¿Qué cráter de gas ha estado ardiendo continuamente desde 1971?",
+            "pt": "Qual cratera de gás tem queimado continuamente desde 1971?"
+        },
+        "definition": {
+            "ru": "Газовый кратер Дарваза, известный как «Врата ада», представляет собой постоянно горящий газовый кратер в пустыне Каракумы в Туркменистане. Он образовался в 1971 году, когда советские геологи бурили скважину в поисках газа. Земля под буровой установкой обвалилась, образовав огромный кратер. Чтобы предотвратить распространение метана, было решено поджечь его, ожидая, что газ выгорит за несколько недель. Однако он горит до сих пор, привлекая туристов.",
+            "uk": "Газовий кратер Дарваза, відомий як «Ворота пекла», є постійно палаючим газовим кратером у пустелі Каракуми в Туркменістані. Він утворився у 1971 році, коли радянські геологи бурили свердловину в пошуках газу. Земля під буровою установкою обвалилася, утворивши величезний кратер. Щоб запобігти поширенню метану, було вирішено підпалити його, очікуючи, що газ вигорить за кілька тижнів. Однак він горить досі, приваблюючи туристів.",
+            "en": "The Darvaza gas crater, known as the 'Gates of Hell', is a continuously burning natural gas crater in the Karakum Desert of Turkmenistan. It was formed in 1971 when Soviet geologists were drilling for a gas field. The ground beneath the drilling rig collapsed, creating a large crater. To prevent the spread of methane gas, it was decided to light it on fire, with the expectation that the gas would burn out in a few weeks. It has been burning ever since, attracting tourists.",
+            "es": "El cráter de gas de Darvaza, conocido como 'Las Puertas del Infierno', es un cráter de gas natural que arde continuamente en el desierto de Karakum, Turkmenistán. Se formó en 1971 cuando geólogos soviéticos estaban perforando en busca de un yacimiento de gas. El suelo debajo de la plataforma de perforación se derrumbó, creando un gran cráter. Para evitar la propagación del gas metano, se decidió prenderle fuego, con la expectativa de que el gas se extinguiría en unas pocas semanas. Ha estado ardiendo desde entonces, atrayendo a turistas.",
+            "pt": "A cratera de gás de Darvaza, conhecida como as 'Portas do Inferno', é uma cratera de gás natural em chamas contínuas no deserto de Karakum, no Turcomenistão. Ela foi formada em 1971, quando geólogos soviéticos estavam perfurando em busca de um campo de gás. O solo sob a plataforma de perfuração desabou, criando uma grande cratera. Para evitar a propagação do gás metano, decidiu-se acendê-la, com a expectativa de que o gás se esgotaria em poucas semanas. Ela tem queimado desde então, atraindo turistas."
+        },
+        "antipod": {
+            "ru": "Вулкан Этна",
+            "uk": "Вулкан Етна",
+            "en": "Mount Etna",
+            "es": "Monte Etna",
+            "pt": "Monte Etna"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих мест, является постоянно горящим кратером?",
+            "uk": "Яке з цих місць є постійно палаючим кратером?",
+            "en": "Which of these places is a continuously burning crater?",
+            "es": "¿Cuál de estos lugares es un cráter en llamas de forma continua?",
+            "pt": "Qual desses lugares é uma cratera em chamas continuamente?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Darvaza_gas_crater"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Октоберфест",
+            "uk": "Октоберфест",
+            "en": "Oktoberfest",
+            "es": "Oktoberfest",
+            "pt": "Oktoberfest"
+        },
+        "wrong": {
+            "ru": [
+                "Вальпургиева ночь",
+                "Карнавал",
+                "Хэллоуин"
+            ],
+            "uk": [
+                "Вальпургієва ніч",
+                "Карнавал",
+                "Хелловін"
+            ],
+            "en": [
+                "Walpurgis Night",
+                "Carnival",
+                "Halloween"
+            ],
+            "es": [
+                "Noche de Walpurgis",
+                "Carnaval",
+                "Halloween"
+            ],
+            "pt": [
+                "Noite de Walpurgis",
+                "Carnaval",
+                "Halloween"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Мюнхен",
+                "Пиво",
+                "Фестиваль"
+            ],
+            "uk": [
+                "Мюнхен",
+                "Пиво",
+                "Фестиваль"
+            ],
+            "en": [
+                "Munich",
+                "Beer",
+                "Festival"
+            ],
+            "es": [
+                "Múnich",
+                "Cerveza",
+                "Festival"
+            ],
+            "pt": [
+                "Munique",
+                "Cerveja",
+                "Festival"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Пиво льётся рекой.",
+                "Главный повод для праздника в Баварии."
+            ],
+            "uk": [
+                "Пиво ллється рікою.",
+                "Головний привід для свята в Баварії."
+            ],
+            "en": [
+                "Beer flows like a river.",
+                "The main reason for a celebration in Bavaria."
+            ],
+            "es": [
+                "La cerveza fluye como un río.",
+                "El principal motivo de celebración en Baviera."
+            ],
+            "pt": [
+                "A cerveja corre como um rio.",
+                "O principal motivo de celebração na Baviera."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это самый большой в мире фестиваль пива.",
+            "uk": "Це найбільший у світі фестиваль пива.",
+            "en": "It's the world's largest beer festival.",
+            "es": "Es el festival de cerveza más grande del mundo.",
+            "pt": "É o maior festival de cerveja do mundo."
+        },
+        "qwestion": {
+            "ru": "Какой осенний праздник Германии собирает миллионы посетителей?",
+            "uk": "Яке осіннє свято Німеччини збирає мільйони відвідувачів?",
+            "en": "Which autumn festival in Germany gathers millions of visitors?",
+            "es": "¿Qué festival de otoño en Alemania reúne a millones de visitantes?",
+            "pt": "Qual festival de outono na Alemanha reúne milhões de visitantes?"
+        },
+        "definition": {
+            "ru": "Октоберфест — это самый крупный в мире фестиваль пива и народных гуляний, который ежегодно проводится в Мюнхене, Германия. Он длится от 16 до 18 дней, начиная с середины сентября и заканчиваясь в первое воскресенье октября. Фестиваль известен огромными пивными палатками, традиционной баварской музыкой и костюмами.",
+            "uk": "Октоберфест — це найбільший у світі фестиваль пива і народних гулянь, який щорічно проводиться в Мюнхені, Німеччина. Він триває від 16 до 18 днів, починаючись із середини вересня і закінчуючись в першу неділю жовтня. Фестиваль відомий величезними пивними намети, традиційною баварською музикою і костюмами.",
+            "en": "Oktoberfest is the world's largest beer and folk festival, held annually in Munich, Germany. It lasts from 16 to 18 days, starting in mid-September and ending on the first Sunday of October. The festival is known for its huge beer tents, traditional Bavarian music, and costumes.",
+            "es": "Oktoberfest es el festival de cerveza y folclore más grande del mundo, que se celebra anualmente en Múnich, Alemania. Dura de 16 a 18 días, comenzando a mediados de septiembre y terminando el primer domingo de octubre. El festival es conocido por sus enormes carpas de cerveza, música tradicional bávara y trajes.",
+            "pt": "Oktoberfest é o maior festival de cerveja e folclore do mundo, realizado anualmente em Munique, Alemanha. Dura de 16 a 18 dias, começando em meados de setembro e terminando no primeiro domingo de outubro. O festival é conhecido por suas enormes tendas de cerveja, música tradicional bávara e trajes."
+        },
+        "antipod": {
+            "ru": "День Святого Мартина",
+            "uk": "День Святого Мартина",
+            "en": "St. Martin's Day",
+            "es": "Día de San Martín",
+            "pt": "Dia de São Martinho"
+        },
+        "hintFuiz": {
+            "ru": "Не детский праздник.",
+            "uk": "Не дитяче свято.",
+            "en": "Not a children's holiday.",
+            "es": "No es una fiesta para niños.",
+            "pt": "Não é um feriado para crianças."
+        },
+        "article": "https://en.wikipedia.org/wiki/Oktoberfest"
+    },
+    "imgFlag": "quizfoto"
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Airbus A380",
+            "uk": "Airbus A380",
+            "en": "Airbus A380",
+            "es": "Airbus A380",
+            "pt": "Airbus A380"
+        },
+        "wrong": {
+            "ru": [
+                "Boeing 747",
+                "Airbus A350",
+                "Boeing 777"
+            ],
+            "uk": [
+                "Boeing 747",
+                "Airbus A350",
+                "Boeing 777"
+            ],
+            "en": [
+                "Boeing 747",
+                "Airbus A350",
+                "Boeing 777"
+            ],
+            "es": [
+                "Boeing 747",
+                "Airbus A350",
+                "Boeing 777"
+            ],
+            "pt": [
+                "Boeing 747",
+                "Airbus A350",
+                "Boeing 777"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Самолет.",
+                "Пассажиры.",
+                "Два этажа."
+            ],
+            "uk": [
+                "Літак.",
+                "Пасажири.",
+                "Два поверхи."
+            ],
+            "en": [
+                "Airplane.",
+                "Passengers.",
+                "Double-decker."
+            ],
+            "es": [
+                "Avión.",
+                "Pasajeros.",
+                "Dos pisos."
+            ],
+            "pt": [
+                "Avião.",
+                "Passageiros.",
+                "Dois andares."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Летает высоко, и имеет два этажа.",
+                "Самый большой 'автобус' в небе."
+            ],
+            "uk": [
+                "Літає високо, і має два поверхи.",
+                "Найбільший 'автобус' у небі."
+            ],
+            "en": [
+                "It flies high and has two floors.",
+                "The largest 'bus' in the sky."
+            ],
+            "es": [
+                "Vuela alto y tiene dos pisos.",
+                "El 'autobús' más grande en el cielo."
+            ],
+            "pt": [
+                "Ele voa alto e tem dois andares.",
+                "O maior 'ônibus' no céu."
+            ]
+        },
+        "tooltip": {
+            "ru": "Он может перевозить до 853 пассажиров.",
+            "uk": "Він може перевозити до 853 пасажирів.",
+            "en": "It can carry up to 853 passengers.",
+            "es": "Puede transportar hasta 853 pasajeros.",
+            "pt": "Pode transportar até 853 passageiros."
+        },
+        "qwestion": {
+            "ru": "Какой пассажирский самолет является самым большим в мире?",
+            "uk": "Який пасажирський літак є найбільшим у світі?",
+            "en": "What is the largest passenger aircraft in the world?",
+            "es": "¿Cuál es el avión de pasajeros más grande del mundo?",
+            "pt": "Qual é o maior avião de passageiros do mundo?"
+        },
+        "definition": {
+            "ru": "Airbus A380 — это двухпалубный широкофюзеляжный самолет, крупнейший пассажирский авиалайнер в мире. Производимый компанией Airbus, он может перевозить более 800 пассажиров, но его производство было прекращено в 2021 году.",
+            "uk": "Airbus A380 — це двопалубний широкофюзеляжний літак, найбільший пасажирський авіалайнер у світі. Вироблений компанією Airbus, він може перевозити понад 800 пасажирів, але його виробництво було припинено в 2021 році.",
+            "en": "The Airbus A380 is a double-deck, wide-body aircraft, the largest passenger airliner in the world. Manufactured by Airbus, it can carry over 800 passengers, but its production was discontinued in 2021.",
+            "es": "El Airbus A380 es un avión de fuselaje ancho de dos pisos, el avión de pasajeros más grande del mundo. Fabricado por Airbus, puede transportar a más de 800 pasajeros, pero su producción se descontinuó en 2021.",
+            "pt": "O Airbus A380 é um avião de dois andares e corpo largo, o maior avião de passageiros do mundo. Fabricado pela Airbus, ele pode transportar mais de 800 passageiros, mas sua produção foi descontinuada em 2021."
+        },
+        "antipod": {
+            "ru": "Ан-225 «Мрия»",
+            "uk": "Ан-225 «Мрія»",
+            "en": "An-225 'Mriya'",
+            "es": "An-225 «Mriya»",
+            "pt": "An-225 'Mriya'"
+        },
+        "hintFuiz": {
+            "ru": "Это самый большой пассажирский самолет.",
+            "uk": "Це найбільший пасажирський літак.",
+            "en": "This is the largest passenger plane.",
+            "es": "Este es el avión de pasajeros más grande.",
+            "pt": "Este é o maior avião de passageiros."
+        },
+        "article": "https://en.wikipedia.org/wiki/Airbus_A380"
+    },
+    "imgFlag": "all" 
+}

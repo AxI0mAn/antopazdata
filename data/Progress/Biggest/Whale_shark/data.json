@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Китовая акула",
+            "uk": "Китова акула",
+            "en": "Whale shark",
+            "es": "Tiburón ballena",
+            "pt": "Tubarão-baleia"
+        },
+        "wrong": {
+            "ru": [
+                "Касатка",
+                "Манта",
+                "Тигровая акула"
+            ],
+            "uk": [
+                "Касатка",
+                "Манта",
+                "Тигрова акула"
+            ],
+            "en": [
+                "Killer whale",
+                "Manta ray",
+                "Tiger shark"
+            ],
+            "es": [
+                "Orca",
+                "Manta raya",
+                "Tiburón tigre"
+            ],
+            "pt": [
+                "Orca",
+                "Manta",
+                "Tubarão-tigre"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Планктон.",
+                "Акула.",
+                "Фильтратор."
+            ],
+            "uk": [
+                "Планктон.",
+                "Акула.",
+                "Фільтратор."
+            ],
+            "en": [
+                "Plankton.",
+                "Shark.",
+                "Filter-feeder."
+            ],
+            "es": [
+                "Plancton.",
+                "Tiburón.",
+                "Filtrador."
+            ],
+            "pt": [
+                "Plâncton.",
+                "Tubarão.",
+                "Filtrador."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Самая крупная рыба в океане.",
+                "Самая большая, но питается самым маленьким."
+            ],
+            "uk": [
+                "Найбільша риба в океані.",
+                "Найбільша, але харчується найменшим."
+            ],
+            "en": [
+                "The largest fish in the ocean.",
+                "The biggest, but eats the smallest things."
+            ],
+            "es": [
+                "El pez más grande del océano.",
+                "El más grande, pero se alimenta de lo más pequeño."
+            ],
+            "pt": [
+                "O maior peixe do oceano.",
+                "O maior, mas se alimenta das coisas mais pequenas."
+            ]
+        },
+        "tooltip": {
+            "ru": "Она питается планктоном и является полностью безопасной для человека.",
+            "uk": "Вона харчується планктоном і є повністю безпечною для людини.",
+            "en": "It feeds on plankton and is completely harmless to humans.",
+            "es": "Se alimenta de plancton y es totalmente inofensivo para los humanos.",
+            "pt": "Ele se alimenta de plâncton e é totalmente inofensivo para os humanos."
+        },
+        "qwestion": {
+            "ru": "Какая самая большая рыба на планете?",
+            "uk": "Яка найбільша риба на планеті?",
+            "en": "What is the largest fish on the planet?",
+            "es": "¿Cuál es el pez más grande del planeta?",
+            "pt": "Qual é o maior peixe do planeta?"
+        },
+        "definition": {
+            "ru": "Китовая акула — это самая большая рыба в мире, достигающая 18 метров в длину. Несмотря на свои размеры, она питается планктоном и мелкой рыбой, фильтруя воду. Она полностью безопасна для человека.",
+            "uk": "Китова акула — це найбільша риба у світі, що досягає 18 метрів у довжину. Попри свої розміри, вона харчується планктоном і дрібною рибою, фільтруючи воду. Вона повністю безпечна для людини.",
+            "en": "The whale shark is the largest fish in the world, reaching up to 18 meters in length. Despite its size, it feeds on plankton and small fish by filtering water. It is completely harmless to humans.",
+            "es": "El tiburón ballena es el pez más grande del mundo, alcanzando hasta 18 metros de longitud. A pesar de su tamaño, se alimenta de plancton y peces pequeños filtrando el agua. Es completamente inofensivo para los humanos.",
+            "pt": "O tubarão-baleia é o maior peixe do mundo, atingindo até 18 metros de comprimento. Apesar de seu tamanho, ele se alimenta de plâncton e pequenos peixes, filtrando a água. É completamente inofensivo para os humanos."
+        },
+        "antipod": {
+            "ru": "Белая акула",
+            "uk": "Біла акула",
+            "en": "Great white shark",
+            "es": "Tiburón blanco",
+            "pt": "Tubarão-branco"
+        },
+        "hintFuiz": {
+            "ru": "Эта самая большая рыба, безопасна для человека.",
+            "uk": "Ця найбільша риба, безпечна для людини.",
+            "en": "This largest fish is harmless to humans.",
+            "es": "Este pez más grande es inofensivo para los humanos.",
+            "pt": "Este maior peixe é inofensivo para os humanos."
+        },
+        "article": "https://en.wikipedia.org/wiki/Whale_shark"
+    },
+    "imgFlag": "all" 
+}

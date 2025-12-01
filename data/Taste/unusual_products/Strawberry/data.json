@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Клубника",
+            "uk": "Полуниця",
+            "en": "Strawberry",
+            "es": "Fresa",
+            "pt": "Morango"
+        },
+        "wrong": {
+            "ru": [
+                "Малина",
+                "Ежевика",
+                "Клюква"
+            ],
+            "uk": [
+                "Малина",
+                "Ожина",
+                "Журавлина"
+            ],
+            "en": [
+                "Raspberry",
+                "Blackberry",
+                "Cranberry"
+            ],
+            "es": [
+                "Frambuesa",
+                "Zarzamora",
+                "Arándano rojo"
+            ],
+            "pt": [
+                "Framboesa",
+                "Amora",
+                "Arando"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Лето.",
+                "Красный.",
+                "Многоорешек."
+            ],
+            "uk": [
+                "Літо.",
+                "Червоний.",
+                "Багатогорішок."
+            ],
+            "en": [
+                "Summer.",
+                "Red.",
+                "Aggregate fruit."
+            ],
+            "es": [
+                "Verano.",
+                "Rojo.",
+                "Polifruta."
+            ],
+            "pt": [
+                "Verão.",
+                "Vermelho.",
+                "Fruto agregado."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Я красная и сладкая, но все мои семена снаружи.",
+                "Меня все называют ягодой."
+            ],
+            "uk": [
+                "Я червона і солодка, але все моє насіння зовні.",
+                "Мене всі називають ягодою."
+            ],
+            "en": [
+                "I am red and sweet, but all my seeds are on the outside.",
+                "Everyone calls me a berry."
+            ],
+            "es": [
+                "Soy roja y dulce, pero todas mis semillas están por fuera.",
+                "Todo el mundo me llama una baya."
+            ],
+            "pt": [
+                "Eu sou vermelha e doce, mas todas as minhas sementes estão do lado de fora.",
+                "Todos me chamam de baga."
+            ]
+        },
+        "tooltip": {
+            "ru": "На её поверхности расположены настоящие плоды — мелкие сухие орешки.",
+            "uk": "На її поверхні розташовані справжні плоди — дрібні сухі горішки.",
+            "en": "The true fruits are located on its surface — tiny dry nutlets.",
+            "es": "Los verdaderos frutos se encuentran en su superficie: pequeñas nueces secas.",
+            "pt": "Os verdadeiros frutos estão localizados em sua superfície: pequenas nozes secas."
+        },
+        "qwestion": {
+            "ru": "Что является ложной ягодой или многоорешком, а не настоящей ягодой?",
+            "uk": "Що є несправжньою ягодою або багатогорішком, а не справжньою ягодою?",
+            "en": "What is a false berry or aggregate accessory fruit, and not a true berry?",
+            "es": "¿Qué es una baya falsa o un fruto accesorio múltiple, y no una verdadera baya?",
+            "pt": "O que é uma falsa baga ou um fruto agregado, e não uma verdadeira baga?"
+        },
+        "definition": {
+            "ru": "Клубника — это ложная ягода, потому что её мясистая часть развивается из цветоложа, а не из завязи цветка. Настоящие плоды клубники — это мелкие сухие семена, расположенные на её внешней поверхности.",
+            "uk": "Полуниця — це несправжня ягода, тому що її м'ясиста частина розвивається з квітколожа, а не з зав'язі квітки. Справжні плоди полуниці — це дрібне сухе насіння, розташоване на її зовнішній поверхні.",
+            "en": "The strawberry is a false berry because its fleshy part develops from the receptacle of the flower, not from the ovary. The true fruits of the strawberry are the tiny dry seeds located on its outer surface.",
+            "es": "La fresa es una baya falsa porque su parte carnosa se desarrolla a partir del receptáculo de la flor, no del ovario. Los verdaderos frutos de la fresa son las pequeñas semillas secas ubicadas en su superficie externa.",
+            "pt": "O morango é uma falsa baga porque sua parte carnosa se desenvolve a partir do receptáculo da flor, e não do ovário. Os verdadeiros frutos do morango são as pequenas sementes secas localizadas em sua superfície externa."
+        },
+        "antipod": {
+            "ru": "Тыква",
+            "uk": "Гарбуз",
+            "en": "Pumpkin",
+            "es": "Calabaza",
+            "pt": "Abóbora"
+        },
+        "hintFuiz": {
+            "ru": "Что из них, на самом деле, не ягода?",
+            "uk": "Що з них, насправді, не ягода?",
+            "en": "Which of them is not actually a berry?",
+            "es": "¿Cuál de ellos no es realmente una baya?",
+            "pt": "Qual deles não é realmente uma baga?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Strawberry"
+    },
+    "imgFlag": "all"
+}

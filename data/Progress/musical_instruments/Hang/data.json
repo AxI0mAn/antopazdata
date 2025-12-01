@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Ханг",
+            "uk": "Ханг",
+            "en": "Hang",
+            "es": "Hang",
+            "pt": "Hang"
+        },
+        "wrong": {
+            "ru": [
+                "Тарелка",
+                "Калимба",
+                "Глюкофон"
+            ],
+            "uk": [
+                "Тарілка",
+                "Калімба",
+                "Глюкофон"
+            ],
+            "en": [
+                "Cymbal",
+                "Kalimba",
+                "Steel tongue drum"
+            ],
+            "es": [
+                "Platillo",
+                "Kalimba",
+                "Tambor de lengüeta de acero"
+            ],
+            "pt": [
+                "Prato",
+                "Kalimba",
+                "Tambor de língua de aço"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Медитация.",
+                "Сталь.",
+                "Руки."
+            ],
+            "uk": [
+                "Медитація.",
+                "Сталь.",
+                "Руки."
+            ],
+            "en": [
+                "Meditation.",
+                "Steel.",
+                "Hands."
+            ],
+            "es": [
+                "Meditación.",
+                "Acero.",
+                "Manos."
+            ],
+            "pt": [
+                "Meditação.",
+                "Aço.",
+                "Mãos."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Что издаёт звук «космических колокольчиков»?",
+                "Какой акустический инструмент разработан в 2000 году?"
+            ],
+            "uk": [
+                "Що видає звук «космічних дзвіночків»?",
+                "Який акустичний інструмент розроблено у 2000 році?"
+            ],
+            "en": [
+                "What makes the sound of 'celestial bells'?",
+                "Which acoustic instrument was developed in 2000?"
+            ],
+            "es": [
+                "¿Qué produce el sonido de 'campanas celestiales'?",
+                "¿Qué instrumento acústico fue desarrollado en el año 2000?"
+            ],
+            "pt": [
+                "O que produz o som de 'sinos celestiais'?",
+                "Qual instrumento acústico foi desenvolvido no ano 2000?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Он был разработан в Швейцарии в 2000 году и является одним из самых молодых акустических инструментов.",
+            "uk": "Він був розроблений у Швейцарії в 2000 році і є одним з наймолодших акустичних інструментів.",
+            "en": "It was developed in Switzerland in 2000 and is one of the youngest acoustic instruments.",
+            "es": "Fue desarrollado en Suiza en 2000 y es uno de los instrumentos acústicos más jóvenes.",
+            "pt": "Foi desenvolvido na Suíça em 2000 e é um dos instrumentos acústicos mais jovens."
+        },
+        "qwestion": {
+            "ru": "Какой инструмент из двух соединенных полусфер звучит как «космические колокольчики»?",
+            "uk": "Який інструмент з двох з'єднаних півсфер звучить як «космічні дзвіночки»?",
+            "en": "Which instrument made of two joined hemispheres sounds like “celestial bells”?",
+            "es": "¿Qué instrumento de dos semiesferas unidas suena como “campanas celestiales”?",
+            "pt": "Qual instrumento feito de duas meias-conchas unidas soa como “sinos celestiais”?"
+        },
+        "definition": {
+            "ru": "Ханг — это мелодичный ударный инструмент, состоящий из двух склеенных металлических полусфер. На нем играют руками, создавая мягкий и гармоничный звук, который часто ассоциируется с медитативной музыкой.",
+            "uk": "Ханг — це мелодійний ударний інструмент, що складається з двох склеєних металевих півсфер. На ньому грають руками, створюючи м'який і гармонійний звук, який часто асоціюється з медитативною музикою.",
+            "en": "The hang is a melodic percussion instrument consisting of two glued metal half-shells. It is played with the hands, creating a soft and harmonious sound often associated with meditative music.",
+            "es": "El hang es un instrumento de percusión melódico compuesto por dos semiesferas metálicas unidas. Se toca con las manos, creando un sonido suave y armónico que a menudo se asocia con la música meditativa.",
+            "pt": "O hang é um instrumento de percussão melódico composto por duas meias-conchas de metal unidas. É tocado com as mãos, criando um som suave e harmonioso frequentemente associado à música meditativa."
+        },
+        "antipod": {
+            "ru": "Гонг",
+            "uk": "Гонг",
+            "en": "Gong",
+            "es": "Gong",
+            "pt": "Gongo"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих инструментов придуман позже?",
+            "uk": "Який з цих інструментів придумано пізніше?",
+            "en": "Which of these instruments was invented later?",
+            "es": "¿Cuál de estos instrumentos fue inventado después?",
+            "pt": "Qual desses instrumentos foi inventado depois?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Hang_(instrument)"
+    },
+    "imgFlag": "all" 
+}

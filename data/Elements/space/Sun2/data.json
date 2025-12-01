@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Солнце",
+            "uk": "Сонце",
+            "en": "The Sun",
+            "es": "El Sol",
+            "pt": "O Sol"
+        },
+        "wrong": {
+            "ru": [
+                "Пыль",
+                "Земля",
+                "Луна"
+            ],
+            "uk": [
+                "Пил",
+                "Земля",
+                "Місяць"
+            ],
+            "en": [
+                "Dust",
+                "Earth",
+                "Moon"
+            ],
+            "es": [
+                "Polvo",
+                "Tierra",
+                "Luna"
+            ],
+            "pt": [
+                "Poeira",
+                "Terra",
+                "Lua"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Центр системы.",
+                "Горячая плазма.",
+                "Термоядерный синтез."
+            ],
+            "uk": [
+                "Центр системи.",
+                "Гаряча плазма.",
+                "Термоядерний синтез."
+            ],
+            "en": [
+                "System's center.",
+                "Hot plasma.",
+                "Thermonuclear fusion."
+            ],
+            "es": [
+                "Centro del sistema.",
+                "Plasma caliente.",
+                "Fusión termonuclear."
+            ],
+            "pt": [
+                "Centro do sistema.",
+                "Plasma quente.",
+                "Fusão termonuclear."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Я даю свет и тепло, но меня нельзя коснуться. Кто я?",
+                "Что обеспечивает свет на Земле?"
+            ],
+            "uk": [
+                "Я даю світло і тепло, але мене не можна торкнутися. Хто я?",
+                "Що забезпечує світло на Землі?"
+            ],
+            "en": [
+                "I give light and warmth, but I cannot be touched. What am I?",
+                "What provides light on Earth?"
+            ],
+            "es": [
+                "Doy luz y calor, pero no se me puede tocar. ¿Qué soy?",
+                "¿Qué proporciona luz en la Tierra?"
+            ],
+            "pt": [
+                "Eu dou luz e calor, mas não posso ser tocado. Quem sou eu?",
+                "O que fornece luz na Terra?"
+            ]
+        },
+        "qwestion": {
+            "ru": "Что составляет 99,86% всей массы Солнечной системы?",
+            "uk": "Що становить 99,86% всієї маси Сонячної системи?",
+            "en": "What makes up 99.86% of the entire mass of the Solar System?",
+            "es": "¿Qué constituye el 99.86% de toda la masa del Sistema Solar?",
+            "pt": "O que constitui 99,86% de toda a massa do Sistema Solar?"
+        },
+        "tooltip": {
+            "ru": "Каждую секунду оно преобразует более 4 миллионов тонн вещества в энергию.",
+            "uk": "Кожну секунду воно перетворює понад 4 мільйони тонн речовини в енергію.",
+            "en": "Every second it converts over 4 million tons of matter into energy.",
+            "es": "Cada segundo convierte más de 4 millones de toneladas de materia en energía.",
+            "pt": "A cada segundo, ele converte mais de 4 milhões de toneladas de matéria em energia."
+        },
+        "definition": {
+            "ru": "Солнце — это звезда в центре нашей Солнечной системы. Оно представляет собой почти идеальную сферу горячей плазмы и излучает энергию, которая является источником света и тепла для жизни на Земле.",
+            "uk": "Сонце — це зірка в центрі нашої Сонячної системи. Воно являє собою майже ідеальну сферу гарячої плазми та випромінює енергію, яка є джерелом світла і тепла для життя на Землі.",
+            "en": "The Sun is the star at the center of our Solar System. It is an almost perfect sphere of hot plasma and radiates energy that is the source of light and heat for life on Earth.",
+            "es": "El Sol es la estrella en el centro de nuestro Sistema Solar. Es una esfera casi perfecta de plasma caliente e irradia energía que es la fuente de luz y calor para la vida en la Tierra.",
+            "pt": "O Sol é a estrela no centro do nosso Sistema Solar. É uma esfera quase perfeita de plasma quente e irradia energia que é a fonte de luz e calor para a vida na Terra."
+        },
+        "antipod": {
+            "ru": "Юпитер",
+            "uk": "Юпітер",
+            "en": "Jupiter",
+            "es": "Júpiter",
+            "pt": "Júpiter"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих двух небесных тел массивнее?",
+            "uk": "Яке з цих двох небесних тіл масивніше?",
+            "en": "Which of these two celestial bodies is more massive?",
+            "es": "¿Cuál de estos dos cuerpos celestes es más masivo?",
+            "pt": "Qual desses dois corpos celestes é mais massivo?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Sun"
+    },
+    "imgFlag": "all" 
+}

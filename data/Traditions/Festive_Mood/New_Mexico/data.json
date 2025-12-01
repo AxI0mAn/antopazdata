@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Нью-Мексико",
+            "uk": "Нью-Мексико",
+            "en": "New Mexico",
+            "es": "Nuevo México",
+            "pt": "Novo México"
+        },
+        "wrong": {
+            "ru": [
+                "Аляска",
+                "Алабама",
+                "Оклахома"
+            ],
+            "uk": [
+                "Аляска",
+                "Алабама",
+                "Оклахома"
+            ],
+            "en": [
+                "Alaska",
+                "Alabama",
+                "Oklahoma"
+            ],
+            "es": [
+                "Alaska",
+                "Alabama",
+                "Oklahoma"
+            ],
+            "pt": [
+                "Alasca",
+                "Alabama",
+                "Oklahoma"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Фестиваль",
+                "Альбукерке",
+                "Шары"
+            ],
+            "uk": [
+                "Фестиваль",
+                "Альбукерке",
+                "Кулі"
+            ],
+            "en": [
+                "Festival",
+                "Albuquerque",
+                "Balloons"
+            ],
+            "es": [
+                "Festival",
+                "Albuquerque",
+                "Globos"
+            ],
+            "pt": [
+                "Festival",
+                "Albuquerque",
+                "Balões"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Фестиваль воздушных шаров.",
+                "Шары в Альбукерке."
+            ],
+            "uk": [
+                "Фестиваль повітряних куль.",
+                "Кулі в Альбукерке."
+            ],
+            "en": [
+                "The festival of hot air balloons.",
+                "Balloons in Albuquerque."
+            ],
+            "es": [
+                "El festival de globos aerostáticos.",
+                "Globos en Albuquerque."
+            ],
+            "pt": [
+                "O festival de balões de ar quente.",
+                "Balões em Albuquerque."
+            ]
+        },
+        "tooltip": {
+            "ru": "Ежегодный фестиваль, который проводится в Альбукерке в начале октября.",
+            "uk": "Щорічний фестиваль, який проводиться в Альбукерке на початку жовтня.",
+            "en": "An annual festival that takes place in Albuquerque in early October.",
+            "es": "Un festival anual que se celebra en Albuquerque a principios de octubre.",
+            "pt": "Um festival anual que ocorre em Albuquerque no início de outubro."
+        },
+        "qwestion": {
+            "ru": "В каком американском штате проходит крупнейший фестиваль воздушных шаров в мире?",
+            "uk": "У якому американському штаті проходить найбільший фестиваль повітряних куль у світі?",
+            "en": "In which American state does the world's largest hot air balloon festival take place?",
+            "es": "¿En qué estado estadounidense se celebra el festival de globos aerostáticos más grande del mundo?",
+            "pt": "Em qual estado americano acontece o maior festival de balões de ar quente do mundo?"
+        },
+        "definition": {
+            "ru": "Нью-Мексико — это штат на юго-западе США, известный своей пустынной природой, богатой историей и крупнейшим в мире фестивалем воздушных шаров. Этот фестиваль проходит ежегодно в городе Альбукерке, где сотни воздушных шаров поднимаются в небо, создавая захватывающее зрелище.",
+            "uk": "Нью-Мексико — це штат на південному заході США, відомий своєю пустельною природою, багатою історією і найбільшим у світі фестивалем повітряних куль. Цей фестиваль проходить щорічно в місті Альбукерке, де сотні повітряних куль піднімаються в небо, створюючи захоплююче видовище.",
+            "en": "New Mexico is a state in the southwestern USA, known for its desert nature, rich history, and the world's largest hot air balloon festival. This festival is held annually in the city of Albuquerque, where hundreds of hot air balloons rise into the sky, creating a breathtaking spectacle.",
+            "es": "Nuevo México es un estado en el suroeste de EE. UU., conocido por su naturaleza desértica, su rica historia y el festival de globos aerostáticos más grande del mundo. Este festival se celebra anualmente en la ciudad de Albuquerque, donde cientos de globos aerostáticos se elevan al cielo, creando un espectáculo impresionante.",
+            "pt": "Novo México é um estado no sudoeste dos EUA, conhecido por sua natureza desértica, rica história e o maior festival de balões de ar quente do mundo. Este festival é realizado anualmente na cidade de Albuquerque, onde centenas de balões de ar quente sobem ao céu, criando um espetáculo deslumbrante."
+        },
+        "antipod": {
+            "ru": "Нью-Йорк",
+            "uk": "Нью-Йорк",
+            "en": "New York",
+            "es": "Nueva York",
+            "pt": "Nova Iorque"
+        },
+        "hintFuiz": {
+            "ru": "Где проходит крупнейший фестиваль воздушных шаров в мире?",
+            "uk": "Де проходить найбільший фестиваль повітряних куль у світі?",
+            "en": "Where does the world's largest hot air balloon festival take place?",
+            "es": "¿Dónde se celebra el festival de globos aerostáticos más grande del mundo?",
+            "pt": "Onde acontece o maior festival de balões de ar quente do mundo?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Albuquerque_International_Balloon_Fiesta"
+    },
+    "imgFlag": "quizfoto"
+}

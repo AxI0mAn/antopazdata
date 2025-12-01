@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Монета",
+            "uk": "Монета",
+            "en": "Coin",
+            "es": "Moneda",
+            "pt": "Moeda"
+        },
+        "wrong": {
+            "ru": [
+                "Кольцо",
+                "Наперсток",
+                "Путаница"
+            ],
+            "uk": [
+                "Каблучка",
+                "Наперсток",
+                "Плутанина"
+            ],
+            "en": [
+                "Ring",
+                "Thimble",
+                "Button"
+            ],
+            "es": [
+                "Anillo",
+                "Dedal",
+                "Botón"
+            ],
+            "pt": [
+                "Anel",
+                "Dedal",
+                "Botão"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Предсказание.",
+                "Удача.",
+                "Пирог."
+            ],
+            "uk": [
+                "Пророцтво.",
+                "Удача.",
+                "Пиріг."
+            ],
+            "en": [
+                "Prediction.",
+                "Luck.",
+                "Pie."
+            ],
+            "es": [
+                "Predicción.",
+                "Suerte.",
+                "Pastel."
+            ],
+            "pt": [
+                "Previsão.",
+                "Sorte.",
+                "Bolo."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Как найти удачу?",
+                "Что решит судьба?"
+            ],
+            "uk": [
+                "Як знайти удачу?",
+                "Що вирішить доля?"
+            ],
+            "en": [
+                "How to find good fortune?",
+                "What will fate decide?"
+            ],
+            "es": [
+                "¿Cómo encontrar la suerte?",
+                "¿Qué decidirá el destino?"
+            ],
+            "pt": [
+                "Como encontrar a sorte?",
+                "O que o destino vai decidir?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Предварительно загадывали судьбоносное событие.",
+            "uk": "Попередньо загадували доленосну подію.",
+            "en": "A fateful event was decided in advance.",
+            "es": "Se predecía un evento fatídico de antemano.",
+            "pt": "Um evento fatídico era predeterminado."
+        },
+        "qwestion": {
+            "ru": "Какой предмет прятали в еде на Хеллоуин, чтобы предсказать судьбу того, кто его найдет?",
+            "uk": "Який предмет ховали в їжі на Хеллоуїн, щоб передбачити долю того, хто його знайде?",
+            "en": "What object was hidden in food on Halloween to predict the destiny of the person who finds it?",
+            "es": "¿Qué objeto se escondía en la comida en Halloween para predecir el destino de quien lo encontrara?",
+            "pt": "Qual objeto era escondido na comida no Halloween para prever o destino de quem o encontrasse?"
+        },
+        "definition": {
+            "ru": "Монета — это предмет, который вкладывали в праздничный кекс на Хеллоуин. Кто находил её, тому предсказывали богатство и процветание в наступающем году.",
+            "uk": "Монета — це предмет, який вкладали у святковий кекс на Хеллоуїн. Хто знаходив її, тому передбачали багатство та процвітання в наступному році.",
+            "en": "A coin is an object baked into a Halloween holiday cake. The person who found it was predicted to have wealth and prosperity in the coming year.",
+            "es": "Una moneda es un objeto horneado en un pastel de Halloween. A la persona que la encontraba se le predecía riqueza y prosperidad para el año siguiente.",
+            "pt": "Uma moeda é um objeto assado em um bolo de feriado de Halloween. A pessoa que a encontrava era prevista para ter riqueza e prosperidade no próximo ano."
+        },
+        "antipod": {
+            "ru": "Камень",
+            "uk": "Камінь",
+            "en": "Stone",
+            "es": "Piedra",
+            "pt": "Pedra"
+        },
+        "hintFuiz": {
+            "ru": "Что прятали в еде и оно предсказывало судьбу?",
+            "uk": "Що ховали в їжі і воно передбачало долю?",
+            "en": "What was hidden in food and foretold destiny?",
+            "es": "¿Qué se escondía en la comida y predecía el destino?",
+            "pt": "O que era escondido na comida e previa o destino?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Barmbrack"
+    },
+    "imgFlag": "all" 
+}

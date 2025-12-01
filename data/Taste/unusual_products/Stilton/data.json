@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Стилтон",
+            "uk": "Стілтон",
+            "en": "Stilton",
+            "es": "Stilton",
+            "pt": "Stilton"
+        },
+        "wrong": {
+            "ru": [
+                "Чеширский сыр",
+                "Дорсет Блю",
+                "Котсуолд"
+            ],
+            "uk": [
+                "Чеширський сир",
+                "Дорсет Блю",
+                "Котсуолд"
+            ],
+            "en": [
+                "Cheshire cheese",
+                "Dorset Blue",
+                "Cotswold"
+            ],
+            "es": [
+                "Queso Cheshire",
+                "Dorset Blue",
+                "Cotswold"
+            ],
+            "pt": [
+                "Queijo Cheshire",
+                "Dorset Blue",
+                "Cotswold"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Синий сыр.",
+                "Англия.",
+                "PDO."
+            ],
+            "uk": [
+                "Синій сир.",
+                "Англія.",
+                "PDO."
+            ],
+            "en": [
+                "Blue cheese.",
+                "England.",
+                "PDO."
+            ],
+            "es": [
+                "Queso azul.",
+                "Inglaterra.",
+                "DOP."
+            ],
+            "pt": [
+                "Queijo azul.",
+                "Inglaterra.",
+                "DOP."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Сыр с синим узором. Производится только в одном месте.",
+                "Сыр, имеющий защищённое географическое наименование."
+            ],
+            "uk": [
+                "Сир із синім візерунком. Виробляється тільки в одному місці.",
+                "Сир, що має захищене географічне найменування."
+            ],
+            "en": [
+                "Cheese with a blue pattern. It is produced in only one place.",
+                "Cheese with a protected geographical designation."
+            ],
+            "es": [
+                "Queso con un patrón azul. Se produce en un solo lugar.",
+                "Queso con una denominación geográfica protegida."
+            ],
+            "pt": [
+                "Queijo com um padrão azul. É produzido em apenas um lugar.",
+                "Queijo com uma designação geográfica protegida."
+            ]
+        },
+        "tooltip": {
+            "ru": "Он имеет защищённое географическое наименование.",
+            "uk": "Він має захищене географічне найменування.",
+            "en": "It has a protected geographical designation.",
+            "es": "Tiene una denominación de origen protegida.",
+            "pt": "Tem uma denominação de origem protegida."
+        },
+        "qwestion": {
+            "ru": "Какой сыр производится только в пяти графствах Англии?",
+            "uk": "Який сир виробляється тільки в п'яти графствах Англії?",
+            "en": "What cheese is produced only in five counties of England?",
+            "es": "¿Qué queso se produce solo en cinco condados de Inglaterra?",
+            "pt": "Que queijo é produzido apenas em cinco condados da Inglaterra?"
+        },
+        "definition": {
+            "ru": "Стилтон — это известный английский сыр с голубой плесенью. Он обладает сильным запахом и насыщенным вкусом. Существует только два вида — синий и белый. Сыр защищён наименованием PDO, поэтому его можно производить только в Дербишире, Лестершире и Ноттингемшире.",
+            "uk": "Стілтон — це відомий англійський сир з блакитною пліснявою. Він має сильний запах і насичений смак. Існує тільки два види — синій і білий. Сир захищений найменуванням PDO, тому його можна виробляти тільки в Дербіширі, Лестерширі та Ноттінгемширі.",
+            "en": "Stilton is a famous English blue cheese. It has a strong smell and rich taste. There are only two types: blue and white. The cheese is protected by a PDO, so it can only be produced in Derbyshire, Leicestershire, and Nottinghamshire.",
+            "es": "El Stilton es un famoso queso azul inglés. Tiene un olor fuerte y un sabor rico. Solo hay dos tipos: azul y blanco. El queso está protegido por una DOP, por lo que solo puede producirse en Derbyshire, Leicestershire y Nottinghamshire.",
+            "pt": "O Stilton é um famoso queijo azul inglês. Tem um cheiro forte e sabor rico. Existem apenas dois tipos: azul e branco. O queijo é protegido por uma DOP, então só pode ser produzido em Derbyshire, Leicestershire e Nottinghamshire."
+        },
+        "antipod": {
+            "ru": "Чеддер",
+            "uk": "Чеддер",
+            "en": "Cheddar",
+            "es": "Cheddar",
+            "pt": "Cheddar"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих сыров не может быть произведен в другом месте?",
+            "uk": "Який з цих сирів не може бути вироблений в іншому місці?",
+            "en": "Which of these cheeses cannot be produced elsewhere?",
+            "es": "¿Cuál de estos quesos no puede ser producido en otro lugar?",
+            "pt": "Qual desses queijos não pode ser produzido em outro lugar?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Stilton_cheese"
+    },
+    "imgFlag": "quizfoto"
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Вулкан Даллол",
+            "uk": "Вулкан Даллол",
+            "en": "Dallol Volcano",
+            "es": "Volcán Dallol",
+            "pt": "Vulcão Dallol"
+        },
+        "wrong": {
+            "ru": [
+                "Килиманджаро",
+                "Везувий",
+                "Мауна-Кеа"
+            ],
+            "uk": [
+                "Кіліманджаро",
+                "Везувій",
+                "Мауна-Кеа"
+            ],
+            "en": [
+                "Mount Kilimanjaro",
+                "Mount Vesuvius",
+                "Mauna Kea"
+            ],
+            "es": [
+                "Monte Kilimanjaro",
+                "Monte Vesubio",
+                "Mauna Kea"
+            ],
+            "pt": [
+                "Monte Kilimanjaro",
+                "Monte Vesúvio",
+                "Mauna Kea"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Кислотные бассейны.",
+                "Эфиопия.",
+                "Цветные."
+            ],
+            "uk": [
+                "Кислотні басейни.",
+                "Ефіопія.",
+                "Кольорові."
+            ],
+            "en": [
+                "Acid pools.",
+                "Ethiopia.",
+                "Colorful."
+            ],
+            "es": [
+                "Piscinas ácidas.",
+                "Etiopía.",
+                "Coloridas."
+            ],
+            "pt": [
+                "Piscinas ácidas.",
+                "Etiópia.",
+                "Coloridas."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Место, где кипят краски.",
+                "Яркое сердце пустыни, что обжигает и светится."
+            ],
+            "uk": [
+                "Місце, де киплять фарби.",
+                "Яскраве серце пустелі, що обпікає і світиться."
+            ],
+            "en": [
+                "A place where colors boil.",
+                "A bright heart of the desert that burns and glows."
+            ],
+            "es": [
+                "Un lugar donde los colores hierven.",
+                "Un corazón brillante del desierto que quema y brilla."
+            ],
+            "pt": [
+                "Um lugar onde as cores fervem.",
+                "Um coração brilhante do deserto que queima e brilha."
+            ]
+        },
+        "tooltip": {
+            "ru": "Он известен своими кислотными бассейнами, которые имеют яркий, неоновый цвет.",
+            "uk": "Він відомий своїми кислотними басейнами, які мають яскравий, неоновий колір.",
+            "en": "It is known for its acid pools, which have a bright, neon color.",
+            "es": "Es conocido por sus piscinas ácidas, que tienen un color brillante y neón.",
+            "pt": "É conhecido por suas piscinas ácidas, que têm uma cor brilhante e neon."
+        },
+        "qwestion": {
+            "ru": "Какой вулкан в Эфиопии является самым низким на планете?",
+            "uk": "Який вулкан в Ефіопії є найнижчим на планеті?",
+            "en": "What volcano in Ethiopia is the lowest on the planet?",
+            "es": "¿Qué volcán en Etiopía es el más bajo del planeta?",
+            "pt": "Qual vulcão na Etiópia é o mais baixo do planeta?"
+        },
+        "definition": {
+            "ru": "Вулкан Даллол — это взрывной кратер или маар в Эфиопии, расположенный в депрессии Данакиль. Он является самым низким субаэральным вулканом на планете. Его уникальность заключается не в высоте, а в сюрреалистичном ландшафте, сформированном геотермальной активностью. Здесь находятся многочисленные кислотные озера, серные источники, соляные террасы и гейзеры, окрашенные в яркие неоновые цвета (желтый, зеленый, оранжевый и белый) из-за наличия соединений серы, железа и других минералов. Это одно из самых горячих и негостеприимных мест на Земле.",
+            "uk": "Вулкан Даллол — це вибуховий кратер або маар в Ефіопії, розташований у депресії Данакіль. Він є найнижчим субаеральним вулканом на планеті. Його унікальність полягає не у висоті, а в сюрреалістичному ландшафті, сформованому геотермальною активністю. Тут знаходяться численні кислотні озера, сірчані джерела, соляні тераси та гейзери, забарвлені в яскраві неонові кольори (жовтий, зелений, помаранчевий та білий) через наявність сполук сірки, заліза та інших мінералів. Це одне з найгарячіших і найнегостинніших місць на Землі.",
+            "en": "Dallol Volcano is an explosive crater or maar in Ethiopia, located in the Danakil Depression. It is the lowest subaerial volcano on the planet. Its uniqueness lies not in its height, but in its surreal landscape formed by geothermal activity. It contains numerous acid pools, sulfur springs, salt terraces, and geysers, all colored in bright neon hues (yellow, green, orange, and white) due to the presence of sulfur, iron, and other mineral compounds. It is one of the hottest and most inhospitable places on Earth.",
+            "es": "El Volcán Dallol es un cráter explosivo o maar en Etiopía, ubicado en la Depresión de Danakil. Es el volcán subaéreo más bajo del planeta. Su singularidad no reside en su altura, sino en su paisaje surrealista formado por la actividad geotérmica. Contiene numerosas piscinas ácidas, fuentes de azufre, terrazas de sal y géiseres, todos coloreados en tonos neón brillantes (amarillo, verde, naranja y blanco) debido a la presencia de compuestos de azufre, hierro y otros minerales. Es uno de los lugares más calientes e inhóspitos de la Tierra.",
+            "pt": "O Vulcão Dallol é uma cratera explosiva ou maar na Etiópia, localizada na Depressão de Danakil. É o vulcão subaéreo mais baixo do planeta. Sua singularidade não reside em sua altura, mas em sua paisagem surreal formada pela atividade geotérmica. Contém inúmeras piscinas ácidas, fontes de enxofre, terraços de sal e gêiseres, todos coloridos em tons neon brilhantes (amarelo, verde, laranja e branco) devido à presença de compostos de enxofre, ferro e outros minerais. É um dos lugares mais quentes e inóspitos da Terra."
+        },
+        "antipod": {
+            "ru": "Вулкан Фудзияма",
+            "uk": "Вулкан Фудзіяма",
+            "en": "Mount Fuji",
+            "es": "Monte Fuji",
+            "pt": "Monte Fuji"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих вулканов знаменит своими цветными кислотными бассейнами?",
+            "uk": "Який з цих вулканів знаменитий своїми кольоровими кислотними басейнами?",
+            "en": "Which of these volcanoes is famous for its colorful acid pools?",
+            "es": "¿Cuál de estos volcanes es famoso por sus coloridas piscinas ácidas?",
+            "pt": "Qual desses vulcões é famoso por suas coloridas piscinas ácidas?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Dallol"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Перламутровые облака",
+            "uk": "Перламутрові хмари",
+            "en": "Nacreous clouds",
+            "es": "Nubes nacaradas",
+            "pt": "Nuvens nacaradas"
+        },
+        "wrong": {
+            "ru": [
+                "Кучевые облака",
+                "Перистые облака",
+                "Слоисто-кучевые облака"
+            ],
+            "uk": [
+                "Купчасті хмари",
+                "Перисті хмари",
+                "Шарувато-купчасті хмари"
+            ],
+            "en": [
+                "Cumulus clouds",
+                "Cirrus clouds",
+                "Stratocumulus clouds"
+            ],
+            "es": [
+                "Nubes cúmulos",
+                "Nubes cirros",
+                "Nubes estratocúmulos"
+            ],
+            "pt": [
+                "Nuvens cúmulos",
+                "Nuvens cirrus",
+                "Nuvens estratocúmulos"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Радуга.",
+                "Полярные регионы.",
+                "Стратосфера."
+            ],
+            "uk": [
+                "Веселка.",
+                "Полярні регіони.",
+                "Стратосфера."
+            ],
+            "en": [
+                "Rainbow.",
+                "Polar regions.",
+                "Stratosphere."
+            ],
+            "es": [
+                "Arco iris.",
+                "Regiones polares.",
+                "Estratosfera."
+            ],
+            "pt": [
+                "Arco-íris.",
+                "Regiões polares.",
+                "Estratosfera."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Я сияю как перламутр, но только в полярную ночь.",
+                "Я состою из кристалликов льда, но не в тропосфере."
+            ],
+            "uk": [
+                "Я сяю як перламутр, але тільки в полярну ніч.",
+                "Я складаюся з кристаликів льоду, але не в тропосфері."
+            ],
+            "en": [
+                "I shimmer like mother-of-pearl, but only during the polar night.",
+                "I am made of tiny ice crystals, but not in the troposphere."
+            ],
+            "es": [
+                "Brillo como el nácar, pero solo durante la noche polar.",
+                "Estoy hecho de pequeños cristales de hielo, pero no en la troposfera."
+            ],
+            "pt": [
+                "Eu cintilo como a madrepérola, mas apenas durante a noite polar.",
+                "Sou feito de pequenos cristais de gelo, mas não na troposfera."
+            ]
+        },
+        "tooltip": {
+            "ru": "Они могут быть связаны с разрушением озонового слоя.",
+            "uk": "Вони можуть бути пов'язані з руйнуванням озонового шару.",
+            "en": "They can be linked to the destruction of the ozone layer.",
+            "es": "Pueden estar relacionadas con la destrucción de la capa de ozono.",
+            "pt": "Elas podem estar ligadas à destruição da camada de ozônio."
+        },
+        "qwestion": {
+            "ru": "Какие облака, образующиеся в полярных стратосферах, переливаются всеми цветами радуги?",
+            "uk": "Які хмари, що утворюються в полярних стратосферах, переливаються всіма кольорами веселки?",
+            "en": "Which clouds, forming in the polar stratospheres, shimmer with all the colors of the rainbow?",
+            "es": "¿Qué nubes, que se forman en las estratosferas polares, brillan con todos los colores del arco iris?",
+            "pt": "Que nuvens, que se formam nas estratosferas polares, cintilam com todas as cores do arco-íris?"
+        },
+        "definition": {
+            "ru": "Перламутровые облака, также известные как полярные стратосферные облака, — это редкие облака, которые образуются в очень холодной стратосфере на высоте 15-25 км. Они состоят из смеси переохлажденной азотной кислоты, воды и серной кислоты. Эти облака переливаются всеми цветами радуги из-за дифракции света и видны в полярных регионах до или после захода солнца. Учёные связывают их с химическими реакциями, которые способствуют разрушению озонового слоя.",
+            "uk": "Перламутрові хмари, також відомі як полярні стратосферні хмари, — це рідкісні хмари, які утворюються в дуже холодній стратосфері на висоті 15-25 км. Вони складаються із суміші переохолодженої азотної кислоти, води та сірчаної кислоти. Ці хмари переливаються всіма кольорами веселки через дифракцію світла і видно в полярних регіонах до або після заходу сонця. Вчені пов'язують їх з хімічними реакціями, які сприяють руйнуванню озонового шару.",
+            "en": "Nacreous clouds, also known as polar stratospheric clouds, are rare clouds that form in the extremely cold stratosphere at altitudes of 15-25 km. They are composed of a mixture of supercooled nitric acid, water, and sulfuric acid. These clouds shimmer with all the colors of the rainbow due to light diffraction and are visible in polar regions just before sunrise or after sunset. Scientists link them to chemical reactions that contribute to the destruction of the ozone layer.",
+            "es": "Las nubes nacaradas, también conocidas como nubes estratosféricas polares, son nubes raras que se forman en la estratosfera extremadamente fría a altitudes de 15-25 km. Están compuestas por una mezcla de ácido nítrico superenfriado, agua y ácido sulfúrico. Estas nubes brillan con todos los colores del arco iris debido a la difracción de la luz y son visibles en las regiones polares justo antes del amanecer o después del atardecer. Los científicos las relacionan con las reacciones químicas que contribuyen a la destrucción de la capa de ozono.",
+            "pt": "As nuvens nacaradas, também conhecidas como nuvens estratosféricas polares, são nuvens raras que se formam na estratosfera extremamente fria em altitudes de 15-25 km. Elas são compostas por uma mistura de ácido nítrico super-resfriado, água e ácido sulfúrico. Essas nuvens cintilam com todas as cores do arco-íris devido à difração da luz e são visíveis em regiões polares logo antes do nascer ou após o pôr do sol. Os cientistas as ligam a reações químicas que contribuem para a destruição da camada de ozônio."
+        },
+        "antipod": {
+            "ru": "Иризация облаков",
+            "uk": "Іризація хмар",
+            "en": "Cloud iridescence",
+            "es": "Iridiscencia de las nubes",
+            "pt": "Iridiscência das nuvens"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих явлений с радужными цветами происходит только в стратосфере?",
+            "uk": "Яке з цих явищ з райдужними кольорами відбувається тільки в стратосфері?",
+            "en": "Which of these rainbow-colored phenomena occurs only in the stratosphere?",
+            "es": "¿Cuál de estos fenómenos de colores del arco iris ocurre solo en la estratosfera?",
+            "pt": "Qual desses fenômenos de cores do arco-íris ocorre apenas na estratosfera?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Nacreous_cloud"
+    },
+    "imgFlag": "all" 
+}

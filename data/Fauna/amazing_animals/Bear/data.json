@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Бурый Медведь",
+            "uk": "Бурий Ведмідь",
+            "en": "Brown Bear",
+            "es": "Oso Pardo",
+            "pt": "Urso-Pardo"
+        },
+        "wrong": {
+            "ru": [
+                "Лиса",
+                "Тигр",
+                "Рысь"
+            ],
+            "uk": [
+                "Лисиця",
+                "Тигр",
+                "Рись"
+            ],
+            "en": [
+                "Fox",
+                "Tiger",
+                "Lynx"
+            ],
+            "es": [
+                "Zorro",
+                "Tigre",
+                "Lince"
+            ],
+            "pt": [
+                "Raposa",
+                "Tigre",
+                "Lince"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Лес.",
+                "Зимняя спячка.",
+                "Всеядность."
+            ],
+            "uk": [
+                "Ліс.",
+                "Зимова сплячка.",
+                "Всеїдність."
+            ],
+            "en": [
+                "Forest.",
+                "Winter hibernation.",
+                "Omnivore."
+            ],
+            "es": [
+                "Bosque.",
+                "Hibernación invernal.",
+                "Omnívoro."
+            ],
+            "pt": [
+                "Floresta.",
+                "Hibernação de inverno.",
+                "Onívoro."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Какое животное «служило» в польской «армии Андерса»?",
+                "Кто впадает в зимнюю спячку?"
+            ],
+            "uk": [
+                "Яка тварина «служила» у польській «армії Андерса»?",
+                "Хто впадає в зимову сплячку?"
+            ],
+            "en": [
+                "What animal 'served' in the Polish 'Anders' Army'?",
+                "Who goes into winter hibernation?"
+            ],
+            "es": [
+                "¿Qué animal 'sirvió' en el 'Ejército de Anders' polaco?",
+                "¿Quién hiberna en invierno?"
+            ],
+            "pt": [
+                "Qual animal 'serviu' no 'Exército de Anders' polonês?",
+                "Quem entra em hibernação de inverno?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Это всеядный хищник, живущий в лесах и горах.",
+            "uk": "Це всеїдний хижак, що живе в лісах і горах.",
+            "en": "It's an omnivorous predator that lives in forests and mountains.",
+            "es": "Es un depredador omnívoro que vive en bosques y montañas.",
+            "pt": "É um predador onívoro que vive em florestas e montanhas."
+        },
+        "qwestion": {
+            "ru": "Какое очень сильное, умное и быстрое животное с развитыми слухом и обонянием, но слабым зрением впадает в спячку?",
+            "uk": "Яка дуже сильна, розумна та швидка тварина з розвиненими слухом і нюхом, але слабким зором впадає в сплячку?",
+            "en": "What very strong, intelligent, and fast animal with well-developed hearing and sense of smell, but weak vision, goes into hibernation?",
+            "es": "¿Qué animal muy fuerte, inteligente y rápido, con el oído y el olfato bien desarrollados, pero con la vista débil, hiberna?",
+            "pt": "Qual animal muito forte, inteligente e rápido, com audição e olfato bem desenvolvidos, mas visão fraca, entra em hibernação?"
+        },
+        "definition": {
+            "ru": "Крупное млекопитающее из семейства медвежьих. Характеризуется массивным телосложением, длинной шерстью, всеядным рационом и способностью впадать в спячку.",
+            "uk": "Великий ссавець з родини ведмежих. Характеризується масивною статурою, довгою шерстю, всеїдним раціоном і здатністю впадати в сплячку.",
+            "en": "A large mammal from the Ursidae family. Characterized by a massive physique, long fur, an omnivorous diet, and the ability to hibernate.",
+            "es": "Un gran mamífero de la familia de los úrsidos. Caracterizado por un físico masivo, pelaje largo, una dieta omnívora y la capacidad de hibernar.",
+            "pt": "Um grande mamífero da família dos ursídeos. Caracterizado por um físico maciço, pelo longo, uma dieta onívora y la capacidad de hibernar."
+        },
+        "antipod": {
+            "ru": "Волк",
+            "uk": "Вовк",
+            "en": "Wolf",
+            "es": "Lobo",
+            "pt": "Lobo"
+        },
+        "hintFuiz": {
+            "ru": "Кто крупнее: медведь или волк?",
+            "uk": "Хто більший: ведмідь чи вовк?",
+            "en": "Who is larger: the bear or the wolf?",
+            "es": "¿Quién es más grande: oso o lobo?",
+            "pt": "Quem é maior: o urso ou o lobo?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Brown_bear"
+    },
+    "imgFlag": "all" 
+}

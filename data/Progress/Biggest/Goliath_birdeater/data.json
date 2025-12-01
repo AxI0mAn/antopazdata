@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Птицеед-голиаф",
+            "uk": "Птахоїд-голіаф",
+            "en": "Goliath birdeater",
+            "es": "Tarántula Goliat",
+            "pt": "Aranha-golias"
+        },
+        "wrong": {
+            "ru": [
+                "Бразильский странствующий паук",
+                "Черная вдова",
+                "Каракурт"
+            ],
+            "uk": [
+                "Бразильський блукаючий павук",
+                "Чорна вдова",
+                "Каракурт"
+            ],
+            "en": [
+                "Brazilian wandering spider",
+                "Black widow",
+                "Karakurt"
+            ],
+            "es": [
+                "Araña errante brasileña",
+                "Viuda negra",
+                "Karakurt"
+            ],
+            "pt": [
+                "Aranha-armadeira",
+                "Viúva-negra",
+                "Karakurt"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Тарантул.",
+                "Амазонка.",
+                "Яд."
+            ],
+            "uk": [
+                "Тарантул.",
+                "Амазонка.",
+                "Отрута."
+            ],
+            "en": [
+                "Tarantula.",
+                "Amazon.",
+                "Venom."
+            ],
+            "es": [
+                "Tarántula.",
+                "Amazonas.",
+                "Veneno."
+            ],
+            "pt": [
+                "Tarântula.",
+                "Amazônia.",
+                "Veneno."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Его имя говорит о силе, но он не лев.",
+                "Он не поместится на ладонь, а живёт он в тропиках."
+            ],
+            "uk": [
+                "Його ім'я говорить про силу, але він не лев.",
+                "Він не поміститься на долоню, а живе він у тропіках."
+            ],
+            "en": [
+                "Its name speaks of strength, but it's not a lion.",
+                "It won't fit on your palm, and it lives in the tropics."
+            ],
+            "es": [
+                "Su nombre habla de fuerza, pero no es un león.",
+                "No cabe en la palma de tu mano y vive en los trópicos."
+            ],
+            "pt": [
+                "Seu nome fala de força, mas não é um leão.",
+                "Não cabe na palma da sua mão e vive nos trópicos."
+            ]
+        },
+        "tooltip": {
+            "ru": "Он может вырасти до размера тарелки и охотится на ящериц и лягушек.",
+            "uk": "Він може вирости до розміру тарілки і полює на ящірок та жаб.",
+            "en": "It can grow to the size of a dinner plate and preys on lizards and frogs.",
+            "es": "Puede crecer hasta el tamaño de un plato y caza lagartos y ranas.",
+            "pt": "Pode crescer até o tamanho de um prato e caça lagartos e sapos."
+        },
+        "qwestion": {
+            "ru": "Какой самый большой паук в мире?",
+            "uk": "Який найбільший павук у світі?",
+            "en": "What is the largest spider in the world?",
+            "es": "¿Cuál es la araña más grande del mundo?",
+            "pt": "Qual é a maior aranha do mundo?"
+        },
+        "definition": {
+            "ru": "Птицеед-голиаф — это самый большой паук в мире по массе, обитающий в тропических лесах Южной Америки. Его размах ног может достигать 30 см, а его яд не смертелен для человека, но укус очень болезненный.",
+            "uk": "Птахоїд-голіаф — це найбільший павук у світі за масою, що мешкає в тропічних лісах Південної Америки. Розмах його ніг може досягати 30 см, а його отрута не смертельна для людини, але укус дуже болючий.",
+            "en": "The Goliath birdeater is the largest spider in the world by mass, native to the tropical forests of South America. Its leg span can reach up to 30 cm, and while its venom is not deadly to humans, its bite is very painful.",
+            "es": "La tarántula Goliat es la araña más grande del mundo por masa, nativa de las selvas tropicales de América del Sur. La envergadura de sus patas puede alcanzar los 30 cm, y aunque su veneno no es mortal para los humanos, su mordida es muy dolorosa.",
+            "pt": "A aranha-golias é a maior aranha do mundo em massa, nativa das florestas tropicais da América do Sul. A envergadura de suas pernas pode atingir até 30 cm, e embora seu veneno não seja mortal para humanos, sua picada é muito dolorosa."
+        },
+        "antipod": {
+            "ru": "Паук-скакун",
+            "uk": "Павук-скакун",
+            "en": "Jumping spider",
+            "es": "Araña saltadora",
+            "pt": "Aranha-saltadora"
+        },
+        "hintFuiz": {
+            "ru": "Это гигантский паук.",
+            "uk": "Це гігантський павук.",
+            "en": "It's a giant spider.",
+            "es": "Es una araña gigante.",
+            "pt": "É uma aranha gigante."
+        },
+        "article": "https://en.wikipedia.org/wiki/Goliath_birdeater"
+    },
+    "imgFlag": "all" 
+}

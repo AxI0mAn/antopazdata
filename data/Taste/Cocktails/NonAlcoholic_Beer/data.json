@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Безалкогольное пиво",
+            "uk": "Безалкогольне пиво",
+            "en": "Non-alcoholic beer",
+            "es": "Cerveza sin alcohol",
+            "pt": "Cerveja sem álcool"
+        },
+        "wrong": {
+            "ru": [
+                "Лимонад",
+                "Квас",
+                "Кофе"
+            ],
+            "uk": [
+                "Лимонад",
+                "Квас",
+                "Кава"
+            ],
+            "en": [
+                "Lemonade",
+                "Kvass",
+                "Coffee"
+            ],
+            "es": [
+                "Limonada",
+                "Kvas",
+                "Café"
+            ],
+            "pt": [
+                "Limonada",
+                "Kvass",
+                "Café"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Пиво.",
+                "Алкоголь.",
+                "Запрет."
+            ],
+            "uk": [
+                "Пиво.",
+                "Алкоголь.",
+                "Заборона."
+            ],
+            "en": [
+                "Beer.",
+                "Alcohol.",
+                "Prohibition."
+            ],
+            "es": [
+                "Cerveza.",
+                "Alcohol.",
+                "Prohibición."
+            ],
+            "pt": [
+                "Cerveja.",
+                "Álcool.",
+                "Proibição."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Вкус и вид как у пива, но без похмелья.",
+                "Оно появилось из-за запрета."
+            ],
+            "uk": [
+                "Смак і вигляд як у пива, але без похмілля.",
+                "Воно з'явилося через заборону."
+            ],
+            "en": [
+                "It tastes and looks like beer, but without a hangover.",
+                "It appeared because of a ban."
+            ],
+            "es": [
+                "Sabe y se ve como cerveza, pero sin resaca.",
+                "Apareció debido a una prohibición."
+            ],
+            "pt": [
+                "Tem gosto e parece cerveja, mas sem ressaca.",
+                "Surgiu por causa de uma proibição."
+            ]
+        },
+        "tooltip": {
+            "ru": "Потому что пивоварни не могли прекратить производство.",
+            "uk": "Тому що пивоварні не могли припинити виробництво.",
+            "en": "Because breweries couldn't stop production.",
+            "es": "Porque las cervecerías no podían dejar de producir.",
+            "pt": "Porque as cervejarias não podiam parar a produção."
+        },
+        "qwestion": {
+            "ru": "Какой напиток появился благодаря сухому закону?",
+            "uk": "Який напій з'явився завдяки сухому закону?",
+            "en": "What drink emerged thanks to Prohibition?",
+            "es": "¿Qué bebida surgió gracias a la Prohibición?",
+            "pt": "Qual bebida surgiu graças à Lei Seca?"
+        },
+        "definition": {
+            "ru": "Безалкогольное пиво — это напиток, который имитирует вкус пива, но содержит очень мало алкоголя или совсем не содержит. Его популярность резко возросла в США во времена Сухого закона, так как пивоварни могли производить его легально, чтобы оставаться в бизнесе.",
+            "uk": "Безалкогольне пиво — це напій, який імітує смак пива, але містить дуже мало алкоголю або зовсім не містить. Його популярність різко зросла в США за часів Сухого закону, оскільки пивоварні могли виробляти його легально, щоб залишатися в бізнесі.",
+            "en": "Non-alcoholic beer is a beverage that mimics the flavor of beer but contains very little to no alcohol. Its popularity surged in the US during the Prohibition era, as breweries could produce it legally to stay in business.",
+            "es": "La cerveza sin alcohol es una bebida que imita el sabor de la cerveza, pero contiene muy poco o nada de alcohol. Su popularidad aumentó en los Estados Unidos durante la era de la Prohibición, ya que las cervecerías podían producirla legalmente para mantenerse en el negocio.",
+            "pt": "A cerveja sem álcool é uma bebida que imita o sabor da cerveja, mas contém muito pouco ou nenhum álcool. Sua popularidade aumentou nos EUA durante a Lei Seca, pois as cervejarias podiam produzi-la legalmente para se manterem no mercado."
+        },
+        "antipod": {
+            "ru": "Сидр",
+            "uk": "Сидр",
+            "en": "Cider",
+            "es": "Sidra",
+            "pt": "Cidra"
+        },
+        "hintFuiz": {
+            "ru": "Это напиток, из которого убрали алкоголь.",
+            "uk": "Це напій, з якого прибрали алкоголь.",
+            "en": "This is a drink from which alcohol has been removed.",
+            "es": "Esta es una bebida a la que se le ha quitado el alcohol.",
+            "pt": "Esta é uma bebida da qual o álcool foi removido."
+        },
+        "article": "https://en.wikipedia.org/wiki/Non-alcoholic_beer"
+    },
+    "imgFlag": "quizfoto" 
+}

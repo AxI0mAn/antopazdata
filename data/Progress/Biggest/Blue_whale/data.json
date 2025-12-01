@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Синий кит",
+            "uk": "Синій кит",
+            "en": "Blue whale",
+            "es": "Ballena azul",
+            "pt": "Baleia-azul"
+        },
+        "wrong": {
+            "ru": [
+                "Кашалот",
+                "Горилла",
+                "Жираф"
+            ],
+            "uk": [
+                "Кашалот",
+                "Горила",
+                "Жираф"
+            ],
+            "en": [
+                "Sperm whale",
+                "Gorilla",
+                "Giraffe"
+            ],
+            "es": [
+                "Cachalote",
+                "Gorila",
+                "Jirafa"
+            ],
+            "pt": [
+                "Cachalote",
+                "Gorila",
+                "Girafa"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Океан.",
+                "Гигант.",
+                "Сердце."
+            ],
+            "uk": [
+                "Океан.",
+                "Гігант.",
+                "Серце."
+            ],
+            "en": [
+                "Ocean.",
+                "Giant.",
+                "Heart."
+            ],
+            "es": [
+                "Océano.",
+                "Gigante.",
+                "Corazón."
+            ],
+            "pt": [
+                "Oceano.",
+                "Gigante.",
+                "Coração."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Самое крупное животное в мире.",
+                "Его сердце весит больше, чем его язык."
+            ],
+            "uk": [
+                "Найбільша тварина у світі.",
+                "Його серце важить більше, ніж його язик."
+            ],
+            "en": [
+                "The largest animal in the world.",
+                "Its heart weighs more than its tongue."
+            ],
+            "es": [
+                "El animal más grande del mundo.",
+                "Su corazón pesa más que su lengua."
+            ],
+            "pt": [
+                "O maior animal do mundo.",
+                "Seu coração pesa mais que sua língua."
+            ]
+        },
+        "tooltip": {
+            "ru": "Его сердце весит как небольшой автомобиль.",
+            "uk": "Його серце важить як невеликий автомобіль.",
+            "en": "Its heart weighs as much as a small car.",
+            "es": "Su corazón pesa tanto como un coche pequeño.",
+            "pt": "Seu coração pesa tanto quanto um carro pequeno."
+        },
+        "qwestion": {
+            "ru": "Какое животное имеет самое большое сердце в мире?",
+            "uk": "Яка тварина має найбільше серце у світі?",
+            "en": "What animal has the largest heart in the world?",
+            "es": "¿Qué animal tiene el corazón más grande del mundo?",
+            "pt": "Qual animal tem o maior coração do mundo?"
+        },
+        "definition": {
+            "ru": "Синий кит — самое большое животное на Земле. Это морское млекопитающее, которое может достигать 30 метров в длину. Его сердце — самое большое в мире, оно весит более 600 кг и может быть размером с небольшой автомобиль.",
+            "uk": "Синій кит — найбільша тварина на Землі. Це морський ссавець, який може досягати 30 метрів у довжину. Його серце — найбільше у світі, воно важить понад 600 кг і може бути розміром з невеликий автомобіль.",
+            "en": "The blue whale is the largest animal on Earth. This marine mammal can reach up to 30 meters in length. Its heart is the largest in the world, weighing over 600 kg and can be the size of a small car.",
+            "es": "La ballena azul es el animal más grande de la Tierra. Este mamífero marino puede alcanzar hasta 30 metros de longitud. Su corazón es el más grande del mundo, pesando más de 600 kg y puede ser del tamaño de un coche pequeño.",
+            "pt": "A baleia-azul é o maior animal da Terra. Este mamífero marinho pode atingir até 30 metros de comprimento. Seu coração é o maior do mundo, pesando mais de 600 kg e podendo ser do tamanho de um carro pequeno."
+        },
+        "antipod": {
+            "ru": "Слон",
+            "uk": "Слон",
+            "en": "Elephant",
+            "es": "Elefante",
+            "pt": "Elefante"
+        },
+        "hintFuiz": {
+            "ru": "Животное с самым большим сердцем.",
+            "uk": "Тварина з найбільшим серцем.",
+            "en": "The animal with the largest heart.",
+            "es": "El animal con el corazón más grande.",
+            "pt": "O animal com o maior coração."
+        },
+        "article": "https://en.wikipedia.org/wiki/Blue_whale"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "День Святого Патрика",
+            "uk": "День Святого Патрика",
+            "en": "St. Patrick's Day",
+            "es": "Día de San Patricio",
+            "pt": "Dia de São Patrício"
+        },
+        "wrong": {
+            "ru": [
+                "Хэллоуин",
+                "День труда",
+                "Рождество"
+            ],
+            "uk": [
+                "Хелловін",
+                "День праці",
+                "Різдво"
+            ],
+            "en": [
+                "Halloween",
+                "Labor Day",
+                "Christmas"
+            ],
+            "es": [
+                "Halloween",
+                "Día del Trabajo",
+                "Navidad"
+            ],
+            "pt": [
+                "Halloween",
+                "Dia do Trabalho",
+                "Natal"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Ирландия",
+                "Зеленый",
+                "Лепрекон"
+            ],
+            "uk": [
+                "Ірландія",
+                "Зелений",
+                "Лепрекон"
+            ],
+            "en": [
+                "Ireland",
+                "Green",
+                "Leprechaun"
+            ],
+            "es": [
+                "Irlanda",
+                "Verde",
+                "Duende"
+            ],
+            "pt": [
+                "Irlanda",
+                "Verde",
+                "Duende"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Символ праздника — трилистник.",
+                "Изгнал змей из Ирландии."
+            ],
+            "uk": [
+                "Символ свята — трилисник.",
+                "Вигнав змій з Ірландії."
+            ],
+            "en": [
+                "The symbol of the holiday is a shamrock.",
+                "He drove the snakes from Ireland."
+            ],
+            "es": [
+                "El símbolo del festival es un trébol.",
+                "Expulsó a las serpientes de Irlanda."
+            ],
+            "pt": [
+                "O símbolo do feriado é um trevo.",
+                "Ele expulsou as cobras da Irlanda."
+            ]
+        },
+        "tooltip": {
+            "ru": "Главный национальный праздник Ирландии, отмечаемый парадами, традиционной музыкой и зелёным цветом.",
+            "uk": "Головне національне свято Ірландії, що відзначається парадами, традиційною музикою і зеленим кольором.",
+            "en": "The main national holiday of Ireland, celebrated with parades, traditional music, and the color green.",
+            "es": "La principal fiesta nacional de Irlanda, celebrada con desfiles, música tradicional y el color verde.",
+            "pt": "O principal feriado nacional da Irlanda, celebrado com desfiles, música tradicional e a cor verde."
+        },
+        "qwestion": {
+            "ru": "Какой ирландский праздник традиционно отмечается одеждой зеленого цвета?",
+            "uk": "Яке ірландське свято традиційно відзначається одягом зеленого кольору?",
+            "en": "Which Irish holiday is traditionally celebrated with green clothing?",
+            "es": "¿Qué festividad irlandesa se celebra tradicionalmente con ropa de color verde?",
+            "pt": "Qual feriado irlandês é tradicionalmente celebrado com roupas verdes?"
+        },
+        "definition": {
+            "ru": "День Святого Патрика — это главный национальный праздник Ирландии, который отмечается 17 марта. Он посвящён покровителю Ирландии и символизирует принятие христианства в стране. Праздник известен парадами, ирландской народной музыкой, танцами, и, конечно же, обязательным ношением одежды зелёного цвета.",
+            "uk": "День Святого Патрика — це головне національне свято Ірландії, яке відзначається 17 березня. Він присвячений покровителю Ірландії і символізує прийняття християнства в країні. Свято відоме парадами, ірландською народною музикою, танцями, і, звичайно ж, обов'язковим носінням одягу зеленого кольору.",
+            "en": "St. Patrick's Day is the main national holiday of Ireland, celebrated on March 17. It is dedicated to the patron saint of Ireland and symbolizes the acceptance of Christianity in the country. The holiday is known for parades, Irish folk music, dancing, and of course, the obligatory wearing of green clothing.",
+            "es": "El Día de San Patricio es la principal fiesta nacional de Irlanda, celebrada el 17 de marzo. Está dedicada al santo patrón de Irlanda y simboliza la aceptación del cristianismo en el país. La festividad es conocida por sus desfiles, música tradicional irlandesa, bailes y, por supuesto, el uso obligatorio de ropa verde.",
+            "pt": "O Dia de São Patrício é o principal feriado nacional da Irlanda, celebrado em 17 de março. É dedicado ao santo padroeiro da Irlanda e simboliza a aceitação do cristianismo no país. O feriado é conhecido por desfiles, música folclórica irlandesa, danças e, claro, o uso obrigatório de roupas verdes."
+        },
+        "antipod": {
+            "ru": "Хэллоуин",
+            "uk": "Хелловін",
+            "en": "Halloween",
+            "es": "Halloween",
+            "pt": "Halloween"
+        },
+        "hintFuiz": {
+            "ru": "Символом какого праздника является трилистник?",
+            "uk": "Символом якого свята є трилисник?",
+            "en": "The shamrock is a symbol of which holiday?",
+            "es": "¿El trébol es un símbolo de qué festividad?",
+            "pt": "O trevo é um símbolo de qual feriado?"
+        },
+        "article": "https://en.wikipedia.org/wiki/St._Patrick%27s_Day"
+    },
+    "imgFlag": "quizfoto"
+}

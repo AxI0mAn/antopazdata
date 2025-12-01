@@ -1,0 +1,134 @@
+{
+    "data": {
+        "name": {
+            "ru": "Нептун",
+            "uk": "Нептун",
+            "en": "Neptune",
+            "es": "Neptuno",
+            "pt": "Netuno"
+        },
+        "wrong": {
+            "ru": [
+                "Юпитер",
+                "Сатурн",
+                "Уран"
+            ],
+            "uk": [
+                "Юпітер",
+                "Сатурн",
+                "Уран"
+            ],
+            "en": [
+                "Jupiter",
+                "Saturn",
+                "Uranus"
+            ],
+            "es": [
+                "Júpiter",
+                "Saturno",
+                "Urano"
+            ],
+            "pt": [
+                "Júpiter",
+                "Saturno",
+                "Urano"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Голубой цвет.",
+                "Ледяной гигант.",
+                "Спутник Тритон."
+            ],
+            "uk": [
+                "Блакитний колір.",
+                "Крижаний гігант.",
+                "Супутник Тритон."
+            ],
+            "en": [
+                "Blue color.",
+                "Ice giant.",
+                "Moon Triton."
+            ],
+            "es": [
+                "Color azul.",
+                "Gigante de hielo.",
+                "Luna Tritón."
+            ],
+            "pt": [
+                "Cor azul.",
+                "Gigante de gelo.",
+                "Lua Tritão."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Самая дальняя от Солнца планета",
+                "Самая ветреная планета.",
+                "Её назвали в честь бога морей, и она синего цвета.",
+                "Где идут дожди из алмазов?"
+            ],
+            "uk": [
+                "Найвіддаленіша від Сонця планета",
+                "Найбільш вітряна планета.",
+                "Її назвали на честь бога морів, і вона синього кольору.",
+                "Де йдуть дощі з алмазів?"
+            ],
+            "en": [
+                "The farthest planet from the Sun",
+                "The windiest planet.",
+                "It was named after the god of the seas and is blue.",
+                "Where does it rain diamonds?"
+            ],
+            "es": [
+                "El planeta más lejano del Sol",
+                "El planeta con más vientos.",
+                "Fue nombrado en honor al dios de los mares y es de color azul.",
+                "¿Dónde llueven diamantes?"
+            ],
+            "pt": [
+                "O planeta mais distante do Sol",
+                "O planeta mais ventoso.",
+                "Foi nomeado em homenagem ao deus dos mares e é azul.",
+                "Onde chove diamantes?"
+            ]
+        },
+        "qwestion": {
+            "ru": "Это восьмая и самая дальняя от Солнца планета. Ледяной гигант. ",
+            "uk": "Це восьма і найвіддаленіша від Сонця планета. Крижаний гігант.",
+            "en": "This is the eighth and farthest planet from the Sun. An ice giant.",
+            "es": "Este es el octavo y más lejano planeta del Sol. Un gigante de hielo.",
+            "pt": "Este é o oitavo e mais distante planeta do Sol. Um gigante de gelo."
+        },
+        "tooltip": {
+            "ru": "Обладает самыми мощными ветрами в Солнечной системе, а в её атмосфере могут идти дожди из алмазов.",
+            "uk": "Має найпотужніші вітри в Сонячній системі, а в її атмосфері можуть йти дощі з алмазів.",
+            "en": "It has the most powerful winds in the Solar System, and diamond rain can fall in its atmosphere.",
+            "es": "Tiene los vientos más potentes del Sistema Solar, y en su atmósfera pueden caer lluvias de diamantes.",
+            "pt": "Possui os ventos mais poderosos do Sistema Solar, e chuvas de diamantes podem ocorrer em sua atmosfera."
+        },
+        "definition": {
+            "ru": "Нептун — восьмая и самая дальняя планета Солнечной системы, ледяной гигант, известный своими сильными ветрами и глубоким синим цветом, который обусловлен метаном в атмосфере.",
+            "uk": "Нептун — восьма і найдальша планета Сонячної системи, крижаний гігант, відомий своїми сильними вітрами і глибоким синім кольором, який обумовлений метаном в атмосфері.",
+            "en": "Neptune is the eighth and farthest planet from the Sun, an ice giant known for its strong winds and deep blue color, which is caused by methane in its atmosphere.",
+            "es": "Neptuno es el octavo y más distante planeta del Sol, un gigante de hielo conocido por sus fuertes vientos y su color azul intenso, causado por el metano en su atmósfera.",
+            "pt": "Netuno é o oitavo e mais distante planeta del Sol, um gigante de hielo conocido por sus fuertes vientos y su color azul intenso, causado por el metano en su atmósfera."
+        },
+        "antipod": {
+            "ru": "Уран",
+            "uk": "Уран",
+            "en": "Uranus",
+            "es": "Urano",
+            "pt": "Urano"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих планет имеет более насыщенный синий цвет?",
+            "uk": "Яка з цих планет має більш насичений синій колір?",
+            "en": "Which of these planets has a more saturated blue color?",
+            "es": "¿Cuál de estos planetas tiene un color azul más saturado?",
+            "pt": "Qual desses planetas tem uma cor azul mais saturada?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Neptune"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Поцелуй",
+            "uk": "Поцілунок",
+            "en": "Kiss",
+            "es": "Beso",
+            "pt": "Beijo"
+        },
+        "wrong": {
+            "ru": [
+                "Поклон",
+                "Рукопожатие",
+                "Подношение"
+            ],
+            "uk": [
+                "Уклін",
+                "Рукостискання",
+                "Підношення"
+            ],
+            "en": [
+                "Bow",
+                "Handshake",
+                "Offering"
+            ],
+            "es": [
+                "Reverencia",
+                "Apretón de manos",
+                "Ofrenda"
+            ],
+            "pt": [
+                "Reverência",
+                "Aperto de mão",
+                "Oferta"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Злые духи",
+                "Полночь",
+                "Средневековье"
+            ],
+            "uk": [
+                "Злі духи",
+                "Опівночі",
+                "Середньовіччя"
+            ],
+            "en": [
+                "Evil spirits",
+                "Midnight",
+                "Middle Ages"
+            ],
+            "es": [
+                "Espíritus malignos",
+                "Medianoche",
+                "Edad Media"
+            ],
+            "pt": [
+                "Espíritos malignos",
+                "Meia-noite",
+                "Idade Média"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Начинаем Новый год и отгоняем злых духов.",
+                "Символ мира и любви."
+            ],
+            "uk": [
+                "Починаємо Новий рік і відганяємо злих духів.",
+                "Символ миру і любові."
+            ],
+            "en": [
+                "We start the New Year and drive away evil spirits.",
+                "A symbol of peace and love."
+            ],
+            "es": [
+                "Empezamos el Año Nuevo y ahuyentamos a los espíritus malignos.",
+                "Un símbolo de paz y amor."
+            ],
+            "pt": [
+                "Começamos o Ano Novo e afastamos os espíritos malignos.",
+                "Um símbolo de paz e amor."
+            ]
+        },
+        "tooltip": {
+            "ru": "Эта традиция была распространена на маскарадах",
+            "uk": "Ця традиція була поширена на маскарадах",
+            "en": "This tradition was common at masquerade balls",
+            "es": "Esta tradición era común en los bailes de máscaras",
+            "pt": "Esta tradição era comum em bailes de máscaras"
+        },
+        "qwestion": {
+            "ru": "Какая традиция, из Средневековья, помогала избавиться от преследовавших злых духов?",
+            "uk": "Яка традиція, із Середньовіччя, допомагала позбутися злих духів, що переслідували?",
+            "en": "What medieval tradition helped get rid of pursuing evil spirits?",
+            "es": "¿Qué tradición medieval ayudaba a deshacerse de los espíritus malignos que acechaban?",
+            "pt": "Que tradição medieval ajudava a se livrar dos maus espíritos que perseguiam?"
+        },
+        "definition": {
+            "ru": "Поцелуй в новогоднюю ночь — это традиция, которая, по одной из версий, берёт начало в Средневековье. Считалось, что поцелуй в полночь помогал отпугнуть злых духов, которые преследовали людей в период празднеств, и укрепить узы любви и дружбы в новом году.",
+            "uk": "Поцілунок у новорічну ніч — це традиція, яка, за однією з версій, бере початок у Середньовіччі. Вважалося, що поцілунок опівночі допомагав відлякати злих духів, які переслідували людей у період святкувань, і зміцнити узи любові та дружби в новому році.",
+            "en": "The New Year's Eve kiss is a tradition that, according to one theory, dates back to the Middle Ages. It was believed that a kiss at midnight helped ward off evil spirits that haunted people during celebrations and strengthened the bonds of love and friendship in the new year.",
+            "es": "El beso de Nochevieja es una tradición que, según una teoría, se remonta a la Edad Media. Se creía que un beso a medianoche ayudaba a ahuyentar a los espíritus malignos que acechaban a las personas durante las celebraciones y fortalecía los lazos de amor y amistad en el nuevo año.",
+            "pt": "O beijo de Véspera de Ano Novo é uma tradição que, segundo uma teoria, remonta à Idade Média. Acreditava-se que um beijo à meia-noite ajudava a afastar os maus espíritos que assombravam as pessoas durante as celebrações e fortalecia os laços de amor e amizade no ano novo."
+        },
+        "antipod": {
+            "ru": "Пощёчина",
+            "uk": "Ляпас",
+            "en": "Slap",
+            "es": "Bofetada",
+            "pt": "Tapa"
+        },
+        "hintFuiz": {
+            "ru": "Это действие было ритуалом, отгоняющим злых духов.",
+            "uk": "Ця дія була ритуалом, що відганяв злих духів.",
+            "en": "This action was a ritual that warded off evil spirits.",
+            "es": "Esta acción era un ritual que ahuyentaba a los espíritus malignos.",
+            "pt": "Este ato era um ritual que afastava os maus espíritos."
+        },
+        "article": "https://en.wikipedia.org/wiki/New_Year%27s_Eve_kiss"
+    },
+    "imgFlag": "quizfoto"
+}

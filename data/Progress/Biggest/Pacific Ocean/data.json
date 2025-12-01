@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Тихий океан",
+            "uk": "Тихий океан",
+            "en": "Pacific Ocean",
+            "es": "Océano Pacífico",
+            "pt": "Oceano Pacífico"
+        },
+        "wrong": {
+            "ru": [
+                "Индийский океан",
+                "Северный Ледовитый океан",
+                "Средиземное море"
+            ],
+            "uk": [
+                "Індійський океан",
+                "Північний Льодовитий океан",
+                "Середземне море"
+            ],
+            "en": [
+                "Indian Ocean",
+                "Arctic Ocean",
+                "Mediterranean Sea"
+            ],
+            "es": [
+                "Océano Índico",
+                "Océano Ártico",
+                "Mar Mediterráneo"
+            ],
+            "pt": [
+                "Oceano Índico",
+                "Oceano Ártico",
+                "Mar Mediterrâneo"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Океан.",
+                "Тишина.",
+                "Самый большой."
+            ],
+            "uk": [
+                "Океан.",
+                "Тиша.",
+                "Найбільший."
+            ],
+            "en": [
+                "Ocean.",
+                "Pacific.",
+                "Biggest."
+            ],
+            "es": [
+                "Océano.",
+                "Pacífico.",
+                "El más grande."
+            ],
+            "pt": [
+                "Oceano.",
+                "Pacífico.",
+                "O maior."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Самый большой и глубокий.",
+                "Это 30% поверхности планеты Земля."
+            ],
+            "uk": [
+                "Найбільший і найглибший.",
+                "Це 30% поверхні планети Земля."
+            ],
+            "en": [
+                "The largest and deepest.",
+                "It is 30% of the surface of planet Earth."
+            ],
+            "es": [
+                "El más grande y profundo.",
+                "Es el 30% de la superficie del planeta Tierra."
+            ],
+            "pt": [
+                "O maior e mais profundo.",
+                "É 30% da superfície do planeta Terra."
+            ]
+        },
+        "tooltip": {
+            "ru": "Его площадь составляет 165 миллионов км².",
+            "uk": "Його площа становить 165 мільйонів км².",
+            "en": "Its area is 165 million km².",
+            "es": "Su área es de 165 millones de km².",
+            "pt": "Sua área é de 165 milhões de km²."
+        },
+        "qwestion": {
+            "ru": "Какой самый большой океан в мире?",
+            "uk": "Який найбільший океан у світі?",
+            "en": "What is the largest ocean in the world?",
+            "es": "¿Cuál es el océano más grande del mundo?",
+            "pt": "Qual é o maior oceano do mundo?"
+        },
+        "definition": {
+            "ru": "Тихий океан — крупнейший и самый глубокий океан на Земле. Он занимает около трети всей поверхности планеты и содержит самую глубокую точку — Марианскую впадину. Его название, «Тихий», было дано Фернаном Магелланом.",
+            "uk": "Тихий океан — найбільший і найглибший океан на Землі. Він займає близько третини всієї поверхні планети і містить найглибшу точку — Маріанську западину. Його назва, «Тихий», була дана Фернаном Магелланом.",
+            "en": "The Pacific Ocean is the largest and deepest ocean on Earth. It covers about a third of the planet's surface and contains the deepest point, the Mariana Trench. Its name, 'Pacific,' was given by Ferdinand Magellan.",
+            "es": "El Océano Pacífico es el más grande y profundo de la Tierra. Cubre aproximadamente un tercio de la superficie del planeta y contiene el punto más profundo, la Fosa de las Marianas. Su nombre, 'Pacífico', fue dado por Fernando de Magallanes.",
+            "pt": "O Oceano Pacífico é o maior e mais profundo oceano da Terra. Ele cobre cerca de um terço da superfície do planeta e contém o ponto mais profundo, a Fossa das Marianas. Seu nome, 'Pacífico', foi dado por Fernão de Magalhães."
+        },
+        "antipod": {
+            "ru": "Атлантический океан",
+            "uk": "Атлантичний океан",
+            "en": "Atlantic Ocean",
+            "es": "Océano Atlántico",
+            "pt": "Oceano Atlântico"
+        },
+        "hintFuiz": {
+            "ru": "Это самый большой океан, который покрывает почти треть поверхности Земли.",
+            "uk": "Це найбільший океан, який покриває майже третину поверхні Землі.",
+            "en": "This is the largest ocean, covering almost a third of the Earth's surface.",
+            "es": "Este es el océano más grande, que cubre casi un tercio de la superficie de la Tierra.",
+            "pt": "Este é o maior oceano, cobrindo quase um terço da superfície da Terra."
+        },
+        "article": "https://en.wikipedia.org/wiki/Pacific_Ocean"
+    },
+   "imgFlag": "quizfoto" 
+}

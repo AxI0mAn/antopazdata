@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Греция",
+            "uk": "Греція",
+            "en": "Greece",
+            "es": "Grecia",
+            "pt": "Grécia"
+        },
+        "wrong": {
+            "ru": [
+                "Франция",
+                "Ватикан",
+                "Мексика"
+            ],
+            "uk": [
+                "Франція",
+                "Ватикан",
+                "Мексика"
+            ],
+            "en": [
+                "France",
+                "Vatican City",
+                "Mexico"
+            ],
+            "es": [
+                "Francia",
+                "Ciudad del Vaticano",
+                "México"
+            ],
+            "pt": [
+                "França",
+                "Vaticano",
+                "México"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Гимн.",
+                "Длина.",
+                "Европа."
+            ],
+            "uk": [
+                "Гімн.",
+                "Довжина.",
+                "Європа."
+            ],
+            "en": [
+                "Anthem.",
+                "Length.",
+                "Europe."
+            ],
+            "es": [
+                "Himno.",
+                "Duración.",
+                "Europa."
+            ],
+            "pt": [
+                "Hino.",
+                "Duração.",
+                "Europa."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Родина Олимпа и демократии.",
+                "Самый длинный гимн страны."
+            ],
+            "uk": [
+                "Батьківщина Олімпу та демократії.",
+                "Найдовший гімн країни."
+            ],
+            "en": [
+                "The birthplace of Olympus and democracy.",
+                "The longest national anthem."
+            ],
+            "es": [
+                "La cuna del Olimpo y la democracia.",
+                "El himno nacional más largo."
+            ],
+            "pt": [
+                "O berço do Olimpo e da democracia.",
+                "O hino nacional mais longo."
+            ]
+        },
+        "tooltip": {
+            "ru": "Он состоит из 158 куплетов.",
+            "uk": "Він складається зі 158 куплетів.",
+            "en": "It consists of 158 verses.",
+            "es": "Consta de 158 estrofas.",
+            "pt": "Consiste em 158 estrofes."
+        },
+        "qwestion": {
+            "ru": "Какая страна имеет самый длинный гимн в мире?",
+            "uk": "Яка країна має найдовший гімн у світі?",
+            "en": "What country has the longest national anthem in the world?",
+            "es": "¿Qué país tiene el himno nacional más largo del mundo?",
+            "pt": "Qual país tem o hino nacional mais longo do mundo?"
+        },
+        "definition": {
+            "ru": "Греция — это страна в Юго-Восточной Европе, считающаяся колыбелью западной цивилизации. Её национальный гимн, «Гимн Свободе», содержит 158 куплетов и признан самым длинным в мире по количеству слов.",
+            "uk": "Греція — це країна в Південно-Східній Європі, яка вважається колискою західної цивілізації. Її національний гімн, «Гімн Свободі», містить 158 куплетів і визнаний найдовшим у світі за кількістю слів.",
+            "en": "Greece is a country in Southeast Europe, considered the cradle of Western civilization. Its national anthem, 'Hymn to Liberty,' contains 158 verses and is recognized as the longest in the world by the number of words.",
+            "es": "Grecia es un país del sudeste de Europa, considerado la cuna de la civilización occidental. Su himno nacional, 'Himno a la Libertad', contiene 158 estrofas y está reconocido como el más largo del mundo por número de palabras.",
+            "pt": "A Grécia é um país do sudeste da Europa, considerado o berço da civilização ocidental. Seu hino nacional, 'Hino à Liberdade', contém 158 estrofes e é reconhecido como o mais longo do mundo em número de palavras."
+        },
+        "antipod": {
+            "ru": "Украина",
+            "uk": "Україна",
+            "en": "Ukraine",
+            "es": "Ucrania",
+            "pt": "Ucrânia"
+        },
+        "hintFuiz": {
+            "ru": "Гимн этой страны является самым длинным в мире.",
+            "uk": "Гімн цієї країни є найдовшим у світі.",
+            "en": "This country's national anthem is the longest in the world.",
+            "es": "El himno nacional de este país es el más largo del mundo.",
+            "pt": "O hino nacional deste país é o mais longo do mundo."
+        },
+        "article": "https://en.wikipedia.org/wiki/Greece"
+    },
+    "imgFlag": "all" 
+}

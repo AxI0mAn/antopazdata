@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Латимерия",
+            "uk": "Латимерія",
+            "en": "Coelacanth",
+            "es": "Celacanto",
+            "pt": "Celacanto"
+        },
+        "wrong": {
+            "ru": [
+                "Барракуда",
+                "Тунгусский осетр",
+                "Карась"
+            ],
+            "uk": [
+                "Баракуда",
+                "Тунгуський осетер",
+                "Карась"
+            ],
+            "en": [
+                "Barracuda",
+                "Tunguska sturgeon",
+                "Crucian carp"
+            ],
+            "es": [
+                "Barracuda",
+                "Esturión de Tunguska",
+                "Carpa cruciana"
+            ],
+            "pt": [
+                "Barracuda",
+                "Esturjão do Tunguska",
+                "Carpa-comum"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Живое ископаемое.",
+                "Глубоководный.",
+                "Доисторический."
+            ],
+            "uk": [
+                "Жива копалина.",
+                "Глибоководна.",
+                "Доісторична."
+            ],
+            "en": [
+                "Living fossil.",
+                "Deep-sea.",
+                "Prehistoric."
+            ],
+            "es": [
+                "Fósil viviente.",
+                "Aguas profundas.",
+                "Prehistórico."
+            ],
+            "pt": [
+                "Fóssil vivo.",
+                "Águas profundas.",
+                "Pré-histórico."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Какая рыба жила с динозаврами?",
+                "Какая рыба - живое ископаемое?"
+            ],
+            "uk": [
+                "Яка риба жила з динозаврами?",
+                "Яка риба — жива копалина?"
+            ],
+            "en": [
+                "Which fish lived with the dinosaurs?",
+                "Which fish is a living fossil?"
+            ],
+            "es": [
+                "¿Qué pez vivía con los dinosaurios?",
+                "¿Qué pez es un fósil viviente?"
+            ],
+            "pt": [
+                "Qual peixe viveu com os dinossauros?",
+                "Qual peixe é um fóssil vivo?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Эта рыба считалась вымершей 66 миллионов лет назад, пока не была обнаружена в 1938 году.",
+            "uk": "Ця риба вважалася вимерлою 66 мільйонів років тому, поки не була виявлена в 1938 році.",
+            "en": "This fish was thought to be extinct 66 million years ago until it was rediscovered in 1938.",
+            "es": "Este pez se creía extinto hace 66 millones de años, hasta que fue redescubierto en 1938.",
+            "pt": "Este peixe foi considerado extinto há 66 milhões de anos, até ser redescoberto em 1938."
+        },
+        "qwestion": {
+            "ru": "Какая рыба, считавшаяся вымершей, оказалась живым ископаемым?",
+            "uk": "Яка риба, що вважалася вимерлою, виявилася живою копалиною?",
+            "en": "Which fish, thought to be extinct, turned out to be a living fossil?",
+            "es": "¿Qué pez, considerado extinto, resultó ser un fósil viviente?",
+            "pt": "Qual peixe, considerado extinto, acabou sendo um fóssil vivo?"
+        },
+        "definition": {
+            "ru": "Латимерия — это редкий вид глубоководных рыб. Она известна как «живое ископаемое», потому что принадлежит к древней линии рыб, которая, как считалось, вымерла вместе с динозаврами.",
+            "uk": "Латимерія — це рідкісний вид глибоководних риб. Вона відома як «жива копалина», тому що належить до стародавньої лінії риб, яка, як вважалося, вимерла разом із динозаврами.",
+            "en": "The Coelacanth is a rare species of deep-sea fish. It is known as a “living fossil” because it belongs to an ancient lineage of fish that was thought to have gone extinct with the dinosaurs.",
+            "es": "El celacanto es una especie rara de pez de aguas profundas. Es conocido como un \"fósil viviente\" porque pertenece a un antiguo linaje de peces que se pensaba extinto con los dinosaurios.",
+            "pt": "O celacanto é uma espécie rara de peixe de águas profundas. É conhecido como um “fóssil vivo” por pertencer a uma linhagem de peixes que se pensava ter sido extinta com os dinossauros."
+        },
+        "antipod": {
+            "ru": "Окунь",
+            "uk": "Окунь",
+            "en": "Perch",
+            "es": "Perca",
+            "pt": "Perca"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих двух рыб является редкой?",
+            "uk": "Яка з цих двох риб є рідкісною?",
+            "en": "Which of these two fish is a rare one?",
+            "es": "¿Cuál de estos dos peces es raro?",
+            "pt": "Qual desses dois peixes é raro?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Coelacanth"
+    },
+    "imgFlag": "all" 
+}

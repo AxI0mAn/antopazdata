@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Монголия",
+            "uk": "Монголія",
+            "en": "Mongolia",
+            "es": "Mongolia",
+            "pt": "Mongólia"
+        },
+        "wrong": {
+            "ru": [
+                "Индия",
+                "Бангладеш",
+                "Китай"
+            ],
+            "uk": [
+                "Індія",
+                "Бангладеш",
+                "Китай"
+            ],
+            "en": [
+                "India",
+                "Bangladesh",
+                "China"
+            ],
+            "es": [
+                "India",
+                "Bangladés",
+                "China"
+            ],
+            "pt": [
+                "Índia",
+                "Bangladesh",
+                "China"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Степи.",
+                "Кочевники.",
+                "Лошади."
+            ],
+            "uk": [
+                "Степи.",
+                "Кочівники.",
+                "Коні."
+            ],
+            "en": [
+                "Steppes.",
+                "Nomads.",
+                "Horses."
+            ],
+            "es": [
+                "Estepas.",
+                "Nómadas.",
+                "Caballos."
+            ],
+            "pt": [
+                "Estepes.",
+                "Nômades.",
+                "Cavalos."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Где лошадей больше, чем людей.",
+                "Самая малонаселённая страна."
+            ],
+            "uk": [
+                "Де коней більше, ніж людей.",
+                "Найменш населена країна."
+            ],
+            "en": [
+                "Where there are more horses than people.",
+                "The most sparsely populated country."
+            ],
+            "es": [
+                "Donde hay más caballos que personas.",
+                "El país con menos población."
+            ],
+            "pt": [
+                "Onde há mais cavalos do que pessoas.",
+                "O país com a menor densidad populacional."
+            ]
+        },
+        "tooltip": {
+            "ru": "В ней в четыре раза больше лошадей, чем людей.",
+            "uk": "У ній у чотири рази більше коней, ніж людей.",
+            "en": "It has four times as many horses as people.",
+            "es": "Tiene cuatro veces más caballos que personas.",
+            "pt": "Tem quatro vezes mais cavalos do que pessoas."
+        },
+        "qwestion": {
+            "ru": "Какая страна является самой малонаселенной в мире?",
+            "uk": "Яка країна є найменш населеною у світі?",
+            "en": "Which country is the most sparsely populated in the world?",
+            "es": "¿Qué país es el menos poblado del mundo?",
+            "pt": "Qual país é o mais escassamente povoado do mundo?"
+        },
+        "definition": {
+            "ru": "Монголия — это обширная страна в Восточной Азии, расположенная между Россией и Китаем. Это наименее густонаселенная страна в мире, с населением, которое составляет всего около 3.3 миллиона человек на огромной территории, что приводит к средней плотности менее двух человек на квадратный километр. Большая часть населения ведет кочевой или полукочевой образ жизни, а лошади играют центральную роль в культуре. Ландшафт Монголии состоит из обширных степей, пустыни Гоби и высоких горных хребтов на севере и западе.",
+            "uk": "Монголія — це велика країна у Східній Азії, розташована між Росією та Китаєм. Це найменш густонаселена країна у світі, з населенням, що становить лише близько 3.3 мільйона людей на величезній території, що призводить до середньої щільності менше двох осіб на квадратний кілометр. Більша частина населення веде кочовий або напівкочовий спосіб життя, а коні відіграють центральну роль у культурі. Ландшафт Монголії складається з великих степів, пустелі Гобі та високих гірських хребтів на півночі та заході.",
+            "en": "Mongolia is a vast country in East Asia, landlocked between Russia and China. It is the least densely populated country in the world, with a population of only about 3.3 million people spread across a huge area, resulting in an average density of less than two people per square kilometer. Much of its population maintains a nomadic or semi-nomadic lifestyle, and horses play a central role in its culture. Mongolia's landscape is composed of vast steppes, the Gobi Desert, and tall mountain ranges in the north and west.",
+            "es": "Mongolia es un vasto país en el este de Asia, sin salida al mar, ubicado entre Rusia y China. Es el país menos densamente poblado del mundo, con una población de solo unos 3.3 millones de personas distribuidas en una enorme área, lo que resulta en una densidad promedio de menos de dos personas por kilómetro cuadrado. Gran parte de su población mantiene un estilo de vida nómada o seminómada, y los caballos juegan un papel central en su cultura. El paisaje de Mongolia se compone de vastas estepas, el desierto de Gobi y altas cadenas montañosas en el norte y el oeste.",
+            "pt": "A Mongólia é um vasto país na Ásia Oriental, sem saída para o mar, localizado entre a Rússia e a China. É o país menos densamente povoado do mundo, com uma população de apenas cerca de 3.3 milhões de pessoas distribuídas por uma enorme área, resultando em uma densidade média de menos de duas pessoas por quilômetro quadrado. Grande parte de sua população mantém um estilo de vida nômade ou seminômade, e os cavalos desempenham um papel central em sua cultura. A paisagem da Mongólia é composta por vastas estepes, o Deserto de Gobi e altas cadeias de montanhas no norte e oeste."
+        },
+        "antipod": {
+            "ru": "Сингапур",
+            "uk": "Сінгапур",
+            "en": "Singapore",
+            "es": "Singapur",
+            "pt": "Singapura"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих стран является самой малонаселенной?",
+            "uk": "Яка з цих країн є найменш населеною?",
+            "en": "Which of these countries is the most sparsely populated?",
+            "es": "¿Cuál de estos países es el menos poblado?",
+            "pt": "Qual desses países é o mais escassamente povoado?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Mongolia"
+    },
+    "imgFlag": "quizfoto" 
+}

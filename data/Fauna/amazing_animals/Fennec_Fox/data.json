@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Фенек",
+            "uk": "Фенек",
+            "en": "Fennec Fox",
+            "es": "Zorro del desierto",
+            "pt": "Feneco"
+        },
+        "wrong": {
+            "ru": [
+                "Рыжая лиса",
+                "Корсак",
+                "Серый волк"
+            ],
+            "uk": [
+                "Руда лисиця",
+                "Корсак",
+                "Сірий вовк"
+            ],
+            "en": [
+                "Red fox",
+                "Corsac fox",
+                "Gray wolf"
+            ],
+            "es": [
+                "Zorro rojo",
+                "Zorro corsac",
+                "Lobo gris"
+            ],
+            "pt": [
+                "Raposa-vermelha",
+                "Raposa-corsac",
+                "Lobo-cinzento"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Большие уши.",
+                "Пустыня.",
+                "Лиса."
+            ],
+            "uk": [
+                "Великі вуха.",
+                "Пустеля.",
+                "Лисиця."
+            ],
+            "en": [
+                "Large ears.",
+                "Desert.",
+                "Fox."
+            ],
+            "es": [
+                "Orejas grandes.",
+                "Desierto.",
+                "Zorro."
+            ],
+            "pt": [
+                "Orelhas grandes.",
+                "Deserto.",
+                "Raposa."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Самая маленькая лиса в мире.",
+                "Уши больше, чем он сам."
+            ],
+            "uk": [
+                "Найменша лисиця у світі.",
+                "Вуха більші, ніж він сам."
+            ],
+            "en": [
+                "The smallest fox in the world.",
+                "Ears are bigger than it is."
+            ],
+            "es": [
+                "El zorro más pequeño del mundo.",
+                "Las orejas son más grandes que él mismo."
+            ],
+            "pt": [
+                "A menor raposa do mundo.",
+                "As orelhas são maiores do que ele mesmo."
+            ]
+        },
+        "tooltip": {
+            "ru": "Большие уши помогают ему регулировать температуру тела и лучше слышать добычу.",
+            "uk": "Великі вуха допомагають йому регулювати температуру тіла і краще чути здобич.",
+            "en": "Its large ears help it regulate body temperature and hear prey better.",
+            "es": "Sus grandes orejas le ayudan a regular la temperatura corporal y a oír mejor a sus presas.",
+            "pt": "Suas orelhas grandes o ajudam a regular a temperatura corporal e a ouvir melhor as presas."
+        },
+        "qwestion": {
+            "ru": "Какая маленькая пустынная лисица имеет огромные уши?",
+            "uk": "Яка маленька пустельна лисиця має величезні вуха?",
+            "en": "What small desert fox has enormous ears?",
+            "es": "¿Qué pequeño zorro del desierto tiene orejas enormes?",
+            "pt": "Que pequena raposa do deserto tem orelhas enormes?"
+        },
+        "definition": {
+            "ru": "Фенек — это маленькая ночная лиса, обитающая в пустыне Сахара в Северной Африке. Его большие уши помогают ему выживать в суровых условиях пустыни, рассеивая тепло и позволяя ему слышать добычу под песком.",
+            "uk": "Фенек — це маленька нічна лисиця, що мешкає в пустелі Сахара в Північній Африці. Його великі вуха допомагають йому виживати в суворих умовах пустелі, розсіюючи тепло та дозволяючи йому чути здобич під піском.",
+            "en": "The fennec fox is a small, nocturnal fox native to the Sahara Desert in North Africa. Its large ears help it survive the harsh desert conditions by dissipating heat and allowing it to hear prey moving under the sand.",
+            "es": "El zorro del desierto es un pequeño zorro nocturno nativo del desierto del Sahara en el norte de África. Sus grandes orejas le ayudan a sobrevivir a las duras condiciones del desierto, disipando el calor y permitiéndole escuchar a sus presas moviéndose bajo la arena.",
+            "pt": "A raposa-do-deserto é uma pequena raposa noturna nativa do Deserto do Saara, no norte da África. Suas grandes orelhas a ajudam a sobreviver às duras condições do deserto, dissipando o calor e permitindo que ela ouça presas se movendo sob a areia."
+        },
+        "antipod": {
+            "ru": "Белый медведь",
+            "uk": "Білий ведмідь",
+            "en": "Polar Bear",
+            "es": "Oso polar",
+            "pt": "Urso polar"
+        },
+        "hintFuiz": {
+            "ru": "Кто из них живёт в пустыне?",
+            "uk": "Хто з них живе в пустелі?",
+            "en": "Which of them lives in the desert?",
+            "es": "¿Cuál de ellos vive en el desierto?",
+            "pt": "Qual deles vive no deserto?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Fennec_fox"
+    },
+    "imgFlag": "all" 
+}

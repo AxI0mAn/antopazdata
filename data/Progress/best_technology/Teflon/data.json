@@ -1,0 +1,102 @@
+{
+    "data": {
+        "name": {
+            "ru": "Тефлон",
+            "uk": "Тефлон",
+            "en": "Teflon",
+            "es": "Teflón",
+            "pt": "Teflon"
+        },
+        "wrong": {
+            "ru": [
+                "Силикон",
+                "Нейлон",
+                "Винил"
+            ],
+            "uk": [
+                "Силікон",
+                "Нейлон",
+                "Вініл"
+            ],
+            "en": [
+                "Silicone",
+                "Nylon",
+                "Vinyl"
+            ],
+            "es": [
+                "Silicona",
+                "Nailon",
+                "Vinilo"
+            ],
+            "pt": [
+                "Silicone",
+                "Nylon",
+                "Vinil"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Сковорода",
+                "Низкое трение",
+                "Химик"
+            ],
+            "uk": [
+                "Сковорідка",
+                "Низьке тертя",
+                "Хімік"
+            ],
+            "en": [
+                "Frying pan",
+                "Low friction",
+                "Chemist"
+            ],
+            "es": [
+                "Sartén",
+                "Baja fricción",
+                "Químico"
+            ],
+            "pt": [
+                "Frigideira",
+                "Baixo atrito",
+                "Químico"
+            ]
+        },
+        "tooltip": {
+            "ru": "Вещество было случайно обнаружено химиком Роем Планкеттом при попытке создать новый хладагент.",
+            "uk": "Речовина була випадково виявлена хіміком Роєм Планкеттом при спробі створити новий холодоагент.",
+            "en": "The substance was accidentally discovered by chemist Roy Plunkett while trying to create a new refrigerant.",
+            "es": "La sustancia fue descubierta accidentalmente por el químico Roy Plunkett al intentar crear un nuevo refrigerante.",
+            "pt": "A substância foi descoberta acidentalmente pelo químico Roy Plunkett ao tentar criar um novo refrigerante."
+        },
+        "qwestion": {
+            "ru": "Какое открытие хладагента привело к появлению антипригарных покрытий?",
+            "uk": "Яке відкриття холодоагента призвело до появи антипригарних покриттів?",
+            "en": "What discovery of a refrigerant led to the invention of non-stick coatings?",
+            "es": "¿Qué descubrimiento de un refrigerante condujo a la invención de los recubrimientos antiadherentes?",
+            "pt": "Que descoberta de um refrigerante levou à invenção dos revestimentos antiaderentes?"
+        },
+        "definition": {
+            "ru": "Тефлон (политетрафторэтилен) — это синтетический полимер, который обладает уникальной стойкостью к высоким температурам и исключительно низким коэффициентом трения.",
+            "uk": "Тефлон (політетрафторетилен) — це синтетичний полімер, який має унікальну стійкість до високих температур і винятково низький коефіцієнт тертя.",
+            "en": "Teflon (polytetrafluoroethylene) is a synthetic polymer that has unique resistance to high temperatures and an exceptionally low coefficient of friction. ",
+            "es": "El teflón (politetrafluoroetileno) es un polímero sintético que tiene una resistencia única a altas temperaturas y un coeficiente de fricción excepcionalmente bajo.",
+            "pt": "O teflon (politetrafluoroetileno) é um polímero sintético que possui resistência única a altas temperaturas e um coeficiente de atrito excepcionalmente baixo."
+        },
+        "antipod": {
+            "ru": "Пластик",
+            "uk": "Пластик",
+            "en": "Plastic",
+            "es": "Plástico",
+            "pt": "Plástico"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих двух веществ наносят, как антипригарное покрытие на сковородках?",
+            "uk": "Яку з цих двох речовин наносять як антипригарне покриття на сковорідки?",
+            "en": "Which of these two substances is applied as a non-stick coating on frying pans?",
+            "es": "¿Cuál de estas dos sustancias se aplica como recubrimiento antiadherente en sartenes?",
+            "pt": "Qual dessas duas substâncias é aplicada como revestimento antiaderente em frigideiras?"
+        },
+        "article": "https://ru.wikipedia.org/wiki/Политетрафторэтилен"
+    },
+    "imgFlag": "quizfoto" 
+}

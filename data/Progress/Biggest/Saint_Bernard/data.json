@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Сенбернар",
+            "uk": "Сенбернар",
+            "en": "Saint Bernard",
+            "es": "San Bernardo",
+            "pt": "São Bernardo"
+        },
+        "wrong": {
+            "ru": [
+                "Немецкий дог",
+                "Английский мастиф",
+                "Ирландский волкодав"
+            ],
+            "uk": [
+                "Німецький дог",
+                "Англійський мастиф",
+                "Ірландський вовкодав"
+            ],
+            "en": [
+                "Great Dane",
+                "English Mastiff",
+                "Irish Wolfhound"
+            ],
+            "es": [
+                "Gran Danés",
+                "Mastín Inglés",
+                "Lobero Irlandés"
+            ],
+            "pt": [
+                "Dogue Alemão",
+                "Mastim Inglês",
+                "Wolfhound Irlandês"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Собака.",
+                "Гигант.",
+                "Дог."
+            ],
+            "uk": [
+                "Собака.",
+                "Гігант.",
+                "Дог."
+            ],
+            "en": [
+                "Dog.",
+                "Giant.",
+                "Mastiff."
+            ],
+            "es": [
+                "Perro.",
+                "Gigante.",
+                "Mastín."
+            ],
+            "pt": [
+                "Cão.",
+                "Gigante.",
+                "Dog."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Спасатель в горах, но не альпинист.",
+                "Собака весом больше ста килограмм."
+            ],
+            "uk": [
+                "Рятувальник у горах, але не альпініст.",
+                "Собака вагою понад сто кілограмів."
+            ],
+            "en": [
+                "A mountain rescuer, but not a climber.",
+                "A dog weighing over a hundred kilograms."
+            ],
+            "es": [
+                "Un rescatista de montaña, pero no un alpinista.",
+                "Un perro que pesa más de cien kilogramos."
+            ],
+            "pt": [
+                "Um socorrista nas montanhas, mas não um alpinista.",
+                "Um cão que pesa mais de cem quilos."
+            ]
+        },
+        "tooltip": {
+            "ru": "Ее представители могут достигать веса более 100 кг.",
+            "uk": "Її представники можуть досягати ваги понад 100 кг.",
+            "en": "Its members can reach a weight of over 100 kg.",
+            "es": "Sus miembros pueden alcanzar un peso de más de 100 kg.",
+            "pt": "Seus membros podem atingir um peso de mais de 100 kg."
+        },
+        "qwestion": {
+            "ru": "Какая порода собак является самой большой и самой тяжелой?",
+            "uk": "Яка порода собак є найбільшою і найважчою?",
+            "en": "What dog breed is the largest and heaviest?",
+            "es": "¿Qué raza de perro es la más grande y pesada?",
+            "pt": "Qual raça de cachorro é a maior e mais pesada?"
+        },
+        "definition": {
+            "ru": "Сенбернар — это порода очень крупных рабочих собак, происходящая из швейцарских Альп. Она известна своим массивным размером, силой и дружелюбным характером, а также своей исторической ролью в спасении людей.",
+            "uk": "Сенбернар — це порода дуже великих робочих собак, що походить зі швейцарських Альп. Вона відома своїм масивним розміром, силою і доброзичливим характером, а також своєю історичною роллю у порятунку людей.",
+            "en": "The Saint Bernard is a breed of very large working dog from the Swiss Alps. It is known for its massive size, strength, and gentle temperament, as well as its historical role in rescuing people.",
+            "es": "El San Bernardo es una raza de perro de trabajo muy grande originaria de los Alpes suizos. Es conocido por su tamaño masivo, fuerza y temperamento amigable, así como por su papel histórico en el rescate de personas.",
+            "pt": "O São Bernardo é uma raça de cão de trabalho muito grande originária dos Alpes suíços. É conhecido por seu tamanho massivo, força e temperamento gentil, bem como por seu papel histórico no resgate de pessoas."
+        },
+        "antipod": {
+            "ru": "Кангал",
+            "uk": "Кангал",
+            "en": "Kangal",
+            "es": "Kangal",
+            "pt": "Kangal"
+        },
+        "hintFuiz": {
+            "ru": "Собака, которая работает спасателем в горах.",
+            "uk": "Собака, що працює рятувальником у горах.",
+            "en": "A dog that works as a mountain rescuer.",
+            "es": "Un perro que trabaja como rescatista de montaña.",
+            "pt": "Um cão que trabalha como socorrista nas montanhas."
+        },
+        "article": "https://en.wikipedia.org/wiki/St._Bernard_(dog)"
+    },
+    "imgFlag": "all" 
+}

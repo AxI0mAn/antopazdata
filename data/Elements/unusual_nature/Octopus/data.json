@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Осьминог",
+            "uk": "Восьминіг",
+            "en": "Octopus",
+            "es": "Pulpo",
+            "pt": "Polvo"
+        },
+        "wrong": {
+            "ru": [
+                "Голубой кит",
+                "Колибри",
+                "Коала"
+            ],
+            "uk": [
+                "Синій кит",
+                "Колібрі",
+                "Коала"
+            ],
+            "en": [
+                "Blue whale",
+                "Hummingbird",
+                "Koala"
+            ],
+            "es": [
+                "Ballena azul",
+                "Colibrí",
+                "Koala"
+            ],
+            "pt": [
+                "Baleia-azul",
+                "Beija-flor",
+                "Coala"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Головоногий.",
+                "Голубая кровь.",
+                "Меняет цвет."
+            ],
+            "uk": [
+                "Головоногий.",
+                "Блакитна кров.",
+                "Змінює колір."
+            ],
+            "en": [
+                "Cephalopod.",
+                "Blue blood.",
+                "Changes color."
+            ],
+            "es": [
+                "Cefalópodo.",
+                "Sangre azul.",
+                "Cambia de color."
+            ],
+            "pt": [
+                "Cefalópode.",
+                "Sangue azul.",
+                "Muda de cor."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "У него много щупалец и целых три сердца.",
+                "Очень умен и меняет свою окраску."
+            ],
+            "uk": [
+                "У нього багато щупалець і цілих три серця.",
+                "Дуже розумний і змінює своє забарвлення."
+            ],
+            "en": [
+                "It has many tentacles and three hearts.",
+                "It is very intelligent and changes its color."
+            ],
+            "es": [
+                "Tiene muchos tentáculos y tres corazones.",
+                "Es muy inteligente y cambia de color."
+            ],
+            "pt": [
+                "Ele tem muitos tentáculos e três corações.",
+                "É muito inteligente e muda de cor."
+            ]
+        },
+        "tooltip": {
+            "ru": "Одно сердце центральное для циркуляции крови и два периферических.",
+            "uk": "Одне серце центральне для циркуляції крові та два периферичні.",
+            "en": "One central heart for blood circulation and two peripheral ones.",
+            "es": "Un corazón central para la circulación sanguínea y dos periféricos.",
+            "pt": "Um coração central para a circulação sanguínea e dois periféricos."
+        },
+        "qwestion": {
+            "ru": "У кого три сердца?",
+            "uk": "У кого три серця?",
+            "en": "What creature has three hearts?",
+            "es": "¿Qué criatura tiene tres corazones?",
+            "pt": "Que criatura tem três corações?"
+        },
+        "definition": {
+            "ru": "Осьминог — это головоногий моллюск с тремя сердцами и синей кровью. Два из его сердец перекачивают кровь к жабрам, а третье — к остальному телу. Он известен своим высоким интеллектом и умением использовать инструменты.",
+            "uk": "Восьминіг — це головоногий молюск з трьома серцями та синьою кров'ю. Два з його сердець перекачують кров до зябер, а третє — до решти тіла. Він відомий своїм високим інтелектом та вмінням використовувати інструменти.",
+            "en": "An octopus is a cephalopod mollusk with three hearts and blue blood. Two of its hearts pump blood to the gills, while the third circulates blood to the rest of the body. It is known for its high intelligence and tool use.",
+            "es": "El pulpo es un molusco cefalópodo con tres corazones y sangre azul. Dos de sus corazones bombean sangre a las branquias, mientras que el tercero la distribuye al resto del cuerpo. Es conocido por su alta inteligencia y uso de herramientas.",
+            "pt": "O polvo é um molusco cefalópode com três corações e sangue azul. Dois de seus corações bombeiam sangue para as brânquias, enquanto o terceiro o distribui para o resto do corpo. Ele é conhecido por sua alta inteligência e uso de ferramentas."
+        },
+        "antipod": {
+            "ru": "Жираф",
+            "uk": "Жираф",
+            "en": "Giraffe",
+            "es": "Jirafa",
+            "pt": "Girafa"
+        },
+        "hintFuiz": {
+            "ru": "У кого из них три сердца?",
+            "uk": "У кого з них три серця?",
+            "en": "Which one of them has three hearts?",
+            "es": "¿Cuál de ellos tiene tres corazones?",
+            "pt": "Qual deles tem três corações?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Octopus"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Ветряная мельница",
+            "uk": "Вітряк",
+            "en": "Windmill",
+            "es": "Molino de Viento",
+            "pt": "Moinho de Vento"
+        },
+        "wrong": {
+            "ru": [
+                "Колодец",
+                "Сосна",
+                "Крыша дома"
+            ],
+            "uk": [
+                "Колодязь",
+                "Сосна",
+                "Дах будинку"
+            ],
+            "en": [
+                "Well",
+                "Pine Tree",
+                "House Roof"
+            ],
+            "es": [
+                "Pozo",
+                "Pino",
+                "Techo de la casa"
+            ],
+            "pt": [
+                "Poço",
+                "Pinheiro",
+                "Telhado de casa"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Крик",
+                "Ветер",
+                "Удача"
+            ],
+            "uk": [
+                "Крик",
+                "Вітер",
+                "Удача"
+            ],
+            "en": [
+                "Shouting",
+                "Wind",
+                "Luck"
+            ],
+            "es": [
+                "Grito",
+                "Viento",
+                "Suerte"
+            ],
+            "pt": [
+                "Grito",
+                "Vento",
+                "Sorte"
+            ]
+        },
+        "tooltip": {
+            "ru": "Это традиция из Дании",
+            "uk": "Це традиція з Данії",
+            "en": "This is a tradition from Denmark",
+            "es": "Esta es una tradición de Dinamarca",
+            "pt": "Esta é uma tradição da Dinamarca"
+        },
+        "qwestion": {
+            "ru": "Куда нужно залезть и кричать, чтобы привлечь ветер и удачу в новом году?",
+            "uk": "Куди потрібно залізти і кричати, щоб залучити вітер і удачу в новому році?",
+            "en": "Where should you climb and shout to attract wind and luck in the new year?",
+            "es": "¿Dónde debes subir y gritar para atraer el viento y la suerte en el año nuevo?",
+            "pt": "Onde você deve subir e gritar para atrair vento e sorte no ano novo?"
+        },
+        "definition": {
+            "ru": "Ветряная мельница - это сооружение, которое преобразует энергию ветра в механическую, чаще всего для помола зерна, выкачивания воды или распиловки древесины.",
+            "uk": "Вітряк — це споруда, що перетворює енергію вітру на механічну, найчастіше для помелу зерна, викачування води або розпилювання деревини.",
+            "en": "A windmill is a structure that converts wind energy into mechanical power, most often for grinding grain, pumping water, or sawing wood.",
+            "es": "Un molino de viento es una estructura que convierte la energía eólica en mecánica, comúnmente para moler grano, bombear agua o aserrar madera.",
+            "pt": "Um moinho de vento é uma estrutura que converte a energia eólica em mecânica, geralmente para moer grãos, bombear água ou serrar madeira."
+        },
+        "antipod": {
+            "ru": "Крыша дома",
+            "uk": "Дах будинку",
+            "en": "House Roof",
+            "es": "Techo de la casa",
+            "pt": "Telhado de casa"
+        },
+        "hintFuiz": {
+            "ru": "Этот ритуал использовали для привлечения удачи в Дании.",
+            "uk": "Цей ритуал використовували для залучення удачі в Данії.",
+            "en": "This ritual was used to attract luck in Denmark.",
+            "es": "Este ritual se usaba para atraer la suerte en Dinamarca.",
+            "pt": "Este ritual era usado para atrair sorte na Dinamarca."
+        },
+        "riddle": {
+            "ru": [
+                "Я без рук и ног, но могу смолоть зерно.",
+                "Моя сила — в ветре, а мой дом — на холме."
+            ],
+            "uk": [
+                "Я без рук і ніг, але можу змолоти зерно.",
+                "Моя сила — у вітрі, а мій дім — на пагорбі."
+            ],
+            "en": [
+                "I have no hands or feet, but I can grind grain.",
+                "My strength is in the wind, and my home is on a hill."
+            ],
+            "es": [
+                "No tengo manos ni pies, pero puedo moler grano.",
+                "Mi fuerza está en el viento y mi hogar en una colina."
+            ],
+            "pt": [
+                "Não tenho mãos nem pés, mas posso moer grãos.",
+                "Minha força está no vento, e minha casa fica em uma colina."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Windmill"
+    },
+    "imgFlag": "quizfoto"
+}

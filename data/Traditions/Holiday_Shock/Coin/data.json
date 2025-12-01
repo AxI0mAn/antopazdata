@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Монета",
+            "uk": "Монета",
+            "en": "Coin",
+            "es": "Moneda",
+            "pt": "Moeda"
+        },
+        "wrong": {
+            "ru": [
+                "Ключ",
+                "Кольцо",
+                "Ложка"
+            ],
+            "uk": [
+                "Ключ",
+                "Каблучка",
+                "Ложка"
+            ],
+            "en": [
+                "Key",
+                "Ring",
+                "Spoon"
+            ],
+            "es": [
+                "Llave",
+                "Anillo",
+                "Cuchara"
+            ],
+            "pt": [
+                "Chave",
+                "Anel",
+                "Colher"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Пудинг.",
+                "Удача.",
+                "Британия."
+            ],
+            "uk": [
+                "Пудинг.",
+                "Удача.",
+                "Британія."
+            ],
+            "en": [
+                "Pudding.",
+                "Luck.",
+                "Britain."
+            ],
+            "es": [
+                "Pudín.",
+                "Suerte.",
+                "Gran Bretaña."
+            ],
+            "pt": [
+                "Pudim.",
+                "Sorte.",
+                "Grã-Bretanha."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это традиция, существовавшая в Британии,",
+            "uk": "Це традиція, що існувала у Британії,",
+            "en": "This is a tradition that existed in Britain,",
+            "es": "Esta es una tradición que existió en Gran Bretaña,",
+            "pt": "Esta é uma tradição que existia na Grã-Bretanha,"
+        },
+        "qwestion": {
+            "ru": "Что в рождественском пудинге должен был найти тот, кто будет удачливым в следующем году?",
+            "uk": "Що в різдвяному пудингу мав знайти той, хто буде щасливим наступного року?",
+            "en": "What in a Christmas pudding was to be found by the one who would be lucky in the next year?",
+            "es": "¿Qué debía encontrar en el pudín de Navidad la persona que tendría suerte el próximo año?",
+            "pt": "O que em um pudim de Natal a pessoa que seria sortuda no próximo ano deveria encontrar?"
+        },
+        "definition": {
+            "ru": "Монета — это предмет удачи, который в Британии прятали в рождественский пудинг. Нашедший её человек, по поверью, будет удачливым и богатым в следующем году.",
+            "uk": "Монета — це предмет удачі, який у Британії ховали в різдвяний пудинг. Людина, яка її знаходила, за повір'ям, буде щасливою та багатою наступного року.",
+            "en": "A coin is a good luck charm that was hidden in a Christmas pudding in Britain. The person who found it was believed to be lucky and wealthy in the coming year.",
+            "es": "Una moneda es un objeto de la suerte que se escondía en un pudín de Navidad en Gran Bretaña. Se creía que la persona que la encontraba sería afortunada y rica en el año siguiente.",
+            "pt": "Uma moeda é um objeto de sorte que era escondido em um pudim de Natal na Grã-Bretanha. A pessoa que a encontrasse, segundo a crença, seria sortuda e rica no ano seguinte."
+        },
+        "antipod": {
+            "ru": "Ключ",
+            "uk": "Ключ",
+            "en": "Key",
+            "es": "Llave",
+            "pt": "Chave"
+        },
+        "hintFuiz": {
+            "ru": "Это клали в пудинг для удачи.",
+            "uk": "Це клали в пудинг для удачі.",
+            "en": "It was placed in the pudding for luck.",
+            "es": "Se colocaba en el pudín para la suerte.",
+            "pt": "Era colocado no pudim para dar sorte."
+        },
+        "riddle": {
+            "ru": [
+                "Её прячут в еде для новогодней удачи.",
+                "Если нашёл в пудинге — жди удачи!"
+            ],
+            "uk": [
+                "Її ховають в їжі для новорічної удачі.",
+                "Якщо знайшов у пудингу — чекай удачі!"
+            ],
+            "en": [
+                "It is hidden in food for New Year's luck.",
+                "If you find it in pudding, you can expect good luck!"
+            ],
+            "es": [
+                "Se esconde en la comida para la buena suerte de Año Nuevo.",
+                "Si la encuentras en un pudín, puedes esperar buena suerte."
+            ],
+            "pt": [
+                "Ela é escondida na comida para a sorte de Ano Novo.",
+                "Se você a encontrar em um pudim, pode esperar boa sorte!"
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Christmas_pudding#Traditions"
+    },
+    "imgFlag": "quizfoto"
+}

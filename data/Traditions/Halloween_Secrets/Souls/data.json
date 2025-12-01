@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Души умерших",
+            "uk": "Душі померлих",
+            "en": "Souls of the dead",
+            "es": "Almas de los muertos",
+            "pt": "Almas dos mortos"
+        },
+        "wrong": {
+            "ru": [
+                "Ожившие мертвецы",
+                "Злые духи",
+                "Ведьмы"
+            ],
+            "uk": [
+                "Ожилі мерці",
+                "Злі духи",
+                "Відьми"
+            ],
+            "en": [
+                "The undead",
+                "Evil spirits",
+                "Witches"
+            ],
+            "es": [
+                "Los no-muertos",
+                "Espíritus malignos",
+                "Brujas"
+            ],
+            "pt": [
+                "Os mortos-vivos",
+                "Espíritos malignos",
+                "Bruxas"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Возвращение.",
+                "Мертвые.",
+                "Граница."
+            ],
+            "uk": [
+                "Повернення.",
+                "Мертві.",
+                "Межа."
+            ],
+            "en": [
+                "Return.",
+                "The dead.",
+                "Boundary."
+            ],
+            "es": [
+                "Regreso.",
+                "Los muertos.",
+                "Frontera."
+            ],
+            "pt": [
+                "Retorno.",
+                "Os mortos.",
+                "Fronteira."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Те, кто покинул этот мир, в Хеллоуин ненадолго возвращаются.",
+                "Невидимые гости, которые бродят по земле в канун Дня всех святых."
+            ],
+            "uk": [
+                "Ті, хто покинув цей світ, на Хеллоуїн ненадовго повертаються.",
+                "Невидимі гості, які бродять по землі в переддень Всіх святих."
+            ],
+            "en": [
+                "Those who have left this world return for a short time on Halloween.",
+                "Invisible guests who wander the earth on All Hallows' Eve."
+            ],
+            "es": [
+                "Aquellos que han dejado este mundo regresan por un breve tiempo en Halloween.",
+                "Invitados invisibles que deambulan por la tierra en la Víspera de Todos los Santos."
+            ],
+            "pt": [
+                "Aqueles que partiram deste mundo retornam por um curto período no Halloween.",
+                "Convidados invisíveis que vagam pela terra na Véspera de Todos os Santos."
+            ]
+        },
+        "tooltip": {
+            "ru": "По поверью о Хеллоуине, так происходит каждый год.",
+            "uk": "За повір'ям про Хеллоуїн, так відбувається щороку.",
+            "en": "According to Halloween lore, this happens every year.",
+            "es": "Según la tradición de Halloween, esto sucede cada año.",
+            "pt": "Segundo a lenda do Halloween, isso acontece todos os anos."
+        },
+        "qwestion": {
+            "ru": "Кто в этот день возвращается на землю и бродит среди людей?",
+            "uk": "Хто в цей день повертається на землю і блукає серед людей?",
+            "en": "Who returns to Earth on this day and wanders among the people?",
+            "es": "¿Quién regresa a la Tierra en este día y deambula entre la gente?",
+            "pt": "Quem retorna à Terra neste dia e vagueia entre as pessoas?"
+        },
+        "definition": {
+            "ru": "Души умерших – по кельтским поверьям, в ночь Самайна граница между миром живых и мертвых истончается. Это позволяет душам усопших вернуться на землю и навестить свои дома и семьи.",
+            "uk": "Душі померлих – за кельтськими повір'ями, в ніч Самайна межа між світом живих і мертвих стоншується. Це дозволяє душам померлих повернутися на землю і відвідати свої домівки та сім'ї.",
+            "en": "Souls of the dead - according to Celtic beliefs, on the night of Samhain, the boundary between the living and the dead thins. This allows the souls of the deceased to return to Earth and visit their homes and families.",
+            "es": "Almas de los muertos: según las creencias celtas, en la noche de Samhain, la barrera entre el mundo de los vivos y los muertos se debilita. Esto permite que las almas de los difuntos regresen a la Tierra y visiten sus hogares y familias.",
+            "pt": "Almas dos mortos – segundo as crenças celtas, na noite de Samhain, a barreira entre o mundo dos vivos e dos mortos se enfraquece. Isso permite que as almas dos falecidos retornem à Terra e visitem seus lares e famílias."
+        },
+        "antipod": {
+            "ru": "Инопланетяне",
+            "uk": "Інопланетяни",
+            "en": "Aliens",
+            "es": "Extraterrestres",
+            "pt": "Alienígenas"
+        },
+        "hintFuiz": {
+            "ru": "Кто в Хеллоуин возвращается на землю?",
+            "uk": "Хто на Хеллоуїн повертається на землю?",
+            "en": "Who returns to Earth on Halloween?",
+            "es": "¿Quién regresa a la Tierra en Halloween?",
+            "pt": "Quem retorna à Terra no Halloween?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Samhain"
+    },
+    "imgFlag": "quizfoto" 
+}

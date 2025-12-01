@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Капибара",
+            "uk": "Капібара",
+            "en": "Capybara",
+            "es": "Capibara",
+            "pt": "Capivara"
+        },
+        "wrong": {
+            "ru": [
+                "Морская свинка",
+                "Выдра",
+                "Дикобраз"
+            ],
+            "uk": [
+                "Морська свинка",
+                "Видра",
+                "Дикобраз"
+            ],
+            "en": [
+                "Guinea pig",
+                "Otter",
+                "Porcupine"
+            ],
+            "es": [
+                "Cuy",
+                "Nutria",
+                "Puercoespín"
+            ],
+            "pt": [
+                "Porquinho-da-índia",
+                "Lontra",
+                "Porco-espinho"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Грызун.",
+                "Южная Америка.",
+                "Вода."
+            ],
+            "uk": [
+                "Гризун.",
+                "Південна Америка.",
+                "Вода."
+            ],
+            "en": [
+                "Rodent.",
+                "South America.",
+                "Water."
+            ],
+            "es": [
+                "Roedor.",
+                "América del Sur.",
+                "Agua."
+            ],
+            "pt": [
+                "Roedor.",
+                "América do Sul.",
+                "Água."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Ездит верхом на крокодиле.",
+                "Дружелюбный грызун."
+            ],
+            "uk": [
+                "Їздить верхи на крокодилі.",
+                "Доброзичливий гризун."
+            ],
+            "en": [
+                "Rides on a crocodile's back.",
+                "A friendly rodent."
+            ],
+            "es": [
+                "Viaja a lomos de un cocodrilo.",
+                "Un roedor amigable."
+            ],
+            "pt": [
+                "Anda nas costas de um crocodilo.",
+                "Um roedor amigável."
+            ]
+        },
+        "tooltip": {
+            "ru": "Считается одним из самых дружелюбных животных.",
+            "uk": "Вважається однією з найдоброзичливіших тварин.",
+            "en": "Considered one of the friendliest animals.",
+            "es": "Considerado uno de los animales más amigables.",
+            "pt": "Considerado um dos animais mais amigáveis."
+        },
+        "qwestion": {
+            "ru": "Какой самый крупный в мире грызун, обитает в Южной Америке?",
+            "uk": "Який найбільший у світі гризун мешкає в Південній Америці?",
+            "en": "What is the world's largest rodent, native to South America?",
+            "es": "¿Cuál es el roedor más grande del mundo, que habita en América del Sur?",
+            "pt": "Qual é o maior roedor do mundo, que habita na América do Sul?"
+        },
+        "definition": {
+            "ru": "Капибара — это крупнейший в мире грызун, обитающий в Южной Америке. Это полуводное животное, которое живет большими группами, известно своим спокойным характером и способностью 'дружить' со многими другими животными.",
+            "uk": "Капібара — це найбільший у світі гризун, що мешкає в Південній Америці. Це напівводна тварина, яка живе великими групами, відома своїм спокійним характером і здатністю 'дружити' з багатьма іншими тваринами.",
+            "en": "The capybara is the world's largest rodent, native to South America. It is a semi-aquatic animal that lives in large groups, known for its calm demeanor and ability to 'befriend' many other animals.",
+            "es": "La capibara es el roedor más grande del mundo, nativo de América del Sur. Es un animal semiacuático que vive en grandes grupos, conocido por su carácter tranquilo y su capacidad para 'hacerse amigo' de muchos otros animales.",
+            "pt": "A capivara é o maior roedor do mundo, nativa da América do Sul. É um animal semi-aquático que vive em grandes grupos, conhecido por seu temperamento calmo e capacidade de 'fazer amizade' com muitos outros animais."
+        },
+        "antipod": {
+            "ru": "Бобр",
+            "uk": "Бобер",
+            "en": "Beaver",
+            "es": "Castor",
+            "pt": "Castor"
+        },
+        "hintFuiz": {
+            "ru": "Кто самый крупный грызун, но не инженер?",
+            "uk": "Хто найбільший гризун, але не інженер?",
+            "en": "Which one is the largest rodent but not an engineer?",
+            "es": "¿Cuál es el roedor más grande, pero no un ingeniero?",
+            "pt": "Qual é o maior roedor, mas não um engenheiro?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Capybara"
+    },
+    "imgFlag": "all" 
+}

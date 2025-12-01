@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Кольцо",
+            "uk": "Каблучка",
+            "en": "Ring",
+            "es": "Anillo",
+            "pt": "Anel"
+        },
+        "wrong": {
+            "ru": [
+                "Напёрсток",
+                "Путаница",
+                "Монета"
+            ],
+            "uk": [
+                "Наперсток",
+                "Ґудзик",
+                "Монета"
+            ],
+            "en": [
+                "Thimble",
+                "Button",
+                "Coin"
+            ],
+            "es": [
+                "Dedal",
+                "Botón",
+                "Moneda"
+            ],
+            "pt": [
+                "Dedal",
+                "Botão",
+                "Moeda"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Ирландия.",
+                "Предсказание.",
+                "Свадьба."
+            ],
+            "uk": [
+                "Ірландія.",
+                "Передбачення.",
+                "Весілля."
+            ],
+            "en": [
+                "Ireland.",
+                "Prediction.",
+                "Wedding."
+            ],
+            "es": [
+                "Irlanda.",
+                "Predicción.",
+                "Boda."
+            ],
+            "pt": [
+                "Irlanda.",
+                "Previsão.",
+                "Casamento."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Его можно найти в пироге, и в этом году ты выйдешь замуж.",
+                "Что предвещает скорую свадьбу, если его спрятать в еде?"
+            ],
+            "uk": [
+                "Його можна знайти в пирозі, і цього року ти вийдеш заміж.",
+                "Що віщує швидке весілля, якщо його заховати в їжі?"
+            ],
+            "en": [
+                "You can find it in a pie, and this year you will get married.",
+                "What predicts a quick wedding if you hide it in food?"
+            ],
+            "es": [
+                "Puedes encontrarlo en un pastel, y este año te casarás.",
+                "¿Qué predice una boda rápida si lo escondes en la comida?"
+            ],
+            "pt": [
+                "Você pode encontrá-lo em uma torta, e este ano você se casará.",
+                "O que prevê um casamento rápido se você o esconder na comida?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Этот предмет — часть ирландской традиции гадания на Хеллоуин с помощью кекса бармбрэк.",
+            "uk": "Цей предмет — частина ірландської традиції ворожіння на Хеллоуїн за допомогою кексу бармбрэк.",
+            "en": "This object is part of an Irish Halloween divination tradition using a barmbrack cake.",
+            "es": "Este objeto es parte de una tradición irlandesa de adivinación de Halloween usando un pastel de barmbrack.",
+            "pt": "Este objeto faz parte de uma tradição irlandesa de adivinhação de Halloween usando um bolo barmbrack."
+        },
+        "qwestion": {
+            "ru": "Что кладут в пирог, и если вы его найдете, то выйдете замуж?",
+            "uk": "Що кладуть у пиріг, та якщо ви його знайдете, то вийдете заміж?",
+            "en": "What is put in a pie, and if you find it, you will get married?",
+            "es": "¿Qué se pone en un pastel, y si lo encuentras, te casarás?",
+            "pt": "O que é colocado em uma torta, e se você o encontrar, você se casará?"
+        },
+        "definition": {
+            "ru": "Кольцо — это предмет, который традиционно прячут в ирландском кексе бармбрэк на Хеллоуин. Считается, что тот, кто его находит, скоро вступит в брак.",
+            "uk": "Каблучка — це предмет, який традиційно ховають в ірландському кексі бармбрэк на Хеллоуїн. Вважається, що той, хто її знаходить, скоро одружиться.",
+            "en": "A ring is an object traditionally hidden in an Irish barmbrack cake for Halloween. It is believed that whoever finds it will soon be married.",
+            "es": "Un anillo es un objeto que se esconde tradicionalmente en un pastel irlandés barmbrack para Halloween. Se cree que quien lo encuentra se casará pronto.",
+            "pt": "Um anel é um objeto tradicionalmente escondido em um bolo irlandês barmbrack no Halloween. Acredita-se que quem o encontra se casará em breve."
+        },
+        "antipod": {
+            "ru": "Монета",
+            "uk": "Монета",
+            "en": "Coin",
+            "es": "Moneda",
+            "pt": "Moeda"
+        },
+        "hintFuiz": {
+            "ru": "Что использовали для гадания на свадьбу?",
+            "uk": "Що використовували для ворожіння на весілля?",
+            "en": "What was used for wedding divination?",
+            "es": "¿Qué se usaba para la adivinación del matrimonio?",
+            "pt": "O que era usado para adivinhação de casamento?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Barmbrack"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Свечи",
+            "uk": "Свічки",
+            "en": "Candles",
+            "es": "Velas",
+            "pt": "Velas"
+        },
+        "wrong": {
+            "ru": [
+                "Бумажные гирлянды",
+                "Стеклянные шары",
+                "Сухие цветы"
+            ],
+            "uk": [
+                "Паперові гірлянди",
+                "Скляні кулі",
+                "Сухі квіти"
+            ],
+            "en": [
+                "Paper garlands",
+                "Glass balls",
+                "Dried flowers"
+            ],
+            "es": [
+                "Guirnaldas de papel",
+                "Bolas de cristal",
+                "Flores secas"
+            ],
+            "pt": [
+                "Guirlandas de papel",
+                "Bolas de vidro",
+                "Flores secas"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Огонь",
+                "Украшение",
+                "Новый год"
+            ],
+            "uk": [
+                "Вогонь",
+                "Прикраса",
+                "Новий рік"
+            ],
+            "en": [
+                "Fire",
+                "Decoration",
+                "New Year"
+            ],
+            "es": [
+                "Fuego",
+                "Decoración",
+                "Año Nuevo"
+            ],
+            "pt": [
+                "Fogo",
+                "Decoração",
+                "Ano Novo"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Это красиво, но опасно.",
+                "Их зажигали на дереве."
+            ],
+            "uk": [
+                "Це красиво, але небезпечно.",
+                "Їх запалювали на дереві."
+            ],
+            "en": [
+                "It's beautiful, but dangerous.",
+                "They were lit on a tree."
+            ],
+            "es": [
+                "Es hermoso, pero peligroso.",
+                "Eran encendidas en un árbol."
+            ],
+            "pt": [
+                "É bonito, mas perigoso.",
+                "Elas eram acesas em uma árvore."
+            ]
+        },
+        "tooltip": {
+            "ru": "Это было красиво, но часто приводило к пожарам",
+            "uk": "Це було красиво, але часто призводило до пожеж",
+            "en": "It was beautiful, but often led to fires",
+            "es": "Era hermoso, pero a menudo provocaba incendios",
+            "pt": "Era bonito, mas frequentemente levava a incêndios"
+        },
+        "qwestion": {
+            "ru": "Какая опасная традиция украшения праздничной ёлки, существовала до появления электричества?",
+            "uk": "Яка небезпечна традиція прикрашання святкової ялинки існувала до появи електрики?",
+            "en": "What dangerous tradition of decorating a Christmas tree existed before the advent of electricity?",
+            "es": "¿Qué peligrosa tradición de decorar el árbol de Navidad existía antes de la llegada de la electricidad?",
+            "pt": "Que perigosa tradição de decorar a árvore de Natal existia antes do advento da eletricidade?"
+        },
+        "definition": {
+            "ru": "Свечи использовались как украшение на рождественской ёлке до появления электрических гирлянд. Эта традиция зародилась в XVII веке в Германии, но была очень опасной из-за высокого риска пожара.",
+            "uk": "Свічки використовувалися як прикраса на різдвяній ялинці до появи електричних гірлянд. Ця традиція зародилася в XVII столітті в Німеччині, але була дуже небезпечною через високий ризик пожежі.",
+            "en": "Candles were used as decorations on the Christmas tree before the advent of electric lights. This tradition originated in 17th-century Germany but was very dangerous due to the high risk of fire.",
+            "es": "Las velas se usaban como decoración en el árbol de Navidad antes de la llegada de las luces eléctricas. Esta tradición se originó en la Alemania del siglo XVII, pero era muy peligrosa debido al alto riesgo de incendio.",
+            "pt": "As velas eram usadas como decoração na árvore de Natal antes do advento das luzes elétricas. Esta tradição se originou na Alemanha do século XVII, mas era muito perigosa devido ao alto risco de incêndio."
+        },
+        "antipod": {
+            "ru": "Камин",
+            "uk": "Камін",
+            "en": "Fireplace",
+            "es": "Chimenea",
+            "pt": "Lareira"
+        },
+        "hintFuiz": {
+            "ru": "Это были небольшие источники огня, которые вешали на ёлку.",
+            "uk": "Це були невеликі джерела вогню, які вішали на ялинку.",
+            "en": "These were small sources of fire that were hung on the Christmas tree.",
+            "es": "Eran pequeñas fuentes de fuego que se colgaban en el árbol de Navidad.",
+            "pt": "Eram pequenas fontes de fogo que eram penduradas na árvore de Natal."
+        },
+        "article": "https://en.wikipedia.org/wiki/Christmas_tree_lights"
+    },
+    "imgFlag": "quizfoto"
+}

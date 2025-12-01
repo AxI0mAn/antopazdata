@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Кашалот",
+            "uk": "Кашалот",
+            "en": "Cachalot",
+            "es": "Cachalote",
+            "pt": "Cachalote"
+        },
+        "wrong": {
+            "ru": [
+                "Косатка",
+                "Акула",
+                "Кит-горбач"
+            ],
+            "uk": [
+                "Косатка",
+                "Акула",
+                "Кит-горбач"
+            ],
+            "en": [
+                "Orca",
+                "Shark",
+                "Humpback whale"
+            ],
+            "es": [
+                "Orca",
+                "Tiburón",
+                "Ballena jorobada"
+            ],
+            "pt": [
+                "Orca",
+                "Tubarão",
+                "Baleia-jubarte"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Большой мозг.",
+                "Глубоководный.",
+                "Зубастый кит."
+            ],
+            "uk": [
+                "Великий мозок.",
+                "Глибоководний.",
+                "Зубатий кит."
+            ],
+            "en": [
+                "Large brain.",
+                "Deep-sea.",
+                "Toothed whale."
+            ],
+            "es": [
+                "Cerebro grande.",
+                "Aguas profundas.",
+                "Ballena dentada."
+            ],
+            "pt": [
+                "Cérebro grande.",
+                "Águas profundas.",
+                "Baleia dentada."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Охотник на гигантских кальмаров.",
+                "Морской гигант с самым большим мозгом."
+            ],
+            "uk": [
+                "Мисливець на гігантських кальмарів.",
+                "Морський велетень з найбільшим мозком."
+            ],
+            "en": [
+                "Hunter of giant squids.",
+                "A sea giant with the largest brain."
+            ],
+            "es": [
+                "Cazador de calamares gigantes.",
+                "Un gigante marino con el cerebro más grande."
+            ],
+            "pt": [
+                "Caçador de lulas gigantes.",
+                "Um gigante marinho com o maior cérebro."
+            ]
+        },
+        "tooltip": {
+            "ru": "Он может погружаться на огромную глубину.",
+            "uk": "Він може занурюватися на величезну глибину.",
+            "en": "It can dive to immense depths.",
+            "es": "Puede sumergirse a profundidades inmensas.",
+            "pt": "Ele pode mergulhar a profundidades imensas."
+        },
+        "qwestion": {
+            "ru": "Какой морской гигант обладает самым большим мозгом среди всех животных?",
+            "uk": "Який морський велетень має найбільший мозок серед усіх тварин?",
+            "en": "What marine giant has the largest brain of any animal?",
+            "es": "¿Qué gigante marino tiene el cerebro más grande de todos los animales?",
+            "pt": "Que gigante marinho tem o maior cérebro de todos os animais?"
+        },
+        "definition": {
+            "ru": "Кашалот — это самый крупный из зубатых китов и самый большой хищник на планете. Он известен своей большой квадратной головой и ролью охотника на глубоководных гигантских кальмаров.",
+            "uk": "Кашалот — це найбільший із зубатих китів і найбільший хижак на планеті. Він відомий своєю великою квадратною головою та роллю мисливця на глибоководних гігантських кальмарів.",
+            "en": "The Cachalot is the largest of the toothed whales and the biggest predator on the planet. It is known for its large, square-shaped head and its role as a deep-sea hunter of giant squids.",
+            "es": "El cachalote es la ballena dentada más grande y el mayor depredador del planeta. Es conocido por su gran cabeza cuadrada y su papel como cazador de calamares gigantes de aguas profundas.",
+            "pt": "O cachalote é a maior das baleias dentadas e o maior predador do planeta. É conhecido por sua grande cabeça quadrada e por ser um caçador de lulas gigantes de águas profundas."
+        },
+        "antipod": {
+            "ru": "Синий кит",
+            "uk": "Синій кит",
+            "en": "Blue Whale",
+            "es": "Ballena azul",
+            "pt": "Baleia-azul"
+        },
+        "hintFuiz": {
+            "ru": "Какой из этих китов является зубастым хищником?",
+            "uk": "Який з цих китів є зубатим хижаком?",
+            "en": "Which of these whales is a toothed predator?",
+            "es": "¿Cuál de estas ballenas es un depredador dentado?",
+            "pt": "Qual dessas baleias é um predador dentado?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Sperm_whale"
+    },
+    "imgFlag": "all" 
+}

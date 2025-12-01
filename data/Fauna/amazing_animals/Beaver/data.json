@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Бобр",
+            "uk": "Бобер",
+            "en": "Beaver",
+            "es": "Castor",
+            "pt": "Castor"
+        },
+        "wrong": {
+            "ru": [
+                "Капибара",
+                "Калан",
+                "Нутрия"
+            ],
+            "uk": [
+                "Капібара",
+                "Калан",
+                "Нутрія"
+            ],
+            "en": [
+                "Capybara",
+                "Sea otter",
+                "Nutria"
+            ],
+            "es": [
+                "Capibara",
+                "Nutria marina",
+                "Nutria"
+            ],
+            "pt": [
+                "Capivara",
+                "Lontra-marinha",
+                "Nutria"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Плотина.",
+                "Инженер.",
+                "Грызун."
+            ],
+            "uk": [
+                "Гребля.",
+                "Інженер.",
+                "Гризун."
+            ],
+            "en": [
+                "Dam.",
+                "Engineer.",
+                "Rodent."
+            ],
+            "es": [
+                "Presa.",
+                "Ingeniero.",
+                "Roedor."
+            ],
+            "pt": [
+                "Represa.",
+                "Engenheiro.",
+                "Roedor."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Я строитель рек, мой дом — из дерева и грязи.",
+                "У меня плоский хвост, острые зубы и я всегда занят."
+            ],
+            "uk": [
+                "Я будівельник річок, мій дім — з дерева і бруду.",
+                "У мене плоский хвіст, гострі зуби, і я завжди зайнятий."
+            ],
+            "en": [
+                "I'm a river builder, and my house is made of sticks and mud.",
+                "I have a flat tail, sharp teeth, and I'm always busy."
+            ],
+            "es": [
+                "Soy un constructor de ríos, mi casa es de palos y barro.",
+                "Tengo una cola plana, dientes afilados y siempre estoy ocupado."
+            ],
+            "pt": [
+                "Sou um construtor de rios, e minha casa é feita de galhos e lama.",
+                "Tenho uma cauda plana, dentes afiados e estou sempre ocupado."
+            ]
+        },
+        "tooltip": {
+            "ru": "Считается 'инженером экосистем' за его способность создавать водные среды обитания.",
+            "uk": "Вважається 'інженером екосистем' за його здатність створювати водні середовища існування.",
+            "en": "Considered an 'ecosystem engineer' for its ability to create new wetland habitats.",
+            "es": "Considerado un 'ingeniero de ecosistemas' por su capacidad para crear nuevos hábitats acuáticos.",
+            "pt": "Considerado um 'engenheiro de ecossistemas' por sua capacidade de criar novos habitats aquáticos."
+        },
+        "qwestion": {
+            "ru": "Какой грызун способен строить плотины и домики из веток, изменяя ландшафт?",
+            "uk": "Який гризун здатен будувати греблі та хатинки з гілок, змінюючи ландшафт?",
+            "en": "What rodent is capable of building dams and lodges from branches, changing the landscape?",
+            "es": "¿Qué roedor es capaz de construir presas y refugios con ramas, alterando el paisaje?",
+            "pt": "Que roedor é capaz de construir represas e abrigos com galhos, alterando a paisagem?"
+        },
+        "definition": {
+            "ru": "Бобр — это крупный полуводный грызун, известный своей способностью строить плотины, каналы и домики. Его плотины создают водно-болотные угодья, которые служат средой обитания для многих других видов.",
+            "uk": "Бобер — це великий напівводний гризун, відомий своєю здатністю будувати греблі, канали та хатки. Його греблі створюють водно-болотні угіддя, які служать середовищем проживання для багатьох інших видів.",
+            "en": "The beaver is a large, semi-aquatic rodent known for its ability to build dams, canals, and lodges. Its dams create wetlands that serve as habitats for many other species.",
+            "es": "El castor es un roedor grande y semiacuático conocido por su capacidad para construir presas, canales y refugios. Sus presas crean humedales que sirven como hábitats para muchas otras especies.",
+            "pt": "O castor é um roedor grande e semi-aquático conhecido por sua capacidade de construir represas, canais e abrigos. Suas represas criam zonas úmidas que servem de habitat para muitas outras espécies."
+        },
+        "antipod": {
+            "ru": "Выдра",
+            "uk": "Видра",
+            "en": "Otter",
+            "es": "Nutria",
+            "pt": "Lontra"
+        },
+        "hintFuiz": {
+            "ru": "Кто из них строит плотины?",
+            "uk": "Хто з них будує греблі?",
+            "en": "Which one of them builds dams?",
+            "es": "¿Cuál de ellos construye presas?",
+            "pt": "Qual deles constrói represas?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Beaver"
+    },
+    "imgFlag": "all" 
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Гигантский кальмар",
+            "uk": "Гігантський кальмар",
+            "en": "Giant squid",
+            "es": "Calamar gigante",
+            "pt": "Lula-gigante"
+        },
+        "wrong": {
+            "ru": [
+                "Косатка",
+                "Кашалот",
+                "Мегалодон"
+            ],
+            "uk": [
+                "Косатка",
+                "Кашалот",
+                "Мегалодон"
+            ],
+            "en": [
+                "Orca",
+                "Cachalot",
+                "Megalodon"
+            ],
+            "es": [
+                "Orca",
+                "Cachalote",
+                "Megalodón"
+            ],
+            "pt": [
+                "Orca",
+                "Cachalote",
+                "Megalodonte"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Глубина.",
+                "Щупальца.",
+                "Глаза."
+            ],
+            "uk": [
+                "Глибина.",
+                "Щупальця.",
+                "Очі."
+            ],
+            "en": [
+                "Depth.",
+                "Tentacles.",
+                "Eyes."
+            ],
+            "es": [
+                "Profundidad.",
+                "Tentáculos.",
+                "Ojos."
+            ],
+            "pt": [
+                "Profundidade.",
+                "Tentáculos.",
+                "Olhos."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "У какого животного самые большие глаза?",
+                "Кто крупнейшее беспозвоночное?"
+            ],
+            "uk": [
+                "Яка тварина має найбільші очі?",
+                "Хто є найбільшим безхребетним?"
+            ],
+            "en": [
+                "Which animal has the biggest eyes?",
+                "Who is the largest invertebrate?"
+            ],
+            "es": [
+                "¿Qué animal tiene los ojos más grandes?",
+                "¿Quién es el invertebrado más grande?"
+            ],
+            "pt": [
+                "Que animal tem os maiores olhos?",
+                "Quem é o maior invertebrado?"
+            ]
+        },
+        "tooltip": {
+            "ru": "У него самые большие глаза в животном мире, помогающие видеть на большой глубине.",
+            "uk": "У нього найбільші очі у тваринному світі, що допомагають бачити на великій глибині.",
+            "en": "It possesses the largest eyes in the animal kingdom, which help it see in the deep ocean.",
+            "es": "Posee los ojos más grandes del reino animal, que le ayudan a ver en las profundidades del océano.",
+            "pt": "Possui os maiores olhos do reino animal, que o ajudam a ver nas profundezas do oceano."
+        },
+        "qwestion": {
+            "ru": "Какое огромное беспозвоночное имеет щупальца и живёт на большой глубине?",
+            "uk": "Яка величезна безхребетна тварина має щупальця і живе на великій глибині?",
+            "en": "What enormous invertebrate has tentacles and lives in the deep ocean?",
+            "es": "¿Qué enorme invertebrado tiene tentáculos y vive en las profundidades?",
+            "pt": "Qual enorme invertebrado tem tentáculos e vive nas profundezas do oceano?"
+        },
+        "definition": {
+            "ru": "Гигантский кальмар — это большое глубоководное головоногое, которое является самым крупным беспозвоночным в мире. Известен своими огромными глазами и щупальцами.",
+            "uk": "Гігантський кальмар — це велика глибоководна головонога тварина, яка є найбільшим безхребетним у світі. Відома своїми величезними очима і щупальцями.",
+            "en": "Giant squid are large deep-sea cephalopods that are the world's largest invertebrates. They are known for their enormous eyes and long tentacles.",
+            "es": "El calamar gigante es un gran cefalópodo de aguas profundas y el invertebrado más grande del mundo. Es conocido por sus ojos enormes y sus largos tentáculos.",
+            "pt": "A lula-gigante é um grande cefalópode de águas profundas e o maior invertebrado do mundo. É conhecida por seus olhos enormes e tentáculos longos."
+        },
+        "antipod": {
+            "ru": "Синий кит",
+            "uk": "Синій кит",
+            "en": "Blue whale",
+            "es": "Ballena azul",
+            "pt": "Baleia-azul"
+        },
+        "hintFuiz": {
+            "ru": "Какое животное является самым крупным беспозвоночным?",
+            "uk": "Яка тварина є найбільшою безхребетною?",
+            "en": "Which animal is the largest invertebrate?",
+            "es": "¿Qué animal es el invertebrado más grande?",
+            "pt": "Qual animal é o maior invertebrado?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Giant_squid"
+    },
+    "imgFlag": "all" 
+}

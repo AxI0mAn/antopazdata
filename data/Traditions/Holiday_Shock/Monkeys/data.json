@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Обезьяны",
+            "uk": "Мавпи",
+            "en": "Monkeys",
+            "es": "Monos",
+            "pt": "Macacos"
+        },
+        "wrong": {
+            "ru": [
+                "Духи",
+                "Соседи",
+                "Нищие"
+            ],
+            "uk": [
+                "Духи",
+                "Сусіди",
+                "Жебраки"
+            ],
+            "en": [
+                "Spirits",
+                "Neighbors",
+                "Beggars"
+            ],
+            "es": [
+                "Espíritus",
+                "Vecinos",
+                "Mendigos"
+            ],
+            "pt": [
+                "Espíritos",
+                "Vizinhos",
+                "Mendigos"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Таиланд.",
+                "Банкет.",
+                "Удача."
+            ],
+            "uk": [
+                "Таїланд.",
+                "Банкет.",
+                "Удача."
+            ],
+            "en": [
+                "Thailand.",
+                "Banquet.",
+                "Luck."
+            ],
+            "es": [
+                "Tailandia.",
+                "Banquete.",
+                "Suerte."
+            ],
+            "pt": [
+                "Tailândia.",
+                "Banquete.",
+                "Sorte."
+            ]
+        },
+        "tooltip": {
+            "ru": "Так делают, чтобы задобрить их и привлечь удачу",
+            "uk": "Так роблять, щоб задобрити їх і залучити удачу",
+            "en": "This is done to appease them and attract luck",
+            "es": "Esto se hace para apaciguarlos y atraer la suerte",
+            "pt": "Isso é feito para apaziguá-los e atrair a sorte"
+        },
+        "qwestion": {
+            "ru": "Для кого в Таиланде на Новый год устраивают банкет?",
+            "uk": "Для кого в Таїланді на Новий рік влаштовують банкет?",
+            "en": "For whom is a banquet held in Thailand for the New Year?",
+            "es": "¿Para quién se organiza un banquete en Tailandia en Año Nuevo?",
+            "pt": "Para quem é organizado um banquete na Tailândia no Ano Novo?"
+        },
+        "definition": {
+            "ru": "Обезьяны — в Таиланде, особенно в городе Лопбури, для них ежегодно устраивают грандиозный банкет с фруктами и деликатесами, чтобы задобрить их и привлечь удачу, так как они считаются священными животными.",
+            "uk": "Мавпи — у Таїланді, особливо в місті Лопбурі, для них щорічно влаштовують грандіозний бенкет із фруктами і делікатесами, щоб задобрити їх і залучити удачу, оскільки вони вважаються священними тваринами.",
+            "en": "Monkeys — in Thailand, especially in the city of Lopburi, a grand banquet with fruits and delicacies is held annually for them to appease them and attract luck, as they are considered sacred animals.",
+            "es": "Los monos — en Tailandia, especialmente en la ciudad de Lopburi, se celebra anualmente un gran banquete para ellos con frutas y manjares para apaciguarlos y atraer la suerte, ya que se consideran animales sagrados.",
+            "pt": "Os macacos — na Tailândia, especialmente na cidade de Lopburi, um grande banquete com frutas e iguarias é realizado anualmente para eles, a fim de apaziguá-los e atrair a sorte, pois são considerados animais sagrados."
+        },
+        "antipod": {
+            "ru": "Кошки",
+            "uk": "Кішки",
+            "en": "Cats",
+            "es": "Gatos",
+            "pt": "Gatos"
+        },
+        "hintFuiz": {
+            "ru": "Им накрывают банкет в Таиланде на Новый год.",
+            "uk": "Їм накривають банкет у Таїланді на Новий рік.",
+            "en": "They are served a banquet in Thailand for the New Year.",
+            "es": "Se les sirve un banquete en Tailandia en Año Nuevo.",
+            "pt": "É servido um banquete para eles na Tailândia no Ano Novo."
+        },
+        "riddle": {
+            "ru": [
+                "Их почитают и кормят, чтобы год был удачным.",
+                "Люди считают, что они приносят удачу."
+            ],
+            "uk": [
+                "Їх шанують і годують, щоб рік був вдалим.",
+                "Люди вважають, що вони приносять удачу."
+            ],
+            "en": [
+                "They are revered and fed to make the year a good one.",
+                "People believe that they bring good luck."
+            ],
+            "es": [
+                "Se les venera y alimenta para que el año sea bueno.",
+                "La gente cree que traen buena suerte."
+            ],
+            "pt": [
+                "Eles são reverenciados e alimentados para tornar o ano bom.",
+                "As pessoas acreditam que eles trazem boa sorte."
+            ]
+        },
+        "article": "https://en.wikipedia.org/wiki/Monkey_Buffet_Festival"
+    },
+    "imgFlag": "quizfoto"
+}

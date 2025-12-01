@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Сурикат",
+            "uk": "Сурикат",
+            "en": "Meerkat",
+            "es": "Suricato",
+            "pt": "Suricato"
+        },
+        "wrong": {
+            "ru": [
+                "Суслик",
+                "Мангуст",
+                "Кролик"
+            ],
+            "uk": [
+                "Ховрах",
+                "Мангуст",
+                "Кролик"
+            ],
+            "en": [
+                "Gopher",
+                "Mongoose",
+                "Rabbit"
+            ],
+            "es": [
+                "Tuza",
+                "Mangosta",
+                "Conejo"
+            ],
+            "pt": [
+                "Caxinguelê",
+                "Mangusto",
+                "Coelho"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Колония.",
+                "На страже.",
+                "Пустыня."
+            ],
+            "uk": [
+                "Колонія.",
+                "На варті.",
+                "Пустеля."
+            ],
+            "en": [
+                "Colony.",
+                "On guard.",
+                "Desert."
+            ],
+            "es": [
+                "Colonia.",
+                "De guardia.",
+                "Desierto."
+            ],
+            "pt": [
+                "Colônia.",
+                "Em guarda.",
+                "Deserto."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Маленький хищник с социальным обществом.",
+                "Пока не прогреются на солнце, не начнут охоту."
+            ],
+            "uk": [
+                "Маленький хижак із соціальним суспільством.",
+                "Поки не прогріються на сонці, не почнуть полювання."
+            ],
+            "en": [
+                "A small predator with a social society.",
+                "They won't start hunting until they warm up in the sun."
+            ],
+            "es": [
+                "Un pequeño depredador con una sociedad social.",
+                "No empiezan a cazar hasta que se calientan al sol."
+            ],
+            "pt": [
+                "Um pequeno predador com uma sociedade social.",
+                "Eles não começam a caçar até se aquecerem ao sol."
+            ]
+        },
+        "tooltip": {
+            "ru": "Один из них всегда стоит на страже, пока другие ищут пищу.",
+            "uk": "Один з них завжди стоїть на варті, поки інші шукають їжу.",
+            "en": "One of them always stands guard while the others forage for food.",
+            "es": "Uno de ellos siempre se queda de guardia mientras los demás buscan comida.",
+            "pt": "Um deles sempre fica de guarda enquanto os outros procuram por comida."
+        },
+        "qwestion": {
+            "ru": "Какое маленькое животное живет в больших колониях и имеет высокий иммунитет к ядам змей и скорпионов?",
+            "uk": "Яка маленька тварина живе у великих колоніях і має високий імунітет до отрути змій та скорпіонів?",
+            "en": "What small animal lives in large colonies and has a high immunity to snake and scorpion venom?",
+            "es": "¿Qué animal pequeño vive en grandes colonias y tiene una alta inmunidad al veneno de serpientes y escorpiones?",
+            "pt": "Que animal pequeno vive em grandes colônias e tem alta imunidade ao veneno de cobras e escorpiões?"
+        },
+        "definition": {
+            "ru": "Сурикат — это маленькое млекопитающее из семейства мангустовых, обитающее в пустынях Калахари в Южной Африке. Они известны своим высокоразвитым социальным поведением, где отдельные особи выполняют определенные роли для выживания группы.",
+            "uk": "Сурикат — це маленький ссавець із сімейства мангустових, що мешкає в пустелях Калахарі в Південній Африці. Вони відомі своєю високорозвиненою соціальною поведінкою, де окремі особини виконують певні ролі для виживання групи.",
+            "en": "The meerkat is a small mammal from the mongoose family, native to the Kalahari Desert in Southern Africa. They are known for their highly social behavior, where individuals take on specific roles for the group's survival.",
+            "es": "El suricato es un pequeño mamífero de la familia de las mangostas, nativo del desierto del Kalahari en el sur de África. Son conocidos por su comportamiento altamente social, donde los individuos asumen roles específicos para la supervivencia del grupo.",
+            "pt": "O suricato é um pequeno mamífero da família do mangusto, nativo do deserto do Kalahari, no sul da África. Eles são conhecidos por seu comportamento altamente social, onde os indivíduos assumem papéis específicos para a sobrevivência do grupo."
+        },
+        "antipod": {
+            "ru": "Лиса",
+            "uk": "Лисиця",
+            "en": "Fox",
+            "es": "Zorro",
+            "pt": "Raposa"
+        },
+        "hintFuiz": {
+            "ru": "Кто из них живет большими группами?",
+            "uk": "Хто з них живе великими групами?",
+            "en": "Which of them lives in large groups?",
+            "es": "¿Cuál de ellos vive en grandes grupos?",
+            "pt": "Qual deles vive em grandes grupos?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Meerkat"
+    },
+    "imgFlag": "all" 
+}

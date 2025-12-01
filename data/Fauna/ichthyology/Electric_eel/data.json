@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Электрический угорь",
+            "uk": "Електричний вугор",
+            "en": "Electric eel",
+            "es": "Anguila eléctrica",
+            "pt": "Enguia elétrica"
+        },
+        "wrong": {
+            "ru": [
+                "Сом",
+                "Тунгусский осетр",
+                "Акула"
+            ],
+            "uk": [
+                "Сом",
+                "Тунгуський осетер",
+                "Акула"
+            ],
+            "en": [
+                "Catfish",
+                "Tunguska sturgeon",
+                "Shark"
+            ],
+            "es": [
+                "Bagre",
+                "Esturión de Tunguska",
+                "Tiburón"
+            ],
+            "pt": [
+                "Bagre",
+                "Esturjão do Tunguska",
+                "Tubarão"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Река Амазонка.",
+                "Электричество.",
+                "Паралич."
+            ],
+            "uk": [
+                "Річка Амазонка.",
+                "Електрика.",
+                "Параліч."
+            ],
+            "en": [
+                "Amazon River.",
+                "Electricity.",
+                "Paralysis."
+            ],
+            "es": [
+                "Río Amazonas.",
+                "Electricidad.",
+                "Parálisis."
+            ],
+            "pt": [
+                "Rio Amazonas.",
+                "Eletricidade.",
+                "Paralisia."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Какая рыба охотится электричеством?",
+                "Какая рыба бьёт электричеством?"
+            ],
+            "uk": [
+                "Яка риба полює електрикою?",
+                "Яка риба б'є електрикою?"
+            ],
+            "en": [
+                "Which fish hunts with electricity?",
+                "Which fish delivers electric shocks?"
+            ],
+            "es": [
+                "¿Qué pez caza con electricidad?",
+                "¿Qué pez da descargas eléctricas?"
+            ],
+            "pt": [
+                "Qual peixe caça com eletricidade?",
+                "Qual peixe dá choques elétricos?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Эта рыба может генерировать разряд до 600 Вольт для защиты и охоты.",
+            "uk": "Ця риба може генерувати розряд до 600 Вольт для захисту і полювання.",
+            "en": "This fish can generate a discharge of up to 600 Volts for defense and hunting.",
+            "es": "Este pez puede generar una descarga de hasta 600 Voltios para defenderse y cazar.",
+            "pt": "Este peixe pode gerar uma descarga de até 600 Volts para defesa e caça."
+        },
+        "qwestion": {
+            "ru": "Какая рыба оглушает добычу электричеством?",
+            "uk": "Яка риба оглушує здобич електрикою?",
+            "en": "Which fish stuns its prey with electricity?",
+            "es": "¿Qué pez aturde a sus presas con electricidad?",
+            "pt": "Qual peixe atordoa suas presas com eletricidade?"
+        },
+        "definition": {
+            "ru": "Электрический угорь — это вид пресноводных рыб из Южной Америки, способный генерировать мощные электрические разряды. Это не настоящий угорь, а вид, близкий к сомам.",
+            "uk": "Електричний вугор — це вид прісноводних риб із Південної Америки, здатний генерувати потужні електричні розряди. Це не справжній вугор, а вид, близький до сомів.",
+            "en": "The electric eel is a species of freshwater fish from South America capable of generating powerful electric discharges. It is not a true eel, but a species related to catfish.",
+            "es": "La anguila eléctrica es una especie de pez de agua dulce de América del Sur, capaz de generar potentes descargas eléctricas. No es una anguila verdadera, sino una especie relacionada con los bagres.",
+            "pt": "A enguia elétrica é uma espécie de peixe de água doce da América do Sul, capaz de gerar potentes descargas elétricas. Não é uma enguia verdadeira, mas uma espécie relacionada aos bagres."
+        },
+        "antipod": {
+            "ru": "Щука",
+            "uk": "Щука",
+            "en": "Pike",
+            "es": "Lucio",
+            "pt": "Lúcio"
+        },
+        "hintFuiz": {
+            "ru": "Какая из этих двух рыб использует электричество для охоты?",
+            "uk": "Яка з цих двох риб використовує електрику для полювання?",
+            "en": "Which of these two fish uses electricity to hunt?",
+            "es": "¿Cuál de estos dos peces usa electricidad para cazar?",
+            "pt": "Qual desses dois peixes usa eletricidade para caçar?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Electric_eel"
+    },
+    "imgFlag": "all" 
+}

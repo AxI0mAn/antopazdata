@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Лягушка-стекло",
+            "uk": "Скляна жаба",
+            "en": "Glass frog",
+            "es": "Rana de cristal",
+            "pt": "Rã de vidro"
+        },
+        "wrong": {
+            "ru": [
+                "Квакша",
+                "Саламандра",
+                "Тритон"
+            ],
+            "uk": [
+                "Квакша",
+                "Саламандра",
+                "Тритон"
+            ],
+            "en": [
+                "Tree frog",
+                "Salamander",
+                "Newt"
+            ],
+            "es": [
+                "Rana arbórea",
+                "Salamandra",
+                "Tritón"
+            ],
+            "pt": [
+                "Rã-arborícola",
+                "Salamandra",
+                "Tritão"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Прозрачность.",
+                "Органы.",
+                "Тропики."
+            ],
+            "uk": [
+                "Прозорість.",
+                "Органи.",
+                "Тропіки."
+            ],
+            "en": [
+                "Transparency.",
+                "Organs.",
+                "Tropics."
+            ],
+            "es": [
+                "Transparencia.",
+                "Órganos.",
+                "Trópicos."
+            ],
+            "pt": [
+                "Transparência.",
+                "Órgãos.",
+                "Trópicos."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Снаружи зелёная, а внутри всё видно.",
+                "Видно сердце, но нет его секретов."
+            ],
+            "uk": [
+                "Ззовні зелена, а всередині все видно.",
+                "Видно серце, але немає його секретів."
+            ],
+            "en": [
+                "Green on the outside, but you can see inside.",
+                "You can see its heart, but it has no secrets."
+            ],
+            "es": [
+                "Verde por fuera, pero se ve todo por dentro.",
+                "Se ve su corazón, pero no tiene secretos."
+            ],
+            "pt": [
+                "Verde por fora, mas você pode ver por dentro.",
+                "Você pode ver seu coração, mas ele não tem segredos."
+            ]
+        },
+        "tooltip": {
+            "ru": "Её живот так прозрачен, что видны её сердце, печень и кости.",
+            "uk": "Її живіт такий прозорий, що видно її серце, печінку і кістки.",
+            "en": "Its belly is so transparent that its heart, liver, and bones are visible.",
+            "es": "Su vientre es tan transparente que se ven su corazón, hígado y huesos.",
+            "pt": "Sua barriga é tão transparente que seu coração, fígado e ossos são visíveis."
+        },
+        "qwestion": {
+            "ru": "Какая лягушка имеет настолько прозрачную кожу, что видны её внутренние органы?",
+            "uk": "Яка жаба має настільки прозору шкіру, що видно її внутрішні органи?",
+            "en": "What frog has skin so transparent that its internal organs are visible?",
+            "es": "¿Qué rana tiene la piel tan transparente que se ven sus órganos internos?",
+            "pt": "Qual rã tem a pele tão transparente que seus órgãos internos são visíveis?"
+        },
+        "definition": {
+            "ru": "Лягушка-стекло — это вид амфибий, обитающий в тропических лесах Центральной и Южной Америки. Она получила свое название из-за полупрозрачной кожи на животе, через которую видны её внутренние органы, такие как сердце и печень.",
+            "uk": "Скляна жаба — це вид амфібій, що мешкає в тропічних лісах Центральної та Південної Америки. Вона отримала свою назву через напівпрозору шкіру на животі, через яку видно її внутрішні органи, такі як серце і печінка.",
+            "en": "The glass frog is an amphibian species from the tropical forests of Central and South America. It gets its name from its translucent belly skin, through which its internal organs like the heart and liver are visible.",
+            "es": "La rana de cristal es una especie de anfibio de los bosques tropicales de América Central y del Sur. Recibe su nombre de su piel translúcida en el vientre, a través de la cual se ven sus órganos internos como el corazón y el hígado.",
+            "pt": "A rã de vidro é uma espécie de anfíbio das florestas tropicais da América Central e do Sul. Ela recebe seu nome de sua pele translúcida no abdômen, através da qual seus órgãos internos como o coração e o fígado são visíveis."
+        },
+        "antipod": {
+            "ru": "Жаба",
+            "uk": "Жаба",
+            "en": "Toad",
+            "es": "Sapo",
+            "pt": "Sapo"
+        },
+        "hintFuiz": {
+            "ru": "Какая из них обладает прозрачной кожей?",
+            "uk": "Яка з них має прозору шкіру?",
+            "en": "Which one has transparent skin?",
+            "es": "¿Cuál tiene la piel transparente?",
+            "pt": "Qual tem a pele transparente?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Glass_frog"
+    },
+    "imgFlag": "all" 
+}

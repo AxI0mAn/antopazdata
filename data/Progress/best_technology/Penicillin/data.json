@@ -1,0 +1,102 @@
+{
+    "data": {
+        "name": {
+            "ru": "Пенициллин",
+            "uk": "Пеніцилін",
+            "en": "Penicillin",
+            "es": "Penicilina",
+            "pt": "Penicilina"
+        },
+        "wrong": {
+            "ru": [
+                "Инсулин",
+                "Морфин",
+                "Парацетамол"
+            ],
+            "uk": [
+                "Інсулін",
+                "Морфін",
+                "Парацетамол"
+            ],
+            "en": [
+                "Insulin",
+                "Morphine",
+                "Paracetamol"
+            ],
+            "es": [
+                "Insulina",
+                "Morfina",
+                "Paracetamol"
+            ],
+            "pt": [
+                "Insulina",
+                "Morfina",
+                "Paracetamol"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Антибиотик",
+                "Плесень",
+                "Флеминг"
+            ],
+            "uk": [
+                "Антибіотик",
+                "Цвіль",
+                "Флемінг"
+            ],
+            "en": [
+                "Antibiotic",
+                "Mold",
+                "Fleming"
+            ],
+            "es": [
+                "Antibiótico",
+                "Moho",
+                "Fleming"
+            ],
+            "pt": [
+                "Antibiótico",
+                "Mofo",
+                "Fleming"
+            ]
+        },
+        "tooltip": {
+            "ru": "Это открытие было сделано британским бактериологом Александром Флемингом.",
+            "uk": "Це відкриття було зроблено британським бактеріологом Александром Флемінгом.",
+            "en": "This discovery was made by the British bacteriologist Alexander Fleming.",
+            "es": "Este descubrimiento fue hecho por el bacteriólogo británico Alexander Fleming.",
+            "pt": "Esta descoberta foi feita pelo bacteriologista britânico Alexander Fleming."
+        },
+        "qwestion": {
+            "ru": "Какое открытие было сделано благодаря плесени, убившей бактерии?",
+            "uk": "Яке відкриття було зроблено завдяки цвілі, яка вбила бактерії?",
+            "en": "What discovery was made thanks to mold that killed bacteria?",
+            "es": "¿Qué descubrimiento se hizo gracias a un moho que mató bacterias?",
+            "pt": "Que descoberta foi feita graças a um mofo que matou bactérias?"
+        },
+        "definition": {
+            "ru": "Пенициллин — это первый в истории антибиотик, который был получен из плесени рода Penicillium. Его открытие стало революцией в медицине и спасло миллионы жизней, позволив эффективно бороться с бактериальными инфекциями.",
+            "uk": "Пеніцилін — це перший в історії антибіотик, який був отриманий із цвілі роду Penicillium. Його відкриття стало революцією в медицині і врятувало мільйони життів, дозволивши ефективно боротися з бактеріальними інфекціями.",
+            "en": "Penicillin is the first antibiotic in history, which was obtained from a mold of the genus Penicillium. Its discovery was a revolution in medicine and saved millions of lives by allowing effective combat against bacterial infections.",
+            "es": "La penicilina es el primer antibiótico de la historia, obtenido de un moho del género Penicillium. Su descubrimiento fue una revolución en la medicina y salvó millones de vidas al permitir un combate eficaz contra las infecciones bacterianas.",
+            "pt": "A penicilina é o primeiro antibiótico da história, obtido de um mofo do gênero Penicillium. Sua descoberta foi uma revolução na medicina e salvou milhões de vidas ao permitir o combate eficaz contra infecções bacterianas."
+        },
+        "antipod": {
+            "ru": "Аспирин",
+            "uk": "Аспірин",
+            "en": "Aspirin",
+            "es": "Aspirina",
+            "pt": "Aspirina"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих двух лекарств было открыто случайно благодаря плесени?",
+            "uk": "Який з цих двох ліків був відкритий випадково завдяки цвілі?",
+            "en": "Which of these two medicines was discovered by accident thanks to mold?",
+            "es": "¿Cuál de estos dos medicamentos fue descubierto por accidente gracias al moho?",
+            "pt": "Qual desses dois medicamentos foi descoberto por acaso graças ao mofo?"
+        },
+        "article": "https://ru.wikipedia.org/wiki/Пенициллин"
+    },
+    "imgFlag": "quizfoto" 
+}

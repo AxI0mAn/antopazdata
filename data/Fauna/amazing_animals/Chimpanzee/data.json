@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Шимпанзе",
+            "uk": "Шимпанзе",
+            "en": "Chimpanzee",
+            "es": "Chimpancé",
+            "pt": "Chimpanzé"
+        },
+        "wrong": {
+            "ru": [
+                "Горилла",
+                "Коала",
+                "Морская свинка"
+            ],
+            "uk": [
+                "Горила",
+                "Коала",
+                "Морська свинка"
+            ],
+            "en": [
+                "Gorilla",
+                "Koala",
+                "Guinea pig"
+            ],
+            "es": [
+                "Gorila",
+                "Koala",
+                "Cuy"
+            ],
+            "pt": [
+                "Gorila",
+                "Coala",
+                "Porquinho-da-índia"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Интеллект.",
+                "Инструменты.",
+                "Примат."
+            ],
+            "uk": [
+                "Інтелект.",
+                "Інструменти.",
+                "Примат."
+            ],
+            "en": [
+                "Intelligence.",
+                "Tools.",
+                "Primate."
+            ],
+            "es": [
+                "Inteligencia.",
+                "Herramientas.",
+                "Primata."
+            ],
+            "pt": [
+                "Inteligência.",
+                "Ferramentas.",
+                "Primata."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "На 98% ближайший родственник человека.",
+                "Какой примат строит сложные общества?"
+            ],
+            "uk": [
+                "На 98% найближчий родич людини.",
+                "Який примат будує складні суспільства?"
+            ],
+            "en": [
+                "98% the closest relative of humans.",
+                "What primate builds complex societies?"
+            ],
+            "es": [
+                "El 98% del pariente más cercano de los humanos.",
+                "¿Qué primate construye sociedades complejas?"
+            ],
+            "pt": [
+                "98% o parente mais próximo dos humanos.",
+                "Que primata constrói sociedades complexas?"
+            ]
+        },
+        "tooltip": {
+            "ru": "Известен тем, что умеет использовать и даже создавать простые инструменты.",
+            "uk": "Відомий тим, що вміє використовувати і навіть створювати прості інструменти.",
+            "en": "Known for its ability to use and even create simple tools.",
+            "es": "Conocido por su capacidad para usar e incluso crear herramientas simples.",
+            "pt": "Conhecido por sua capacidade de usar e até mesmo criar ferramentas simples."
+        },
+        "qwestion": {
+            "ru": "Какое животное, один из ближайших родственников человека, создёт сложные социальные структуры?",
+            "uk": "Яка тварина, один із найближчих родичів людини, створює складні соціальні структури?",
+            "en": "What animal, one of man's closest relatives, creates complex social structures?",
+            "es": "¿Qué animal, uno de los parientes más cercanos del hombre, crea estructuras sociales complejas?",
+            "pt": "Que animal, um dos parentes mais próximos do homem, cria estruturas sociais complexas?"
+        },
+        "definition": {
+            "ru": "Шимпанзе — это человекообразная обезьяна, обитающая в лесах и саваннах Центральной и Западной Африки. Они являются ближайшими живущими родственниками человека, известны своим высоким интеллектом, способностью к обучению и сложными социальными структурами.",
+            "uk": "Шимпанзе — це людиноподібна мавпа, що мешкає в лісах і саванах Центральної та Західної Африки. Вони є найближчими живими родичами людини, відомі своїм високим інтелектом, здатністю до навчання та складними соціальними структурами.",
+            "en": "The chimpanzee is a great ape native to the forests and savannas of Central and West Africa. They are man's closest living relatives, known for their high intelligence, capacity for learning, and complex social structures.",
+            "es": "El chimpancé es un gran simio nativo de los bosques y sabanas de África Central y Occidental. Son los parientes vivos más cercanos del hombre, conocidos por su alta inteligencia, capacidad de aprendizaje y complejas estructuras sociales.",
+            "pt": "O chimpanzé é um grande macaco nativo das florestas e savanas da África Central e Ocidental. Eles são os parentes vivos mais próximos do ser humano, conhecidos por sua alta inteligência, capacidade de aprendizado e complexas estruturas sociais."
+        },
+        "antipod": {
+            "ru": "Орангутанг",
+            "uk": "Орангутанг",
+            "en": "Orangutan",
+            "es": "Orangután",
+            "pt": "Orangotango"
+        },
+        "hintFuiz": {
+            "ru": "Кто из них живёт в больших социальных группах?",
+            "uk": "Хто з них живе у великих соціальних групах?",
+            "en": "Which one lives in large social groups?",
+            "es": "¿Cuál de ellos vive en grandes grupos sociales?",
+            "pt": "Qual deles vive em grandes grupos sociais?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Chimpanzee"
+    },
+    "imgFlag": "all" 
+}

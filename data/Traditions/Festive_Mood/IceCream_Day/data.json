@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "День мороженого",
+            "uk": "День морозива",
+            "en": "Ice Cream Day",
+            "es": "Día del Helado",
+            "pt": "Dia do Sorvete"
+        },
+        "wrong": {
+            "ru": [
+                "День шоколада",
+                "День сёрфинга",
+                "День пиццы"
+            ],
+            "uk": [
+                "День шоколаду",
+                "День серфінгу",
+                "День піци"
+            ],
+            "en": [
+                "Chocolate Day",
+                "Surfing Day",
+                "Pizza Day"
+            ],
+            "es": [
+                "Día del Chocolate",
+                "Día del Surf",
+                "Día de la Pizza"
+            ],
+            "pt": [
+                "Dia do Chocolate",
+                "Dia do Surf",
+                "Dia da Pizza"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Июль",
+                "Десерт",
+                "Холод"
+            ],
+            "uk": [
+                "Липень",
+                "Десерт",
+                "Холод"
+            ],
+            "en": [
+                "July",
+                "Dessert",
+                "Cold"
+            ],
+            "es": [
+                "Julio",
+                "Postre",
+                "Frío"
+            ],
+            "pt": [
+                "Julho",
+                "Sobremesa",
+                "Frio"
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Сладкий и холодный десерт.",
+                "В США ему посвящён целый месяц."
+            ],
+            "uk": [
+                "Солодкий і холодний десерт.",
+                "У США йому присвячений цілий місяць."
+            ],
+            "en": [
+                "A sweet and cold dessert.",
+                "In the USA, a whole month is dedicated to it."
+            ],
+            "es": [
+                "Un postre dulce y frío.",
+                "En EE. UU., se le dedica un mes entero."
+            ],
+            "pt": [
+                "Uma sobremesa doce e fria.",
+                "Nos EUA, um mês inteiro é dedicado a ele."
+            ]
+        },
+        "tooltip": {
+            "ru": "Всё началось с бесплатной раздачи мороженного компанией Ben & Jerry's",
+            "uk": "Усе почалося з безкоштовної роздачі морозива компанією Ben & Jerry's",
+            "en": "It all started with Ben & Jerry's free ice cream giveaway",
+            "es": "Todo comenzó con la distribución gratuita de helado por Ben & Jerry's",
+            "pt": "Tudo começou com a distribuição gratuita de sorvete da Ben & Jerry's"
+        },
+        "qwestion": {
+            "ru": "Что в 1984 году, Президент США установил на третье воскресенье июля?",
+            "uk": "Що в 1984 році Президент США встановив на третю неділю липня?",
+            "en": "What did the U.S. President establish on the third Sunday of July in 1984?",
+            "es": "¿Qué estableció el presidente de EE. UU. el tercer domingo de julio de 1984?",
+            "pt": "O que o Presidente dos EUA estabeleceu no terceiro domingo de julho de 1984?"
+        },
+        "definition": {
+            "ru": "День мороженого — это праздник, который отмечается в США в третье воскресенье июля. Он был учреждён в 1984 году президентом Рональдом Рейганом, чтобы отметить популярность десерта.",
+            "uk": "День морозива — це свято, яке відзначається в США в третю неділю липня. Воно було засноване в 1984 році президентом Рональдом Рейганом, щоб відзначити популярність десерту.",
+            "en": "National Ice Cream Day is a holiday celebrated in the USA on the third Sunday in July. It was established in 1984 by President Ronald Reagan to celebrate the dessert's popularity.",
+            "es": "El Día del Helado es una festividad que se celebra en EE. UU. el tercer domingo de julio. Fue establecido en 1984 por el presidente Ronald Reagan para celebrar la popularidad del postre.",
+            "pt": "O Dia do Sorvete é um feriado celebrado nos EUA no terceiro domingo de julho. Foi estabelecido em 1984 pelo Presidente Ronald Reagan para celebrar a popularidade da sobremesa."
+        },
+        "antipod": {
+            "ru": "День пиццы",
+            "uk": "День піци",
+            "en": "Pizza Day",
+            "es": "Día de la Pizza",
+            "pt": "Dia da Pizza"
+        },
+        "hintFuiz": {
+            "ru": "Третье воскресенье июля — это его национальный день.",
+            "uk": "Третя неділя липня — це його національний день.",
+            "en": "The third Sunday in July is its national day.",
+            "es": "El tercer domingo de julio es su día nacional.",
+            "pt": "O terceiro domingo de julho é o seu dia nacional."
+        },
+        "article": "https://en.wikipedia.org/wiki/National_Ice_Cream_Day"
+    },
+    "imgFlag": "quizfoto"
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "name": {
+            "ru": "Долина Смерти",
+            "uk": "Долина Смерті",
+            "en": "Death Valley",
+            "es": "Valle de la Muerte",
+            "pt": "Vale da Morte"
+        },
+        "wrong": {
+            "ru": [
+                "Пустыня Атакама",
+                "Пустыня Гоби",
+                "Большая Соляная равнина"
+            ],
+            "uk": [
+                "Пустеля Атакама",
+                "Пустеля Гобі",
+                "Велика Соляна рівнина"
+            ],
+            "en": [
+                "Atacama Desert",
+                "Gobi Desert",
+                "Great Salt Lake Desert"
+            ],
+            "es": [
+                "Desierto de Atacama",
+                "Desierto de Gobi",
+                "Gran Desierto de Sal"
+            ],
+            "pt": [
+                "Deserto do Atacama",
+                "Deserto de Gobi",
+                "Deserto do Grande Lago Salgado"
+            ]
+        },
+        "association": {
+            "ru": [
+                "Камни.",
+                "Жара.",
+                "США."
+            ],
+            "uk": [
+                "Камені.",
+                "Спека.",
+                "США."
+            ],
+            "en": [
+                "Stones.",
+                "Heat.",
+                "USA."
+            ],
+            "es": [
+                "Piedras.",
+                "Calor.",
+                "EE.UU."
+            ],
+            "pt": [
+                "Pedras.",
+                "Calor.",
+                "EUA."
+            ]
+        },
+        "riddle": {
+            "ru": [
+                "Место, где камни двигаются сами.",
+                "Самое жаркое место на планете Земля."
+            ],
+            "uk": [
+                "Місце, де камені рухаються самі.",
+                "Найспекотніше місце на планеті Земля."
+            ],
+            "en": [
+                "A place where stones move on their own.",
+                "The hottest place on planet Earth."
+            ],
+            "es": [
+                "Un lugar donde las piedras se mueven solas.",
+                "El lugar más caluroso del planeta Tierra."
+            ],
+            "pt": [
+                "Um lugar onde as pedras se movem sozinhas.",
+                "O lugar mais quente do planeta Terra."
+            ]
+        },
+        "tooltip": {
+            "ru": "Оно известно своими 'блуждающими камнями', которые движутся сами по себе.",
+            "uk": "Воно відоме своїми 'блукаючими каменями', які рухаються самі по собі.",
+            "en": "It is known for its 'sailing stones' that move on their own.",
+            "es": "Es conocido por sus 'piedras que navegan' que se mueven solas.",
+            "pt": "É conhecido por suas 'pedras que se movem' que se movem sozinhas."
+        },
+        "qwestion": {
+            "ru": "Какое место в США является самым жарким и засушливым на планете?",
+            "uk": "Яке місце в США є найспекотнішим і найсухішим на планеті?",
+            "en": "What place in the USA is the hottest and driest on the planet?",
+            "es": "¿Qué lugar en los EE. UU. es el más caluroso y seco del planeta?",
+            "pt": "Qual lugar nos EUA é o mais quente e seco do planeta?"
+        },
+        "definition": {
+            "ru": "Долина Смерти — это национальный парк в США, расположенный в Калифорнии и Неваде. Это самое жаркое и засушливое место в Северной Америке, где была зафиксирована одна из самых высоких температур на планете. Долина также известна уникальным феноменом 'блуждающих камней' (sailing stones) на высохшем озере Рейстрэк-Плайя. Камни двигаются по поверхности, оставляя за собой длинные следы. Ученые объясняют это редким сочетанием льда, ветра и скользкой поверхности. Несмотря на суровые условия, здесь обитают животные и растения, приспособленные к жаре. Своё название долина получила от группы старателей, застрявших здесь в 1849 году.",
+            "uk": "Долина Смерті — це національний парк у США, розташований у Каліфорнії та Неваді. Це найспекотніше та найпосушливіше місце в Північній Америці, де було зафіксовано одну з найвищих температур на планеті. Долина також відома унікальним феноменом 'блукаючих каменів' (sailing stones) на висохлому озері Рейстрек-Плайя. Камені рухаються по поверхні, залишаючи за собою довгі сліди. Вчені пояснюють це рідкісним поєднанням льоду, вітру та слизької поверхні. Незважаючи на суворі умови, тут мешкають тварини та рослини, пристосовані до спеки. Свою назву долина отримала від групи золотошукачів, які застрягли тут у 1849 році.",
+            "en": "Death Valley is a national park in the USA, located in California and Nevada. It is the hottest and driest place in North America, where one of the highest temperatures on the planet was recorded. The valley is also known for the unique phenomenon of 'sailing stones' on the dry lakebed of Racetrack Playa. The stones move across the surface, leaving long tracks behind them. Scientists explain this as a rare combination of ice, wind, and a slippery surface. Despite the harsh conditions, animals and plants adapted to the heat live here. The valley got its name from a group of prospectors who got stuck here in 1849.",
+            "es": "El Valle de la Muerte es un parque nacional en los EE. UU., ubicado en California y Nevada. Es el lugar más caluroso y seco de América del Norte, donde se registró una de las temperaturas más altas del planeta. El valle también es conocido por el fenómeno único de las 'piedras que navegan' en el lecho seco del lago Racetrack Playa. Las piedras se mueven a través de la superficie, dejando largos rastros detrás de ellas. Los científicos explican esto como una rara combinación de hielo, viento y una superficie resbaladiza. A pesar de las duras condiciones, animales y plantas adaptados al calor viven aquí. El valle recibió su nombre de un grupo de buscadores de oro que se quedaron atrapados aquí en 1849.",
+            "pt": "O Vale da Morte é um parque nacional nos EUA, localizado na Califórnia e em Nevada. É o lugar mais quente e seco da América do Norte, onde uma das temperaturas mais altas do planeta foi registrada. O vale também é conhecido pelo fenômeno único das 'pedras que se movem' no leito seco do lago Racetrack Playa. As pedras se movem pela superfície, deixando longos rastros para trás. Os cientistas explicam isso como uma rara combinação de gelo, vento e uma superfície escorregadia. Apesar das condições severas, animais e plantas adaptados ao calor vivem aqui. O vale recebeu seu nome de um grupo de garimpeiros que ficaram presos aqui em 1849."
+        },
+        "antipod": {
+            "ru": "Пустыня Сахара",
+            "uk": "Пустеля Сахара",
+            "en": "Sahara Desert",
+            "es": "Desierto del Sahara",
+            "pt": "Deserto do Saara"
+        },
+        "hintFuiz": {
+            "ru": "Какое из этих мест является самым жарким на Земле?",
+            "uk": "Яке з цих місць є найспекотнішим на Землі?",
+            "en": "Which of these places is the hottest on Earth?",
+            "es": "¿Cuál de estos lugares es el más caluroso de la Tierra?",
+            "pt": "Qual desses lugares é o mais quente da Terra?"
+        },
+        "article": "https://en.wikipedia.org/wiki/Death_Valley"
+    },
+    "imgFlag": "all" 
+}
