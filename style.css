@@ -207,3 +207,60 @@ article>h3 {
     /* Убеждаемся, что они не выходят за пределы карточки */
   }
 }
+
+/* --- Модальное окно --- */
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  /* Темный полупрозрачный фон */
+  display: none;
+  /* Скрыто по умолчанию, JS показывает */
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  /* Должен быть выше всего контента */
+}
+
+.modal-content {
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  z-index: 1001;
+}
+
+#password-input {
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+#submit-password {
+  background-color: #00796b;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 10px;
+  transition: background-color 0.3s;
+}
+
+#submit-password:hover {
+  background-color: #004d40;
+}
+
+#auth-message.error {
+  color: #d32f2f;
+  margin-top: 10px;
+  font-weight: bold;
+}
